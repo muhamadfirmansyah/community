@@ -5,5 +5,97 @@
     "path": "kota-pagar-alam",
     "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Pagar_Alam_2024",
     "communityID": "b1388c28-c636-42e0-80ed-cb0d95ebcf00",
-    "candidates": []
+    "candidates": [
+        {
+            "name": "Alpian Maskoni",
+            "description": "Alpian Maskoni, S.H. (lahir 25 Agustus 1970) adalah Wali Kota Pagar Alam periode 2018\u20132023. Ia menjabat sejak 18 September 2018 setelah dilantik Gubernur Sumatera Selatan, Alex Noerdin di Palembang Sport and Convention Center, Palembang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/64/Alpian_Maskoni.jpg",
+            "title": "Walikota Pagar Alam",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Alpian_Maskoni"
+            },
+            "communityID": "b1388c28-c636-42e0-80ed-cb0d95ebcf00"
+        },
+        {
+            "name": "Alfrenzi Panggarbesi",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Sumsel",
+            "sites": {},
+            "communityID": "b1388c28-c636-42e0-80ed-cb0d95ebcf00"
+        },
+        {
+            "name": "Hensyi Fitriansyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "b1388c28-c636-42e0-80ed-cb0d95ebcf00"
+        },
+        {
+            "name": "Ida Fitriati",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Walikota Pagar Alam",
+            "sites": {},
+            "communityID": "b1388c28-c636-42e0-80ed-cb0d95ebcf00"
+        },
+        {
+            "name": "Herdiansyah Bana",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "b1388c28-c636-42e0-80ed-cb0d95ebcf00"
+        },
+        {
+            "name": "M Oktafiansyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC PKB Pagar Alam",
+            "sites": {},
+            "communityID": "b1388c28-c636-42e0-80ed-cb0d95ebcf00"
+        },
+        {
+            "name": "Yumisah",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC PDI Perjuangan Pagar Alam",
+            "sites": {},
+            "communityID": "b1388c28-c636-42e0-80ed-cb0d95ebcf00"
+        },
+        {
+            "name": "Suharindi",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC PPP Pagar Alam",
+            "sites": {},
+            "communityID": "b1388c28-c636-42e0-80ed-cb0d95ebcf00"
+        },
+        {
+            "name": "Kasno Fandri",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua PKPI Pagar Alam",
+            "sites": {},
+            "communityID": "b1388c28-c636-42e0-80ed-cb0d95ebcf00"
+        },
+        {
+            "name": "Novirzah Djazuli",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Walikota Pagar Alam",
+            "sites": {},
+            "communityID": "b1388c28-c636-42e0-80ed-cb0d95ebcf00"
+        },
+        {
+            "name": "Kiagus Firdaus",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha Media dan Juragan Parkir",
+            "sites": {},
+            "communityID": "b1388c28-c636-42e0-80ed-cb0d95ebcf00"
+        }
+    ]
 }

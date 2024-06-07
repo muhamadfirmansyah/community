@@ -10,16 +10,7 @@ SAVE_FOLDER = "communities"
 
 # example provinsi-aceh
 paths = [
-    # "provinsi-nusa-tenggara-timur",
-    # "provinsi-papua-barat-daya",
-    # "provinsi-papua-selatan",
-    # "provinsi-papua-tengah",
-    # "provinsi-riau",
-    # "provinsi-sulawesi-barat",
-    # "provinsi-sulawesi-tengah",
-    # "provinsi-sulawesi-tenggara",
-    # "provinsi-sumatra-selatan",
-    # "provinsi-sumatra-utara",
+    "kota-pagar-alam",
 ]
 
 communityID = ""
@@ -73,7 +64,7 @@ def get_candidate_wiki(el, name):
         elif content.name == 'a' and not content.text.lower() in ['letjen', 'tni', 'purn.']:
             url = content.get('href')
 
-            print(url)
+            # print(url)
 
             if "action=edit" in url or "/wiki/" not in url:
                 url = None
@@ -142,7 +133,7 @@ def get_candidates(source, level):
     soup = BeautifulSoup(page.content, "html5lib")
 
     try:
-        parent = soup.find("span", attrs={"id": re.compile("^(Daftar_calon|Bakal_Calon|Potensial|Potensi)")}).parent.find_next_sibling("ul")
+        parent = soup.find("span", attrs={"id": re.compile("^(Calon_Walikota_Potensial|Daftar_calon|Bakal_Calon|Potensial|Potensi)")}).parent.find_next_sibling("ul")
 
         ul = [x for x in parent.find_all("li")]
 
@@ -156,10 +147,10 @@ def get_candidates(source, level):
             href = get_candidate_wiki(li, name)
             title = get_candidate_title(li, level, name)
 
-            print(name)
-            print(title)
+            # print(name)
+            # print(title)
             # print(href)
-            print("\n")
+            # print("\n")
             # input()
 
             if (href):
@@ -177,6 +168,9 @@ def get_candidates(source, level):
 for item in paths:
     filepath = f"{SAVE_FOLDER}/{item}.json"
 
+    if not os.path.isfile(filepath):
+        continue
+
     with open(filepath, "r") as f:
         item = json.load(f)
 
@@ -185,6 +179,9 @@ for item in paths:
     level = item['level']
     path = item['path']
     communityID = item["communityID"]
+
+    if wiki == '' or wiki is None:
+        continue
 
     candidates = get_candidates(wiki, level)
 

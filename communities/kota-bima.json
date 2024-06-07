@@ -7,7 +7,7 @@
     "communityID": "92531884-06c8-4afc-94b9-3912be011b6e",
     "candidates": [
         {
-            "name": "Muhammad Lutfi (politikus)",
+            "name": "Muhammad Lutfi",
             "description": "H. Muhammad Lutfi SE , (lahir 15 Agustus 1971) adalah Wali Kota Bima periode 2018-2023. Sebelumnya, Ia pernah menjabat sebagai anggota DPR RI dari Fraksi Partai Golkar selama periode 2009 \u2013 2014 mewakili Dapil Nusa Tenggara Barat. Ia terpilih kembali menjadi Anggota DPR-RI periode 2014-2019 dari Partai Golongan Karya setelah memperoleh 59.704 suara.\n",
             "profilePic": "",
             "title": "Wali Kota Bima",
@@ -54,13 +54,10 @@
         },
         {
             "name": "Khalid bin Walid",
-            "description": "Penaklukan Islam di Suriah\n",
-            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Khalid_Bin_Al-Walid.gif",
+            "description": "",
+            "profilePic": "",
             "title": "Ketua DPC Partai Gerindra Kota Bima",
-            "sites": {
-                "name": "Wikipedia",
-                "url": "https://id.wikipedia.org/wiki/Khalid_bin_Walid"
-            },
+            "sites": {},
             "communityID": "92531884-06c8-4afc-94b9-3912be011b6e"
         },
         {
