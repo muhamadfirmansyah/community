@@ -8,9 +8,18 @@ import os
 
 SAVE_FOLDER = "communities"
 
-# example dki-jakarta
+# example provinsi-aceh
 paths = [
-    "kota-bekasi"
+    # "provinsi-nusa-tenggara-timur",
+    # "provinsi-papua-barat-daya",
+    # "provinsi-papua-selatan",
+    # "provinsi-papua-tengah",
+    # "provinsi-riau",
+    # "provinsi-sulawesi-barat",
+    # "provinsi-sulawesi-tengah",
+    # "provinsi-sulawesi-tenggara",
+    # "provinsi-sumatra-selatan",
+    # "provinsi-sumatra-utara",
 ]
 
 communityID = ""
@@ -30,17 +39,17 @@ def format_candidate(name, description = "", profilePic = "", url = "", title = 
     }
 
 # GET CANDIDATE INFO
-def get_candidate(url, title):
+def get_candidate(url, title, name):
     url = "https://id.wikipedia.org" + url
 
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html5lib")
 
     try:
-        name = soup.find("h1", class_="firstHeading").text
+        name = name # soup.find("h1", class_="firstHeading").text
 
         try:
-            description = soup.find("div", class_="mw-parser-output").find("p").text
+            description = soup.find("div", class_="mw-parser-output").find("p", class_=lambda x: x != "mw-empty-elt").text
         except:
             description = ""
 
@@ -53,16 +62,20 @@ def get_candidate(url, title):
     except:
         return
 
-def get_candidate_wiki(el):
+def get_candidate_wiki(el, name):
     url = None
 
-    for content in el.contents:
+    contentWithoutTitle = [x for x in el.contents if not x.text in ['Letjen', 'TNI', ' (', 'Purn.', ') ', ' ']]
+
+    for content in contentWithoutTitle:
         if isinstance(content, NavigableString):
             break
-        elif content.name == 'a':
+        elif content.name == 'a' and not content.text.lower() in ['letjen', 'tni', 'purn.']:
             url = content.get('href')
 
-            if "action=edit" in url:
+            print(url)
+
+            if "action=edit" in url or "/wiki/" not in url:
                 url = None
 
             break
@@ -78,19 +91,25 @@ def get_candidate_name(el):
             if ',' in text:
                 name = text.split(',')[0]
                 break
-            elif text and not ' ' in text:
+            elif text != None and text != ' ':
                 name = text
                 break
+        elif content.name == 'a' and 'letjen' in content.text.lower():
+            name = el.text.split(',')[0] 
+            break
         elif content.name == 'a' or content.name == 'b':
             name = content.text
             break
-
+    
+    # print(name)
+    # print()
     return name
 
-def get_candidate_title(el, level):
+def get_candidate_title(el, level, name):
     title = None
 
     text = el.text
+    text = text.replace(name, "")
 
     try:
         if (': ' in text):
@@ -130,11 +149,21 @@ def get_candidates(source, level):
         candidates = []
         for li in ul:
             name = get_candidate_name(li)
-            href = get_candidate_wiki(li)
-            title = get_candidate_title(li, level)
+            
+            if name is None:
+                continue
+
+            href = get_candidate_wiki(li, name)
+            title = get_candidate_title(li, level, name)
+
+            print(name)
+            print(title)
+            # print(href)
+            print("\n")
+            # input()
 
             if (href):
-                candidate = get_candidate(href, title)
+                candidate = get_candidate(href, title, name)
             else:
                 candidate = format_candidate(name=name, title=title)
             

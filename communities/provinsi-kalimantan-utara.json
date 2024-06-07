@@ -7,14 +7,6 @@
     "communityID": "d24b6447-ccb5-4b75-bdc5-d94bbbde4ff8",
     "candidates": [
         {
-            "name": null,
-            "description": "",
-            "profilePic": "",
-            "title": null,
-            "sites": {},
-            "communityID": "d24b6447-ccb5-4b75-bdc5-d94bbbde4ff8"
-        },
-        {
             "name": "Zainal Arifin Paliwang",
             "description": "Brigjen. Pol. (Purn.) Drs. Zainal Arifin Paliwang, S.H., M.Hum. (lahir 6 Desember 1962) adalah seorang Gubernur Kalimantan Utara. Ia merupakan purnawirawan Polri yang memiliki jabatan terakhir sebagai Analis Kebijakan Utama bidang Pidum Bareskrim Polri.[1]\n",
             "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gubernur_Kaltara_Zainal_Arifin_Paliwang.png",
@@ -34,14 +26,6 @@
                 "name": "Wikipedia",
                 "url": "https://id.wikipedia.org/wiki/Yansen_Tipa_Padan"
             },
-            "communityID": "d24b6447-ccb5-4b75-bdc5-d94bbbde4ff8"
-        },
-        {
-            "name": null,
-            "description": "",
-            "profilePic": "",
-            "title": null,
-            "sites": {},
             "communityID": "d24b6447-ccb5-4b75-bdc5-d94bbbde4ff8"
         },
         {
@@ -86,7 +70,7 @@
             "communityID": "d24b6447-ccb5-4b75-bdc5-d94bbbde4ff8"
         },
         {
-            "name": "Deddy Sitorus",
+            "name": "Deddy Yevri Hanteru Sitorus",
             "description": "Ir. Deddy Yevri Hanteru Sitorus, M.A. (lahir 17 November 1970) adalah seorang politikus Indonesia. Saat ini, ia menjabat sebagai Anggota DPR-RI sejak 2019 mewakili daerah pemilihan Kalimantan Utara. Pada pemilihan legislatif 2019, ia meraih suara terbanyak di Provinsi Kalimantan Utara dengan 34.709 suara.[1] Deddy merupakan kader PDI Perjuangan dan duduk di Komisi VI.[2]\n",
             "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Anggota_DPR_Deddy_Yevri_Hanteru_Sitorus.jpg",
             "title": "Anggota DPR RI",
@@ -100,7 +84,7 @@
             "name": "Hasan Basri",
             "description": "Hasan Basri dapat mengacu pada beberapa hal berikut:\n",
             "profilePic": "",
-            "title": null,
+            "title": "Bakal Calon Gubernur",
             "sites": {
                 "name": "Wikipedia",
                 "url": "https://id.wikipedia.org/wiki/Hasan_Basri"
