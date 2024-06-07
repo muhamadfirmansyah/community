@@ -1,0 +1,48 @@
+{
+    "title": "Pemilihan umum Wali Kota Ambon 2024",
+    "region": "Ambon",
+    "level": "KOTA",
+    "path": "kota-ambon",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Ambon_2024",
+    "communityID": "2f1ea387-b357-467d-b896-f0a72fe8574e",
+    "candidates": [
+        {
+            "name": "Syarif Hadler",
+            "description": "Syarif Hadler (lahir 18 September 1957) adalah Wakil Wali Kota Ambon 2 periode yakni 2001\u20132006 dan 2017\u20132022.[1] Ia menjabat mendampingi Wali Kota Marcus Jacob Papilaja dan Richard Louhenapessy.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Wakil_Wali_Kota_Ambon_Syarif_Hadler.jpg/1200px-Wakil_Wali_Kota_Ambon_Syarif_Hadler.jpg",
+            "title": "Wakil Wali Kota Ambon",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Syarif_Hadler"
+            },
+            "communityID": "2f1ea387-b357-467d-b896-f0a72fe8574e"
+        },
+        {
+            "name": "Lucky Wattimury",
+            "description": "Lucky Wattimury (lahir 21 Juli 1960) adalah politikus PDI Perjuangan yang berasal dari Maluku. Ia menjabat sebagai Ketua DPRD Maluku sejak 25 Oktober 2019.[1] Lucky berhasil menjadi anggota DPRD Maluku pada Pemilu 2019 setelah berhasil mengumpulkan 6.650 suara di Daerah Pemilihan (Dapil) Maluku 1 yang meliputi Kota Ambon.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/76/KPU_Lucky_Wattimury.jpg",
+            "title": "Mantan Ketua DPRD Provinsi Maluku",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Lucky_Wattimury"
+            },
+            "communityID": "2f1ea387-b357-467d-b896-f0a72fe8574e"
+        },
+        {
+            "name": "Anthony Gustaf Latuheru",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Sekretaris Daerah Kota Ambon",
+            "sites": {},
+            "communityID": "2f1ea387-b357-467d-b896-f0a72fe8574e"
+        },
+        {
+            "name": "Abdul Aziz Arbi",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Anggota DPR-RI",
+            "sites": {},
+            "communityID": "2f1ea387-b357-467d-b896-f0a72fe8574e"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "title": "Pemilihan umum Bupati Aceh Timur 2024",
+    "region": "Aceh Timur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-aceh-timur",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Aceh_Timur_2024",
+    "communityID": "09b732a8-78e9-4c32-b08e-95a26e63ccdb",
+    "candidates": [
+        {
+            "name": "dr. Mahfudhdinsyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Instagram @mahfudozil; Aktivis Sosial Media Nasional",
+            "sites": {},
+            "communityID": "09b732a8-78e9-4c32-b08e-95a26e63ccdb"
+        },
+        {
+            "name": "Muslim Hasballah",
+            "description": "Teungku Muslim Hasballah (lahir 21 Maret 1968) adalah tokoh pejuang GAM. Dia pernah menjabat sebagai Panglima Gerakan Aceh Merdeka wilayah Peureulak dan Bupati Aceh Timur periode 2007\u20142012.\n",
+            "profilePic": "",
+            "title": "Mantan Bupati Aceh Timur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muslim_Hasballah"
+            },
+            "communityID": "09b732a8-78e9-4c32-b08e-95a26e63ccdb"
+        },
+        {
+            "name": "Syahrul Syamaun",
+            "description": "Teungku Syahrul Syamaun,[1] lebih dikenal dengan nama Linud (lahir 13 Juli 1969) adalah tokoh pejuang GAM. Dia pernah menjabat sebagai Tim Monitoring JSC dari Representative GAM. Dia juga pernah menjabat sebagai Wakil Bupati Aceh Timur.\n",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Aceh Timur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Syahrul_Syamaun"
+            },
+            "communityID": "09b732a8-78e9-4c32-b08e-95a26e63ccdb"
+        },
+        {
+            "name": "Robin van Persie",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/65/Loco-Fener_%2810%29.jpg",
+            "title": "Mantan Pendukung GAM",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Robin_Van_Persie"
+            },
+            "communityID": "09b732a8-78e9-4c32-b08e-95a26e63ccdb"
+        },
+        {
+            "name": "Hamdani Hasan",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua KPA wilayah Peureulak",
+            "sites": {},
+            "communityID": "09b732a8-78e9-4c32-b08e-95a26e63ccdb"
+        },
+        {
+            "name": "Ridwan Abubakar",
+            "description": "Teungku Ridwan Abubakar, S.Pd.I., M.M., lebih dikenal dengan nama Nektu (lahir 4 Desember 1964) adalah tokoh pejuang GAM. Dia pernah menjabat sebagai Wakil Panglima Gerakan Aceh Merdeka wilayah Peureulak. Dia sekarang mejabat sebagai Anggota DPRA Fraksi Partai Damai Aceh.[1]\n",
+            "profilePic": "",
+            "title": "Anggota DPR Aceh",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ridwan_Abubakar"
+            },
+            "communityID": "09b732a8-78e9-4c32-b08e-95a26e63ccdb"
+        },
+        {
+            "name": "Zulfadli Aiyub",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua PA Aceh Timur",
+            "sites": {},
+            "communityID": "09b732a8-78e9-4c32-b08e-95a26e63ccdb"
+        },
+        {
+            "name": "Abdul Rani",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Calon Wakil Bupati Aceh Timur",
+            "sites": {},
+            "communityID": "09b732a8-78e9-4c32-b08e-95a26e63ccdb"
+        }
+    ]
+}

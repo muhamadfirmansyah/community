@@ -1,0 +1,53 @@
+{
+    "title": "Pemilihan umum Bupati Empat Lawang 2024",
+    "region": "Empat Lawang",
+    "level": "KABUPATEN",
+    "path": "kabupaten-empat-lawang",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Empat_Lawang_2024",
+    "communityID": "a05fb0fa-99c0-42c5-ad67-2e762c28b32e",
+    "candidates": [
+        {
+            "name": "Yulius Maulana",
+            "description": "Yulius Maulana, S.T. (lahir 8 Juli 1975) adalah Wakil Bupati Empat Lawang periode 2018\u20132023. Ia adalah wakil dari Bupati Empat Lawang, Joncik Muhammad.[1][2][3]\n",
+            "profilePic": "",
+            "title": "Wakil Bupati Empat Lawang",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yulius_Maulana"
+            },
+            "communityID": "a05fb0fa-99c0-42c5-ad67-2e762c28b32e"
+        },
+        {
+            "name": "David Hadrianto Aljufri",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Provinsi Sumsel",
+            "sites": {},
+            "communityID": "a05fb0fa-99c0-42c5-ad67-2e762c28b32e"
+        },
+        {
+            "name": "Dr.H Joncik Muhammad, S.Si, SH.MM.MSI",
+            "description": "",
+            "profilePic": "",
+            "title": "S.Si",
+            "sites": {},
+            "communityID": "a05fb0fa-99c0-42c5-ad67-2e762c28b32e"
+        },
+        {
+            "name": "Edwar Kohar",
+            "description": "",
+            "profilePic": "",
+            "title": null,
+            "sites": {},
+            "communityID": "a05fb0fa-99c0-42c5-ad67-2e762c28b32e"
+        },
+        {
+            "name": "Mirzan Ikbal",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Sumsel",
+            "sites": {},
+            "communityID": "a05fb0fa-99c0-42c5-ad67-2e762c28b32e"
+        }
+    ]
+}

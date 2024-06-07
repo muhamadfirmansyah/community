@@ -1,0 +1,26 @@
+{
+    "title": "Pemilihan umum Wali Kota Tebing Tinggi 2024",
+    "region": "Tebing Tinggi",
+    "level": "KOTA",
+    "path": "kota-tebing-tinggi",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Tebing_Tinggi_2024",
+    "communityID": "a98ca4f3-6004-4b9a-8ce6-27ae2479db24",
+    "candidates": [
+        {
+            "name": "Chairil Mukmin Tambunan",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Tebing Tinggi",
+            "sites": {},
+            "communityID": "a98ca4f3-6004-4b9a-8ce6-27ae2479db24"
+        },
+        {
+            "name": "Iman Irdian Saragih",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC PDI Perjuangan Tebing Tinggi",
+            "sites": {},
+            "communityID": "a98ca4f3-6004-4b9a-8ce6-27ae2479db24"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Pemilihan umum Wali Kota Bontang 2024",
+    "region": "Bontang",
+    "level": "KOTA",
+    "path": "kota-bontang",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Bontang_2024",
+    "communityID": "6e473f53-73aa-4ea1-b288-83486b483015",
+    "candidates": [
+        {
+            "name": "Basri Rase",
+            "description": "H. Basri Rase, S.I.P. (lahir 11 Februari 1972) adalah politisi PKB yang menjabat sebagai Wali Kota Bontang periode 2021\u20132024. Ia pernah menjabat sebagai Wakil Wali Kota Bontang periode 2016\u20132021.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Basri_Rase.jpg",
+            "title": "Wali Kota Bontang",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Basri_Rase"
+            },
+            "communityID": "6e473f53-73aa-4ea1-b288-83486b483015"
+        },
+        {
+            "name": "Najirah",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Wali Kota Bontang",
+            "sites": {},
+            "communityID": "6e473f53-73aa-4ea1-b288-83486b483015"
+        },
+        {
+            "name": "Isro Umarghani",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Wali Kota Bontang 2011-2016",
+            "sites": {},
+            "communityID": "6e473f53-73aa-4ea1-b288-83486b483015"
+        },
+        {
+            "name": "Dody Rondonuwu",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Ketua DPRD Provinsi Kalimantan Timur",
+            "sites": {},
+            "communityID": "6e473f53-73aa-4ea1-b288-83486b483015"
+        }
+    ]
+}

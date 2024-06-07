@@ -1,0 +1,56 @@
+{
+    "title": "Pemilihan umum Bupati Kotabaru 2024",
+    "region": "Kotabaru",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kotabaru",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Kotabaru_2024",
+    "communityID": "77ec3577-ac66-43e4-b07c-ec0519ab7dcc",
+    "candidates": [
+        {
+            "name": "Andi Rudi Latif",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Bupati Kotabaru",
+            "sites": {},
+            "communityID": "77ec3577-ac66-43e4-b07c-ec0519ab7dcc"
+        },
+        {
+            "name": "M. Iqbal Yudiannoor",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Kalsel",
+            "sites": {},
+            "communityID": "77ec3577-ac66-43e4-b07c-ec0519ab7dcc"
+        },
+        {
+            "name": "Syairi Mukhlis",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Kab. Kotabaru",
+            "sites": {},
+            "communityID": "77ec3577-ac66-43e4-b07c-ec0519ab7dcc"
+        },
+        {
+            "name": "Rustam Effendi (politikus)",
+            "description": "H. Rustam Effendi, B.Sc. (lahir 31 Desember 1956[butuh rujukan]) adalah politikus berkebangsaan Indonesia. Dia pernah menjabat sebagai Gubernur Kepulauan Bangka Belitung dari 2013 hingga 2017.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/0/0c/Gubernur-Babel-Rustam-Effendi.jpg",
+            "title": "Anggota DPRD Kab. Kotabaru",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Rustam_Effendi"
+            },
+            "communityID": "77ec3577-ac66-43e4-b07c-ec0519ab7dcc"
+        },
+        {
+            "name": "Sudian Noor",
+            "description": "H. Sudian Noor (lahir 25 Februari 1973) adalah Bupati Tanah Bumbu periode 2018\u20142021.[1] Ia pernah menjabat sebagai Wakil Bupati Tanah Bumbu periode 2016\u20142018.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/00/KPU_Sudian_Noor.jpg",
+            "title": "Mantan Bupati Tanah Bumbu",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sudian_Noor"
+            },
+            "communityID": "77ec3577-ac66-43e4-b07c-ec0519ab7dcc"
+        }
+    ]
+}

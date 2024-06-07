@@ -1,0 +1,67 @@
+{
+    "title": "Pemilihan umum Bupati Nias Barat 2024",
+    "region": "Nias Barat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-nias-barat",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Nias_Barat_2024",
+    "communityID": "0647321b-c70e-4981-932c-59e294d85b81",
+    "candidates": [
+        {
+            "name": "Khenoki Waruwu",
+            "description": "Khenoki Waruwu (lahir 5 Juni 1965) adalah Bupati Nias Barat periode 2021-2024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Raja Inal Siregar Lantai II Kantor Gubernur Sumatera Utara, Medan.[1] Ia juga merupakan politisi Partai Hanura dan dipercaya sebagai Ketua DPC Partai Hanura Kabupaten Nias Barat.\n",
+            "profilePic": "",
+            "title": "Bupati Nias Barat",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Khenoki_Waruwu"
+            },
+            "communityID": "0647321b-c70e-4981-932c-59e294d85b81"
+        },
+        {
+            "name": "Era Era Hia",
+            "description": "Dr. Era Era Hia, M.M., M.Si. (lahir 19 Februari 1974) adalah Wakil Bupati Nias Barat periode 2021\u20132024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Raja Inal Siregar Lantai II Kantor Gubernur Sumatera Utara, Medan.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/67/Era_Era_Hia_2021.jpg",
+            "title": "Wakil Bupati Nias Barat",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Era_Era_Hia"
+            },
+            "communityID": "0647321b-c70e-4981-932c-59e294d85b81"
+        },
+        {
+            "name": "Pemilihan umum Bupati Nias Barat 2020",
+            "description": "Partai Demokrasi Indonesia Perjuangan\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Lokasi_Sumatra_Utara_Kabupaten_Nias_Barat.svg/1200px-Lokasi_Sumatra_Utara_Kabupaten_Nias_Barat.svg.png",
+            "title": "Mantan Cabup Nias Barat 2020",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Eliyunus_Waruwu"
+            },
+            "communityID": "0647321b-c70e-4981-932c-59e294d85b81"
+        },
+        {
+            "name": "Evolut Zebua",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Nias Barat",
+            "sites": {},
+            "communityID": "0647321b-c70e-4981-932c-59e294d85b81"
+        },
+        {
+            "name": "Firman Jaya Daeli",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua Dewan Pembina Puspolkam Indonesia",
+            "sites": {},
+            "communityID": "0647321b-c70e-4981-932c-59e294d85b81"
+        },
+        {
+            "name": "Adrianus Aroziduhu Gulo",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Bupati Nias Barat",
+            "sites": {},
+            "communityID": "0647321b-c70e-4981-932c-59e294d85b81"
+        }
+    ]
+}

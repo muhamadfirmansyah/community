@@ -1,0 +1,81 @@
+{
+    "title": "Pemilihan umum Bupati Bireuen 2024",
+    "region": "Bireuen",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bireuen",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Bireuen_2024",
+    "communityID": "8b63b166-8f53-43d7-ab28-00507b3d9ffc",
+    "candidates": [
+        {
+            "name": "dr. Mahfudhdinsyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Instagram @mahfudozil; Aktivis Sosial Media Nasional",
+            "sites": {},
+            "communityID": "8b63b166-8f53-43d7-ab28-00507b3d9ffc"
+        },
+        {
+            "name": "Muzakkar A. Gani",
+            "description": "Dr. H. Muzakkar A. Gani, S.H., M.Si.[1] (lahir 7 Desember 1959) adalah Bupati Bireuen periode 2020\u20142022 menggantikan Saifannur yang meninggal dunia pada 19 Januari 2020. Sebelumnya, ia adalah Wakil Bupati Bireuen  periode 2017\u20142020.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/1d/KPU_Muzakkar_A._Gani.jpg",
+            "title": "Mantan Bupati Bireuen",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muzakkar_A._Gani"
+            },
+            "communityID": "8b63b166-8f53-43d7-ab28-00507b3d9ffc"
+        },
+        {
+            "name": "Ruslan M. Daud",
+            "description": "Ruslan M. Daud (lahir 11 Mei 1970) adalah Bupati Bireuen yang menjabat pada periode 2012\u20132017. Ruslan pernah menjabat sebagai Ketua Acheh World Trade Centre (AWTC), Kuala Lumpur periode 2004\u20132007.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ruslan_M._Daud.png",
+            "title": "Anggota DPR-RI",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ruslan_M._Daud"
+            },
+            "communityID": "8b63b166-8f53-43d7-ab28-00507b3d9ffc"
+        },
+        {
+            "name": "Darwis Jeunieb",
+            "description": "Teungku Darwis Jeunieb (lahir 1 Januari 1960) adalah tokoh pejuang GAM. Dia pernah menjabat sebagai Panglima Gerakan Aceh Merdeka wilayah Batee Iliek.\n",
+            "profilePic": "",
+            "title": "Mantan Panglima GAM wilayah Batee Iliek",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Darwis_Jeunieb"
+            },
+            "communityID": "8b63b166-8f53-43d7-ab28-00507b3d9ffc"
+        },
+        {
+            "name": "Husaini M. Amin",
+            "description": "Teungku H. Husaini M. Amin, S.E.[1] lebih dikenal dengan nama Tgk. Batee (lahir 4 Desember 1970) adalah mantan tokoh pejuang GAM. Dia pernah menjabat sebagai Panglima Gerakan Aceh Merdeka wilayah Batee Iliek.\n",
+            "profilePic": "",
+            "title": "Mantan Panglima GAM wilayah Batee Iliek",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Husaini_M._Amin"
+            },
+            "communityID": "8b63b166-8f53-43d7-ab28-00507b3d9ffc"
+        },
+        {
+            "name": "Samsul Bahri Ben Amiren",
+            "description": "Teungku Samsul Bahri Ben Amiren, lebih dikenal dengan nama Tiyong (lahir 20 Januari 1972) adalah mantan tokoh pejuang GAM. Dia pernah menjabat sebagai Panglima Daerah I GAM wilayah Batee Iliek. Dia sekarang menjabat sebagai Anggota DPRA Fraksi Partai Nanggroe Aceh 2 periode yakni 2014\u20142019 dan 2019\u20142022.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/3a/KPU_Samsul_Bahri_Ben_Amiren.jpg",
+            "title": "Mantan Anggota DPR Aceh",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Samsul_Bahri_Ben_Amiren"
+            },
+            "communityID": "8b63b166-8f53-43d7-ab28-00507b3d9ffc"
+        },
+        {
+            "name": "Salahuddin (Toke Din)",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPW Partai Nanggroe Aceh Kabupaten Bireuen",
+            "sites": {},
+            "communityID": "8b63b166-8f53-43d7-ab28-00507b3d9ffc"
+        }
+    ]
+}

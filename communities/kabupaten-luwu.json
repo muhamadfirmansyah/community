@@ -1,0 +1,120 @@
+{
+    "title": "Pemilihan umum Bupati Luwu 2024",
+    "region": "Luwu",
+    "level": "KABUPATEN",
+    "path": "kabupaten-luwu",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Luwu_2024",
+    "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c",
+    "candidates": [
+        {
+            "name": "Patahuddin",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPD II Golkar Luwu",
+            "sites": {},
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        },
+        {
+            "name": "Kolonel Inf Agussalim",
+            "description": "",
+            "profilePic": "",
+            "title": null,
+            "sites": {},
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        },
+        {
+            "name": "Andi Tenri Karta",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Ketua TP-PKK Luwu 2019-2024",
+            "sites": {},
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        },
+        {
+            "name": "Andi Muhammad Arham Basmin",
+            "description": "Andi Harisakti Leluasa Arhamputra\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Andi_Muhammad_Arham_Basmin_3.jpg",
+            "title": "Ketua DPD Nasdem LuwuKetua KNPI Sulsel",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Andi_Muhammad_Arham_Basmin"
+            },
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        },
+        {
+            "name": "Wahyu Napeng",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Kab. Luwu",
+            "sites": {},
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        },
+        {
+            "name": "Lahmuddin",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Kab. Luwu",
+            "sites": {},
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        },
+        {
+            "name": "Hayarna Basmin",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua TP-PKK Luwu",
+            "sites": {},
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        },
+        {
+            "name": "Fadriaty A.S.",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Prov. Sulsel",
+            "sites": {},
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        },
+        {
+            "name": "Husmaruddin",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Prov. Sulsel",
+            "sites": {},
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        },
+        {
+            "name": "Buhari Kahar Mudzakkar",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Anggota DPRD Prov. Sulsel",
+            "sites": {},
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        },
+        {
+            "name": "Saifuddin Kasim",
+            "description": "",
+            "profilePic": "",
+            "title": "Kepala Bid. Perhubungan Laut dan Udara dan Dinas Perhubungan Kab. Teluk Bintun",
+            "sites": {},
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        },
+        {
+            "name": "Muslimin Akib",
+            "description": "Brigadir Jenderal TNI (Purn.) Muslimin Akib, S.E., M.M. (lahir 19 Januari 1960) adalah seorang Purnawirawan perwira tinggi TNI Angkatan Darat yang berdasarkan Keputusan Panglima TNI Nomor Kep/12/I/2018 tertanggal 4 Januari 2018, tentang Pemberhentian dari dan pengangkatan dalam jabatan di lingkungan TNI, ia ditetapkan dari Staf Khusus KSAD menjadi Pati Mabes TNI AD[a] dalam rangka pensiun.\n",
+            "profilePic": "",
+            "title": null,
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muslimin_Akib"
+            },
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        },
+        {
+            "name": "H Harbi Syam",
+            "description": "",
+            "profilePic": "",
+            "title": null,
+            "sites": {},
+            "communityID": "e049c403-9e63-41cb-a558-cc2a4bd76a9c"
+        }
+    ]
+}

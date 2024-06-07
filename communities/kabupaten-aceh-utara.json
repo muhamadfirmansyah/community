@@ -1,0 +1,62 @@
+{
+    "title": "Pemilihan umum Bupati Aceh Utara 2024",
+    "region": "Aceh Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-aceh-utara",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Aceh_Utara_2024",
+    "communityID": "cf80bf9e-bc0f-4421-ba81-e7fa9ec43c36",
+    "candidates": [
+        {
+            "name": "Fauzi Yusuf",
+            "description": "Teungku Fauzi Yusuf, lebih dikenal dengan nama Sidom Peng (lahir 1 Januari 1971) adalah tokoh pejuang GAM. Dia pernah menjabat sebagai Tim Monitoring JSC dari Representative GAM dan Wakil Bupati Aceh Utara periode 2017\u20142022.[1]\n",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Aceh Utara",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Fauzi_Yusuf"
+            },
+            "communityID": "cf80bf9e-bc0f-4421-ba81-e7fa9ec43c36"
+        },
+        {
+            "name": "Sofyan Dawood",
+            "description": "Sofyan Dawood (lahir 10 Oktober 1966) adalah mantan tokoh pejuang GAM. Dia pernah menjabat sebagai Juru Bicara Gerakan Aceh Merdeka.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d9/KPU_Sofyan_Dawood.jpg",
+            "title": "Mantan Juru Bicara GAM",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sofyan_Dawood"
+            },
+            "communityID": "cf80bf9e-bc0f-4421-ba81-e7fa9ec43c36"
+        },
+        {
+            "name": "Misbahul Munir",
+            "description": "Teungku Misbahul Munir, S.T.[1] lebih dikenal dengan nama Rahul (lahir 18 November 1980) adalah tokoh pejuang GAM. Dia pernah menjabat sebagai Komandan Pasukan Cobra wilayah Pase Bentara Militer (BM-GAM). Dia sekarang menjabat sebagai Wakil Ketua DPRK Aceh Utara Fraksi Partai Nanggroe Aceh.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/KPU_Misbahul_Munir.jpg/1200px-KPU_Misbahul_Munir.jpg",
+            "title": "Wakil Ketua DPRK Aceh Utara",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Misbahul_Munir"
+            },
+            "communityID": "cf80bf9e-bc0f-4421-ba81-e7fa9ec43c36"
+        },
+        {
+            "name": "Abubakar A. Latif",
+            "description": "Teungku Abubakar A. Latif, lebih dikenal dengan nama Abu Len (lahir 1 Juli 1965) adalah tokoh pejuang GAM. Dia pernah menjabat sebagai Panglima Operasi Gerakan Aceh Merdeka Wilayah Pase. Dia pernah menjabat sebagai Anggota DPRA Fraksi Partai Aceh periode 2014\u20132019.[1]\n",
+            "profilePic": "",
+            "title": "Mantan Anggota DPR Aceh",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Abubakar_A._Latif"
+            },
+            "communityID": "cf80bf9e-bc0f-4421-ba81-e7fa9ec43c36"
+        },
+        {
+            "name": "",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi PKB",
+            "sites": {},
+            "communityID": "cf80bf9e-bc0f-4421-ba81-e7fa9ec43c36"
+        }
+    ]
+}

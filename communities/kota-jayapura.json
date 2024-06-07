@@ -1,0 +1,48 @@
+{
+    "title": "Pemilihan umum Wali Kota Jayapura 2024",
+    "region": "Jayapura",
+    "level": "KOTA",
+    "path": "kota-jayapura",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Jayapura_2024",
+    "communityID": "fb2b278c-d40c-4dae-9e8e-eb6ab51ea54f",
+    "candidates": [
+        {
+            "name": "Jack Komboy",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Anggota_DPRD_Papua_Kamasan_Jack_Komboy.jpg/1200px-Anggota_DPRD_Papua_Kamasan_Jack_Komboy.jpg",
+            "title": "Mantan pemain Persipura",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Jack_Komboy"
+            },
+            "communityID": "fb2b278c-d40c-4dae-9e8e-eb6ab51ea54f"
+        },
+        {
+            "name": "Abisai Rollo,",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Kota Jayapura 2019-2024",
+            "sites": {},
+            "communityID": "fb2b278c-d40c-4dae-9e8e-eb6ab51ea54f"
+        },
+        {
+            "name": "Musa Youwe",
+            "description": "",
+            "profilePic": "",
+            "title": "Tokoh Papua",
+            "sites": {},
+            "communityID": "fb2b278c-d40c-4dae-9e8e-eb6ab51ea54f"
+        },
+        {
+            "name": "Bio Paulin",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/4/4a/KPU_Bio_Paulin_Pierre.jpg",
+            "title": "Mantan pemain Persipura",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Bio_Paulin"
+            },
+            "communityID": "fb2b278c-d40c-4dae-9e8e-eb6ab51ea54f"
+        }
+    ]
+}

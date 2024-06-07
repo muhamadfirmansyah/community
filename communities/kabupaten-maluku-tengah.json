@@ -1,0 +1,61 @@
+{
+    "title": "Pemilihan umum Bupati Maluku Tengah 2024",
+    "region": "Maluku Tengah",
+    "level": "KABUPATEN",
+    "path": "kabupaten-maluku-tengah",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Maluku_Tengah_2024",
+    "communityID": "b80c436b-04a6-49ca-9db5-12613b53702d",
+    "candidates": [
+        {
+            "name": "Imanuel Seipalla",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Maluku Tengah",
+            "sites": {},
+            "communityID": "b80c436b-04a6-49ca-9db5-12613b53702d"
+        },
+        {
+            "name": "Marlatu Laurence Leleury",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Maluku Tengah",
+            "sites": {},
+            "communityID": "b80c436b-04a6-49ca-9db5-12613b53702d"
+        },
+        {
+            "name": "Jusuf Latuconsina",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Sekretaris Daerah Kabupaten Maluku Tengah",
+            "sites": {},
+            "communityID": "b80c436b-04a6-49ca-9db5-12613b53702d"
+        },
+        {
+            "name": "Hamzah Sangadji",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Anggota DPR-RI",
+            "sites": {},
+            "communityID": "b80c436b-04a6-49ca-9db5-12613b53702d"
+        },
+        {
+            "name": "Mozes Rudi Frans Timisela",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Anggota DPR Papua Barat",
+            "sites": {},
+            "communityID": "b80c436b-04a6-49ca-9db5-12613b53702d"
+        },
+        {
+            "name": "Lucky Wattimury",
+            "description": "Lucky Wattimury (lahir 21 Juli 1960) adalah politikus PDI Perjuangan yang berasal dari Maluku. Ia menjabat sebagai Ketua DPRD Maluku sejak 25 Oktober 2019.[1] Lucky berhasil menjadi anggota DPRD Maluku pada Pemilu 2019 setelah berhasil mengumpulkan 6.650 suara di Daerah Pemilihan (Dapil) Maluku 1 yang meliputi Kota Ambon.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/76/KPU_Lucky_Wattimury.jpg",
+            "title": "Mantan Ketua DPRD Provinsi Maluku",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Lucky_Wattimury"
+            },
+            "communityID": "b80c436b-04a6-49ca-9db5-12613b53702d"
+        }
+    ]
+}

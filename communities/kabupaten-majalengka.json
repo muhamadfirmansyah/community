@@ -1,0 +1,40 @@
+{
+    "title": "Pemilihan umum Bupati Majalengka 2024",
+    "region": "Majalengka",
+    "level": "KABUPATEN",
+    "path": "kabupaten-majalengka",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Majalengka_2024",
+    "communityID": "a794a278-78f3-4920-9589-ade49ef497f8",
+    "candidates": [
+        {
+            "name": "Karna Sobahi",
+            "description": "Prof. Dr. H. Karna Sobahi, M.M.Pd. (lahir 3 April 1954) adalah Bupati Majalengka periode 2018\u20132023 dan wakilnya Tarsono D. Mardiana.[1] Sebelumnya dia menjabat sebagai Wakil Bupati Majalengka 2 periode dengan Bupati Sutrisno.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/4/4b/Karna_Sobahi_Bupati_Majalengka.jpg",
+            "title": "Bupati Majalengka",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Karna_Sobahi"
+            },
+            "communityID": "a794a278-78f3-4920-9589-ade49ef497f8"
+        },
+        {
+            "name": "Tarsono D. Mardiana",
+            "description": "Tarsno D. Mardiana (lahir 3 November 1970) adalah Wakil Bupati Majalengka periode 2018\u20132023 dengan Bupati Karna Sobahi.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Wakil_Bupati_Majalengka_Tarsono_D._Mardiana.jpg",
+            "title": "Wakil Bupati Majalengka",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Tarsono_D._Mardiana"
+            },
+            "communityID": "a794a278-78f3-4920-9589-ade49ef497f8"
+        },
+        {
+            "name": "Eman Suherman",
+            "description": "",
+            "profilePic": "",
+            "title": "Sekda Majalengka",
+            "sites": {},
+            "communityID": "a794a278-78f3-4920-9589-ade49ef497f8"
+        }
+    ]
+}

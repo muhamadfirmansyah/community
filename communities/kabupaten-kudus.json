@@ -1,0 +1,72 @@
+{
+    "title": "Pemilihan umum Bupati Kudus 2024",
+    "region": "Kudus",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kudus",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Kudus_2024",
+    "communityID": "b497845b-d8ae-4b5e-8679-949a43e45131",
+    "candidates": [
+        {
+            "name": "Hartopo",
+            "description": "H.M. Hartopo, S.T., M.M., M.H. (lahir 10 Agustus 1967) adalah Pelaksana Tugas (PLT) Bupati Kudus sejak 29 Juli 2019 dan Bupati Kudus sejak 9 April 2021.[1][2][3] Sebelumnya, Hartopo menjabat sebagai Wakil Bupati Kudus bersama Muhammad Tamzil pada tahun 2018-2019.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bupati_Hartopo.png",
+            "title": "Bupati Kudus",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hartopo"
+            },
+            "communityID": "b497845b-d8ae-4b5e-8679-949a43e45131"
+        },
+        {
+            "name": "Noor Yasin",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Sekretaris Daerah Kabupaten Kudus",
+            "sites": {},
+            "communityID": "b497845b-d8ae-4b5e-8679-949a43e45131"
+        },
+        {
+            "name": "Prasetyo Edi Marsudi",
+            "description": "H. Prasetyo Edi Marsudi, S.H. (lahir 13 Mei 1962) adalah seorang politisi Indonesia yang saat ini menjabat sebagai Ketua DPRD DKI Jakarta sejak 26 September 2014. Sebelum menjabat Ketua, ia telah menjabat sebagai Anggota DPRD DKI Jakarta sejak 2013, menggantikan Maringan Pangaribuan yang mengundurkan diri.[1] Ia merupakan politisi Partai Demokrasi Indonesia Perjuangan.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/13/KPU_Prasetyo_Edi_Marsudi.jpg",
+            "title": "Ketua DPRD DKI Jakarta",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Prasetyo_Edi_Marsudi"
+            },
+            "communityID": "b497845b-d8ae-4b5e-8679-949a43e45131"
+        },
+        {
+            "name": "H. Setia Budi Wibowo",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Jawa Tengah",
+            "sites": {},
+            "communityID": "b497845b-d8ae-4b5e-8679-949a43e45131"
+        },
+        {
+            "name": "Mochamad Tommy Adrianto, S.H.",
+            "description": "",
+            "profilePic": "",
+            "title": "S.H",
+            "sites": {},
+            "communityID": "b497845b-d8ae-4b5e-8679-949a43e45131"
+        },
+        {
+            "name": "DR. Sam'ani Intakoris",
+            "description": "",
+            "profilePic": "",
+            "title": "ASN Kudus",
+            "sites": {},
+            "communityID": "b497845b-d8ae-4b5e-8679-949a43e45131"
+        },
+        {
+            "name": "Mawahib",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Provinsi Jawa Tengah",
+            "sites": {},
+            "communityID": "b497845b-d8ae-4b5e-8679-949a43e45131"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "title": "Pemilihan umum Bupati Sikka 2024",
+    "region": "Sikka",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sikka",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Sikka_2024",
+    "communityID": "e9598d63-317d-432e-9e1d-e6f03b14c971",
+    "candidates": [
+        {
+            "name": "Fransiskus Roberto Diogo",
+            "description": "Fransiskus Roberto Diogo (lahir 1 Februari 1972) adalah seorang Indonesia. Ia dilantik menjadi Bupati Sikka pada tahun 2018. Pada masa sebelumnya, ia menjabat sebagai pegawai negeri sipil (PNS). Ia juga sempat menjabat sebagai Sekretaris Dinas Pemadam Kebakaran dan Satuan Polisi Pamong Praja Kabupaten Sikka.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/98/Fransiskus_Roberto_Diogo.jpg",
+            "title": "Bupati Sikka",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Fransiskus_Roberto_Diogo"
+            },
+            "communityID": "e9598d63-317d-432e-9e1d-e6f03b14c971"
+        },
+        {
+            "name": "Romanus Woga",
+            "description": "Romanus Woga (lahir 16 Juli 1947) adalah seorang politikus dan wiraswasta Indonesia. Ia pernah menjadi Wakil Presiden Koperasi Kredit se-Asia, selama dua periode yang berkedudukan di Bangkok, Thailand. Ia menjabat Wakil Presiden Koperasi Kredit se Asia (Asian Confederation of Credit Union/ACCU) dari 2012 sampai 2016.[1] Pada pemilihan umum Bupati Sikka 2018, ia terpilih menjadi Wakil Bupati Sikka mendampingi Fransiskus Roberto Diogo selaku Bupati Sikka.[2] Kisah hidupnya diriwayatkan dalam buku berjudul Romanus Woga Dian Yang Tetap Bercahaya.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Romanus_Woga.jpg/1200px-Romanus_Woga.jpg",
+            "title": "Wakil Bupati Sikka",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Romanus_Woga"
+            },
+            "communityID": "e9598d63-317d-432e-9e1d-e6f03b14c971"
+        },
+        {
+            "name": "Alexander Longginus",
+            "description": "Alexander Longginus (lahir 25 Januari 1960)[1] adalah seorang politikus Indonesia. Ia menjabat sebagai Bupati Sikka dari 2003 sampai 2008 didampingi oleh Yoseph Ansar Rera sebagai Wakil Bupati Sikka. Pada pemilihan umum Bupati Sikka 2018, ia maju sebagai cabup didampingi oleh Fransiskus Stephanus Say selaku cawabup, namun kalah dari pasangan Fransiskus Roberto Diogo-Romanus Woga.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/59/KPU_Alexander_Longginus.jpg",
+            "title": "Mantan Bupati Sikka",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Alexander_Longginus"
+            },
+            "communityID": "e9598d63-317d-432e-9e1d-e6f03b14c971"
+        },
+        {
+            "name": "Yoseph Ansar Rera",
+            "description": "Yoseph Ansar Rera (lahir 21 September 1955) adalah seorang politisi Indonesia yang menjabat sebagai Bupati Sikka periode 2013-2018. Ia dilantik pada tanggal 6 Juli 2013 oleh Gubernur NTT Frans Lebu Raya. Pada masa sebelumnya, ia menjabat sebagai Wakil Bupati Sikka periode 2003-2008.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/b/b8/Yoseph_Ansar_Rera_Bupati_Sikka.png",
+            "title": "Mantan Bupati Sikka",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yoseph_Ansar_Rera"
+            },
+            "communityID": "e9598d63-317d-432e-9e1d-e6f03b14c971"
+        },
+        {
+            "name": "Lusia Adinda Dua Nurak",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Ketua TP PKK Provinsi NTT 2008-18",
+            "sites": {},
+            "communityID": "e9598d63-317d-432e-9e1d-e6f03b14c971"
+        },
+        {
+            "name": "Donatus David",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Kab. Sikka",
+            "sites": {},
+            "communityID": "e9598d63-317d-432e-9e1d-e6f03b14c971"
+        },
+        {
+            "name": "Yosef Karmianto Eri",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua I DPRD Kab. Sikka",
+            "sites": {},
+            "communityID": "e9598d63-317d-432e-9e1d-e6f03b14c971"
+        },
+        {
+            "name": "Gorgonius Nago Bapa",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua II DPRD Kab. Sikka",
+            "sites": {},
+            "communityID": "e9598d63-317d-432e-9e1d-e6f03b14c971"
+        },
+        {
+            "name": "Filario Charles Bertrandi",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Kab. Sikka",
+            "sites": {},
+            "communityID": "e9598d63-317d-432e-9e1d-e6f03b14c971"
+        },
+        {
+            "name": "Leonardus Lelo",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD NTT",
+            "sites": {},
+            "communityID": "e9598d63-317d-432e-9e1d-e6f03b14c971"
+        },
+        {
+            "name": "Petrus Herlemus",
+            "description": "",
+            "profilePic": "",
+            "title": "Kepala Dinas P2KBP3A kabupaten Sikka",
+            "sites": {},
+            "communityID": "e9598d63-317d-432e-9e1d-e6f03b14c971"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "title": "Pemilihan umum Bupati Subang 2024",
+    "region": "Subang",
+    "level": "KABUPATEN",
+    "path": "kabupaten-subang",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Subang_2024",
+    "communityID": "75e42baa-036a-4141-82b3-722b86e54c59",
+    "candidates": [
+        {
+            "name": "Asep Rochman Dimyati (ARD)",
+            "description": "",
+            "profilePic": "",
+            "title": "Pegusaha - Ketua KONI Subang",
+            "sites": {},
+            "communityID": "75e42baa-036a-4141-82b3-722b86e54c59"
+        },
+        {
+            "name": "Ruhimat",
+            "description": "H. Ruhimat, S.Pd., M.Si. (lahir 18 Maret 1965) adalah Bupati Subang periode 2018\u20132023.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/b/b9/Bupati_Subang_Ruhimat.jpg",
+            "title": "Bupati Subang",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ruhimat"
+            },
+            "communityID": "75e42baa-036a-4141-82b3-722b86e54c59"
+        },
+        {
+            "name": "Agus Masykur Rosyadi",
+            "description": "Agus Masykur Rosyadi, S.Si., M.M. (lahir 4 Agustus 1972) adalah seorang politikus yang pernah menjabat sebagai Wakil Bupati Kabupaten Subang periode 2018\u20132023, hasil pilkada serentak tahun 2018 yang sebelumnya menjabat Wakil Ketua DPRD Kabupaten Subang. Dia adalah mantan anggota DPRD Kabupaten Subang dua periode yaitu 2004-2009 dan 2009-2014 yang mewakili daerah pemilihan (dapil) 1 Subang yaitu Kecamatan Subang, Kecamatan Cijambe dan Kecamatan Cibogo\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/4/40/KPU_Agus_Masykur_Rosyadi.jpg",
+            "title": "Wakil Bupati Subang",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Agus_Masykur_Rosyadi"
+            },
+            "communityID": "75e42baa-036a-4141-82b3-722b86e54c59"
+        },
+        {
+            "name": "Narca Sukanda",
+            "description": "H. Narca Sukanda S.Sos atau lebih sering disebut H. Cecep adalah Ketua DPRD Kabupaten Subang periode 2019-2024. Selain menjadi Ketua DPRD, Narca juga seorang petani yang sukses sebelum menjadi Ketua DPRD. Ia juga merupakan Ketua Komisi III DPRD Kabupaten Subang dan Menjadi Anggota DPRD sejak Tahun 2004.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Ketua_DPRD_Kabupaten_Subang_Narca_Sukanda.jpg",
+            "title": "Ketua DPRD Kabupaten Subang",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Narca_Sukanda"
+            },
+            "communityID": "75e42baa-036a-4141-82b3-722b86e54c59"
+        },
+        {
+            "name": "H. Aceng Kudus S.P. ",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRD Subang / Ketua GERINDRA",
+            "sites": {},
+            "communityID": "75e42baa-036a-4141-82b3-722b86e54c59"
+        }
+    ]
+}

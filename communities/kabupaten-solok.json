@@ -1,0 +1,62 @@
+{
+    "title": "Pemilihan umum Bupati Solok 2024",
+    "region": "Solok",
+    "level": "KABUPATEN",
+    "path": "kabupaten-solok",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Solok_2024",
+    "communityID": "e6e27ae6-261e-4723-afb8-eb7b696e3e67",
+    "candidates": [
+        {
+            "name": "Epyardi Asda",
+            "description": "Capt. H. Epyardi Asda, M.Mar. gelar Datuak Sutan Majo Lelo (lahir 11 Maret 1962) adalah pengusaha dan politikus PAN yang menjabat sebagai Bupati Solok periode 2021\u20132024 dan Anggota DPR-RI Fraksi PPP tiga periode sejak 2004 hingga 2018. Ia merupakan pemilik PT Kaluku Indah Permai yang melakukan reklamasi di Danau Singkarak.[3][4] Pada 2014, ia mencalonkan diri menjadi Ketua Umum Partai Persatuan Pembangunan (PPP), tetapi di tengah pencalonannya, ia mengundurkan diri karena melihat kondisi partai yang terus menerus dirundung konflik.[5]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bupati_Solok_Epyardi_Asda.png",
+            "title": "Bupati Solok",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Epyardi_Asda"
+            },
+            "communityID": "e6e27ae6-261e-4723-afb8-eb7b696e3e67"
+        },
+        {
+            "name": "Jon Firman Pandu",
+            "description": "Jon Firman Pandu, S.H. (lahir 1 Maret 1979) adalah politikus Partai Gerindra yang menjabat Wakil Bupati Kabupaten Solok periode 2021\u20142024.[1] Ia adalah wakil dari Bupati Solok, Epyardi Asda.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/08/Wakil_Bupati_Solok_Jon_Firman_Pandu.png",
+            "title": "Wakil Bupati Solok",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Jon_Firman_Pandu"
+            },
+            "communityID": "e6e27ae6-261e-4723-afb8-eb7b696e3e67"
+        },
+        {
+            "name": "Raja Sapta Oktohari",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/20230307_-_NOC_-_Kongres_Luar_Biasa_NOC_Indonesia_2023%3B_Pembukaan_%26_Penutupan_di_Ballroom_Hotel_Fairmont%2C_Jakarta_-95.jpg/1200px-20230307_-_NOC_-_Kongres_Luar_Biasa_NOC_Indonesia_2023%3B_Pembukaan_%26_Penutupan_di_Ballroom_Hotel_Fairmont%2C_Jakarta_-95.jpg",
+            "title": "Mantan Ketua Umum BPP HIPMI",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Raja_Sapta_Oktohari"
+            },
+            "communityID": "e6e27ae6-261e-4723-afb8-eb7b696e3e67"
+        },
+        {
+            "name": "Bachtul",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Anggota DPRD Sumbar",
+            "sites": {},
+            "communityID": "e6e27ae6-261e-4723-afb8-eb7b696e3e67"
+        },
+        {
+            "name": "Desra Ediwan Anantanur",
+            "description": "Drs. H. Desra Ediwan Anantanur, M.M. (lahir 16 Desember 1963) adalah politikus senior Partai Golongan Karya sejak 1992. Ia menjabat Wakil Bupati Solok, Sumatera Barat 2 periode yakni 2005\u20132010 dan 2010\u20132015. Ia adalah wakil dari Bupati Solok, Gusmal dan Syamsu Rahim.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/KPU_Desra_Ediwan_Anantanur.jpg/1200px-KPU_Desra_Ediwan_Anantanur.jpg",
+            "title": "Mantan Wakil Bupati Solok",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Desra_Ediwan_Anantanur"
+            },
+            "communityID": "e6e27ae6-261e-4723-afb8-eb7b696e3e67"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Pemilihan umum Wali Kota Kupang 2024",
+    "region": "Kupang",
+    "level": "KOTA",
+    "path": "kota-kupang",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Kupang_2024",
+    "communityID": "75daad15-cbc8-4fb8-a25f-bd385e299fcf",
+    "candidates": [
+        {
+            "name": "Jefirstson Richset Riwu Kore",
+            "description": "Dr. Jefirstson Richset Riwu Kore, MM., MH[1] atau lebih dikenal dengan Jefri Riwu Kore (lahir 13 Januari 1960) adalah Wali Kota Kupang periode 2017-2022.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Wali_Kota_Kupang_Jefirstson_R._Riwu_Kore.jpg",
+            "title": "Mantan Wali Kota Kupang",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Jefirstson_Richset_Riwu_Kore"
+            },
+            "communityID": "75daad15-cbc8-4fb8-a25f-bd385e299fcf"
+        },
+        {
+            "name": "Jonas Salean",
+            "description": "Jonas Salean, S.H., M.Si. (lahir 12 Maret 1958) adalah seorang birokrat dan politikus Indonesia. Ia sekarang menjabat sebagai Anggota DPRD Nusa Tenggara Timur Fraksi Golongan Karya periode 2019\u20142024.[1] Ia juga pernah menjabat sebagai Wali Kota Kupang periode 2012\u20142017.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/16/KPU_Jonas_Salean.jpg",
+            "title": "Anggota DPRD Nusa Tenggara Timur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Jonas_Salean"
+            },
+            "communityID": "75daad15-cbc8-4fb8-a25f-bd385e299fcf"
+        },
+        {
+            "name": "Esthon Foenay",
+            "description": "Ir. Esthon Leyloh Foenay, M.Si.[1] (lahir 3 Agustus 1948) adalah Wakil Gubernur Nusa Tenggara Timur periode 2008\u20142013. Ia adalah wakil dari Gubernur Nusa Tenggara Timur, Frans Lebu Raya.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Wagub_NTT_Esthon_Foenay.jpg",
+            "title": "Mantan Wakil Gubernur Nusa Tenggara Timur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Esthon_Foenay"
+            },
+            "communityID": "75daad15-cbc8-4fb8-a25f-bd385e299fcf"
+        },
+        {
+            "name": "Felisberto Amaral",
+            "description": "Drs. Felisberto Amaral (lahir 23 Maret 1960) adalah tokoh pejuang integrasi Timor Timur. Dia pernah menjabat sebagai Kepala Satuan Polisi Pamong Praja Kota Kupang.\n",
+            "profilePic": "",
+            "title": null,
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Felisberto_Amaral"
+            },
+            "communityID": "75daad15-cbc8-4fb8-a25f-bd385e299fcf"
+        }
+    ]
+}

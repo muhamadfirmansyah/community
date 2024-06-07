@@ -1,0 +1,123 @@
+{
+    "title": "Pemilihan umum Bupati Bengkulu Selatan 2024",
+    "region": "Bengkulu Selatan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bengkulu-selatan",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Bengkulu_Selatan_2024",
+    "communityID": "13661d35-61b2-46fb-b086-7281c87234f1",
+    "candidates": [
+        {
+            "name": "Gusnan Mulyadi",
+            "description": "Gusnan Mulyadi, S.E., M.M. (lahir 28 Agustus 1968) adalah Bupati Bengkulu Selatan periode 2019\u20142021.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Gusnan_Mulyadi.jpg",
+            "title": "Bupati Bengkulu Selatan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Gusnan_Mulyadi"
+            },
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        },
+        {
+            "name": "Rifai Tajudin",
+            "description": "H. Rifai Tajudin, S.Sos. (lahir 18 September 1965) adalah Wakil Bupati Kabupaten Bengkulu Selatan, Bengkulu periode 2019\u20132021. Ia adalah wakil dari Bengkulu Selatan, Gusnan Mulyadi.[1]\n",
+            "profilePic": "",
+            "title": "Wakil Bupati Bengkulu Selatan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Rifai_Tajudin"
+            },
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        },
+        {
+            "name": "Barli Halim",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Kab. Bengkulu Selatan",
+            "sites": {},
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        },
+        {
+            "name": "Estu Eren",
+            "description": "",
+            "profilePic": "",
+            "title": "Bujang dusun",
+            "sites": {},
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        },
+        {
+            "name": "Juli Hartono",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRD Kab. Bengkulu Selatan",
+            "sites": {},
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        },
+        {
+            "name": "Dendi Man Tarmizi",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRD Kab. Bengkulu Selatan",
+            "sites": {},
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        },
+        {
+            "name": "Hartawan",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua BAZNAS Bengkulu Selatan",
+            "sites": {},
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        },
+        {
+            "name": "Budiman Ismaun",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Kepala Dinas Pendidikan dan Kebudayaan Provinsi Bengkulu",
+            "sites": {},
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        },
+        {
+            "name": "Yevri Sudianto",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Prov. Bengkulu",
+            "sites": {},
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        },
+        {
+            "name": "Ria Oktarina",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Prov. Bengkulu",
+            "sites": {},
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        },
+        {
+            "name": "Reskan Effendi Awaluddin",
+            "description": "H. Reskan Effendi Awaluddin, S.E. adalah Bupati Bengkulu Selatan periode 2010\u20132015.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/7/74/ReskanAwaluddin-22ndRegentofSouthBengkulu.JPG",
+            "title": "Mantan Bupati Bengkulu Selatan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Reskan_Effendi_Awaluddin"
+            },
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        },
+        {
+            "name": "Dodi Martian",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Kab. Bengkulu Selatan",
+            "sites": {},
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        },
+        {
+            "name": "Elly Zuliani Herawati",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "13661d35-61b2-46fb-b086-7281c87234f1"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Pemilihan umum Bupati Kotawaringin Barat 2024",
+    "region": "Kotawaringin Barat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kotawaringin-barat",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Kotawaringin_Barat_2024",
+    "communityID": "fc294b7c-e068-4c92-b7ee-aa393018144b",
+    "candidates": [
+        {
+            "name": "Nurhidayah",
+            "description": "Hj. Nurhidayah, S.H., M.H. (lahir 25 Maret 1975) adalah bupati Kotawaringin Barat yang mulai menjabat pada 22 Mei 2017[1] hingga 22 Mei 2022. Ia dilantik oleh Gubernur Kalimantan Tengah Sugianto Sabran di Istana Isen Mulang Palangka Raya dan menjadi bupati perempuan pertama di Kotawaringin Barat dan juga se-Kalimantan Tengah.[2]\n",
+            "profilePic": "",
+            "title": "Bupati Kotawaringin Barat periode 2017-2022",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Nurhidayah"
+            },
+            "communityID": "fc294b7c-e068-4c92-b7ee-aa393018144b"
+        },
+        {
+            "name": "Ahmadi Riansyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil bupati Kotawaringin Barat periode 2017-2022",
+            "sites": {},
+            "communityID": "fc294b7c-e068-4c92-b7ee-aa393018144b"
+        }
+    ]
+}

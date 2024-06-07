@@ -1,0 +1,42 @@
+{
+    "title": "Pemilihan umum Wali Kota Cimahi 2024",
+    "region": "Cimahi",
+    "level": "KOTA",
+    "path": "kota-cimahi",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Cimahi_2024",
+    "communityID": "bf525cc3-8e61-4346-89e9-ea18897bce5a",
+    "candidates": [
+        {
+            "name": "H. Ali Hasan, S.I.P.",
+            "description": "",
+            "profilePic": "",
+            "title": "S.I.P",
+            "sites": {},
+            "communityID": "bf525cc3-8e61-4346-89e9-ea18897bce5a"
+        },
+        {
+            "name": "M. Firaldi Akbar Zulkarnain",
+            "description": "",
+            "profilePic": "",
+            "title": "Kader Partai Golkar",
+            "sites": {},
+            "communityID": "bf525cc3-8e61-4346-89e9-ea18897bce5a"
+        },
+        {
+            "name": "Faisal Harris",
+            "description": "",
+            "profilePic": "",
+            "title": "Bakal calon legislatif Dewan Perwakilan Rakyat Republik Indonesia dari Partai PAN",
+            "sites": {},
+            "communityID": "bf525cc3-8e61-4346-89e9-ea18897bce5a"
+        },
+        {
+            "name": "Enang Sahri Lukmansyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPD Partai NasDem Kota Cimahi",
+            "sites": {},
+            "communityID": "bf525cc3-8e61-4346-89e9-ea18897bce5a"
+        }
+    ]
+}

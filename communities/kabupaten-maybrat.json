@@ -1,0 +1,29 @@
+{
+    "title": "Pemilihan umum Bupati Maybrat 2024",
+    "region": "Maybrat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-maybrat",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Maybrat_2024",
+    "communityID": "1dd8c810-c33f-4be2-9089-687c489602ed",
+    "candidates": [
+        {
+            "name": "Origenes Nauw",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan anggota Dewan Perwakilan Rakyat Papua Barat",
+            "sites": {},
+            "communityID": "1dd8c810-c33f-4be2-9089-687c489602ed"
+        },
+        {
+            "name": "Karel Murafer",
+            "description": "Karel Murafer, S.H., M.A., (lahir 21 Oktober 1965), adalah politikus Partai Golongan Karya yang menjabat sebagai Bupati Maybrat pada 2015-2016. Ia dilantik menggantikan bupati sebelumnya, Bernard Sagrim, yang diberhentikan karena divonis bersalah dalam kasus korupsi. Sebelumnya, ia menjadi Wakil Bupati Maybrat mendampingi Bernard Sagrim setelah berhasil terpilih dalam Pilbup Maybrat 2011. Karel kemudian dikalahkan oleh Bernard Sagrim ketika sama-sama berkompetisi sebagai calon bupati dalam Pilbup Maybrat 2017.[1] Sebelum menjadi bupati, Karel merupakan pegawai negeri sipil di Sekretariat Daerah Kabupaten Maybrat dengan jabatan terakhir sebagai Asisten Bidang Administrasi Umum.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/KAREL_MURAFER%2C_SH.%2C_MA_Bupati_Papua_Barat_2017.jpg/1200px-KAREL_MURAFER%2C_SH.%2C_MA_Bupati_Papua_Barat_2017.jpg",
+            "title": "Mantan Bupati Maybrat",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Karel_Murafer"
+            },
+            "communityID": "1dd8c810-c33f-4be2-9089-687c489602ed"
+        }
+    ]
+}

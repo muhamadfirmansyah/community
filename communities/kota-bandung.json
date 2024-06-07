@@ -1,0 +1,29 @@
+{
+    "title": "Pemilihan umum Wali Kota Bandung 2024",
+    "region": "Bandung",
+    "level": "KOTA",
+    "path": "kota-bandung",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Bandung_2024",
+    "communityID": "0c13530e-2b2c-4244-a5b9-41cb56475202",
+    "candidates": [
+        {
+            "name": "Muhammad Lewi",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua PD SATRIA Jawa Barat",
+            "sites": {},
+            "communityID": "0c13530e-2b2c-4244-a5b9-41cb56475202"
+        },
+        {
+            "name": "Siti Muntamah",
+            "description": "Hj. Siti Muntamah, S.A.P. (lahir 27 Juli 1970), akrab dipanggil Ummi Siti, adalah seorang politikus dan aktivis pejuang kesejahteraan keluarga, perempuan, dan anak. Ia adalah istri dari Wali Kota Bandung Oded Muhammad Danial. Pasangan ini dikaruniai 7 orang putri, 4 menantu, dan 7 cucu. Siti Muntamah merupakan anggota DPRD Jawa Barat periode 2019-2024 dari Fraksi Partai Keadilan Sejahtera.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/5b/KPU_Siti_Muntamah.jpg",
+            "title": "Anggota DPRD Jawa Barat",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Siti_Muntamah"
+            },
+            "communityID": "0c13530e-2b2c-4244-a5b9-41cb56475202"
+        }
+    ]
+}

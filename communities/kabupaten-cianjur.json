@@ -1,0 +1,75 @@
+{
+    "title": "Pemilihan umum Bupati Cianjur 2024",
+    "region": "Cianjur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-cianjur",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Cianjur_2024",
+    "communityID": "91825ccb-c1ec-46f1-8760-89c53b11519c",
+    "candidates": [
+        {
+            "name": "Herman Suherman",
+            "description": "H. Herman Suherman, S.T., M.A.P. (lahir 23 Oktober 1962) adalah politikus yang menjabat Bupati Cianjur periode 2021\u20142024.[1] Bersama wakilnya, Tubagus Mulyana Syahrudin, mereka berhasil memenangkan pemilihan umum Bupati Cianjur 2020. Sebelumnya ia menjabat Wakil Bupati Cianjur periode 2016\u20142018. Ia adalah wakil dari Bupati Cianjur, Irvan Rivano Muchtar.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/15/Herman_Suherman.png",
+            "title": "Bupati Cianjur periode 2021\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Herman_Suherman"
+            },
+            "communityID": "91825ccb-c1ec-46f1-8760-89c53b11519c"
+        },
+        {
+            "name": "Irvan Rivano Muchtar",
+            "description": "Irvan Rivano Muchtar (lahir 27 Agustus 1980) adalah seorang bupati di Kabupaten Cianjur pada periode 2016-2021.\n",
+            "profilePic": "",
+            "title": "Bupati Cianjur periode 2016\u20132021",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Irvan_Rivano_Muchtar"
+            },
+            "communityID": "91825ccb-c1ec-46f1-8760-89c53b11519c"
+        },
+        {
+            "name": "Ganjar Ramadhan",
+            "description": "Ganjar Ramadhan[1] (lahir 22 April 1988) adalah Ketua DPRD Kabupaten Cianjur periode 2019 hingga 2024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/09/KPU_Ganjar_Ramadhan.jpg",
+            "title": "Ketua DPRD Kabupaten Cianjur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ganjar_Ramadhan"
+            },
+            "communityID": "91825ccb-c1ec-46f1-8760-89c53b11519c"
+        },
+        {
+            "name": "Lepi Ali Firmansyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC PKB Kabupaten Cianjur",
+            "sites": {},
+            "communityID": "91825ccb-c1ec-46f1-8760-89c53b11519c"
+        },
+        {
+            "name": "KH. Deden Abdullah Syujai",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua Jami\u2019yyatul Qurra Wal-Huffadz (JQH)",
+            "sites": {},
+            "communityID": "91825ccb-c1ec-46f1-8760-89c53b11519c"
+        },
+        {
+            "name": "Dany Gumilar",
+            "description": "",
+            "profilePic": "",
+            "title": "Penyanyi/musisi",
+            "sites": {},
+            "communityID": "91825ccb-c1ec-46f1-8760-89c53b11519c"
+        },
+        {
+            "name": "Gilang Oktoriansyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Fungsionaris Pemuda Lumbung Informasi Rakyat",
+            "sites": {},
+            "communityID": "91825ccb-c1ec-46f1-8760-89c53b11519c"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Pemilihan umum Bupati Tolikara 2024",
+    "region": "Tolikara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-tolikara",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Tolikara_2024",
+    "communityID": "f53989ef-e7ce-428d-bc85-cc3ce53d3f6c",
+    "candidates": [
+        {
+            "name": "Amos Yikwa",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Tolikara",
+            "sites": {},
+            "communityID": "f53989ef-e7ce-428d-bc85-cc3ce53d3f6c"
+        },
+        {
+            "name": "Dinus Wanimbo",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Tolikara",
+            "sites": {},
+            "communityID": "f53989ef-e7ce-428d-bc85-cc3ce53d3f6c"
+        },
+        {
+            "name": "Yop Kogoya",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Ketua Dewan Perwakilan Rakyat Papua",
+            "sites": {},
+            "communityID": "f53989ef-e7ce-428d-bc85-cc3ce53d3f6c"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Pemilihan umum Wali Kota Tasikmalaya 2024",
+    "region": "Tasikmalaya",
+    "level": "KOTA",
+    "path": "kota-tasikmalaya",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Tasikmalaya_2024",
+    "communityID": "b32fd8b8-d1f7-4b39-be65-e5bfe4aebf4d",
+    "candidates": [
+        {
+            "name": "Dede Muharam",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua Komisi 4 DPRD Kota Tasikmalaya dari Fraksi PKS",
+            "sites": {},
+            "communityID": "b32fd8b8-d1f7-4b39-be65-e5bfe4aebf4d"
+        },
+        {
+            "name": "Muhammad Yusuf (politikus)",
+            "description": "Drs. H. Muhammad Yusuf (lahir 6 Juni 1955) adalah Wali Kota Tasikmalaya sisa masa jabatan 2021\u20132022. Yusuf sebelumnya adalah Wakil Wali Kota Tasikmalaya periode 2017-2022. Pada 26 April 2019 Wali Kota saat itu Budi Budiman ditetapkan sebagai tersangka  terkait kasus suap pengurusan Dana Alokasi Khusus (DAK) Tasikmalaya, Jawa Barat, Tahun Anggaran 2018 oleh Komisi Pemberantasan Korupsi (KPK).[1] Sejak saat itu roda pemerintahan Kota Tasikmalaya dijalankan oleh Yusuf sebagai pelaksana tugas (Plt.)[2]. Pada 10 September 2021, Yusuf dilantik oleh Gubernur Jawa Barat Ridwan Kamil sebagai Wali Kota Tasikmalaya definitif sisa masa jabatan 2021-2022.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/a/ab/M._Yusuf_Wali_Kota_Tasikmalaya.jpg",
+            "title": "Wali Kota Tasikmalaya",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muhammad_Yusuf_(politikus)"
+            },
+            "communityID": "b32fd8b8-d1f7-4b39-be65-e5bfe4aebf4d"
+        },
+        {
+            "name": "Viman Alfarizi",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC Gerindra",
+            "sites": {},
+            "communityID": "b32fd8b8-d1f7-4b39-be65-e5bfe4aebf4d"
+        },
+        {
+            "name": "Yanto Once",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC PPP",
+            "sites": {},
+            "communityID": "b32fd8b8-d1f7-4b39-be65-e5bfe4aebf4d"
+        },
+        {
+            "name": "Gumilar Rusliwa Somantri",
+            "description": "Prof. Dr. der Soz. Gumilar Rusliwa Somantri, D.Pol., D.Sc.[1] (lahir 11 Maret 1963) dikenal sebagai seorang akademisi, sosiolog dan dosen di Universitas Indonesia. Ia menjabat sebagai Rektor Universitas Indonesia untuk masa jabatan 2007-2012.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/53/Gumilar_Antam_Terbaru.jpg",
+            "title": "Mantan Rektor Universitas Indonesia",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Gumilar_Rusliwa_Somantri"
+            },
+            "communityID": "b32fd8b8-d1f7-4b39-be65-e5bfe4aebf4d"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Pemilihan umum Bupati Halmahera Selatan 2024",
+    "region": "Halmahera Selatan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-halmahera-selatan",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Halmahera_Selatan_2024",
+    "communityID": "9c843317-1c51-45d6-8693-d13a79283018",
+    "candidates": [
+        {
+            "name": "Hasan Ali Bassam Kasuba",
+            "description": "Hasan Ali Bassam Kasuba (lahir 8 Agustus 1988) adalah seorang politisi Indonesia kelahiran Kota Ternate, Maluku Utara. Ia merupakan putra sulung dari Bupati Halmahera Selatan Muhammad Kasuba. Ia tergabung dalam Partai Keadilan Sejahtera (PKS) dan menjabat selaku Ketua Pemenangan Pemilu dan Pilkada (BPPP) DPD PKS Halmahera Selatan.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hasan_Ali_Basam_Kasuba_Wakil_Bupati_Halmahera_Selatan_periode_2021-2024.jpg/1200px-Hasan_Ali_Basam_Kasuba_Wakil_Bupati_Halmahera_Selatan_periode_2021-2024.jpg",
+            "title": "Bupati Halmahera Selatan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hasan_Ali_Bassam_Kasuba"
+            },
+            "communityID": "9c843317-1c51-45d6-8693-d13a79283018"
+        },
+        {
+            "name": "Bahrain Kasuba",
+            "description": "H. Bahrain Kasuba, S.Pd., M.Pd.[1] (lahir 29 Januari 1967) adalah Bupati Halmahera Selatan sejak 23 Mei 2016. Bahrain pernah menjabat sebagai Ketua DPRD Halmahera Selatan periode 2009\u20132014. Bahrain merupakan keponakan Gubernur Maluku Utara Abdul Ghani Kasuba serta mantan Bupati Halmahera Selatan Muhammad Kasuba.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bahrain_Kasuba_Bupati_Halmahera_Selatan_periode_2016-2021.jpg",
+            "title": "Mantan Bupati Halmahera Selatan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Bahrain_Kasuba"
+            },
+            "communityID": "9c843317-1c51-45d6-8693-d13a79283018"
+        },
+        {
+            "name": "Muhammad Thariq Kasuba",
+            "description": "",
+            "profilePic": "",
+            "title": null,
+            "sites": {},
+            "communityID": "9c843317-1c51-45d6-8693-d13a79283018"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Pemilihan umum Wali Kota Surabaya 2024",
+    "region": "Surabaya",
+    "level": "KOTA",
+    "path": "kota-surabaya",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Surabaya_2024",
+    "communityID": "f53db542-7680-4692-b2b0-74713bb19153",
+    "candidates": [
+        {
+            "name": "Eri Cahyadi",
+            "description": "Eri Cahyadi, S.T., M.T. (lahir 27 Mei 1977)[1] adalah Wali Kota Surabaya, mulai menjabat sejak 26 Februari 2021.[2] Sebelumnya, ia adalah Kepala Badan Perencanaan Pembangunan Kota Surabaya (2018-2020) dan Kepala Dinas Perumahan Rakyat dan Kawasan Pemukiman, Cipta Karya dan Tata Ruang Kota Surabaya (2017\u20132018).[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/59/Wali_Kota_Eri.jpg",
+            "title": "Wali Kota Surabaya periode 2021-2024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Eri_Cahyadi"
+            },
+            "communityID": "f53db542-7680-4692-b2b0-74713bb19153"
+        },
+        {
+            "name": "Armuji",
+            "description": "Ir. H. Armuji, M.H. (lahir 8 Juni 1965) Armuji merupakan politisi PDI Perjuangan Saat ini dia sedang menjabat sebagai Wakil Walikota Surabaya.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/72/Wakil_Wali_Kota_Armuji.jpg",
+            "title": "Wakil Wali Kota Surabaya periode 2021-2024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Armuji"
+            },
+            "communityID": "f53db542-7680-4692-b2b0-74713bb19153"
+        }
+    ]
+}

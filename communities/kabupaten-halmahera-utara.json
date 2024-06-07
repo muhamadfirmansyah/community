@@ -1,0 +1,37 @@
+{
+    "title": "Pemilihan umum Bupati Halmahera Utara 2024",
+    "region": "Halmahera Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-halmahera-utara",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Halmahera_Utara_2024",
+    "communityID": "946e9e16-fe1b-4e18-8a5e-5c6685097d13",
+    "candidates": [
+        {
+            "name": "Muchlis Tapi Tapi",
+            "description": "Muchlis Tapi Tapi adalah seorang politikus Indonesia. Ia menjabat sebagai Wakil Bupati Halmahera Utara selama dua periode. Ia didorong oleh Partai Nasdem untuk maju dalam pemilihan umum Bupati Halmahera Utara 2024.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Muchlis_Tapi_Tapi.jpg",
+            "title": "Wakil Bupati Halmahera Utara",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muchlis_Tapi_Tapi"
+            },
+            "communityID": "946e9e16-fe1b-4e18-8a5e-5c6685097d13"
+        },
+        {
+            "name": "Joel B. Wagono",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Anggota DPRD Provinsi Maluku Utara",
+            "sites": {},
+            "communityID": "946e9e16-fe1b-4e18-8a5e-5c6685097d13"
+        },
+        {
+            "name": "Johan Josias Manery",
+            "description": "",
+            "profilePic": "",
+            "title": null,
+            "sites": {},
+            "communityID": "946e9e16-fe1b-4e18-8a5e-5c6685097d13"
+        }
+    ]
+}

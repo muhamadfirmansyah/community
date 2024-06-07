@@ -1,0 +1,34 @@
+{
+    "title": "Pemilihan umum Bupati Sumba Barat Daya 2024",
+    "region": "Sumba Barat Daya",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sumba-barat-daya",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Sumba_Barat_Daya_2024",
+    "communityID": "30df71d6-511a-4904-a3c2-23429681babb",
+    "candidates": [
+        {
+            "name": "Marthen Christian Taka",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Bupati Sumba Barat Daya periode 2019\u20132024",
+            "sites": {},
+            "communityID": "30df71d6-511a-4904-a3c2-23429681babb"
+        },
+        {
+            "name": "Soleman Lende Dappa",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua Umum (Ketum) Yayasan Tunas Timur",
+            "sites": {},
+            "communityID": "30df71d6-511a-4904-a3c2-23429681babb"
+        },
+        {
+            "name": "Dominggus Dama",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Provinsi Nusa Tenggara Timur",
+            "sites": {},
+            "communityID": "30df71d6-511a-4904-a3c2-23429681babb"
+        }
+    ]
+}

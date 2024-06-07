@@ -1,0 +1,56 @@
+{
+    "title": "Pemilihan umum Bupati Sinjai 2024",
+    "region": "Sinjai",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sinjai",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Sinjai_2024",
+    "communityID": "416972d4-91b0-4be8-a27d-65460ccc8b78",
+    "candidates": [
+        {
+            "name": "Andi Mahyanto Massarappi",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan pengurus Partai Golongan Karya (Golkar) DPD I Sulawesi Selatan",
+            "sites": {},
+            "communityID": "416972d4-91b0-4be8-a27d-65460ccc8b78"
+        },
+        {
+            "name": "Mizar Roem",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPD Partai NasDem Kabupaten Sinjai",
+            "sites": {},
+            "communityID": "416972d4-91b0-4be8-a27d-65460ccc8b78"
+        },
+        {
+            "name": "Takyuddin Masse",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "416972d4-91b0-4be8-a27d-65460ccc8b78"
+        },
+        {
+            "name": "Andi Kartini Ottong",
+            "description": "Hj. Andi Kartini Ottong, S.P., M.Sp.  (lahir 20 Juli 1971) adalah Wakil ketua DPRD Sinjai periode 2009 - 2018 dan Wakil Bupati Sinjai Periode 2018-2023. \n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Andi_Kartini_Ottong_Wakil_Bupati_Sinjai.jpg",
+            "title": "Wakil Bupati Sinjai periode 2018\u20132023",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Andi_Kartini_Ottong"
+            },
+            "communityID": "416972d4-91b0-4be8-a27d-65460ccc8b78"
+        },
+        {
+            "name": "Andi Seto Gadhista Asapa",
+            "description": "Andi Seto Gadhista Asapa, S.H., LL.M. (lahir 20 November 1983) di Kotamadya Ujung Pandang, Sulawesi Selatan, Indonesia adalah Bupati Kabupaten Sinjai periode 2018-2023.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Andi_Seto_Gadhista_Asapa_Bupati_Sinjai.jpg",
+            "title": "Bupati Sinjai periode 2018\u20132023",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Andi_Seto_Gadhista_Asapa"
+            },
+            "communityID": "416972d4-91b0-4be8-a27d-65460ccc8b78"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Pemilihan umum Bupati Dompu 2024",
+    "region": "Dompu",
+    "level": "KABUPATEN",
+    "path": "kabupaten-dompu",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Dompu_2024",
+    "communityID": "db208137-96f9-47ef-877e-728f67476ff0",
+    "candidates": [
+        {
+            "name": "Kader Jaelani",
+            "description": "H. Kader Jaelani atau Abdul Kader Jaelani Barakwan (lahir 24 Oktober 1976) adalah Bupati Dompu periode 2021\u20132026. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Barat, Zulkieflimansyah di Gedung Graha Bhakti Praja Kompleks Kantor Gubernur Nusa Tenggara Barat, Mataram.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bupati_Dompu_Kader_Jaelani.jpg",
+            "title": "Bupati Dompu periode 2021\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Kader_Jaelani"
+            },
+            "communityID": "db208137-96f9-47ef-877e-728f67476ff0"
+        },
+        {
+            "name": "Supryadin",
+            "description": "",
+            "profilePic": "",
+            "title": "Aktivis",
+            "sites": {},
+            "communityID": "db208137-96f9-47ef-877e-728f67476ff0"
+        },
+        {
+            "name": "Bambang Firdaus",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua Dewan Pimpinan Cabang Partai Gerindra Kabupaten Dompu",
+            "sites": {},
+            "communityID": "db208137-96f9-47ef-877e-728f67476ff0"
+        },
+        {
+            "name": "Ridwan Syah",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Kepala Dinas PUPR Provinsi NTB",
+            "sites": {},
+            "communityID": "db208137-96f9-47ef-877e-728f67476ff0"
+        }
+    ]
+}

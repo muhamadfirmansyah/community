@@ -1,0 +1,69 @@
+{
+    "title": "Pemilihan umum Bupati Enrekang 2024",
+    "region": "Enrekang",
+    "level": "KABUPATEN",
+    "path": "kabupaten-enrekang",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Enrekang_2024",
+    "communityID": "76e5310c-d0c5-447d-a491-12d47c6ed7f4",
+    "candidates": [
+        {
+            "name": "Mitra Fakhruddin",
+            "description": "Mitra Fakhruddin M.B. (lahir 20 September 1986) adalah seorang politikus Indonesia yang saat ini menjabat sebagai anggota DPR-RI sejak 2019. Ia mewakili daerah pemilihan Sulawesi Selatan III. Mitra merupakan kader Partai Amanat Nasional, ia bertugas di Komisi X.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/7a/DPR_Mitra_Fakhruddin_M.B.jpg",
+            "title": "Anggota DPR RI Fraksi Partai Amanat Nasional",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mitra_Fakhruddin"
+            },
+            "communityID": "76e5310c-d0c5-447d-a491-12d47c6ed7f4"
+        },
+        {
+            "name": "Saharuddin",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Provinsi Sulawesi Selatan Fraksi Partai Persatuan Pembangunan",
+            "sites": {},
+            "communityID": "76e5310c-d0c5-447d-a491-12d47c6ed7f4"
+        },
+        {
+            "name": "Asman",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Bupati Enrekang periode 2018\u20132023",
+            "sites": {},
+            "communityID": "76e5310c-d0c5-447d-a491-12d47c6ed7f4"
+        },
+        {
+            "name": "Andi Liu Were La Tinro",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengurus DPW PPP Provinsi Sulawesi Selatan",
+            "sites": {},
+            "communityID": "76e5310c-d0c5-447d-a491-12d47c6ed7f4"
+        },
+        {
+            "name": "M Ansar",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Sekretaris Daerah Kabupaten Enrekang",
+            "sites": {},
+            "communityID": "76e5310c-d0c5-447d-a491-12d47c6ed7f4"
+        },
+        {
+            "name": "Yusuf Ritangnga",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "76e5310c-d0c5-447d-a491-12d47c6ed7f4"
+        },
+        {
+            "name": "Irpan",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "76e5310c-d0c5-447d-a491-12d47c6ed7f4"
+        }
+    ]
+}

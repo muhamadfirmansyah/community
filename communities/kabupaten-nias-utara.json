@@ -1,0 +1,70 @@
+{
+    "title": "Pemilihan umum Bupati Nias Utara 2024",
+    "region": "Nias Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-nias-utara",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Nias_Utara_2024",
+    "communityID": "b89251b4-4c34-4d3f-8d28-275aff4b6aae",
+    "candidates": [
+        {
+            "name": "Amizaro Waruwu",
+            "description": "Amizaro Waruwu, S.Pd. (lahir 23 Maret 1976) adalah Bupati Nias Utara periode 2021\u20132024. Ia menjabat  sejak 26 April 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Raja Inal Siregar Lantai II Kantor Gubernur Sumatera Utara, Medan.[1] Ia juga merupakan politisi Partai Amanat Nasional dan dipercaya sebagai Ketua DPD PAN Kabupaten Nias Utara.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Amizaro_Waruwu_2021.png",
+            "title": "Bupati Nias Utara",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Amizaro_Waruwu"
+            },
+            "communityID": "b89251b4-4c34-4d3f-8d28-275aff4b6aae"
+        },
+        {
+            "name": "Yusman Zega",
+            "description": "Yusman Zega, A.Pi., M.Si. (lahir 2 Juli 1962) adalah Wakil Bupati Nias Utara periode 2021\u20132024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Raja Inal Siregar Lantai II Kantor Gubernur Sumatera Utara, Medan.[1] Ia juga merupakan politisi Partai NasDem dan dipercaya sebagai Ketua DPD Partai NasDem Kabupaten Nias Utara.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Yusman_Zega_2021.png",
+            "title": "Wakil Bupati Nias Utara",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yusman_Zega"
+            },
+            "communityID": "b89251b4-4c34-4d3f-8d28-275aff4b6aae"
+        },
+        {
+            "name": "Marselinus Ingati Nazara",
+            "description": "Marselinus Ingati Nazara, A.Md. (lahir 28 Oktober 1970) adalah Bupati Nias Utara periode 2016\u20132021.[1][2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Bupati_Nias_Utara_Marselinus_Ingati_Nazara.jpg",
+            "title": "Mantan Bupati Nias Utara",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Marselinus_Ingati_Nazara"
+            },
+            "communityID": "b89251b4-4c34-4d3f-8d28-275aff4b6aae"
+        },
+        {
+            "name": "Edward Zega",
+            "description": "Edward Zega (lahir 28 Juni 1954) merupakan mantan Bupati Nias Utara yang sekarang Menjadi anggota DPRD Sumatera Utara Periode 2019-2024\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/dc/KPU_Edward_Zega.jpg",
+            "title": "Anggota DPRD Sumut",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Edward_Zega"
+            },
+            "communityID": "b89251b4-4c34-4d3f-8d28-275aff4b6aae"
+        },
+        {
+            "name": "Fatizaro Hulu",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRD Nias Utara",
+            "sites": {},
+            "communityID": "b89251b4-4c34-4d3f-8d28-275aff4b6aae"
+        },
+        {
+            "name": "Marinus Nazara",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua Umum Himpunan Masyarakat Nias Utara",
+            "sites": {},
+            "communityID": "b89251b4-4c34-4d3f-8d28-275aff4b6aae"
+        }
+    ]
+}

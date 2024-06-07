@@ -1,0 +1,64 @@
+{
+    "title": "Pemilihan umum Bupati Pacitan 2024",
+    "region": "Pacitan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pacitan",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Pacitan_2024",
+    "communityID": "f58da4ef-c634-4131-be65-79f70be8a687",
+    "candidates": [
+        {
+            "name": "Indrata Nur Bayuaji",
+            "description": "Indrata Nur Bayuaji, S.S. (lahir 16 Desember 1978) adalah seorang politikus asal Jawa Timur yang terpilih sebagai Bupati Pacitan pada periode 2021-2024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Official_Portrait_of_Indrata_Nur_Bayuaji%2C_Regent_of_Pacitan.jpg",
+            "title": "Bupati Pacitan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Indrata_Nur_Bayuaji"
+            },
+            "communityID": "f58da4ef-c634-4131-be65-79f70be8a687"
+        },
+        {
+            "name": "Gagarin",
+            "description": "Gagarin, S.Sos. (lahir 10 Mei 1970) atau yang sering dipanggil Gagarin Sumrambah adalah seorang politikus asal Jawa Timur yang terpilih sebagai Wakil Bupati Pacitan pada periode 2021-2024 mendampingi Indrata Nur Bayuaji.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Wakil_Bupati_Pacitan_Gagarin.jpg",
+            "title": "Wakil Bupati Pacitan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Gagarin"
+            },
+            "communityID": "f58da4ef-c634-4131-be65-79f70be8a687"
+        },
+        {
+            "name": "Eko Prasetyo Wahyudiarto",
+            "description": "",
+            "profilePic": "",
+            "title": "Putra Mantan Bupati Pacitan Indartato",
+            "sites": {},
+            "communityID": "f58da4ef-c634-4131-be65-79f70be8a687"
+        },
+        {
+            "name": "Fibi Irawan",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC PKB Kab. Pacitan",
+            "sites": {},
+            "communityID": "f58da4ef-c634-4131-be65-79f70be8a687"
+        },
+        {
+            "name": "Heru Wiwoho",
+            "description": "",
+            "profilePic": "",
+            "title": "Sekretaris Daerah (Sekda) Kabupaten Pacitan",
+            "sites": {},
+            "communityID": "f58da4ef-c634-4131-be65-79f70be8a687"
+        },
+        {
+            "name": "Ronny Wahyono",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Kab. Pacitan",
+            "sites": {},
+            "communityID": "f58da4ef-c634-4131-be65-79f70be8a687"
+        }
+    ]
+}

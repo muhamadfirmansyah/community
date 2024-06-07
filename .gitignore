@@ -1,0 +1,7 @@
+/noused
+.vscode
+.idx
+.env
+__pycache__
+missing.*
+note.txt

@@ -1,0 +1,34 @@
+{
+    "title": "Pemilihan umum Bupati Seram Bagian Barat 2024",
+    "region": "Seram Bagian Barat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-seram-bagian-barat",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Seram_Bagian_Barat_2024",
+    "communityID": "f4a78a6d-8ccb-4e3d-aed3-62dbb2a7b6db",
+    "candidates": [
+        {
+            "name": "Timotius Akerina",
+            "description": "",
+            "profilePic": "",
+            "title": "Bupati Seram Bagian Barat sisa masa jabatan periode 2017\u20132022 pada tahun 2021\u20132022",
+            "sites": {},
+            "communityID": "f4a78a6d-8ccb-4e3d-aed3-62dbb2a7b6db"
+        },
+        {
+            "name": "La Siteni",
+            "description": "",
+            "profilePic": "",
+            "title": "Kader Partai Amanat Nasioal",
+            "sites": {},
+            "communityID": "f4a78a6d-8ccb-4e3d-aed3-62dbb2a7b6db"
+        },
+        {
+            "name": "Ayu Ningsi",
+            "description": "",
+            "profilePic": "",
+            "title": "Penyanyi",
+            "sites": {},
+            "communityID": "f4a78a6d-8ccb-4e3d-aed3-62dbb2a7b6db"
+        }
+    ]
+}

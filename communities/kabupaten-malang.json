@@ -1,0 +1,29 @@
+{
+    "title": "Pemilihan umum Bupati Malang 2024",
+    "region": "Malang",
+    "level": "KABUPATEN",
+    "path": "kabupaten-malang",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Malang_2024",
+    "communityID": "698e5ffe-2b19-42b5-bacc-b73d39b954de",
+    "candidates": [
+        {
+            "name": "Sanusi (politikus)",
+            "description": "Drs. H. M. Sanusi, M.M.[1] (lahir 20 Mei 1960) adalah Adipati Malang yang menjabat sejak 17 September 2019 menggantikan Rendra Kresna yang ditahan KPK karena diduga menerima suap.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/2f/H._M._Sanusi%2C_MM.jpg",
+            "title": "Bupati Malang sisa masa jabatan periode 2016\u20132021 pada tahun 2019\u20132021 dan periode 2021\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sanusi_(bupati)"
+            },
+            "communityID": "698e5ffe-2b19-42b5-bacc-b73d39b954de"
+        },
+        {
+            "name": "HM Kholiq",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRD Kabupaten Malang",
+            "sites": {},
+            "communityID": "698e5ffe-2b19-42b5-bacc-b73d39b954de"
+        }
+    ]
+}

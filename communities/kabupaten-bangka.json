@@ -1,0 +1,107 @@
+{
+    "title": "Pemilihan umum Bupati Bangka 2024",
+    "region": "Bangka",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bangka",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Bangka_2024",
+    "communityID": "81f49796-5fd1-4bd3-8f31-43ac361fdaed",
+    "candidates": [
+        {
+            "name": "Mulkan",
+            "description": "Mulkan, S.H., M.H. (lahir 5 April 1974) adalah Bupati Bangka periode 2018\u20142023. Ia pernah menjabat sebagai Anggota DPRD Kabupaten Bangka.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bupati_Bangka_Mulkan.jpg",
+            "title": "Bupati Bangka",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mulkan"
+            },
+            "communityID": "81f49796-5fd1-4bd3-8f31-43ac361fdaed"
+        },
+        {
+            "name": "Tarmizi Saat",
+            "description": "Tarmizi Saat adalah seorang politikus Indonesia. Ia tergabung dalam Partai Nasdem. Ia menjabat sebagai Bupati Bangka dari 2013 sampai 2018 didampingi oleh Rustamsyah selaku Wakil Bupati Bangka. Pada pemilihan umum Bupati Bangka 2018, ia maju sebagai cabup didampingi Amri Cahyadi selaku cawabup, namun kalah dengan pasangan Mulkan-Syahbudin.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/8a/KPU_Tarmizi_H.Saat.jpg",
+            "title": "Mantan Bupati Bangka",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Tarmizi_Saat"
+            },
+            "communityID": "81f49796-5fd1-4bd3-8f31-43ac361fdaed"
+        },
+        {
+            "name": "Herman Suhadi",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Babel",
+            "sites": {},
+            "communityID": "81f49796-5fd1-4bd3-8f31-43ac361fdaed"
+        },
+        {
+            "name": "Matzan",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Babel",
+            "sites": {},
+            "communityID": "81f49796-5fd1-4bd3-8f31-43ac361fdaed"
+        },
+        {
+            "name": "Yusroni Yazid",
+            "description": "H. Yusroni Yazid[1] (lahir 25 Desember 1962) adalah politisi berkebangsaan Indonesia. Dia pernah menjadi bupati Bupati Bangka dari 17 Agustus 2006 hingga 25 Agustus 2013.\n",
+            "profilePic": "",
+            "title": "Mantan Bupati Bangka",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yusroni_Yazid"
+            },
+            "communityID": "81f49796-5fd1-4bd3-8f31-43ac361fdaed"
+        },
+        {
+            "name": "M. Taufik Koriyanto",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua I DPRD Bangka",
+            "sites": {},
+            "communityID": "81f49796-5fd1-4bd3-8f31-43ac361fdaed"
+        },
+        {
+            "name": "Imelda",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Bangka",
+            "sites": {},
+            "communityID": "81f49796-5fd1-4bd3-8f31-43ac361fdaed"
+        },
+        {
+            "name": "Junaedi Surya",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Bangka",
+            "sites": {},
+            "communityID": "81f49796-5fd1-4bd3-8f31-43ac361fdaed"
+        },
+        {
+            "name": "Febry Pranata",
+            "description": "",
+            "profilePic": "",
+            "title": null,
+            "sites": {},
+            "communityID": "81f49796-5fd1-4bd3-8f31-43ac361fdaed"
+        },
+        {
+            "name": "Harwendro Adityo Dewanto",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi Gerindra",
+            "sites": {},
+            "communityID": "81f49796-5fd1-4bd3-8f31-43ac361fdaed"
+        },
+        {
+            "name": "Syahrial Ridho",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "81f49796-5fd1-4bd3-8f31-43ac361fdaed"
+        }
+    ]
+}

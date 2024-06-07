@@ -1,0 +1,59 @@
+{
+    "title": "Pemilihan umum Gubernur Papua Selatan 2024",
+    "region": "Papua Selatan",
+    "level": "PROVINSI",
+    "path": "provinsi-papua-selatan",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Gubernur_Papua_Selatan_2024",
+    "communityID": "2c4e11ff-a081-47dd-be86-944e59c60457",
+    "candidates": [
+        {
+            "name": "Frederikus Gebze",
+            "description": "Frederikus Gebze (lahir di Merauke, Papua, 25 November 1971) adalah seorang politisi asal Merauke, Papua, Indonesia\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bupati_Frederikus_Gebze_Kabupaten_Merauke_Papua.jpg",
+            "title": "Bupati Merauke periode 2016-2021 dan Ketua DPD PAN Kabupaten Merauke",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Frederikus_Gebze"
+            },
+            "communityID": "2c4e11ff-a081-47dd-be86-944e59c60457"
+        },
+        {
+            "name": "Irjen. Pol.",
+            "description": "",
+            "profilePic": "",
+            "title": "Kapolda Papua",
+            "sites": {},
+            "communityID": "2c4e11ff-a081-47dd-be86-944e59c60457"
+        },
+        {
+            "name": "Johanes Gluba Gebze",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Bupati Merauke",
+            "sites": {},
+            "communityID": "2c4e11ff-a081-47dd-be86-944e59c60457"
+        },
+        {
+            "name": "Romanus Mbaraka",
+            "description": "Drs. Romanus Mbaraka, M.T. (lahir 8 April 1969) adalah politikus Indonesia. Ia adalah Bupati Merauke 2 periode yakni 2011\u20142016[1] dan 2021\u20142024. Bersama wakilnya, Ridwan, mereka berhasil memenangkan pemilihan umum Bupati Merauke 2020.\n",
+            "profilePic": "",
+            "title": "Bupati Merauke",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Romanus_Mbaraka"
+            },
+            "communityID": "2c4e11ff-a081-47dd-be86-944e59c60457"
+        },
+        {
+            "name": "Yusak Yaluwo",
+            "description": "Yusak Yaluwo, S.H., M.Si.[1] (lahir 20 Mei 1970) adalah politikus Indonesia yang menjabat Bupati Boven Digoel 2 periode yakni 2005\u20142010 dan 2010\u20142013. Yusak pernah menjabat sebagai Wakil Ketua DPRD Boven Digoel.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/81/KPU_Yusak_Yaluwo.png",
+            "title": "Mantan Bupati Boven Digoel",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yusak_Yaluwo"
+            },
+            "communityID": "2c4e11ff-a081-47dd-be86-944e59c60457"
+        }
+    ]
+}

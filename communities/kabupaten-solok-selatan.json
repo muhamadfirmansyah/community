@@ -1,0 +1,59 @@
+{
+    "title": "Pemilihan umum Bupati Solok Selatan 2024",
+    "region": "Solok Selatan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-solok-selatan",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Solok_Selatan_2024",
+    "communityID": "4a371541-3e6c-4027-825a-61edf546bdd6",
+    "candidates": [
+        {
+            "name": "Khairunas",
+            "description": "H. Khairunas, S.I.P., M.Si. (lahir 2 Maret 1967) adalah politikus Indonesia dari Partai Golongan Karya yang menjabat sebagai Bupati Solok Selatan periode 2021\u20142024.[3] Ia pernah menjabat sebagai Anggota DPRD Sumatera Barat Fraksi Golkar periode 2019\u20142020, Ketua DPRD Kabupaten Solok Selatan tiga periode sejak 2004 hingga 2015, dan Anggota DPRD Kabupaten Solok periode 1999\u20132004.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bupati_Solok_Selatan_Khairunas.jpg/1200px-Bupati_Solok_Selatan_Khairunas.jpg",
+            "title": "Bupati Solok Selatan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Khairunas"
+            },
+            "communityID": "4a371541-3e6c-4027-825a-61edf546bdd6"
+        },
+        {
+            "name": "Yulian Efi",
+            "description": "Ir. H. Yulian Efi, M.M. (lahir 18 November 1966) adalah Wakil Bupati Solok Selatan periode 2021\u20142024.[1] Ia adalah wakil dari Bupati Solok Selatan, Khairunas.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wakil_Bupati_Solok_Selatan_Yulian_Efi.jpg/1200px-Wakil_Bupati_Solok_Selatan_Yulian_Efi.jpg",
+            "title": "Wakil Bupati Solok Selatan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yulian_Efi"
+            },
+            "communityID": "4a371541-3e6c-4027-825a-61edf546bdd6"
+        },
+        {
+            "name": "Abdul Rahman (politikus)",
+            "description": "Drs. H. Abdul Rahman, S.H. (lahir 1 Maret 1967) adalah politikus Partai NasDem yang pernah menjabat Pelaksana Tugas Bupati Solok Selatan (Solsel) sejak 2020 hingga 2021. Sebelumnya, ia menjabat Wakil Bupati Solok Selatan, Sumatera Barat 2 periode yakni 2010\u20132015 dan 2016\u20132020, mendampingi bupati Muzni Zakaria.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d1/KPU_Abdul_Rahman.jpg",
+            "title": "Mantan Wakil Bupati Solok Selatan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Abdul_Rahman_(politikus)"
+            },
+            "communityID": "4a371541-3e6c-4027-825a-61edf546bdd6"
+        },
+        {
+            "name": "Armen Syahjohan",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRD Solok Selatan",
+            "sites": {},
+            "communityID": "4a371541-3e6c-4027-825a-61edf546bdd6"
+        },
+        {
+            "name": "Irwan Afriadi",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Sumbar",
+            "sites": {},
+            "communityID": "4a371541-3e6c-4027-825a-61edf546bdd6"
+        }
+    ]
+}

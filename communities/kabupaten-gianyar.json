@@ -1,0 +1,75 @@
+{
+    "title": "Pemilihan umum Bupati Gianyar 2024",
+    "region": "Gianyar",
+    "level": "KABUPATEN",
+    "path": "kabupaten-gianyar",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Gianyar_2024",
+    "communityID": "28977124-5be3-4b13-8d43-ceefec0e0cbd",
+    "candidates": [
+        {
+            "name": "I Made Agus Mahayastra",
+            "description": "I Made Mahayastra, SST.Par., M.A.P. (lahir 2 Juni 1971), adalah Bupati Gianyar terpilih periode 2018-2023. Sebelumnya, Mahayastra menjabat wakil bupati Gianyar periode 2014-2018.\n",
+            "profilePic": "",
+            "title": "Bupati Gianyar",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/I_Made_Agus_Mahayastra"
+            },
+            "communityID": "28977124-5be3-4b13-8d43-ceefec0e0cbd"
+        },
+        {
+            "name": "I Kadek Diana",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Bali",
+            "sites": {},
+            "communityID": "28977124-5be3-4b13-8d43-ceefec0e0cbd"
+        },
+        {
+            "name": "Tjok Gde Asmara Putra Sukawati",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Bali",
+            "sites": {},
+            "communityID": "28977124-5be3-4b13-8d43-ceefec0e0cbd"
+        },
+        {
+            "name": "I Nyoman Parta",
+            "description": "I Nyoman Parta (lahir 9 Juni 1971) adalah seorang politikus Indonesia yang menjabat sebagai Anggota DPR-RI sejak 1 Oktober 2019. Ia mewakili daerah pemilihan Bali. Parta merupakan kader Partai Demokrasi Indonesia Perjuangan. Saat ini, ia duduk di Komisi VI.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Anggota_DPR_I_Nyoman_Parta.jpg",
+            "title": "Anggota DPR RI",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/I_Nyoman_Parta"
+            },
+            "communityID": "28977124-5be3-4b13-8d43-ceefec0e0cbd"
+        },
+        {
+            "name": "Gde Sugianyar Dwi Putra",
+            "description": "Brigjen. Pol. (Purn.) Drs. Gde Sugianyar Dwi Putra, S.H., M.Si. (lahir 14 September 1964) adalah seorang Purnawirawan Polri yang sebelumnya menjabat sebagai Kepala BNNP Bali.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Kepala_Badan_Narkotika_Nasional_Bali_Gde_Sugianyar_Dwi_Putra.jpg",
+            "title": "Mantan Wakapolda Sulteng",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Gde_Sugianyar_Dwi_Putra"
+            },
+            "communityID": "28977124-5be3-4b13-8d43-ceefec0e0cbd"
+        },
+        {
+            "name": "Tjokorda Raka Kerthyasa",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Cabup Gianyar 2018",
+            "sites": {},
+            "communityID": "28977124-5be3-4b13-8d43-ceefec0e0cbd"
+        },
+        {
+            "name": "Ida Bagus Gaga Adi Saputra",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Sekda Gianyar",
+            "sites": {},
+            "communityID": "28977124-5be3-4b13-8d43-ceefec0e0cbd"
+        }
+    ]
+}

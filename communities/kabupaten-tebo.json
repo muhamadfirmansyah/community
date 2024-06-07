@@ -1,0 +1,107 @@
+{
+    "title": "Pemilihan umum Bupati Tebo 2024",
+    "region": "Tebo",
+    "level": "KABUPATEN",
+    "path": "kabupaten-tebo",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Tebo_2024",
+    "communityID": "5650d8e9-161a-4cf4-b362-3367828480da",
+    "candidates": [
+        {
+            "name": "Hamdi (politikus)",
+            "description": "Hamdi, S.Sos., M.M. (lahir 7 Februari 1970) adalah Wakil Bupati Tebo periode 2011-2016.[1] Hamdi menjadi Wakil Bupati Tebo terpilih pada Pilkada Serentak 2011, berpasangan dengan Sukandar sebagai Bupati.[2][3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/bb/KPU_Hamdi.jpg",
+            "title": "Mantan Wakil Bupati Tebo 2011-2016",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hamdi_(politikus)"
+            },
+            "communityID": "5650d8e9-161a-4cf4-b362-3367828480da"
+        },
+        {
+            "name": "Syahlan",
+            "description": "Syahlan, S.H. (lahir 1 Juni 1965) adalah Wakil Bupati Tebo periode 2017\u20142022. Ia merupakan wakil dari Bupati, Sukandar.[1][2][3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/4/4a/Wakil_Bupati_Tebo_Syahlan.jpg",
+            "title": "Mantan Wakil Bupati Tebo 2017-2022",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Syahlan"
+            },
+            "communityID": "5650d8e9-161a-4cf4-b362-3367828480da"
+        },
+        {
+            "name": "Saniatul Lativa",
+            "description": "Hj. Saniatul Lativa, S.E., M.M. (lahir 13 Juni 1977) adalah politikus Indonesia yang menjabat sebagai anggota DPR-RI selama dua periode yakni 2014\u20132019 dan 2019\u20132024. Ia mewakili daerah pemilihan Jambi. Saniatul merupakan kader Partai Golongan Karya, ia duduk di Komisi IX.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Anggota_DPR_Saniatul_Lativa.jpg",
+            "title": "Anggota DPR RI 2014-24",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Saniatul_Lativa"
+            },
+            "communityID": "5650d8e9-161a-4cf4-b362-3367828480da"
+        },
+        {
+            "name": "Wartono Triyan Kusumo",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Provinsi Jambi",
+            "sites": {},
+            "communityID": "5650d8e9-161a-4cf4-b362-3367828480da"
+        },
+        {
+            "name": "Aspan",
+            "description": "",
+            "profilePic": "",
+            "title": "Pj Bupati Tebo",
+            "sites": {},
+            "communityID": "5650d8e9-161a-4cf4-b362-3367828480da"
+        },
+        {
+            "name": "Khalis Mustik",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Kab Tebo",
+            "sites": {},
+            "communityID": "5650d8e9-161a-4cf4-b362-3367828480da"
+        },
+        {
+            "name": "Agus Rubiyanto",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Kab Tebo",
+            "sites": {},
+            "communityID": "5650d8e9-161a-4cf4-b362-3367828480da"
+        },
+        {
+            "name": "Eka Marlina",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Prov Jambi",
+            "sites": {},
+            "communityID": "5650d8e9-161a-4cf4-b362-3367828480da"
+        },
+        {
+            "name": "Yopi Muthalib",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Cabup Tebo 2011",
+            "sites": {},
+            "communityID": "5650d8e9-161a-4cf4-b362-3367828480da"
+        },
+        {
+            "name": "Syamsu Rizal",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRD Kab Tebo",
+            "sites": {},
+            "communityID": "5650d8e9-161a-4cf4-b362-3367828480da"
+        },
+        {
+            "name": "Ansori s.fil",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD provinsi jambi",
+            "sites": {},
+            "communityID": "5650d8e9-161a-4cf4-b362-3367828480da"
+        }
+    ]
+}

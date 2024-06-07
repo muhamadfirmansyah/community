@@ -1,0 +1,122 @@
+{
+    "title": "Pemilihan umum Gubernur Papua 2024",
+    "region": "Papua",
+    "level": "PROVINSI",
+    "path": "provinsi-papua",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Gubernur_Papua_2024",
+    "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293",
+    "candidates": [
+        {
+            "name": "Mathius Awoitauw",
+            "description": "Matius Awoitauw, S.E., M.Si. (lahir 20 Mei 1960) adalah politikus yang menjabat Bupati Jayapura 2 periode yakni 2012\u20142017[1] dan 2017\u20142022.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/19/Mathius_Awoitauw.jpg",
+            "title": "Mantan Bupati Jayapura",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mathius_Awoitauw"
+            },
+            "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293"
+        },
+        {
+            "name": "Tonny Tesar",
+            "description": "Tonny Tesar, S.Sos. (lahir 6 November 1958) adalah Bupati Kepulauan Yapen 2 periode yakni 2012\u20132017[1] dan 2017\u20132022.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/21/KPU_Tonny_Tesar.jpg",
+            "title": "Mantan Bupati Kepulauan Yapen",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Tonny_Tesar"
+            },
+            "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293"
+        },
+        {
+            "name": "Benhur Tomi Mano",
+            "description": "Dr. Drs. Benhur Tomi Mano, M.M. (lahir 30 April 1965) adalah birokrat dan politikus Indonesia yang menjabat Wali Kota Jayapura 2 periode yakni 2011\u20132016 dan 2017\u20132022. Benhur pernah menjabat sebagai Kepala Dinas Pendapatan Daerah Kota Jayapura.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mayor_of_Jayapura_Benhur_Tommy_Mano.jpg",
+            "title": "Mantan Wali Kota Jayapura",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Benhur_Tomi_Mano"
+            },
+            "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293"
+        },
+        {
+            "name": "Zadrak Wamebu",
+            "description": "Zadrak Wamebu, S.H., M.M. (lahir 25 Mei 1959) adalah seorang politikus Indonesia yang pernah menjabat sebagai Wakil Bupati Jayapura periode 2006-2011 mendampingi Habel Melkias Suwae. Ia berasal dari komunitas masyarakat adat Kemtuk di Kabupaten Jayapura. Ayahnya bernama Ismael Wamebu, seorang Duguena (Ondoafi) Kampung Mamda Yawan, dan ibunya bernama Agusthina Dwaa.[1]\n",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Jayapura",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Zadrak_Wamebu"
+            },
+            "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293"
+        },
+        {
+            "name": "Eduard Fonataba",
+            "description": "Eduard Fonataba (lahir 6 Oktober 1951) adalah seorang politisi Indonesia yang menjabat sebagai Bupati Sarmi dalam tiga periode, yakni 2003-2004, 2005-2010, dan 2017-2022. Ia meraih tiga penghargaan sekaligus dari MURI (Museum Rekor Dunia Indonesia) sebagai pembangun rumah paling banyak untuk rakyat, pembeli truk paling banyak untuk rakyat dan sosok yang melakukan kunjungan kerja paling sedikit ke luar daerah.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/2/25/Eduard_Fonataba.png",
+            "title": "Mantan Bupati Sarmi",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Eduard_Fonataba"
+            },
+            "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293"
+        },
+        {
+            "name": "Mesak Manibor",
+            "description": "Drs. Mesak Manibor, MMT[1] (lahir 26 September 1963) adalah politisi asal Papua. Dia pernah menjabat sebagai Bupati Sarmi periode 2011\u20132016.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Mesak_Manibor_12.jpg",
+            "title": "Mantan Bupati Sarmi",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mesak_Manibor"
+            },
+            "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293"
+        },
+        {
+            "name": "Herry Ario Naap",
+            "description": "Herry Ario Naap, S.Si., M.Pd., (dikenal juga dengan akronim HAN) (lahir 03 Juli 1983) aadalah Bupati Biak Numfor sejak 19 Maret 2019. Sebelumnya, ia pernah menjabat sebagai Pelaksana Tugas Bupati Biak Numfor, Wakil Bupati Biak Numfor, dan Anggota DPRD Biak Numfor. Ia sempat berprofesi sebagai dosen dan aktif dalam kegiatan sosial sebelum masuk ke dunia politik. Ia adalah pendiri Yayasan Saswar Aswin dan pernah menjadi direkturnya pada tahun 2008-2009.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Herry_Ario_Naap_Bupati_Biak_Numfor.png",
+            "title": "Bupati Biak Numfor",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Herry_Ario_Naap"
+            },
+            "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293"
+        },
+        {
+            "name": "Boy Markus Dawir",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Papua",
+            "sites": {},
+            "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293"
+        },
+        {
+            "name": "Kristhina R. I. Luluporo",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Papua",
+            "sites": {},
+            "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293"
+        },
+        {
+            "name": "Toenjes Swansen Maniagasi",
+            "description": "",
+            "profilePic": "",
+            "title": "Direktur Eksekutif Komunitas Demokrasi Papua",
+            "sites": {},
+            "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293"
+        },
+        {
+            "name": "Billy Mambrasar",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Stafsus_Billy_Mambrasar_%28cropped%29.jpg",
+            "title": "Staf Khusus Presiden 2019-2024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Billy_Mambrasar"
+            },
+            "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293"
+        }
+    ]
+}

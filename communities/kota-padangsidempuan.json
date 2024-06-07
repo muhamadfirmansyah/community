@@ -1,0 +1,37 @@
+{
+    "title": "Pemilihan umum Wali Kota Padang Sidempuan 2024",
+    "region": "Padang Sidempuan",
+    "level": "KOTA",
+    "path": "kota-padangsidempuan",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Padang_Sidempuan_2024",
+    "communityID": "83d4c3c5-09fd-4983-96eb-d8a0b3acf600",
+    "candidates": [
+        {
+            "name": "Irsan Efendi Nasution",
+            "description": "Irsan Efendi Nasution, S.H. (lahir 24 April 1970) adalah Wali Kota Padangsidimpuan yang menjabat sejak 28 September 2018.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/b/b7/Irsan_Efendi_Nasution_Walikota.jpeg",
+            "title": "Wali Kota Padangsidimpuan 2018-2023",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Irsan_Efendi_Nasution"
+            },
+            "communityID": "83d4c3c5-09fd-4983-96eb-d8a0b3acf600"
+        },
+        {
+            "name": "Haji Marataman Siregar",
+            "description": "",
+            "profilePic": "",
+            "title": "S.H Ketua DPC Partai Hanura Kota Padangsidimpuan Anggota DPRD kota padangsidimpuan periode 2004-2009",
+            "sites": {},
+            "communityID": "83d4c3c5-09fd-4983-96eb-d8a0b3acf600"
+        },
+        {
+            "name": "Dr",
+            "description": "",
+            "profilePic": "",
+            "title": "S.H",
+            "sites": {},
+            "communityID": "83d4c3c5-09fd-4983-96eb-d8a0b3acf600"
+        }
+    ]
+}

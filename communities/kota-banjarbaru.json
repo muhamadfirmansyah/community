@@ -1,0 +1,65 @@
+{
+    "title": "Pemilihan umum Wali Kota Banjarbaru 2024",
+    "region": "Banjarbaru",
+    "level": "KOTA",
+    "path": "kota-banjarbaru",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Banjarbaru_2024",
+    "communityID": "1aee2fb1-640d-4761-ae4e-dc5b3ddf0403",
+    "candidates": [
+        {
+            "name": "Aditya Mufti Ariffin",
+            "description": "Darmawan Jaya Setiawan (Plt.)\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Aditya_Mufti_Ariffin.jpg",
+            "title": "Wali Kota Banjarbaru",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Aditya_Mufti_Ariffin"
+            },
+            "communityID": "1aee2fb1-640d-4761-ae4e-dc5b3ddf0403"
+        },
+        {
+            "name": "Wartono",
+            "description": "Wartono, S.E. (lahir 26 Februari 1966) adalah Wakil Wali Kota Banjarbaru periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Penjabat Gubernur Kalimantan Selatan, Safrizal ZA di Gedung Mahligai Pancasila, Banjarmasin.[1]\n",
+            "profilePic": "",
+            "title": "Wakil Wali Kota Banjarbaru",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Wartono"
+            },
+            "communityID": "1aee2fb1-640d-4761-ae4e-dc5b3ddf0403"
+        },
+        {
+            "name": "Hasnuryadi Sulaiman",
+            "description": "H.  Hasnuryadi Sulaiman, M.A.B., atau biasa dipanggil Hasnur (lahir 21 Juni 1975) adalah seorang pengusaha dan politikus Indonesia. Saat ini, ia menjabat sebagai Anggota DPR-RI sejak 2014 mewakili daerah pemilihan Kalimantan Selatan II. Hasnur merupakan kader Partai Golongan Karya dan duduk di Komisi VII.[1] Ia merupakan putra dari pengusaha dan pendiri klub sepak bola PS Barito Putera Abdussamad Sulaiman HB.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/2f/KPU_Hasnuryadi_Sulaiman.jpg",
+            "title": "Anggota DPR RI",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hasnuryadi_Sulaiman"
+            },
+            "communityID": "1aee2fb1-640d-4761-ae4e-dc5b3ddf0403"
+        },
+        {
+            "name": "Mila Karmila",
+            "description": "\n",
+            "profilePic": "",
+            "title": "Penyanyi Daerah Kalimantan Selatan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mila_Karmila"
+            },
+            "communityID": "1aee2fb1-640d-4761-ae4e-dc5b3ddf0403"
+        },
+        {
+            "name": "Muhidin",
+            "description": "H. Muhidin, S.E., S.H., M.M. (lahir 6 Mei 1958) adalah Wakil Gubernur Kalimantan Selatan periode 2021\u20142024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Muhidin%2CH-vice-goverment-of-south-kalimantan.idn.jpg/1200px-Muhidin%2CH-vice-goverment-of-south-kalimantan.idn.jpg",
+            "title": "Wakil Gubernur Kalimantan Selatan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muhidin"
+            },
+            "communityID": "1aee2fb1-640d-4761-ae4e-dc5b3ddf0403"
+        }
+    ]
+}

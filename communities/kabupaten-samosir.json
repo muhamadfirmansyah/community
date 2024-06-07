@@ -1,0 +1,94 @@
+{
+    "title": "Pemilihan umum Bupati Samosir 2024",
+    "region": "Samosir",
+    "level": "KABUPATEN",
+    "path": "kabupaten-samosir",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Samosir_2024",
+    "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182",
+    "candidates": [
+        {
+            "name": "Vandiko Gultom",
+            "description": "Vandiko Timotius Gultom, S.T. (lahir 16 Februari 1992) adalah seorang politikus muda[1] yang menjabat sebagai Bupati Samosir sejak 26 April 2021. Ia terpilih sebagai Bupati Samosir Periode 2021-2024 melalui Pemilihan Umum Bupati Samosir 2020. Ia mengalahkan calon petahana Rapidin Simbolon dan calon independen Marhuale Simbolon.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/22/Vandiko_Gultom_2021.jpg",
+            "title": "Bupati Samosir",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Vandiko_Gultom"
+            },
+            "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182"
+        },
+        {
+            "name": "Rapidin Simbolon",
+            "description": "Drs. Rapidin Simbolon, S.E., MM.[1] (lahir 11 Oktober 1967) adalah seorang politisi partai PDI Perjuangan yang menjabat sebagai Ketua DPD Partai Demokrasi Indonesia Perjuangan Provinsi Sumatera Utara.[2] Ia pernah menjabat sebagai Bupati Samosir dari tahun 2016 hingga 2021. Sebelum menjadi bupati, ia adalah Wakil Bupati Samosir dari tahun 2014 hingga 2015.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e7/KPU_Rapidin_Simbolon.jpg",
+            "title": "Mantan Bupati Samosir",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Rapidin_Simbolon"
+            },
+            "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182"
+        },
+        {
+            "name": "Sorta Ertaty Siahaan",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Samosir",
+            "sites": {},
+            "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182"
+        },
+        {
+            "name": "Rismawati Simarmata",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Anggota DPRD Samosir",
+            "sites": {},
+            "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182"
+        },
+        {
+            "name": "Saut Martua Tamba",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan ketua DPRD Samosir",
+            "sites": {},
+            "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182"
+        },
+        {
+            "name": "Nasip Simbolon",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua II DPRD Samosir",
+            "sites": {},
+            "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182"
+        },
+        {
+            "name": "Mulana MP Samosir",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi PDIP",
+            "sites": {},
+            "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182"
+        },
+        {
+            "name": "Wilmar Eliaser Simanjorang",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Wilmar_Eliaser_Simandjorang%2C_Acting_Regent_of_Samosir.jpg",
+            "title": "Mantan Pejabat Bupati Samosir",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Wilmar_Eliaser_Simanjorang"
+            },
+            "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182"
+        },
+        {
+            "name": "Effendi Simbolon",
+            "description": "Dr. Effendi Muara Sakti Simbolon, M.I.Pol. (lahir 1 Desember 1964) adalah politikus Partai Demokrasi Indonesia Perjuangan (PDI-P) yang menjabat anggota Dewan Perwakilan Rakyat Republik Indonesia (DPR-RI) empat periode sejak 2004. Di DPR-RI sendiri, Effendi menjabat sebagai wakil ketua komisi VII yang fokus pada bidang permasalahan Energi Sumber Daya Mineral, Riset, Teknologi dan Lingkungan Hidup hingga 2013.[1] Sejak 2019, ia merupakan anggota Komisi I DPR RI.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Effendi_Simbolon_received_a_visit_from_the_French_Parliament_Delegation%2C_November_2018.jpg/1200px-Effendi_Simbolon_received_a_visit_from_the_French_Parliament_Delegation%2C_November_2018.jpg",
+            "title": "Anggota DPR-RI",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Effendi_Simbolon"
+            },
+            "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182"
+        }
+    ]
+}

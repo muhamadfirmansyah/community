@@ -1,0 +1,32 @@
+{
+    "title": "Pemilihan umum Bupati Belu 2024",
+    "region": "Belu",
+    "level": "KABUPATEN",
+    "path": "kabupaten-belu",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Belu_2024",
+    "communityID": "7bce45bb-84ef-4ee5-bcd9-9a9f26da8300",
+    "candidates": [
+        {
+            "name": "Agustinus Taolin",
+            "description": "dr. Agustinus Taolin, SpPD-KGEH, FINASIM, yang memiliki nama asli Taolin Agustinus dan lebih populer dengan panggilan Agus Taolin (lahir 11 Agustus 1960) adalah seorang dokter spesialis penyakit dalam yang telah resmi ditetapkan sebagai Bupati Belu terpilih periode 2021 - 2024.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bupati_Belu_Agustinus_Taolin.png",
+            "title": "Bupati Belu",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Agustinus_Taolin"
+            },
+            "communityID": "7bce45bb-84ef-4ee5-bcd9-9a9f26da8300"
+        },
+        {
+            "name": "Willybrodus Lay",
+            "description": "Willy Brodus Lay, S.H. (lahir 18 Juni 1961) adalah politikus Indonesia yang menjabat Bupati Belu periode 2016\u20142021. Ia juga merupakan Ketua Partai Demokrat Kabupaten Belu ke-2 sejak 2006\u20142021\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/3c/KPU_Willybrodus_Lay.jpg",
+            "title": "Mantan Bupati Belu",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Willybrodus_Lay"
+            },
+            "communityID": "7bce45bb-84ef-4ee5-bcd9-9a9f26da8300"
+        }
+    ]
+}

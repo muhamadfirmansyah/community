@@ -1,0 +1,32 @@
+{
+    "title": "Pemilihan umum Bupati Fakfak 2024",
+    "region": "Fakfak",
+    "level": "KABUPATEN",
+    "path": "kabupaten-fakfak",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Fakfak_2024",
+    "communityID": "336dda57-9291-4758-9cea-a1019023e661",
+    "candidates": [
+        {
+            "name": "Untung Tamsil",
+            "description": "Untung Tamsil, S.Sos., M.Si. (lahir 1 Januari 1977) adalah politikus Partai Gerakan Indonesia Raya dan mantan birokrat Indonesia yang menjabat Bupati Fakfak periode 2021\u20142024.[1] Bersama wakilnya, Yohana Dina Hindom, mereka berhasil memenangkan pemilihan umum Bupati Fakfak 2020 melalui jalur Independen. Untung pernah menjabat sebagai Pelaksana Tugas Kepala Dinas Kelautan dan Perikanan Kabupaten Fakfak.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bupati_Fakfak_Untung_Tamsil.jpg",
+            "title": "Bupati Fakfak petahana dan kader Partai Gerindra",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Untung_Tamsil"
+            },
+            "communityID": "336dda57-9291-4758-9cea-a1019023e661"
+        },
+        {
+            "name": "Yohana Dina Hindom",
+            "description": "Yohana Dina Hindom, S.E., M.M. (lahir 6 Desember 1963) adalah Wakil Bupati Fakfak periode 2021\u20142024.[1] Ia adalah wakil dari Bupati Fakfak, Untung Tamsil.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Wakil_Bupati_Fakfak_Yohana_Dina_Hindom.jpg",
+            "title": "Wakil Bupati Fakfak dan kader Partai NasDem",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yohana_Dina_Hindom"
+            },
+            "communityID": "336dda57-9291-4758-9cea-a1019023e661"
+        }
+    ]
+}

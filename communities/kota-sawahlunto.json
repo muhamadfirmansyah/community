@@ -1,0 +1,32 @@
+{
+    "title": "Pemilihan umum Wali Kota Sawahlunto 2024",
+    "region": "Sawahlunto",
+    "level": "KOTA",
+    "path": "kota-sawahlunto",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Sawahlunto_2024",
+    "communityID": "b1f42990-babe-41ad-9f88-c68adf0d9e68",
+    "candidates": [
+        {
+            "name": "Deri Asta",
+            "description": "H. Deri Asta, S.H. (lahir 5 Oktober 1973)[3] adalah politikus Partai Amanat Nasional dan pengusaha Indonesia yamg menjabat Wali Kota Sawahlunto periode 2018\u20132023 setelah memenangkan Pilwako Sawahlunto 2018 bersama dengan Zohirin Sayuti sebagai Wakil Wali Kota Sawahlunto.[4] Ia adalah Ketua DPC Partai Amanat Nasional Kota Sawahlunto periode 2015\u20142020. Sebelumnya, ia merupakan anggota DPRD Kota Sawahlunto melalui pergantian antar waktu (PAW) periode 2009\u20132014 dan terpilih langsung untuk periode 2014\u20142018. Ia juga menjabat Ketua Komisi III DPRD Kota Sawahlunto periode 2014\u20142018. Ia pernah maju sebagai calon wakil wali kota pada Pilwako Sawahlunto 2013 mendampingi Fauzi Hasan.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/92/Deri_Asta.jpg",
+            "title": "Wali Kota Sawahlunto",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Deri_Asta"
+            },
+            "communityID": "b1f42990-babe-41ad-9f88-c68adf0d9e68"
+        },
+        {
+            "name": "Zohirin Sayuti",
+            "description": "H. Zohirin Sayuti, S.E. (lahir 25 Juni 1956)[1] adalah politikus dan mantan birokrat Indonesia yang menjabat Wakil Wali Kota Sawahlunto periode 2018\u20132023 setelah memenangkan Pilwako Sawahlunto 2018 bersama dengan Deri Asta sebagai Wali Kota Sawahlunto. Sebelumnya, ia merupakan Sekretaris Daerah Kota Sawahlunto.[1] Zohirin pernah menjabat sebagai ketua Badan Amil Zakat Nasional kota Sawahlunto.[2] Ia juga merupakan Ketua Pimpinan Daerah Muhammadiyah Kota Sawahlunto periode 2015-2020.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Zohirin_Sayuti.jpg",
+            "title": "Wakil Wali Kota Sawahlunto",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Zohirin_Sayuti"
+            },
+            "communityID": "b1f42990-babe-41ad-9f88-c68adf0d9e68"
+        }
+    ]
+}

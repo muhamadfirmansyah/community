@@ -1,0 +1,72 @@
+{
+    "title": "Pemilihan umum Bupati Mukomuko 2024",
+    "region": "Mukomuko",
+    "level": "KABUPATEN",
+    "path": "kabupaten-mukomuko",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Mukomuko_2024",
+    "communityID": "94d88a17-83d5-4747-8183-fce74b84d7aa",
+    "candidates": [
+        {
+            "name": "Choirul Huda (militer)",
+            "description": "Mayor Inf (Purn.) Choirul Huda, S.H. (lahir 1 Mei 1970) adalah Bupati Mukomuko periode 2016\u20132021.[1] Choirul Huda pernah menjabat sebagai Wakil Bupati Mukomuko periode 2010\u20132015.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Choirul_Huda_Bupati_Mukomuko.jpg",
+            "title": "Mantan Bupati Mukomuko",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Choirul_Huda_(militer)"
+            },
+            "communityID": "94d88a17-83d5-4747-8183-fce74b84d7aa"
+        },
+        {
+            "name": "dr.Jiwa Zhaqi Adiguna (Dokter/Aktifis) ",
+            "description": "",
+            "profilePic": "",
+            "title": "Dokter",
+            "sites": {},
+            "communityID": "94d88a17-83d5-4747-8183-fce74b84d7aa"
+        },
+        {
+            "name": "Sapuan (politikus)",
+            "description": "H. Sapuan, S.E., MM, Ak, CA, CPA, CPI.(lahir 27 Mei 1974) adalah pengusaha dan politikus Indonesia yang menjabat sebagai Bupati Mukomuko sejak 26 Februari 2021.\n",
+            "profilePic": "",
+            "title": "Bupati Mukomuko",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sapuan_(politikus)"
+            },
+            "communityID": "94d88a17-83d5-4747-8183-fce74b84d7aa"
+        },
+        {
+            "name": "Rahmadi AB",
+            "description": "",
+            "profilePic": "",
+            "title": null,
+            "sites": {},
+            "communityID": "94d88a17-83d5-4747-8183-fce74b84d7aa"
+        },
+        {
+            "name": "Muharamin",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Prov. Bengkulu",
+            "sites": {},
+            "communityID": "94d88a17-83d5-4747-8183-fce74b84d7aa"
+        },
+        {
+            "name": "Edwar Setiawan",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "94d88a17-83d5-4747-8183-fce74b84d7aa"
+        },
+        {
+            "name": "Edi Kasman",
+            "description": "",
+            "profilePic": "",
+            "title": "ASN",
+            "sites": {},
+            "communityID": "94d88a17-83d5-4747-8183-fce74b84d7aa"
+        }
+    ]
+}

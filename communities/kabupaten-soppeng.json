@@ -1,0 +1,53 @@
+{
+    "title": "Pemilihan umum Bupati Soppeng 2024",
+    "region": "Soppeng",
+    "level": "KABUPATEN",
+    "path": "kabupaten-soppeng",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Soppeng_2024",
+    "communityID": "76fcc9f6-f5db-4ef4-9c52-07c92970f098",
+    "candidates": [
+        {
+            "name": "Lutfi Halide",
+            "description": "Ir. H. Lutfi Halide, M.P. (lahir 19 September 1959) adalah seorang birokrat dan poliitkus Indonesia. Ia saat ini menjabat sebagai Wakil Bupati Soppeng sejak 2021. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Selatan Nurdin Abdullah di Rumah Jabatan Gubernur Sulawesi Selatan, Makassar.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/66/Wakil_Bupati_Soppeng%2C_Lutfi_Halide.jpg",
+            "title": null,
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Lutfi_Halide"
+            },
+            "communityID": "76fcc9f6-f5db-4ef4-9c52-07c92970f098"
+        },
+        {
+            "name": "Andi Mapparemma",
+            "description": "",
+            "profilePic": "",
+            "title": null,
+            "sites": {},
+            "communityID": "76fcc9f6-f5db-4ef4-9c52-07c92970f098"
+        },
+        {
+            "name": "Suwardi\u00a0Haseng",
+            "description": "",
+            "profilePic": "",
+            "title": null,
+            "sites": {},
+            "communityID": "76fcc9f6-f5db-4ef4-9c52-07c92970f098"
+        },
+        {
+            "name": "Tenri\u00a0Sessu\u00a0Mappecanji",
+            "description": "",
+            "profilePic": "",
+            "title": null,
+            "sites": {},
+            "communityID": "76fcc9f6-f5db-4ef4-9c52-07c92970f098"
+        },
+        {
+            "name": "Selle\u00a0KS\u00a0Dalle",
+            "description": "",
+            "profilePic": "",
+            "title": null,
+            "sites": {},
+            "communityID": "76fcc9f6-f5db-4ef4-9c52-07c92970f098"
+        }
+    ]
+}

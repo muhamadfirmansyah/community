@@ -1,0 +1,32 @@
+{
+    "title": "Pemilihan umum Bupati Banjar 2024",
+    "region": "Banjar",
+    "level": "KABUPATEN",
+    "path": "kabupaten-banjar",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Banjar_2024",
+    "communityID": "2dfb5a91-c9d4-4c2c-81c6-9804a5e2bb50",
+    "candidates": [
+        {
+            "name": "Saidi Mansyur",
+            "description": "H. Saidi Mansyur, S.I.Kom. (lahir 5 Mei 1987) adalah Bupati Banjar petahana yang menjabat mulai 26 Februari 2021, berpasangan dengan Wakil Bupati Banjar Said Idrus al-Habsyi.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bupati_Banjar_Saidi_Mansyur.jpg/1200px-Bupati_Banjar_Saidi_Mansyur.jpg",
+            "title": "Bupati Banjar petahana",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Saidi_Mansyur"
+            },
+            "communityID": "2dfb5a91-c9d4-4c2c-81c6-9804a5e2bb50"
+        },
+        {
+            "name": "Syaifullah Tamliha",
+            "description": "H. Syaifullah Tamliha, S.Pi., M.S. (lahir 18 Mei 1969) adalah seorang politikus Indonesia. Saat ini ia menjabat sebagai Anggota DPR-RI sejak 2009 mewakili daerah pemilihan Kalimantan Selatan I. Syaifullah merupakan kader Partai Persatuan Pembangunan dan duduk di Komisi I.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a5/DPR_Syaifullah_Tamliha.jpg",
+            "title": "Anggota DPR RI periode 2019\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Syaifullah_Tamliha"
+            },
+            "communityID": "2dfb5a91-c9d4-4c2c-81c6-9804a5e2bb50"
+        }
+    ]
+}
