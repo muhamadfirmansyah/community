@@ -5,5 +5,159 @@
     "path": "kabupaten-bekasi",
     "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Bekasi_2024",
     "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff",
-    "candidates": []
+    "candidates": [
+        {
+            "name": "Dani Ramdan",
+            "description": "Dr. H. Dani Ramdan, M.T. (lahir 1 Desember 1969) adalah seorang birokrat Indonesia. Lahir di Garut, lulusan Akademi Pemerintahan Dalam Negeri (APDN) atau sekarang dikenal dengan Institut Pemerintahan Dalam Negeri (IPDN) tahun 1991.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dani_Ramdan.jpg",
+            "title": "Pj. Bupati Bekasi",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dani_Ramdan"
+            },
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Muhamad Rochadi",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC PKB Kabupaten Bekasi ",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Rieke Diah Pitaloka",
+            "description": "Dr. Rieke Diah Pitaloka Intan Purnamasari, S.S., M.Hum. (lahir 8 Januari 1974) adalah seorang pemeran, penulis, penyanyi, pembawa acara, dan politikus Indonesia keturunan Sunda. Sebelum berkarier di dunia politik, ia dikenal sebagai seorang aktivis dan pemeran film serta televisi. Perannya yang paling populer adalah saat ia memerankan karakter Oneng di situasi komedi Bajaj Bajuri, beradu peran bersama Mat Solar, Fanny Fadillah, dan Nani Wijaya.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Rieke_Diah_Pitaloka_Profile_2019.jpg",
+            "title": "Anggota DPR-RI",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Rieke_Diah_Pitaloka"
+            },
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Akhmad Marjuki",
+            "description": "Akhmad Marjuki (lahir 16 Agustus 1965) adalah seorang politikus Indonesia kelahiran Bangkalan. Ia menempuh pendidikan di Universitas Singaperbangsa Karawang. Dari 2012 sampai 2017, ia sempat menduduki jabatan sebagai Ketua Pengurus Cabang Nahdatul Ulama (PCNU) Kabupaten Karawang. Pada tahun berikutnya, ia diangkat menjadi bendahara PWNU Jawa Barat. Di Partai Golkar, ia aktif mengurus sayap Partai Golkar yakni KOSGORO 1957 Jawa Barat, dengan menjabat sebagai Wakil Ketua Pimpinan Daerah Kolektif dari 2016 sampai 2021.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/21/Akhmad_Marjuki_plt_bupati_bekasi.jpg",
+            "title": "Mantan plt. Bupati Bekasi; Ketua DPD Partai Golkar Kabupaten Bekasi. ",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Akhmad_Marjuki"
+            },
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "BN Holik Qodratullah",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Kab. Bekasi",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Siti Qomariyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi NasDem",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Cucu Sugiarti",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi PKS",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Faizal Hafan Farid",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi PKS",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Romli HM",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi Demokrat",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Asep Surya Atmaja",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi Golkar",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Sarjan",
+            "description": "",
+            "profilePic": "",
+            "title": "Calon independen ",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Asep Saefuloh",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua PGRI",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Bahrul",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua Apdesi",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Hartono",
+            "description": "",
+            "profilePic": "",
+            "title": "Tokoh masyarakat",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Tuti Nurcholifah Yasin",
+            "description": "",
+            "profilePic": "",
+            "title": "Bakal Calon Bupati",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Aria Dwi Nugraha",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC Gerindra Kab. Bekasi",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "Ade Kuswara Kunang",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua Komisi 2 DPRD Kab. Bekasi Fraksi PDI Perjuangan ",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        },
+        {
+            "name": "M. Reza Reynaldi",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi PPP",
+            "sites": {},
+            "communityID": "0497251c-97fb-422a-bc37-8b75bef36dff"
+        }
+    ]
 }

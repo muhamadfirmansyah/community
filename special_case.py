@@ -10,7 +10,7 @@ SAVE_FOLDER = "communities"
 
 # example provinsi-aceh
 paths = [
-    "kota-pagar-alam",
+    # "kabupaten-tuban",
 ]
 
 communityID = ""
@@ -133,7 +133,10 @@ def get_candidates(source, level):
     soup = BeautifulSoup(page.content, "html5lib")
 
     try:
-        parent = soup.find("span", attrs={"id": re.compile("^(Calon_Walikota_Potensial|Daftar_calon|Bakal_Calon|Potensial|Potensi)")}).parent.find_next_sibling("ul")
+        heading = soup.find("span", attrs={"id": re.compile("^(Calon_Walikota_Potensial|Daftar_calon|Bakal_calon|Bakal_Calon|Potensial|Potensi)")})
+
+        # parent = heading.parent.find_next_sibling()
+        parent = heading.parent.find_next_sibling("ul")
 
         ul = [x for x in parent.find_all("li")]
 
