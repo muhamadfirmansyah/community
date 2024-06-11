@@ -5,7 +5,178 @@
    "path":"",
    "source":"https://id.wikipedia.org/wiki/Daftar_pemilihan_umum_kepala_daerah_di_Indonesia_2024",
    "communityID":"",
-   "candidates":[
-      
-   ]
+    "candidates": [
+        {
+            "name": "Jufri Hasanuddin",
+            "description": "Ir. Jufri Hasanuddin, M.M. (lahir 5 Oktober 1967) adalah Bupati Aceh Barat Daya periode 2012\u20142017.\n",
+            "profilePic": "",
+            "title": "Mantan Bupati Aceh Barat Daya",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Jufri_Hasanuddin"
+            },
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+        {
+            "name": "Muslizar",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Aceh Barat Daya",
+            "sites": {},
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+        {
+            "name": "Abdurrahman Ubit",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua KPA wilayah Blangpidie",
+            "sites": {},
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+        {
+            "name": "Syarifuddin",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRK Aceh Barat Daya",
+            "sites": {},
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+        {
+            "name": "Romi Syah Putra",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC Partai Demokrat Abdya",
+            "sites": {},
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+        {
+            "name": "Safaruddin",
+            "description": "Dr. Safaruddin, S.Sos., M.S.P. (lahir 17 Maret 1983) adalah politikus Partai Gerindra yang menjabat sebagai Wakil Ketua Dewan Perwakilan Rakyat Aceh periode 2019-2024.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/15/KPU_Safaruddin.jpg",
+            "title": "Wakil Ketua DPR Aceh",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Safaruddin_(politikus)"
+            },
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+        {
+            "name": "Muhammad Qudusi",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua PC PERTI Aceh Barat Daya",
+            "sites": {},
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+        {
+            "name": "Herry Sunanda",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Bendahara DPA Partai Aceh",
+            "sites": {},
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+        {
+            "name": "Maidisal Diwa",
+            "description": "",
+            "profilePic": "",
+            "title": "Direktur Utama PT. Meuligoe Raya",
+            "sites": {},
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+        {
+            "name": "Mukhlis Muhdi",
+            "description": "",
+            "profilePic": "",
+            "title": "Sekretaris DPD II Golkar Aceh",
+            "sites": {},
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+        {
+            "name": "Said Syamsul Bahri",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Ketua DPRK Aceh Barat Daya",
+            "sites": {},
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+        {
+            "name": "Erwanto",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Aceh Barat Daya",
+            "sites": {},
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+        {
+            "name": "Zulkarnain",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC PKB Aceh Barat Daya",
+            "sites": {},
+            "communityID": "3ef8616f-78cb-48ab-8ca5-fdbe9f983e0a"
+        },
+       {
+            "name": "Bustamam.",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRK Aceh Barat",
+            "sites": {},
+            "communityID": "7ab9ea69-5ea8-4673-904a-54ded8f3e21b"
+        },
+        {
+            "name": "Syamsi Barmi",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRK Aceh Barat",
+            "sites": {},
+            "communityID": "7ab9ea69-5ea8-4673-904a-54ded8f3e21b"
+        },
+        {
+            "name": "Ishak Yusuf",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Ketua DPRK Aceh Barat",
+            "sites": {},
+            "communityID": "7ab9ea69-5ea8-4673-904a-54ded8f3e21b"
+        },
+        {
+            "name": "Hamdan",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRK Aceh Barat",
+            "sites": {},
+            "communityID": "7ab9ea69-5ea8-4673-904a-54ded8f3e21b"
+        },
+        {
+            "name": "Ramli",
+            "description": "Ramli Sarwi Gozali Kartowidjojo (01 November 1950\u00a0\u2013\u00a023 Januari 2013) adalah seorang perancang busana berkebangsaan Indonesia. Profesi ini dijalaninya sejak 1975. Busana rancangannya dikenal berbasis bahan tradisional Indonesia, seperti batik, bordir, kain songket, dan tenun ikat.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Soekarno.jpg/1200px-Soekarno.jpg",
+            "title": "Wakil Ketua DPRK Aceh Barat",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ramli"
+            },
+            "communityID": "7ab9ea69-5ea8-4673-904a-54ded8f3e21b"
+        },
+        {
+            "name": "Teuku Alaidinsyah",
+            "description": "H. Teuku Alaidinsyah (dikenal juga dengan H. Tito; lahir 8 Oktober 1964) adalah Bupati Aceh Barat periode 2012\u20142017.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bupati_Aceh_Barat_Teuku_Alaidinsyah.jpg",
+            "title": "Mantan Bupati Aceh Barat",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Teuku_Alaidinsyah"
+            },
+            "communityID": "7ab9ea69-5ea8-4673-904a-54ded8f3e21b"
+        },
+        {
+            "name": "Amiruddin",
+            "description": "",
+            "profilePic": "",
+            "title": "Founder Rumah Tani",
+            "sites": {},
+            "communityID": "7ab9ea69-5ea8-4673-904a-54ded8f3e21b"
+        }
+    ]
 }
