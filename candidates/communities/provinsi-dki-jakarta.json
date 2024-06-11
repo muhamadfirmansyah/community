@@ -1,0 +1,32 @@
+{
+    "title": "Pemilihan umum Provinsi DKI Jakarta 2024",
+    "region": "DKI Jakarta",
+    "level": "PROVINSI",
+    "path": "provinsi-dki-jakarta",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Gubernur_DKI_Jakarta_2024",
+    "communityID": "b0254efb-c618-4af3-8d89-9e52c21afa31",
+    "candidates": [
+        {
+            "name": "Anies Rasyid Baswedan",
+            "description": "H. Anies Rasyid Baswedan, S.E., M.P.P., Ph.D. (pelafalan dalam bahasa Indonesia: [ˈanɪs baˈswɛdan], lahir 7 Mei 1969) adalah seorang akademisi, aktivis, dan politikus Indonesia yang menjabat sebagai Gubernur DKI Jakarta periode 2017–2022.",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Gubernur_Anies.jpg",
+            "title": "Mantan Gubernur DKI Jakarta",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Anies_Baswedan"
+            },
+            "communityID": "b0254efb-c618-4af3-8d89-9e52c21afa31"
+        },
+        {
+            "name": "Basuki Tjahaja Purnama",
+            "description": "Ir. Basuki Tjahaja Purnama, M.M. (EYD: Basuki Cahaya Purnama, nama Tionghoa: 鐘萬學 translit. Zhōng Wànxué,[2] lahir 29 Juni 1966), lebih dikenal dengan panggilan Hakka Ahok (阿學) atau inisial BTP, adalah pengusaha dan politikus keturunan Tionghoa-Indonesia yang menjabat Komisaris Utama PT. Pertamina sejak 25 November 2019 hingga 2 Februari 2024.",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Gubernur_DKI_Basuki_TP_%E9%90%98%E8%90%AC%E5%AD%B8.jpg",
+            "title": "Mantan Gubernur DKI Jakarta",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Basuki_Tjahaja_Purnama"
+            },
+            "communityID": "b0254efb-c618-4af3-8d89-9e52c21afa31"
+        },
+    ]
+}
