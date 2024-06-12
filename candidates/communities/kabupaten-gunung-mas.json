@@ -1,0 +1,53 @@
+{
+    "title": "Pemilihan umum Bupati Gunung Mas 2024",
+    "region": "Gunung Mas",
+    "level": "KABUPATEN",
+    "path": "kabupaten-gunung-mas",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Gunung_Mas_2024",
+    "communityID": "f1842bd1-347d-4eb3-9529-5cc104b6a8f2",
+    "candidates": [
+        {
+            "name": "Jaya Samaya Monong",
+            "description": "Jaya Samaya Monong, S.E., M.Si. (lahir 23 Juni 1981) adalah bupati Gunung Mas petahana yang menjabat sejak  28 Mei 2019 dan berpasangan dengan wakil bupati Efrensia L.P. Umbing setelah memenangkan Pilkada Gunung Mas 2018.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/60/Bupati_Gunung_Mas_Jaya_Samaya_Monong.png",
+            "title": "Bupati Gunung Mas periode 2019\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Jaya_Samaya_Monong"
+            },
+            "communityID": "f1842bd1-347d-4eb3-9529-5cc104b6a8f2"
+        },
+        {
+            "name": "Lohing Simon",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Provinsi Kalimantan Tengah",
+            "sites": {},
+            "communityID": "f1842bd1-347d-4eb3-9529-5cc104b6a8f2"
+        },
+        {
+            "name": "Yepta Diharja",
+            "description": "",
+            "profilePic": "",
+            "title": "Tokoh pemuda Kabupaten Gunung Mas",
+            "sites": {},
+            "communityID": "f1842bd1-347d-4eb3-9529-5cc104b6a8f2"
+        },
+        {
+            "name": "Aisyah Thisia Agustiar Sabran",
+            "description": "",
+            "profilePic": "",
+            "title": "Putri Pariwisata Kalimantan Tengah 2020",
+            "sites": {},
+            "communityID": "f1842bd1-347d-4eb3-9529-5cc104b6a8f2"
+        },
+        {
+            "name": "Untung Jaya Bangas",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Kabupaten Gunung Mas",
+            "sites": {},
+            "communityID": "f1842bd1-347d-4eb3-9529-5cc104b6a8f2"
+        }
+    ]
+}

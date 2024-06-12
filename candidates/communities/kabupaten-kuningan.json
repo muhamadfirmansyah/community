@@ -1,0 +1,77 @@
+{
+    "title": "Pemilihan umum Bupati Kuningan 2024",
+    "region": "Kuningan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kuningan",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Kuningan_2024",
+    "communityID": "01d70edf-5ff0-4f7a-b759-f1674e2e0013",
+    "candidates": [
+        {
+            "name": "Dr. Alfan Syafi'i",
+            "description": "",
+            "profilePic": "",
+            "title": "Lc",
+            "sites": {},
+            "communityID": "01d70edf-5ff0-4f7a-b759-f1674e2e0013"
+        },
+        {
+            "name": "Ridho Suganda",
+            "description": "Muhammad Ridho Suganda, S.H., M.Si. (lahir 9 Agustus 1982) adalah Wakil Bupati Kuningan sejak 4 Desember 2018 hingga 4 Desember 2023. Ia adalah putra dari mantan Bupati Kuningan Aang Hamid Suganda dan Utje Hamid Suganda. Kedua orang tua Ridho pernah menjabat sebagai Bupati Kuningan.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Wakil_Bupati_Kuningan_Muhammad_Ridho_Suganda.jpg",
+            "title": "Wakil Bupati Kuningan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ridho_Suganda"
+            },
+            "communityID": "01d70edf-5ff0-4f7a-b759-f1674e2e0013"
+        },
+        {
+            "name": "Deni Wirhana Suryono",
+            "description": "",
+            "profilePic": "",
+            "title": "Bakal Calon Bupati",
+            "sites": {},
+            "communityID": "01d70edf-5ff0-4f7a-b759-f1674e2e0013"
+        },
+        {
+            "name": "Ujang Kosasih",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC PKB Kabupaten Kuningan",
+            "sites": {},
+            "communityID": "01d70edf-5ff0-4f7a-b759-f1674e2e0013"
+        },
+        {
+            "name": "Dede Ismail",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC Gerindra Kabupaten Kuningan",
+            "sites": {},
+            "communityID": "01d70edf-5ff0-4f7a-b759-f1674e2e0013"
+        },
+        {
+            "name": "Rokhmat Ardiyan",
+            "description": "",
+            "profilePic": "",
+            "title": "Bakal Calon Bupati",
+            "sites": {},
+            "communityID": "01d70edf-5ff0-4f7a-b759-f1674e2e0013"
+        },
+        {
+            "name": "Toto Hartono",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC Demokrat Kabupaten Kuningan",
+            "sites": {},
+            "communityID": "01d70edf-5ff0-4f7a-b759-f1674e2e0013"
+        },
+        {
+            "name": "Asep SM Ketua DPC",
+            "description": "",
+            "profilePic": "",
+            "title": "Bakal Calon Bupati",
+            "sites": {},
+            "communityID": "01d70edf-5ff0-4f7a-b759-f1674e2e0013"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Pemilihan umum Wali Kota Jambi 2024",
+    "region": "Jambi",
+    "level": "KOTA",
+    "path": "kota-jambi",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Jambi_2024",
+    "communityID": "e9088a9f-04d9-44aa-b021-9f09819d4ed0",
+    "candidates": [
+        {
+            "name": "Maulana",
+            "description": "Dr. dr. H. Maulana, M.K.M. (lahir 14 Februari 1976) adalah Wakil Wali Kota Jambi periode 2018\u20132023. Ia merupakan wakil dari Wali Kota Jambi, Syarif Fasha.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Wakil_Wali_Kota_Jambi_Maulana.jpg",
+            "title": "Wakil Wali Kota Jambi",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Maulana_(politikus)"
+            },
+            "communityID": "e9088a9f-04d9-44aa-b021-9f09819d4ed0"
+        },
+        {
+            "name": "Sum Indra",
+            "description": "M. Sum Indra, S.E., M.M.Si. (lahir 6 September 1972) adalah seorang politisi Indonesia. Ia merupakan anggota DPD RI periode 2019-2024 daerah pemilihan Jambi.[1][2][3][4] Sebelumnya Sum Indra pernah menjabat sebagai Wakil Wali Kota Jambi mendampingi Wali Kota Jambi, Bambang Priyanto pada periode 2008-2013.[5][6]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Sum_Indra.jpg",
+            "title": "Anggota DPD-RI",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sum_Indra"
+            },
+            "communityID": "e9088a9f-04d9-44aa-b021-9f09819d4ed0"
+        },
+        {
+            "name": "Edi Purwanto",
+            "description": "Edi Purwanto, S.H.I., M.Si. (lahir 4 Juli 1980) adalah seorang politikus Indonesia. Ia merupakan ketua DPRD Provinsi Jambi periode 2019-2024.[1][2][3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/0b/KPU_Edi_Purwanto.jpg",
+            "title": "Ketua DPRD Prov. Jambi",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Edi_Purwanto"
+            },
+            "communityID": "e9088a9f-04d9-44aa-b021-9f09819d4ed0"
+        },
+        {
+            "name": "Abdullah Sani",
+            "description": "Drs. H. Abdullah Sani, M.Pd.I. gelar Paduko Agungmulyo Agamo[1] (lahir 8 September 1956) adalah mubalig dan politikus yang menjabat sebagai Wakil Gubernur Jambi periode 2021\u20132024. Ia merupakan wakil dari Gubernur Jambi, Al Haris.[2] Sebelumnya, Sani pernah menjabat sebagai Wakil Wali Kota Jambi periode 2013\u20132018.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Wagub_Jambi_Abdullah_Sani.jpg",
+            "title": "Wakil Gubernur Jambi",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Abdullah_Sani"
+            },
+            "communityID": "e9088a9f-04d9-44aa-b021-9f09819d4ed0"
+        }
+    ]
+}

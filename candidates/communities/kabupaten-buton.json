@@ -1,0 +1,56 @@
+{
+    "title": "Pemilihan umum Bupati Buton 2024",
+    "region": "Buton",
+    "level": "KABUPATEN",
+    "path": "kabupaten-buton",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Buton_2024",
+    "communityID": "0716bd27-52f2-4b0e-9e01-203702c0fca9",
+    "candidates": [
+        {
+            "name": "La Bakry",
+            "description": "La Bakry (lahir 7 Mei 1966) adalah seorang politisi Indonesia kelahiran Buton yang menjabat sebagai Bupati Buton. Ia lahir dari pasangan La Roni dan Naiwui. Ia menikahi Delya Montolalu dan dikaruniai 3 anak.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Wakil_bupati_Buton_la_bakry.jpg",
+            "title": "Bupati Buton sisa masa jabatan periode 2017\u20132022 pada tahun 2018\u20132022",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/La_Bakry"
+            },
+            "communityID": "0716bd27-52f2-4b0e-9e01-203702c0fca9"
+        },
+        {
+            "name": "Hariasi Salad",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Ketua DPRD Kabupaten Buton",
+            "sites": {},
+            "communityID": "0716bd27-52f2-4b0e-9e01-203702c0fca9"
+        },
+        {
+            "name": "La Ode Rafiun",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRD Kabupaten Buton",
+            "sites": {},
+            "communityID": "0716bd27-52f2-4b0e-9e01-203702c0fca9"
+        },
+        {
+            "name": "Iis Elianti",
+            "description": "Iis Elianti (lahir 20 Juni 1968) adalah seorang politikus Indonesia kelahiran Karawang, Jawa Barat. Ia merupakan istri Bupati Buton Samsu Umar Abdul Samiun. Pada 2019, ia diangkat menjadi Wakil Bupati Buton mendampingi La Bakry selaku Bupati Buton.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/9a/KPU_Iis_Elianti.jpg",
+            "title": "Wakil Bupati Buton sisa masa jabatan periode 2017\u20132022 pada tahun 2019\u20132022",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Iis_Elianti"
+            },
+            "communityID": "0716bd27-52f2-4b0e-9e01-203702c0fca9"
+        },
+        {
+            "name": "Arimusdi",
+            "description": "",
+            "profilePic": "",
+            "title": "Tokoh pemuda Kabupaten Buton",
+            "sites": {},
+            "communityID": "0716bd27-52f2-4b0e-9e01-203702c0fca9"
+        }
+    ]
+}

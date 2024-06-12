@@ -1,0 +1,290 @@
+{
+    "title": "Pemilihan umum Gubernur Sumatera Selatan 2024",
+    "region": "Sumatera Selatan",
+    "level": "PROVINSI",
+    "path": "provinsi-sumatra-selatan",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Gubernur_Sumatera_Selatan_2024",
+    "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2",
+    "candidates": [
+        {
+            "name": "Herman Deru",
+            "description": "H. Herman Deru, S.H., M.M. gelar Cek Deru[1] (lahir 17 November 1967) adalah politikus yang pernhah menjabat Gubernur Sumatera Selatan periode 2018-2023. Sebelumnya, Ia pernah menjabat sebagai Bupati Ogan Komering Ulu Timur dua periode sejak 2005 hingga 2015.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Herman_Deru%2C_Gubernur_Sumatera_Selatan.png",
+            "title": "Gubernur Sumsel (2018-2023)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Herman_Deru"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Mawardi Yahya",
+            "description": "Ir. H. Mawardi Yahya (lahir 2 Maret 1958)[1] adalah Wakil Gubernur Sumatera Selatan yang menjabat sejak 1 Oktober 2018. Mawardi pernah menjabat sebagai Bupati Ogan Ilir 2 periode yakni 2005\u20132010 dan 2010\u20132015. Sebelum menjabat sebagai Bupati Ogan Ilir, Mawardi yang berasal dari Partai Golkar ini merupakan Ketua DPRD Kabupaten Ogan Komering Ilir periode 1999\u20132004.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wakil_Gubernur_Sumatera_Selatan_H._Mawardi_Yahya.png",
+            "title": "Wakil Gubernur Sumsel (2018-2023)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mawardi_Yahya"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Eddy Santana Putra",
+            "description": "Eddy Santana Putra (lahir 20 Januari 1957)[1][2] adalah seorang politisi Indonesia yang pernah menjabat sebagai wali kota termuda selama sejarah Palembang pada masa Republik Indonesia. Ia adalah mantan ketua FKPPI dan memiliki kedekatan dengan ormas dan organisasi pemuda di Palembang. Antara hal-hal yang dilakukannya selama bertugas adalah menertibkan pasar tradisional 16 Ilir di pinggiran Jembatan Ampera. Ia juga merupakan Alumni Universitas Sriwijaya Jurusan Teknik Sipil.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Eddy_Santana_Putra_Walikota_Palembang.jpg",
+            "title": "Walikota Palembang (2003-2013)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Eddy_Santana_Putra"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Ishak Mekki",
+            "description": "Ir. H. Ishak Mekki, M.M.[1] (lahir 1 Maret 1958) adalah Wakil Gubernur Sumatera Selatan masa jabatan 2013-2018 yang mendampingi gubernur Alex Noerdin.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Ir._H._ISHAK_MEKKI.jpg/1200px-Ir._H._ISHAK_MEKKI.jpg",
+            "title": "Mantan Bupati Oki 2004-2013",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ishak_Mekki"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Heri Amalindo",
+            "description": "Dr. Ir. H. Heri Amalindo, M.M. (lahir 24 September 1963) adalah Bupati Penukal Abab Lematang Ilir periode 2016\u20142021 dan 2021\u20142024.[1][2] Heri Amalindo pernah menjabat sebagai Pejabat Bupati Penukal Abab Lematang Ilir periode 2013\u20142015. Setelah masa jabatannya habis sebagai penjabat bupati, ia digantikan oleh Drs. H. Apriyadi, M.Si.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Heri_Amalindo.jpg",
+            "title": "Pj.Bupati PALI (2013-2015)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Heri_Amalindo"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Saifudin Aswari Rivai",
+            "description": "H. Saifudin Aswari Rivai, S.E. (lahir 20 Oktober 1963) adalah Bupati Kabupaten Lahat yang menjabat selama dua periode (2008-2018). Dia juga adalah Direktur PT. Cendrawasih Bungsu.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Anggota_DPRD_Sumatera_Selatan_Saifudin_Aswari_Rivai.jpg",
+            "title": "Mantan Bupati Lahat (2008-2018)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Saifudin_Aswari_Rivai"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Mularis Djahri",
+            "description": "Brigadir Polisi (Purn.) \nH. Mularis Djahri, S.H. (lahir 08 Agustus 1964) adalah Ketua DPD Partai Hanura Provinsi Sumatera Selatan periode 2015-2020.[1]\n",
+            "profilePic": "",
+            "title": "Tokoh Sumsel",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mularis_Djahri"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "SN Prana Putra Sohe",
+            "description": "Drs. H. SN Prana Putra Sohe, M.M. (lahir 12 April 1967) adalah birokrat dan politikus asal Indonesia yang menjabat sebagai Wali Kota Lubuklinggau selama dua periode, yakni 2013\u20132018 dan 2018\u20132023.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/KPU_Prana_Putra_Sohe.jpg/1200px-KPU_Prana_Putra_Sohe.jpg",
+            "title": "Walikota Lubuk Linggau (2013-2023)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/SN_Prana_Putra_Sohe"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Ridho Yahya",
+            "description": "Ir. H. Ridho Yahya, M.M. (lahir 3 Januari 1962) adalah Walikota Prabumulih dua periode masa jabatan 2013-2018 dan 2018-2023. Sebelumnya ia pernah menjabat sebagai Wakil Wali Kota Prabumulih periode 2008-2013 berpasang dengan Dr. Drs. H. Rachman Djalili, M.M.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wali_Kota_Pramubulih_Ridho_Yahya.jpg",
+            "title": "Walikota Prabumulih (2013-2023)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ridho_Yahya"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Harnojoyo",
+            "description": "H. Harnojoyo, S.Sos. (lahir 18 September 1967) merupakan politikus Indonesia yang terakhir menjabat sebagai Wali Kota Palembang antara 2015\u20132018 dan 2018\u20132023. Sebelumnya ia bertugas sebagai Wakil Wali Kota Palembang dan kemudian menjadi pelaksana tugas wali kota antara 9 Desember 2014 hingga 10 September 2015[1][2] menggantikan Romi Herton yang berhalangan tetap secara konstitusi karena terkait kasus suap Hakim Makamah Konstitusi untuk memenangkan pasangan Romi dan Harnojoyo sebagai wali kota Palembang 2013 lalu.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Wali_Kota_Palembang_Harnojoyo.png",
+            "title": "Walikota Palembang (2013-2023)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Harnojoyo"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Iskandar",
+            "description": "H. Iskandar, S.E.[1] (lahir 15 Agustus 1964) adalah politisi Indonesia. Ia adalah Bupati Ogan Komering Ilir 2 periode yakni 2014\u20132019 dan 2019\u20132024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bupati_OKI_Iskandar.jpg/1200px-Bupati_OKI_Iskandar.jpg",
+            "title": "Bupati OKI (2014-2024)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Iskandar_(politikus)"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Popo Ali Martopo",
+            "description": "Popo Ali Martopo, B.Commerce. (lahir 10 Mei 1982)[1] adalah Bupati OKU Selatan yang menjabat sejak 17 Februari 2016 hingga sekarang.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/35/Popo_Ali_Martopo_%28cropped%29.jpg",
+            "title": "Bupati OKU Selatan (2016-2024)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Popo_Ali_Martopo"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Cik Ujang",
+            "description": "Cik Ujang, S.H. (lahir 2 Mei 1968[1]) adalah Bupati Lahat periode 2018\u20132023.[2]\n",
+            "profilePic": "",
+            "title": "Bupati Lahat (2018-2023)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Cik_Ujang"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Joncik Muhammad",
+            "description": "H. Joncik Muhammad, S.Si., S.H., M.M., M.H. (lahir 4 November 1970) adalah seorang politikus dari Partai Amanat Nasional (PAN) yang saat ini menjabat sebagai Bupati Empat Lawang periode 2018\u20132023.[1][2][3] Sebelumnya, Joncik Muhammad pernah menjabat sebagai Anggota DPRD Provinsi Sumatera Selatan.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Joncik_Muhammad.jpg",
+            "title": "Bupati Empat lawang (2018-2023)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Joncik_Muhammad"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Askolani Jasi",
+            "description": "H. Askolani Jasi, S.H., M.H. (lahir 23 April 1974) saat ini adalah Bupati Kabupaten Banyuasin periode 2018 - 2023 sesuai dengan Hasil Pilkada Kab Banyuasin 27 Juni 2018 dan Pleno KPUD Kab Banyuasin tertanggal 4 Juli 2018. Pernah menjabat sebagai Wakil Ketua DPRD Kabupaten Banyuasin periode 2014 - 2019.[1] Saat ini juga menjabat sebagai Ketua DPC PDI Perjuangan Kabupaten Banyuasin periode 2015 - 2020. Semasa kuliah, ia dikenal sebagai Aktivis 98 yang ikut aktif memperjuangkan Reformasi.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/4/46/Cabup_Banyuasin_-_Askolani.png",
+            "title": "Bupati Banyuasin (2018-2023)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Askolani_Jasi"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Lanosin Hamzah",
+            "description": "Ir. H. Lanosin, S.T. (lahir 31 Mei 1978) adalah Bupati Ogan Komering Ulu Timur periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Selatan, Herman Deru yang juga kakak kandung Lanosin sendiri di Griya Agung, Palembang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ir._H._Lanosin%2C_S.T.jpg/1200px-Ir._H._Lanosin%2C_S.T.jpg",
+            "title": "Bupati OKU Timur (2021-2024)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Lanosin_Hamzah"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Ratna Machmud",
+            "description": "Ir. Hj. Ratna Machmud.,M.M (lahir 8 Agustus 1964) adalah Bupati Musi Rawas periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Selatan, Herman Deru di Griya Agung, Palembang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bupati_Musi_Rawas_Ratna_Machmud.png/1200px-Bupati_Musi_Rawas_Ratna_Machmud.png",
+            "title": "Bupati Musi Rawas (2021-2024)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ratna_Machmud"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Devi Suhartoni",
+            "description": "H. Devi Suhartoni (lahir 1 Juni 1969) adalah Bupati Musi Rawas Utara periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Selatan, Herman Deru di Griya Agung, Palembang.[1]\n",
+            "profilePic": "",
+            "title": "Bupati Musi Rawas Utara (2021-2024)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Devi_Suhartoni"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Anita Noeringhati",
+            "description": "Hj. R.A. Anita Noeringhati, S.H., M.H., (lahir 28 Juli 1963) adalah seorang politikus Sumatera Selatan yang saat ini menjabat sebagai Ketua DPRD Provinsi Sumatera Selatan. Ia merupakan perempuan pertama yang memegang jabatan tersebut.[1][2] Ia kembali berhasil menjadi anggota DPRD Provinsi Sumatera Selatan setelah berhasil meraih 16.801 suara pada Daerah Pemilihan Sumatera Selatan 1 yang meliputi sebagian Kota Palembang (Ilir Barat II, Seberang Ulu I, Seberang Ulu II, Ilir Barat I, Gandus, Kertapati, Plaju, Bukit Kecil) pada Pemilu 2019.[3] Hal tersebut menempatkannya sebagai anggota DPRD Provinsi Sumatera Selatan tiga periode: 2009-2014, 2014-2019, dan 2019-2024.[4] Dalam tiga pemilihan tersebut, ia menggunakan perahu politik Partai Golongan Karya. Wanita keturunan trah Mangkunegaran dijuluki sebagai Singa Betina Parlemen di Panggung Legislatif Sumatera Selatan.[5][6]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/55/Ketua_DPRD_Sumatera_Selatan_Anita_Noeringhati.png",
+            "title": "Ketua DPRD Sumsel (2019-2024)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Anita_Noeringhati"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Giri Ramanda Kiemas",
+            "description": "H. Giri Ramanda Nazaputra Kiemas, S.E., M.M. (lahir 1 April 1980) merupakan Ketua DPRD Sumatera Selatan periode 2014-2019 yang berhenti pada tahun 2018 untuk mengikuti pergelaran Pemilihan Gubernur Sumatera Selatan 2018 berpasangan dengan Dodi Reza Alex Noerdin. Saat ini, ia menjabat sebagai Wakil Ketua DPRD Sumatera Selatan periode 2019-2024 sekaligus Ketua DPD PDI Perjuangan Provinsi Sumatera Selatan.[5] Ia merupakan anak laki-laki dari (alm) Nazaruddin Kiemas, Anggota DPR RI yang berasal dari daerah pemilihan Sumatera Selatan 1 yang juga merupakan adik dari Taufik Kiemas sekaligus keponakan dari Megawati Soekarnoputri, Ketua Umum PDI Perjuangan.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/69/Wakil_Ketua_Dewan_Perwakilan_Rakyat_Daerah_Provinsi_Sumatera_Selatan_Giri_Ramanda_Nazaputra_Kiemas.png",
+            "title": "Wakil Ketua 1 DPRD Sumsel (2019-2024)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Giri_Ramanda_Kiemas"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Kartika Sandra Desi",
+            "description": "Kartika Sandra Desi atau KSD (lahir 26 September 1978) adalah seorang politikus Indonesia kelahiran Bayung Lencir, Musi Banyuasin. Ia merupakan alumni Universitas Sjakhyakirti. Ia dua kali terpilih sebagai Anggota DPRD Sumatera Selatan dari Dapil Musi Banyuasin. Ia menjabat sebagai Wakil Ketua DPRD Sumatera Selatan dari 2014 sampai 2024. Ia menjabat sebagai Ketua DPD Partai Gerindra Sumatera Selatan (Sumsel).[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/KPU_Kartika_Sandra_Desi.jpg/1200px-KPU_Kartika_Sandra_Desi.jpg",
+            "title": "Wakil Ketua 2 DPRD SUMSEL (2019-2024)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Kartika_Sandra_Desi"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Irjen Rio Septianda Djambak",
+            "description": "Irjen. Pol. (Purn.) Drs. H. Rio Septianda Djambak (lahir 4 September 1963) adalah seorang Purnawirawan Polri yang sebelumnya menjabat sebagai Kapolda Aceh.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Rio_Septianda_Djambak%2C_Aceh_Police_Chief.jpg/1200px-Rio_Septianda_Djambak%2C_Aceh_Police_Chief.jpg",
+            "title": "Mantan Kapolda Aceh (2016-2020)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Rio_Septianda_Djambak"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Letjen",
+            "description": "",
+            "profilePic": "",
+            "title": "Inspektur Jenderal Angkatan Darat",
+            "sites": {},
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Bobby Adhityo Rizaldi",
+            "description": "Bobby Adhityo Rizaldi, S.E., Ak., M.B.A., CFE. (lahir 25 Februari 1974) adalah politikus Indonesia yang menjabat sebagai anggota DPR-RI selama tiga periode (2009\u20132014, 2014\u20132019, dan 2019\u20132024). Ia mewakili daerah pemilihan Sumatera Selatan II, yang meliputi Kabupaten Ogan Komering Ulu, Kabupaten Ogan Komering Ilir, Kabupaten Muara Enim, Kabupaten Lahat, Kabupaten Ogan Komering Ulu Timur, Kabupaten Ogan Komering Ulu Selatan, Kabupaten Ogan Ilir, Kabupaten Empat Lawang, Kota Pagar Alam, Kota Prabumulih, dan Kabupaten Penukal Abab Lematang Ilir. Bobby merupakan kader Partai Golongan Karya, ia duduk di Komisi I.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bobby_A_Rizaldi.jpg/1200px-Bobby_A_Rizaldi.jpg",
+            "title": "DPR RI (2009-2024)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Bobby_Adhityo_Rizaldi"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Fauzi Amro",
+            "description": "",
+            "profilePic": "",
+            "title": "DPR RI (2014-2024)",
+            "sites": {},
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        },
+        {
+            "name": "Helmy Yahya,",
+            "description": "Drs. H. Helmy Yahya, M.P.A., Ak. (lahir 6 Maret 1962) adalah seorang pembawa acara televisi, aktor, produser dan politikus Indonesia keturunan Melayu dan Palembang, Sumatera Selatan. Ia merupakan adik dari musikus, pembawa acara televisi dan politikus Indonesia, Tantowi Yahya ini justru mengawali kariernya di dunia hiburan sejak 1977.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/96/KPU_Helmy_Yahya.jpg",
+            "title": "Mantan Calon Bupati OI 2010-2015 & 2016-2021",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Helmy_Yahya"
+            },
+            "communityID": "d4123838-7cd1-403b-b1f6-15956fe7e3c2"
+        }
+    ]
+}

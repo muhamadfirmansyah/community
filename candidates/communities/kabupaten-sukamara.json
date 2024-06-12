@@ -1,0 +1,75 @@
+{
+    "title": "Pemilihan umum Bupati Sukamara 2024",
+    "region": "Sukamara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sukamara",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Sukamara_2024",
+    "communityID": "b1500e0e-e748-4a52-9db1-2f382b40afbb",
+    "candidates": [
+        {
+            "name": "Ahmad Darsoni",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC Gerindra Kabupaten Sukamara",
+            "sites": {},
+            "communityID": "b1500e0e-e748-4a52-9db1-2f382b40afbb"
+        },
+        {
+            "name": "Windu Subagio",
+            "description": "Windu Subagio (lahir 9 Agustus 1968) adalah seorang politikus kelahiran Pontianak. Ia menjabat sebagai Wakil Bupati Sukamara periode 2013-2018 mendampingi Ahmad Dirman. Ia kemudian menjabat sebagai Bupati Sukamara periode 2018-2023 didampingi oleh Ahmadi AH sebagai Wakil Bupati Sukamara.[1] Ia memiliki istri bernama Siti Zulaiha Windu Subagio.[2]\n",
+            "profilePic": "",
+            "title": "Bupati Sukamara periode 2018-2023",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Windu_Subagio"
+            },
+            "communityID": "b1500e0e-e748-4a52-9db1-2f382b40afbb"
+        },
+        {
+            "name": "H. Ahmadi",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Bupati Sukamara periode 2018-2023",
+            "sites": {},
+            "communityID": "b1500e0e-e748-4a52-9db1-2f382b40afbb"
+        },
+        {
+            "name": "Rahmat Nasuiton Hamka",
+            "description": "Rahmat Nasution Hamka (lahir 23 Mei 1975) adalah kader Partai Demokrasi Indonesia Perjuangan (PDIP) mewakili Dapil Kalimantan Tengah. Rahmat adalah politisi muda PDIP di Kalimantan Tengah dan Wakil Ketua Dewan Pimpinan Daerah (DPD) PDIP Provinsi Kalimantan Tengah (2010-2015). Rahmat adalah legislator senior pernah menjadi Anggota DPRD Kabupaten Kotawaringin Barat (2004-2009) dan Anggota DPRD Provinsi Kalimantan Tengah (2009-2014).\n",
+            "profilePic": "",
+            "title": "Anggota DPR RI",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Rahmat_Nasution_Hamka"
+            },
+            "communityID": "b1500e0e-e748-4a52-9db1-2f382b40afbb"
+        },
+        {
+            "name": "Kaspinor",
+            "description": "Kaspinor (lahir 20 Oktober 1964) adalah seorang birokrat Indonesia. Ia lahir dari pasangan Kasrani dan Kurdiah di Dumai. Ia menempuh pendidikan Universitas Palangka Raya (UPR), lulus S1 tahun 1989 dan S2 lulus tahun 2015. Kemudian, ia meneruskan pendidikan S3 di Universitas Muhammadiyah Malang (UMM) dan lulus pada 2021. Ia berkarir sebagai Pj Sekwan DPRD Sukamara pada tahun 2002-2006, Kepala Dinas Pengelolaan Keuangan dan Aset Daerah (DPKAD) Sukamara pada tahun 2008-2010 dan Wakil Ketua Ikatan Cendekiawan Muslim Indonesia (ICMI) Kalimantan Tengah.[1] Pada 2023, ia diangkat menjadi Penjabat (Pj) bupati Sukamara.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/76/Kaspinor.jpg",
+            "title": "Penjabat bupati Sukamara 2023-2024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Kaspinor"
+            },
+            "communityID": "b1500e0e-e748-4a52-9db1-2f382b40afbb"
+        },
+        {
+            "name": "Rendy Lesmana",
+            "description": "",
+            "profilePic": "",
+            "title": "Sekda Kabupaten Sukamara",
+            "sites": {},
+            "communityID": "b1500e0e-e748-4a52-9db1-2f382b40afbb"
+        },
+        {
+            "name": "Maryani Sabran / Mariani Sabran",
+            "description": "",
+            "profilePic": "",
+            "title": "ANGGOTA DPRD PROVINSI Kalimantan Tengah Dapil 3",
+            "sites": {},
+            "communityID": "b1500e0e-e748-4a52-9db1-2f382b40afbb"
+        }
+    ]
+}

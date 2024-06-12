@@ -1,0 +1,48 @@
+{
+    "title": "Pemilihan umum Wali Kota Subulussalam 2024",
+    "region": "Subulussalam",
+    "level": "KOTA",
+    "path": "kota-subulussalam",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Subulussalam_2024",
+    "communityID": "252b29ba-fa42-4929-8521-8236139e7e92",
+    "candidates": [
+        {
+            "name": "Affan Alfian",
+            "description": "H. Affan Alfian Bintang, S.E. (lahir 28 Agustus 1968) adalah politikus yang menjabat Wali Kota Subulussalam periode 2019\u20132024 sejak 14 Mei 2019.[1][2][3] Bersama wakilnya, Salmaza, mereka berhasil memenangkan pemilihan umum Wali Kota Subulussalam 2018. Sebelumnya ia menjabat Wakil Wali Kota Subulussalam periode 2009\u20132014. Ia adalah wakil dari Wali Kota Subulussalam, Merah Sakti Kombih.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/59/Wali_Kota_Subulussalam_Affan_Alfian.jpg",
+            "title": "Wali Kota Subulussalam",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Affan_Alfian"
+            },
+            "communityID": "252b29ba-fa42-4929-8521-8236139e7e92"
+        },
+        {
+            "name": "Salmaza",
+            "description": "Drs. Salmaza Kombih, M.AP. (lahir 21 Desember 1967) adalah Wakil Wali Kota Subulussalam 2 periode yakni 2014\u20142019 dan 2019\u20142024. Ia adalah wakil dari Wali Kota Subulussalam, Merah Sakti Kombih dan Affan Alfian.[1][2][3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/76/Wakil_Wali_Kota_Subulussalam_Salmaza.jpg",
+            "title": "Wakil Wali Kota Subulussalam",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Salmaza"
+            },
+            "communityID": "252b29ba-fa42-4929-8521-8236139e7e92"
+        },
+        {
+            "name": "Sudirman Munthe",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPW Partai Aceh Kota Subulussalam",
+            "sites": {},
+            "communityID": "252b29ba-fa42-4929-8521-8236139e7e92"
+        },
+        {
+            "name": "Musmuliadi",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPW Partai Nanggroe Aceh Kota Subulussalam",
+            "sites": {},
+            "communityID": "252b29ba-fa42-4929-8521-8236139e7e92"
+        }
+    ]
+}

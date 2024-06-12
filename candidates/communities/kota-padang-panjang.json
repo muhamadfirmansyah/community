@@ -1,0 +1,83 @@
+{
+    "title": "Pemilihan umum Wali Kota Padang Panjang 2024",
+    "region": "Padang Panjang",
+    "level": "KOTA",
+    "path": "kota-padang-panjang",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Padang_Panjang_2024",
+    "communityID": "96275dfc-7ed9-4732-b663-09752ade1145",
+    "candidates": [
+        {
+            "name": "Fadly Amran",
+            "description": "H. Fadly Amran, B.B.A gelar Datuak Panduko Malano (lahir 9 Februari 1988) adalah seorang pengusaha dan politikus Indonesia dari Partai NasDem yang menjabat sebagai Wali Kota Padang Panjang sejak 9 Oktober 2018 setelah memenangkan Pemilihan umum Wali Kota Padang Panjang 2018.[2][3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Wali_Kota_Padang_Panjang_Fadly_Amran.png/1200px-Wali_Kota_Padang_Panjang_Fadly_Amran.png",
+            "title": "Wali Kota Padang Panjang",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Fadly_Amran"
+            },
+            "communityID": "96275dfc-7ed9-4732-b663-09752ade1145"
+        },
+        {
+            "name": "Asrul",
+            "description": "Drs. Asrul (lahir 27 Februari 1959) adalah seorang birokrat yang menjabat Wakil Wali Kota Padang Panjang sejak 9 Oktober 2018 mendampingi Fadly Amran. Sebelumnya ia menjabat Asisten I Sekretariat Daerah Kota Padang Panjang.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Wakil_Wali_Kota_Padang_Panjang_Asrul.gif",
+            "title": "Wakil Wali Kota Padang Panjang",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Asrul"
+            },
+            "communityID": "96275dfc-7ed9-4732-b663-09752ade1145"
+        },
+        {
+            "name": "Masrizal Munaf",
+            "description": "Ir. H. Masrizal Munaf, M.M. (lahir 8 Oktober 1964) adalah akademisi, pendakwah, dan politikus Partai Keadilan Sejahtera. Ia mengajar sebagai dosen teknik sipil di Institut Sains dan Teknologi Nasional sejak 1996 hingga 2013.[1]\n",
+            "profilePic": "",
+            "title": "Caleg DPR RI 2019",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Masrizal_Munaf"
+            },
+            "communityID": "96275dfc-7ed9-4732-b663-09752ade1145"
+        },
+        {
+            "name": "Nasrullah Nukman",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Kota Padang panjang",
+            "sites": {},
+            "communityID": "96275dfc-7ed9-4732-b663-09752ade1145"
+        },
+        {
+            "name": "Weno Aulia Durin",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "96275dfc-7ed9-4732-b663-09752ade1145"
+        },
+        {
+            "name": "Sonny Jendriza Idroes",
+            "description": "",
+            "profilePic": "",
+            "title": "Bakal Calon Wali Kota",
+            "sites": {},
+            "communityID": "96275dfc-7ed9-4732-b663-09752ade1145"
+        },
+        {
+            "name": "Gemala Ranti",
+            "description": "",
+            "profilePic": "",
+            "title": "Kepala Dinas P3AP2KB Provinsi Sumatera Barat",
+            "sites": {},
+            "communityID": "96275dfc-7ed9-4732-b663-09752ade1145"
+        },
+        {
+            "name": "Edward Zebua",
+            "description": "",
+            "profilePic": "",
+            "title": "Dosen Institut Seni Indonesia Padang Panjang",
+            "sites": {},
+            "communityID": "96275dfc-7ed9-4732-b663-09752ade1145"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "title": "Pemilihan umum Bupati Malaka 2024",
+    "region": "Malaka",
+    "level": "KABUPATEN",
+    "path": "kabupaten-malaka",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Malaka_2024",
+    "communityID": "382ebc9c-af6b-4fa9-a155-b14fdfeb390b",
+    "candidates": [
+        {
+            "name": "Simon Nahak",
+            "description": "Dr. Simon Nahak, S.H., M.H. (lahir 13 Juni 1964) adalah Bupati Malaka periode 2021\u20132024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Nusa Tenggara Timur, Viktor Laiskodat di Aula El Tari, Kupang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bupati_Malaka_Simon_Nahak.png",
+            "title": "Bupati Malaka periode 2021\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Simon_Nahak"
+            },
+            "communityID": "382ebc9c-af6b-4fa9-a155-b14fdfeb390b"
+        },
+        {
+            "name": "Stefanus Bria Seran",
+            "description": "dr. Stefanus Bria Seran, M.P.H. (lahir 26 Desember 1952) adalah politikus Indonesia yang menjabat sebagai bupati Malaka pertama pada masa jabatan 2016\u20132021.[1] Ia bersama Wakil Bupati Malaka Daniel Asa memenangi Pilkada Kabupaten Malaka 2015 dengan memperoleh 44.776 suara (52,60%).[2]\n",
+            "profilePic": "",
+            "title": "Bupati Malaka periode 2016\u20132021",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Stefanus_Bria_Seran"
+            },
+            "communityID": "382ebc9c-af6b-4fa9-a155-b14fdfeb390b"
+        },
+        {
+            "name": "Louise Lucky Taolin",
+            "description": "Louise Lucky Taolin, S.Sos. (lahir 16 September 1983) adalah Wakil Bupati Malaka periode 2021\u20132024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Nusa Tenggara Timur, Viktor Laiskodat di Aula El Tari, Kupang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wakil_Bupati_Malaka_Louise_Lucky_Taolin.png",
+            "title": "Wakil Bupati Malaka periode 2021\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Louise_Lucky_Taolin"
+            },
+            "communityID": "382ebc9c-af6b-4fa9-a155-b14fdfeb390b"
+        },
+        {
+            "name": "Blasius Seo",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi PDI Perjuangan",
+            "sites": {},
+            "communityID": "382ebc9c-af6b-4fa9-a155-b14fdfeb390b"
+        },
+        {
+            "name": "Yakobus Bouk",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "382ebc9c-af6b-4fa9-a155-b14fdfeb390b"
+        },
+        {
+            "name": "Emanuel Makaraek",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Kepala Badan Pengelola Perbatasan (BPP) Kabupaten Malaka",
+            "sites": {},
+            "communityID": "382ebc9c-af6b-4fa9-a155-b14fdfeb390b"
+        },
+        {
+            "name": "Johanes Germanus Seran",
+            "description": "",
+            "profilePic": "",
+            "title": "Jurnalis",
+            "sites": {},
+            "communityID": "382ebc9c-af6b-4fa9-a155-b14fdfeb390b"
+        }
+    ]
+}

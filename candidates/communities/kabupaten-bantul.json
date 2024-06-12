@@ -1,0 +1,70 @@
+{
+    "title": "Pemilihan umum Bupati Bantul 2024",
+    "region": "Bantul",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bantul",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Bantul_2024",
+    "communityID": "cf0e33ae-89ec-4df9-a44a-0278f592a5c6",
+    "candidates": [
+        {
+            "name": "Abdul Halim Muslih",
+            "description": "H. Abdul Halim Muslih (lahir 29 April 1970) adalah Bupati Bantul periode 2021\u20132024 dan Wakil Bupati Bantul periode 2016\u20132021. Abdul Halim terpilih sebagai Bupati Bantul bersama dengan Joko B. Purnomo setelah memenangkan Pemilihan Bupati Bantul pada 9 Desember 2020. Sebelumnya, Ia menjadi wakil bupati mendampingi Suharsono setelah menang pada Pilkada Kabupaten Bantul tanggal 9 Desember 2015. Keduanya menungguli pasangan petahana Hj. Sri Surya Widati\u2013Misbakhul Munir dengan perolehan suara sebesar 53%.[1][2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bupati_Bantul_H._Abdul_Halim_Muslih.jpg/1200px-Bupati_Bantul_H._Abdul_Halim_Muslih.jpg",
+            "title": "Bupati Bantul",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Abdul_Halim_Muslih"
+            },
+            "communityID": "cf0e33ae-89ec-4df9-a44a-0278f592a5c6"
+        },
+        {
+            "name": "Joko B. Purnomo",
+            "description": "Joko B. Purnomo atau Joko Purnomo[1] (lahir 20 Desember 1966) adalah Wakil Bupati terpilih Bantul periode 2021-2024. Joko Purnomo terpilih sebagai Wakil Bupati Bantul dan mendampingi Bupati terpilih Abdul Halim Muslih setelah memenangkan Pemilihan Bupati Bantul pada 9 Desember 2020. Sebelumnya ia adalah anggota DPRD Daerah Istimewa Yogyakarta.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Wakil_Bupati_Bantul_Joko_Purnomo.jpg",
+            "title": "Wakil Bupati Bantul",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Joko_B._Purnomo"
+            },
+            "communityID": "cf0e33ae-89ec-4df9-a44a-0278f592a5c6"
+        },
+        {
+            "name": "Ari Sigit",
+            "description": "Ari Sigit memiliki nama lengkap Ari Haryo Wibowo Harjojudanto (lahir 3 November 1970) adalah pengusaha Indonesia sekaligus salah satu cucu dari mantan presiden Soeharto.\n",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ari_Sigit"
+            },
+            "communityID": "cf0e33ae-89ec-4df9-a44a-0278f592a5c6"
+        },
+        {
+            "name": "Danty Indriastuti Purnamasari",
+            "description": "",
+            "profilePic": "",
+            "title": "Bakal Calon Bupati",
+            "sites": {},
+            "communityID": "cf0e33ae-89ec-4df9-a44a-0278f592a5c6"
+        },
+        {
+            "name": "Dharma Mangkuluhur",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "cf0e33ae-89ec-4df9-a44a-0278f592a5c6"
+        },
+        {
+            "name": "Soemarmo Hadi Saputro",
+            "description": "Drs. H. Soemarmo Hadi Saputro, M.Si. (lahir 13 Agustus 1959) adalah Wali Kota Semarang yang menjabat pada periode 2010\u20142015, tetapi dinonaktifkan sementara oleh Mendagri Gamawan Fauzi pada 22 Juni 2012 dan resmi diberhentikan sepenuhnya pada 21 Mei 2013 karena kasus suap APBD yang menjeratnya.[1][2][3] Karena kasusnya ini, Soemarmo pertama kali ditahan penyidik KPK di Rutan Cipinang pada tanggal 30 Maret 2012, dua minggu setelah dia ditetapkan menjadi tersangka. Penetapan Soemarmo menjadi tersangka merupakan pengembangan dari kasus suap APBD dengan terdakwa Sekretaris Daerah Kota Semarang Akhmat Zaenuri serta dua anggota DPRD Semarang lainnya, yaitu Agung Purna Sarjono dan Sumartono. Ia bersama wakilnya Hendrar Prihadi berhasil memenangkan pilkada Kota Semarang 2010 dengan perolehan suara sebesar 166.173 suara.[4]\n",
+            "profilePic": "",
+            "title": "Mantan Wali Kota Semarang",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Soemarmo_Hadi_Saputro"
+            },
+            "communityID": "cf0e33ae-89ec-4df9-a44a-0278f592a5c6"
+        }
+    ]
+}

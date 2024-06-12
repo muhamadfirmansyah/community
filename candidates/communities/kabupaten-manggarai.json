@@ -1,0 +1,48 @@
+{
+    "title": "Pemilihan umum Bupati Manggarai 2024",
+    "region": "Manggarai",
+    "level": "KABUPATEN",
+    "path": "kabupaten-manggarai",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Manggarai_2024",
+    "communityID": "687056ef-f612-4c80-ac2b-0da34c0a843f",
+    "candidates": [
+        {
+            "name": "Herybertus G.L. Nabit",
+            "description": "Herybertus Geradus Laju Nabit, S.E., M.A. (lahir 2 Desember 1976) adalah Bupati Manggarai periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Timur, Viktor Laiskodat di Aula Rumah Jabatan Gubernur Nusa Tenggara Timur, Kupang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bupati_Kabupaten_Manggarai_Herybertus_Geradus_Laju_Nabit.jpg",
+            "title": "Bupati Manggarai periode 2021\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Herybertus_G.L._Nabit"
+            },
+            "communityID": "687056ef-f612-4c80-ac2b-0da34c0a843f"
+        },
+        {
+            "name": "Heribertus Ngabut",
+            "description": "Heribertus Ngabut (lahir 4 Juli 1962) adalah seorang politikus Indonesia. Ia menempuh pendidikan S-1 di Fakultas Hukum Universitas Nusa Cendana (Undana) Kupang. Ia tergabung dalam Partai Golongan Karya (Golkar). Dari 2020 sampai 2024, ia menjabat sebagai Wakil Bupati Manggarai.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/57/Wakil_Bupati_Manggarai_Heribertus_Ngabut.jpg",
+            "title": "Wakil Bupati Manggarai periode 2021\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Heribertus_Ngabut"
+            },
+            "communityID": "687056ef-f612-4c80-ac2b-0da34c0a843f"
+        },
+        {
+            "name": "Ben Isidorus",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Provinsi Nusa Tenggara Timur",
+            "sites": {},
+            "communityID": "687056ef-f612-4c80-ac2b-0da34c0a843f"
+        },
+        {
+            "name": "Kornelis Dola",
+            "description": "",
+            "profilePic": "",
+            "title": "Tokoh masyarakat",
+            "sites": {},
+            "communityID": "687056ef-f612-4c80-ac2b-0da34c0a843f"
+        }
+    ]
+}

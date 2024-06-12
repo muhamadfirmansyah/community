@@ -1,0 +1,37 @@
+{
+    "title": "Pemilihan umum Wali Kota Mojokerto 2024",
+    "region": "Mojokerto",
+    "level": "KOTA",
+    "path": "kota-mojokerto",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Mojokerto_2024",
+    "communityID": "8c937997-a12d-4a7f-b5c3-fe3ed8868ba8",
+    "candidates": [
+        {
+            "name": "Ika Puspitasari",
+            "description": "Hj. Ika Puspitasari, S.E. (lahir 12 April 1979) adalah Wali Kota Mojokerto periode 2018\u20132023. Ning Ita juga merupakan aktivis Muslimat NU.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ika_Puspitasari_Wali_Kota_Mojokerto.png/1200px-Ika_Puspitasari_Wali_Kota_Mojokerto.png",
+            "title": "Walikota Mojokerto periode 2018-2023",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ika_Puspitasari"
+            },
+            "communityID": "8c937997-a12d-4a7f-b5c3-fe3ed8868ba8"
+        },
+        {
+            "name": "H. Junaedi Malik, SE",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC PKB Kota Mojokerto",
+            "sites": {},
+            "communityID": "8c937997-a12d-4a7f-b5c3-fe3ed8868ba8"
+        },
+        {
+            "name": "Mochamad Harun",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC Partai Gerindra Kota Mojokerto",
+            "sites": {},
+            "communityID": "8c937997-a12d-4a7f-b5c3-fe3ed8868ba8"
+        }
+    ]
+}

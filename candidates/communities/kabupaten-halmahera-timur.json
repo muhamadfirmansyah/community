@@ -1,0 +1,32 @@
+{
+    "title": "Pemilihan umum Bupati Halmahera Timur 2024",
+    "region": "Halmahera Timur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-halmahera-timur",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Halmahera_Timur_2024",
+    "communityID": "3fd99295-d88c-4338-b7af-49bea5f53af5",
+    "candidates": [
+        {
+            "name": "Ubaid Yakub",
+            "description": "Ubaid Yakub (lahir 27 Agustus 1969) adalah seorang politisi Indonesia. Ia menjabat sebagai Bupati Halmahera Timur periode 2020\u20132025.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ubaid_Yakub.jpg",
+            "title": "Bupati Halmahera Timur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ubaid_Yakub"
+            },
+            "communityID": "3fd99295-d88c-4338-b7af-49bea5f53af5"
+        },
+        {
+            "name": "Welhelmus Tahalele",
+            "description": "Welhelmus Tahalele, S.E. (lahir 17 Maret 1949) adalah Anggota DPRD Maluku Utara Fraksi Hanura periode 2019\u20142024.[1] Welhelmus Tahalele pernah menjabat sebagai Bupati Halmahera Timur periode 2005\u20142010.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/4/40/KPU_Welhelmus_Tahalele.jpg",
+            "title": "Mantan Bupati Halmahera Timur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Welhelmus_Tahalele"
+            },
+            "communityID": "3fd99295-d88c-4338-b7af-49bea5f53af5"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Pemilihan umum Bupati Musi Rawas 2024",
+    "region": "Musi Rawas",
+    "level": "KABUPATEN",
+    "path": "kabupaten-musi-rawas",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Musi_Rawas_2024",
+    "communityID": "ed2d3a40-9122-4148-b995-573039bc375f",
+    "candidates": [
+        {
+            "name": "Ratna Machmud",
+            "description": "Ir. Hj. Ratna Machmud.,M.M (lahir 8 Agustus 1964) adalah Bupati Musi Rawas periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Selatan, Herman Deru di Griya Agung, Palembang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bupati_Musi_Rawas_Ratna_Machmud.png/1200px-Bupati_Musi_Rawas_Ratna_Machmud.png",
+            "title": "Bupati Musi Rawas",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ratna_Machmud"
+            },
+            "communityID": "ed2d3a40-9122-4148-b995-573039bc375f"
+        },
+        {
+            "name": "Suwarti",
+            "description": "Hj. Suwarti, S.IP. (lahir 27 Oktober 1958) adalah Wakil Bupati Musi Rawas periode 2016\u20132021 dan 2021\u20132024. Ia menjabat untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Selatan, Herman Deru di Griya Agung, Palembang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Wakil_Bupati_Musi_Rawas_Suwarti.png/1200px-Wakil_Bupati_Musi_Rawas_Suwarti.png",
+            "title": "Wakil Bupati Musi Rawas",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Suwarti_(politikus,_lahir_1958)"
+            },
+            "communityID": "ed2d3a40-9122-4148-b995-573039bc375f"
+        },
+        {
+            "name": "KH. Bahana Jaalhaq Taqwallah",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua BAZNAS Kab. Musi Rawas",
+            "sites": {},
+            "communityID": "ed2d3a40-9122-4148-b995-573039bc375f"
+        },
+        {
+            "name": "Sulaiman Kohar",
+            "description": "H. Sulaiman Kohar, S.H., M.H.[1] (lahir 22 Februari 1955) adalah birokrat dan politikus Indonesia yang menjabat sebagai Wakil Wali Kota Lubuklinggau 2 periode yakni 2013\u20142018 dan 2018\u20142023. Ia adalah wakil dari Wali Kota Lubuklinggau, SN Prana Putra Sohe.\n",
+            "profilePic": "",
+            "title": "Wakil Wali Kota Lubuklinggau",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sulaiman_Kohar"
+            },
+            "communityID": "ed2d3a40-9122-4148-b995-573039bc375f"
+        },
+        {
+            "name": "Zabur Nawawi",
+            "description": "",
+            "profilePic": "",
+            "title": "Staf Ahli Bupati Musi Rawas Bidang Investasi",
+            "sites": {},
+            "communityID": "ed2d3a40-9122-4148-b995-573039bc375f"
+        },
+        {
+            "name": "Raynaldi Akbar Nugraha",
+            "description": "",
+            "profilePic": "",
+            "title": "Angggota DPRD Kab.Musirawas",
+            "sites": {},
+            "communityID": "ed2d3a40-9122-4148-b995-573039bc375f"
+        }
+    ]
+}

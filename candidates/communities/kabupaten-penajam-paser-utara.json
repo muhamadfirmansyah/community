@@ -1,0 +1,29 @@
+{
+    "title": "Pemilihan umum Bupati Penajam Paser Utara 2024",
+    "region": "Penajam Paser Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-penajam-paser-utara",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Penajam_Paser_Utara_2024",
+    "communityID": "967962eb-ae42-4525-8309-4e274b2b77c3",
+    "candidates": [
+        {
+            "name": "Hamdam Pongrewa",
+            "description": "Ir. H. Hamdam Pongrewa (lahir 31 Desember 1965) adalah politikus Indonesia yang menjabat sebagai Bupati Penajam Paser Utara sejak 28 Desember 2022 hingga 19 September 2023.[1][2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wakil_Bupati_Penajam_Paser_Utara_Hamdam_Pongrewa.png/1200px-Wakil_Bupati_Penajam_Paser_Utara_Hamdam_Pongrewa.png",
+            "title": "Bupati Penajam Paser Utara sisa masa jabatan periode 2018\u20132023 pada tahun 2022\u20132023",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hamdam_Pongrewa"
+            },
+            "communityID": "967962eb-ae42-4525-8309-4e274b2b77c3"
+        },
+        {
+            "name": "Andi Harahap",
+            "description": "",
+            "profilePic": "",
+            "title": "Bupati Penajam Paser Utara periode 2008\u20132013",
+            "sites": {},
+            "communityID": "967962eb-ae42-4525-8309-4e274b2b77c3"
+        }
+    ]
+}

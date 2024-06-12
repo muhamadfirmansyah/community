@@ -1,0 +1,91 @@
+{
+    "title": "Pemilihan umum Wali Kota Batu 2024",
+    "region": "Batu",
+    "level": "KOTA",
+    "path": "kota-batu",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Batu_2024",
+    "communityID": "cd83913f-0c3d-442a-bf36-0fb25c5a8c55",
+    "candidates": [
+        {
+            "name": "Ganis Rumpoko",
+            "description": "",
+            "profilePic": "",
+            "title": "Anak mantan Walikota Batu 2017-2022",
+            "sites": {},
+            "communityID": "cd83913f-0c3d-442a-bf36-0fb25c5a8c55"
+        },
+        {
+            "name": "Nurochman",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua II DPRD Kota Batu",
+            "sites": {},
+            "communityID": "cd83913f-0c3d-442a-bf36-0fb25c5a8c55"
+        },
+        {
+            "name": "Heli Suyanto",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua I DPRD Kota Malang",
+            "sites": {},
+            "communityID": "cd83913f-0c3d-442a-bf36-0fb25c5a8c55"
+        },
+        {
+            "name": "Dewanti Rumpoko",
+            "description": "Hj. Dra. Dewanti Rumpoko, M.Si. [1] (lahir 13 Desember 1962) adalah Wali Kota Batu periode 2017-2022. Ia menjabat sejak 27 Desember 2017 setelah dilantik Gubernur Jawa Timur, H. Soekarwo di Gedung Grahadi, Kota Surabaya. Ia mencatatkan diri sebagai wali kota perempuan pertama di Kota Batu. Pasangan Dewanti-Punjul Santoso ditetapkan sebagai pemenang Pemilihan umum Wali Kota Batu 2017 oleh KPU Kota Batu.\n",
+            "profilePic": "",
+            "title": "Walikota Batu periode 2017-2022",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dewanti_Rumpoko"
+            },
+            "communityID": "cd83913f-0c3d-442a-bf36-0fb25c5a8c55"
+        },
+        {
+            "name": "Punjul Santoso",
+            "description": "Ir. H. Punjul Santoso, S.H., M.M.[1] (lahir 21 Juli 1962) adalah Wakil Wali Kota Batu yang menjabat sejak tahun 2012 hingga sekarang. Beliau juga sempat menjabat sebagai Pelaksana Tugas Wali Kota Batu sejak September hingga Desember 2017 sebelum dilantik kembali sebagai Wakil Wali Kota Batu periode kedua (masa bakti 2017-2022).\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/f6/KPU_Punjul_Santoso.jpg",
+            "title": "Wakil Walikota Batu periode 2012-2017 dan 2017-2022",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Punjul_Santoso"
+            },
+            "communityID": "cd83913f-0c3d-442a-bf36-0fb25c5a8c55"
+        },
+        {
+            "name": "Budiono",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua PCNU Kota Batu",
+            "sites": {},
+            "communityID": "cd83913f-0c3d-442a-bf36-0fb25c5a8c55"
+        },
+        {
+            "name": "Krisdayanti",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/64/Krisdayanti_DPR_Profile.jpg",
+            "title": "Penyanyi dan anggota Fraksi PDI-Perjuangan DPR RI",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Krisdayanti"
+            },
+            "communityID": "cd83913f-0c3d-442a-bf36-0fb25c5a8c55"
+        },
+        {
+            "name": "Drs Didik Mahmud",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPD Partai Golkar Kota Batu",
+            "sites": {},
+            "communityID": "cd83913f-0c3d-442a-bf36-0fb25c5a8c55"
+        },
+        {
+            "name": "Noval Akbar",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengurus DPP Partai NasDem",
+            "sites": {},
+            "communityID": "cd83913f-0c3d-442a-bf36-0fb25c5a8c55"
+        }
+    ]
+}

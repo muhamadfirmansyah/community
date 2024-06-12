@@ -1,0 +1,29 @@
+{
+    "title": "Pemilihan umum Bupati Sekadau 2024",
+    "region": "Sekadau",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sekadau",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Sekadau_2024",
+    "communityID": "ccd6d031-ea20-4e22-b83d-2bc803e73d52",
+    "candidates": [
+        {
+            "name": "Abun Ediyanto",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Sekadau",
+            "sites": {},
+            "communityID": "ccd6d031-ea20-4e22-b83d-2bc803e73d52"
+        },
+        {
+            "name": "Subandrio",
+            "description": "Subandrio, S.H., M.H. (lahir 23 Maret 1976) adalah Wakil Bupati Sekadau periode 2021\u20132024. Ia dilantik pada 19 Juni 2021 oleh Gubernur Kalimantan Barat, Sutarmidji di Balai Petitih Kantor Gubernur Kalimantan Barat, Kota Pontianak setelah sebelumnya pelantikan pada 26 April 2021 dibatalkan oleh Mahkamah Konstitusi.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Wakil_Bupati_Sekadau_Subandrio.jpg/1200px-Wakil_Bupati_Sekadau_Subandrio.jpg",
+            "title": "Wakil Bupati Sekadau",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Subandrio_(wakil_bupati)"
+            },
+            "communityID": "ccd6d031-ea20-4e22-b83d-2bc803e73d52"
+        }
+    ]
+}

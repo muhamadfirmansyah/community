@@ -1,0 +1,72 @@
+{
+    "title": "Pemilihan umum Bupati Lombok Utara 2024",
+    "region": "Lombok Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-lombok-utara",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Lombok_Utara_2024",
+    "communityID": "bfda41de-bcf3-4019-9e1a-fedd424d19e4",
+    "candidates": [
+        {
+            "name": "Najmul Akhyar",
+            "description": "Najmul Akhyar (lahir 14 Juni 1972) adalah seorang Bupati Lombok Utara periode 2015 - 2020. Dia menggantikan Djohan Sjamsu pada tahun 2015.\n",
+            "profilePic": "",
+            "title": "Bupati Lombok Utara periode 2016\u20132021",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Najmul_Akhyar"
+            },
+            "communityID": "bfda41de-bcf3-4019-9e1a-fedd424d19e4"
+        },
+        {
+            "name": "Danny Karter Febrianto",
+            "description": "Danny Karter Febrianto Ridawan, S.T., M.Eng. (lahir 16 Februari 1985) adalah Wakil Bupati Lombok Utara periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Barat, Zulkieflimansyah di Gedung Graha Bhakti Praja Kompleks Kantor Gubernur Nusa Tenggara Barat, Mataram.[1]\n",
+            "profilePic": "",
+            "title": "Wakil Bupati Lombok Utara periode 2021\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Danny_Karter_Febrianto"
+            },
+            "communityID": "bfda41de-bcf3-4019-9e1a-fedd424d19e4"
+        },
+        {
+            "name": "Raden Nuna Abriadi",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Provinsi Nusa Tenggara Barat",
+            "sites": {},
+            "communityID": "bfda41de-bcf3-4019-9e1a-fedd424d19e4"
+        },
+        {
+            "name": "Junaidi Arif",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPW Partai Bulan Bintang Provinsi Nusa Tenggara Barat",
+            "sites": {},
+            "communityID": "bfda41de-bcf3-4019-9e1a-fedd424d19e4"
+        },
+        {
+            "name": "Mukhsin Muhtar Efendi",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua Forum Kerukunan Umat Beragama (FKUB) Kabupaten Lombok Utara",
+            "sites": {},
+            "communityID": "bfda41de-bcf3-4019-9e1a-fedd424d19e4"
+        },
+        {
+            "name": "Mariadi",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua Dewan Perwakilan Rakyat Daerah Kabupaten Lombok Utara",
+            "sites": {},
+            "communityID": "bfda41de-bcf3-4019-9e1a-fedd424d19e4"
+        },
+        {
+            "name": "Ada Malik",
+            "description": "",
+            "profilePic": "",
+            "title": "Sekertaris PKB Kabupaten Lombok Utara",
+            "sites": {},
+            "communityID": "bfda41de-bcf3-4019-9e1a-fedd424d19e4"
+        }
+    ]
+}

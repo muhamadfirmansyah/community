@@ -1,0 +1,42 @@
+{
+    "title": "Pemilihan umum Wali Kota Langsa 2024",
+    "region": "Langsa",
+    "level": "KOTA",
+    "path": "kota-langsa",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Langsa_2024",
+    "communityID": "f991e86e-45b7-43e9-9919-3ec71b0c4b2f",
+    "candidates": [
+        {
+            "name": "dr. Mahfudhdinsyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Instagram @mahfudozil; Aktivis Sosial Media Nasional",
+            "sites": {},
+            "communityID": "f991e86e-45b7-43e9-9919-3ec71b0c4b2f"
+        },
+        {
+            "name": "Marzuki Hamid",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Wali Kota Langsa",
+            "sites": {},
+            "communityID": "f991e86e-45b7-43e9-9919-3ec71b0c4b2f"
+        },
+        {
+            "name": "Muhammad Isa",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua KPA wilayah Langsa",
+            "sites": {},
+            "communityID": "f991e86e-45b7-43e9-9919-3ec71b0c4b2f"
+        },
+        {
+            "name": "Adami",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPW PNA Langsa",
+            "sites": {},
+            "communityID": "f991e86e-45b7-43e9-9919-3ec71b0c4b2f"
+        }
+    ]
+}

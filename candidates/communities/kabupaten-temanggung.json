@@ -1,0 +1,32 @@
+{
+    "title": "Pemilihan umum Bupati Temanggung 2024",
+    "region": "Temanggung",
+    "level": "KABUPATEN",
+    "path": "kabupaten-temanggung",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Temanggung_2024",
+    "communityID": "3ddb9760-41a2-4072-8547-4eec5f15bdbf",
+    "candidates": [
+        {
+            "name": "Muhammad Al Khadziq",
+            "description": "H. Muhammad Al Khadziq (lahir 30 Desember 1967) adalah seorang politikus berkebangsaan Indonesia yang menjabat sebagai bupati Temanggung sejak 24 September 2018. Sebelum terpilih sebagai bupati, dia adalah seorang pewarta yang juga aktif dalam berbagai organisasi Islam.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/20/Muhammad_Al_Khadziq_Bupati_Temanggung.jpg",
+            "title": "Bupati Temanggung periode 2018-2023",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muhammad_Al_Khadziq"
+            },
+            "communityID": "3ddb9760-41a2-4072-8547-4eec5f15bdbf"
+        },
+        {
+            "name": "Bambang Sudibyo",
+            "description": "Prof. Dr. Bambang Sudibyo, M.B.A. (lahir 8 Oktober 1952), adalah seorang politikus, ekonom, dan akademisi Indonesia. Dia merupakan alumnus Universitas Gadjah Mada Ia adalah Menteri Keuangan pada Kabinet Persatuan Nasional dan Menteri Pendidikan pada Kabinet Indonesia Bersatu. Ia berasal dari Partai Amanat Nasional.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a7/KIB_Bambang_Sudibyo.jpg",
+            "title": "Menteri Pendidikan Nasional (2004\u20132009",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Bambang_Sudibyo"
+            },
+            "communityID": "3ddb9760-41a2-4072-8547-4eec5f15bdbf"
+        }
+    ]
+}

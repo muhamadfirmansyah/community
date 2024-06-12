@@ -1,0 +1,54 @@
+{
+    "title": "Pemilihan umum Bupati Gorontalo 2024",
+    "region": "Gorontalo",
+    "level": "KABUPATEN",
+    "path": "kabupaten-gorontalo",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Gorontalo_2024",
+    "communityID": "858623b9-d0bb-4c8b-b814-4014c0c9d87c",
+    "candidates": [
+        {
+            "name": "Hendra Hemeto",
+            "description": "H. Hendra S. Hemeto, S.T., M.Si. (lahir 5 Januari 1973) adalah Wakil Bupati Gorontalo periode 2021\u20142024.[1] Ia adalah wakil dari Bupati Gorontalo, Nelson Pomalingo.\n",
+            "profilePic": "",
+            "title": "Wakil Bupati Gorontalo",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hendra_Hemeto"
+            },
+            "communityID": "858623b9-d0bb-4c8b-b814-4014c0c9d87c"
+        },
+        {
+            "name": "Adhan Dambea",
+            "description": "H. Adhan Dambea, S.Sos., S.H., M.A. (lahir 7 Juni 1958) adalah Anggota DPRD Provinsi Gorontalo periode 2019\u20132024. Sebelumnya ia menjabat sebagai Wali Kota Gorontalo periode 2008\u20132013.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Adhan_Dambea%2C_2017.jpg",
+            "title": "Anggota DPRD Provinsi Gorontalo",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Adhan_Dambea"
+            },
+            "communityID": "858623b9-d0bb-4c8b-b814-4014c0c9d87c"
+        },
+        {
+            "name": "Mochtar Mohamad",
+            "description": "Mochtar Mohamad (lahir 26 Oktober 1964) adalah politikus Indonesia yang menjabat Wali Kota Bekasi periode 2008\u20142012. Mochtar pernah menjabat sebagai Wakil Wali Kota Bekasi periode 2003\u20142008. Sebelum akhirnya dia dihukum karena terjerat kasus korupsi , Dan digantikan oleh wakilnya Rahmat Effendi, dia terlibat dalam kasus penyuapan dan dijatuhi hukuman penjara selama beberapa tahun sebelum akhirnya dibebaskan pada tahun 2015, dan kembali ke dunia politik melalui PDI-P.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/85/Mochtar_Mohamad.jpg",
+            "title": "Mantan Wali Kota Bekasi",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mochtar_Mohamad"
+            },
+            "communityID": "858623b9-d0bb-4c8b-b814-4014c0c9d87c"
+        },
+        {
+            "name": "Rustam HS Akili",
+            "description": "Prof. Dr. Rustam H.S. Akili, S.E., S.H., M.H. (lahir 23 Maret 1964) adalah Ketua DPRD Provinsi Gorontalo periode 2014. Sebelumnya ia menjabat sebagai Anggota DPRD Provinsi Gorontalo 3 periode yakni 2001\u20142004, 2004\u20142009, dan 2009\u20142014.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/1d/KPU_Rustam_H.S._Akili.jpg",
+            "title": "Mantan Ketua DPRD Provinsi Gorontalo",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Rustam_HS_Akili"
+            },
+            "communityID": "858623b9-d0bb-4c8b-b814-4014c0c9d87c"
+        }
+    ]
+}

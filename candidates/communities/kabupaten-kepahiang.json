@@ -1,0 +1,40 @@
+{
+    "title": "Pemilihan umum Bupati Kepahiang 2024",
+    "region": "Kepahiang",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kepahiang",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Kepahiang_2024",
+    "communityID": "6617f983-0114-465c-8f0a-0644e8516bda",
+    "candidates": [
+        {
+            "name": "Zurdi Nata",
+            "description": "H. Zurdi Nata, S.Ip atau biasa dipanggil Nata (lahir 21 Mei 1972) adalah Wakil Bupati Kepahiang periode 2021-2024 bersama Bupati Hidayatullah Sjahid.[3] Beliau terkenal sebagai salah satu pengusaha sukses yang berasal dari Kepahiang. Usaha yang beliau jalani saat ini di bidang komoditas atau hasil bumi, khususnya kopi robusta dan lada yang disuplai ke beberapa daerah di luar Provinsi Bengkulu seperti ke wilayah Pulau Jawa saat ini, yaitu Surabaya. Ia pernah menjabat sebagai Wakil Ketua DPRD Kabupaten Kepahiang selama 2 periode, yaitu periode tahun 2004-2009 dan 2009-2014. Alasan beliau berkiprah di dunia politik, karena panggilan hati untuk memperjuangkan kesejahteraan masyarakat dan kemajuan daerah Kepahiang.[butuh rujukan]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Zurdi_Nata_Background_Putih.jpg",
+            "title": "Wakil Bupati Kepahiang petahana",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Zurdi_Nata"
+            },
+            "communityID": "6617f983-0114-465c-8f0a-0644e8516bda"
+        },
+        {
+            "name": "Windra Purnawan",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Kabupaten Kepahiang",
+            "sites": {},
+            "communityID": "6617f983-0114-465c-8f0a-0644e8516bda"
+        },
+        {
+            "name": "Riri Damayanti",
+            "description": "Riri Damayanti John Latief (lahir 4 Februari 1990) adalah seorang politikus Indonesia kelahiran Bengkulu. Ia merupakan anak pertama pasangan pengusaha John Latief dan seorang politisi Hj. Leni Haryati Jhon Latief.[1] Pada 2013, ia meraih gelar sarjana psikologi dari Universitas Indonesia.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Senator_Riri_Damayanti_John_Latief.jpg",
+            "title": "Anggota DPD RI",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Riri_Damayanti_John_Latief"
+            },
+            "communityID": "6617f983-0114-465c-8f0a-0644e8516bda"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Pemilihan umum Bupati Sumba Timur 2024",
+    "region": "Sumba Timur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sumba-timur",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Sumba_Timur_2024",
+    "communityID": "2d460a95-9c5b-4e1f-9ecf-f6a94b9f57a5",
+    "candidates": [
+        {
+            "name": "David Melo Wadu",
+            "description": "David Melo Wadu, S.T. (lahir 15 Juli 1969) adalah Wakil Bupati Sumba Timur periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Timur, Viktor Laiskodat di Aula Rumah Jabatan Gubernur Nusa Tenggara Timur, Kupang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/9c/David_Melo_Wadu.jpg",
+            "title": "Wakil Bupati Sumba Timur petahana",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/David_Melo_Wadu"
+            },
+            "communityID": "2d460a95-9c5b-4e1f-9ecf-f6a94b9f57a5"
+        },
+        {
+            "name": "Umbu Lili Pekuwali",
+            "description": "Umbu Lili Pekuwali adalah seorang politikus Indonesia. Ia tergabung dalam Partai Golongan Karya (Golkar). Ia menjabat sebagai Wakil Bupati Sumba Timur dari 2016 sampai 2021 mendampingi Gidion Mbilijora selaku Bupati Sumba Timur.[1] Pada Pemilihan umum Bupati Sumba Timur 2020, ia maju sebagai cabup didampingi oleh Yohanis Hiwa Wunu selaku cawabup, namun kalah dari pasangan Khristofel Praing-David Melo Wadu.[2]\n",
+            "profilePic": "",
+            "title": "Wakil Bupati Sumba Timur periode 2016\u20132021",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Umbu_Lili_Pekuwali"
+            },
+            "communityID": "2d460a95-9c5b-4e1f-9ecf-f6a94b9f57a5"
+        },
+        {
+            "name": "Langu Pindingara",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Kepala Dinas Kelautan",
+            "sites": {},
+            "communityID": "2d460a95-9c5b-4e1f-9ecf-f6a94b9f57a5"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "title": "Pemilihan umum Bupati Sragen 2024",
+    "region": "Sragen",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sragen",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Sragen_2024",
+    "communityID": "8bb6797a-eecf-4405-8dbd-04668b4ee109",
+    "candidates": [
+        {
+            "name": "Dedy Endriyatno",
+            "description": "Dedy Endriyatno (lahir 15 Mei 1975) adalah seorang politikus Indonesia kelahiran Sragen. Ia tergabung dalam Partai Keadilan Sejahtera. Ia menjabat sebagai Wakil Bupati Sragen dari 2016 sampai 2021 mendampingi Kusdinar Untung Yuni Sukowati selaku Bupati Sragen, Dedy Endriyanto juga pernah menjabat sebagai Pj.Bupati Sragen ketika pasangan Bupatinya mencalonkan diri sebagai Bupati Sragen dalam Pilkada 2020, Ia juga merupakan Calon Anggota Legislatif terpilih DPRD Jawa Tengah (2024-2029) dari Dapil VI Jawa Tengah dari PKS.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/0d/KPU_Dedy_Endriyatno.jpg",
+            "title": "Mantan Wakil Bupati Sragen",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dedy_Endriyatno"
+            },
+            "communityID": "8bb6797a-eecf-4405-8dbd-04668b4ee109"
+        },
+        {
+            "name": "Untung Wibowo Sukowati",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Jateng",
+            "sites": {},
+            "communityID": "8bb6797a-eecf-4405-8dbd-04668b4ee109"
+        },
+        {
+            "name": "Suroto",
+            "description": "H. Suroto (lahir 25 Agustus 1956) adalah Wakil Bupati Sragen periode 2021\u20132024. Ia menjabat sejak 24 Mei 2021 setelah dilantik Gubernur Jawa Tengah, Ganjar Pranowo di Gedung Gardhika Bhakti Praja Kompleks Kantor Gubernur Jawa Tengah, Kota Semarang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Suroto_Wakil_Bupati_Sragen.jpg/1200px-Suroto_Wakil_Bupati_Sragen.jpg",
+            "title": "Wakil Bupati Sragen",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Suroto_(politikus)"
+            },
+            "communityID": "8bb6797a-eecf-4405-8dbd-04668b4ee109"
+        },
+        {
+            "name": "Aris Surawan Giriyanto",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRD Sragen",
+            "sites": {},
+            "communityID": "8bb6797a-eecf-4405-8dbd-04668b4ee109"
+        }
+    ]
+}

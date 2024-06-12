@@ -1,0 +1,64 @@
+{
+    "title": "Pemilihan umum Bupati Aceh Tengah 2024",
+    "region": "Aceh Tengah",
+    "level": "KABUPATEN",
+    "path": "kabupaten-aceh-tengah",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Aceh_Tengah_2024",
+    "communityID": "1b6f5b69-bf6e-4fd0-ada5-d5e4c00ee113",
+    "candidates": [
+        {
+            "name": "Zam Zam Mubarak (Pengusaha Muda/Founder Linge Antara Institute/ mantan presiden mahasiswa universitas muhammadiyah Jakarta)",
+            "description": "",
+            "profilePic": "",
+            "title": "Bakal Calon Bupati",
+            "sites": {},
+            "communityID": "1b6f5b69-bf6e-4fd0-ada5-d5e4c00ee113"
+        },
+        {
+            "name": "Firdaus",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Aceh Tengah",
+            "sites": {},
+            "communityID": "1b6f5b69-bf6e-4fd0-ada5-d5e4c00ee113"
+        },
+        {
+            "name": "Ibnu Sakdan",
+            "description": "Tgk. Ibnu Sakdan,[1] lebih dikenal dengan nama Sapu Arang adalah tokoh pejuang Gerakan Aceh Merdeka. Dia pernah menjabat sebagai Panglima Gerakan Aceh Merdeka wilayah Linge.\n",
+            "profilePic": "",
+            "title": "Mantan Ketua DPW Partai Nanggroe Aceh Kabupaten Aceh Tengah",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ibnu_Sakdan"
+            },
+            "communityID": "1b6f5b69-bf6e-4fd0-ada5-d5e4c00ee113"
+        },
+        {
+            "name": "Adam Mukhlis",
+            "description": "Adam Mukhlis (lahir 5 Mei 1969) adalah tokoh pejuang GAM. Dia pernah menjabat sebagai Juru Bicara GAM wilayah Linge. Dia pernah menjabat sebagai Anggota DPRA Fraksi Partai Aceh periode 2014\u20132018.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/ba/KPU_Adam_Mukhlis.jpg",
+            "title": "Mantan Anggota DPR Aceh",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Adam_Mukhlis"
+            },
+            "communityID": "1b6f5b69-bf6e-4fd0-ada5-d5e4c00ee113"
+        },
+        {
+            "name": "Zamani",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPW Partai Nanggroe Aceh Kabupaten Aceh Tengah",
+            "sites": {},
+            "communityID": "1b6f5b69-bf6e-4fd0-ada5-d5e4c00ee113"
+        },
+        {
+            "name": "Rahmuddinsyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPW Partai Aceh Kabupaten Aceh Tengah",
+            "sites": {},
+            "communityID": "1b6f5b69-bf6e-4fd0-ada5-d5e4c00ee113"
+        }
+    ]
+}

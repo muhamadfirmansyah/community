@@ -1,0 +1,56 @@
+{
+    "title": "Pemilihan umum Bupati Kepulauan Tanimbar 2024",
+    "region": "Kepulauan Tanimbar",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kepulauan-tanimbar",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Kepulauan_Tanimbar_2024",
+    "communityID": "1508d7c7-bfe3-4df9-af09-5fd58c0151b7",
+    "candidates": [
+        {
+            "name": "Petrus Fatlolon",
+            "description": "Petrus Fatlolon, S.H., M.H. (lahir 16 Agustus 1967) adalah Bupati Kepulauan Tanimbar periode 2017-2022.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bupati_MTB_Petrus_Fatlolon_%28cropped%29.jpg",
+            "title": "Bupati Kepulauan Tanimbar periode 2017\u20132022",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Petrus_Fatlolon"
+            },
+            "communityID": "1508d7c7-bfe3-4df9-af09-5fd58c0151b7"
+        },
+        {
+            "name": "Dharma Oratmangun",
+            "description": "Dharma Oratmangun (lahir 30 April 1959) adalah penyanyi, pencipta lagu dan produser musik asal Indonesia. Dharma Oratmangun pernah menjadi Juara I Festival Musik Pop Indonesia.\n",
+            "profilePic": "",
+            "title": "Wakil Ketua Umum DPP Kosgoro 1957",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dharma_Oratmangun"
+            },
+            "communityID": "1508d7c7-bfe3-4df9-af09-5fd58c0151b7"
+        },
+        {
+            "name": "Yulianus Aboyaman Uwuratuw",
+            "description": "",
+            "profilePic": "",
+            "title": "Dokter spesialis bedah",
+            "sites": {},
+            "communityID": "1508d7c7-bfe3-4df9-af09-5fd58c0151b7"
+        },
+        {
+            "name": "Adolof Boarmasa",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Kapolres Kepulauan Tanimbar",
+            "sites": {},
+            "communityID": "1508d7c7-bfe3-4df9-af09-5fd58c0151b7"
+        },
+        {
+            "name": "Moses Melmambessy",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Kepala Dinas Pertambangan dan Energi Provinsi Papua",
+            "sites": {},
+            "communityID": "1508d7c7-bfe3-4df9-af09-5fd58c0151b7"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Pemilihan umum Bupati Maluku Tenggara 2024",
+    "region": "Maluku Tenggara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-maluku-tenggara",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Maluku_Tenggara_2024",
+    "communityID": "9216a327-034c-4d7c-9ab4-ca7216d006c2",
+    "candidates": [
+        {
+            "name": "Muhammad Thaher Hanubun",
+            "description": "H. Muhammad Thaher Hanubun (lahir 3 Agustus 1958) adalah Bupati Maluku Tenggara periode 2018\u20132023. Ia diusung oleh Partai Kebangkitan Bangsa, Partai Keadilan Sejahtera dan Partai Amanat Nasional yang berhasil memenangkan Pemilihan umum Bupati Maluku Tenggara 2018.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Muhammad_Thaher_Hanubun.png",
+            "title": "Bupati Maluku Tenggara periode 2018\u20132023",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muhammad_Thaher_Hanubun"
+            },
+            "communityID": "9216a327-034c-4d7c-9ab4-ca7216d006c2"
+        },
+        {
+            "name": "Xaverius Kameubun",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Provinsi Papua Barat",
+            "sites": {},
+            "communityID": "9216a327-034c-4d7c-9ab4-ca7216d006c2"
+        },
+        {
+            "name": "Agustinus Ufie",
+            "description": "",
+            "profilePic": "",
+            "title": "Sekjen DPP Ikatan Alumni Universitas Pattimura",
+            "sites": {},
+            "communityID": "9216a327-034c-4d7c-9ab4-ca7216d006c2"
+        },
+        {
+            "name": "Minduchri Koedoeboen",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC Partai Kebangkitan Bangsa Kabupaten Maluku Tenggara",
+            "sites": {},
+            "communityID": "9216a327-034c-4d7c-9ab4-ca7216d006c2"
+        }
+    ]
+}

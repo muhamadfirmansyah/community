@@ -1,0 +1,64 @@
+{
+    "title": "Pemilihan umum Bupati Nganjuk 2024",
+    "region": "Nganjuk",
+    "level": "KABUPATEN",
+    "path": "kabupaten-nganjuk",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Nganjuk_2024",
+    "communityID": "b7f3ec9e-7e11-4c3a-930e-92a16c5419db",
+    "candidates": [
+        {
+            "name": "Bimantoro Wiyono, S.H",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPR RI Fraksi Partai Gerindra",
+            "sites": {},
+            "communityID": "b7f3ec9e-7e11-4c3a-930e-92a16c5419db"
+        },
+        {
+            "name": "Marhaen Djumadi",
+            "description": "Dr. Drs. H. Marhaen Djumadi, S.E., S.H., M.M., MBA. (lahir 15 Desember 1968) adalah politisi Indonesia yang menjabat sebagai Pelaksana Tugas Bupati Nganjuk sejak 11 Mei 2021. Sebelumnya, ia menjabat sebagai Wakil Bupati Nganjuk sejak 24 September 2018 hingga 10 Mei 2021. Ia adalah kader dari Partai Demokrasi Indonesia Perjuangan (PDI-P).\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bupati_Nganjuk_Marhaen_Djumadi.png/1200px-Bupati_Nganjuk_Marhaen_Djumadi.png",
+            "title": "Plt Bupati Nganjuk",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Marhaen_Djumadi"
+            },
+            "communityID": "b7f3ec9e-7e11-4c3a-930e-92a16c5419db"
+        },
+        {
+            "name": "Ulum Basthomi",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRD Kab. Nganjuk",
+            "sites": {},
+            "communityID": "b7f3ec9e-7e11-4c3a-930e-92a16c5419db"
+        },
+        {
+            "name": "Raditya Haria Yuangga",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRD Kab. Nganjuk",
+            "sites": {},
+            "communityID": "b7f3ec9e-7e11-4c3a-930e-92a16c5419db"
+        },
+        {
+            "name": "Imam Makruf",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Prov. Jawa Timur",
+            "sites": {},
+            "communityID": "b7f3ec9e-7e11-4c3a-930e-92a16c5419db"
+        },
+        {
+            "name": "Istu Hari Subagio",
+            "description": "Mayor Jenderal TNI (Purn) Istu Hari Subagio, S.E. (lahir 13 November 1958) adalah seorang Purnawirawan perwira tinggi TNI-AD. Saat ini ia menjabat sebagai Anggota DPRD Jawa Timur Fraksi Golkar periode 2019\u20142024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Istu_Hari_Subagio.jpg",
+            "title": "Anggota DPRD Prov. Jawa Timur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Istu_Hari_Subagio"
+            },
+            "communityID": "b7f3ec9e-7e11-4c3a-930e-92a16c5419db"
+        }
+    ]
+}

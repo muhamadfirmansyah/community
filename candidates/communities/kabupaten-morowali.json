@@ -1,0 +1,64 @@
+{
+    "title": "Pemilihan umum Bupati Morowali 2024",
+    "region": "Morowali",
+    "level": "KABUPATEN",
+    "path": "kabupaten-morowali",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Morowali_2024",
+    "communityID": "9614f3a0-b1ba-45bb-9c32-aefd2604d839",
+    "candidates": [
+        {
+            "name": "Taslim",
+            "description": "Drs. Taslim (lahir 11 Juli 1967) adalah Bupati Morowali periode 2018\u20132023. Ia menjabat sejak 26 September 2018 setelah dilantik Gubernur Sulawesi Tengah, Longki Djanggola di Gedung Lembaga Peningkatan Mutu Pendidikan, Palu.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bupati_morowali.jpg/1200px-Bupati_morowali.jpg",
+            "title": "Bupati Morowali periode 2018\u20132023",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Taslim"
+            },
+            "communityID": "9614f3a0-b1ba-45bb-9c32-aefd2604d839"
+        },
+        {
+            "name": "Ahmad Hakim",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC PDI Perjuangan Kabupaten Morowali",
+            "sites": {},
+            "communityID": "9614f3a0-b1ba-45bb-9c32-aefd2604d839"
+        },
+        {
+            "name": "Ambo Dalle",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Provinsi Sulawesi Tengah",
+            "sites": {},
+            "communityID": "9614f3a0-b1ba-45bb-9c32-aefd2604d839"
+        },
+        {
+            "name": "Syarifudin Hafid",
+            "description": "Partai Demokrat\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Bupati_morowali.jpg/1200px-Bupati_morowali.jpg",
+            "title": "Wakil Ketua I DPRD Kabupaten Morowali",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Syarifudin_Hafid"
+            },
+            "communityID": "9614f3a0-b1ba-45bb-9c32-aefd2604d839"
+        },
+        {
+            "name": "Letkol (Purn) Muhammad Asra",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPD II Golkar Morowali Kabupaten Morowali. ",
+            "sites": {},
+            "communityID": "9614f3a0-b1ba-45bb-9c32-aefd2604d839"
+        },
+        {
+            "name": "Kuswandi",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Kabupaten Morowali periode 2019-2024 ",
+            "sites": {},
+            "communityID": "9614f3a0-b1ba-45bb-9c32-aefd2604d839"
+        }
+    ]
+}

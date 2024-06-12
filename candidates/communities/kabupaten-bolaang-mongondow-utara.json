@@ -1,0 +1,56 @@
+{
+    "title": "Pemilihan umum Bupati Bolaang Mongondow Utara 2024",
+    "region": "Bolaang Mongondow Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bolaang-mongondow-utara",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Bolaang_Mongondow_Utara_2024",
+    "communityID": "de433d20-47ad-482e-8435-874ac030991f",
+    "candidates": [
+        {
+            "name": "Amin Lasena",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Bupati Bolaang Mongondow Utara periode 2018\u20132023",
+            "sites": {},
+            "communityID": "de433d20-47ad-482e-8435-874ac030991f"
+        },
+        {
+            "name": "Hamdan Datunsolang",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi Partai Demokrat Bolaang Mongondow Utara",
+            "sites": {},
+            "communityID": "de433d20-47ad-482e-8435-874ac030991f"
+        },
+        {
+            "name": "Suriansyah Korompot",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Bupati Bolaang Mongondow Utara periode 2013\u20132018",
+            "sites": {},
+            "communityID": "de433d20-47ad-482e-8435-874ac030991f"
+        },
+        {
+            "name": "Asripan Nani",
+            "description": "Dr. H. Asripan Nani, M.Si. (lahir 28 Agustus 1966) adalah seorang birokrat asal Indonesia yang bekerja di wilayah Provinsi Sulawesi Utara. Saat ini, Asripan Nani memegang jabatan sebagai Wali Kota Kotamobagu ke-3.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/76/Wali_Kota_Kotamobagu_Asripan_Nani.png",
+            "title": "Asisten Bidang Perekonomian dan Pembangunan Sekretaris Daerah Provinsi Sulawesi Utara / Penjabat Walikota Kota Kotamobagu",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Asripan_Nani"
+            },
+            "communityID": "de433d20-47ad-482e-8435-874ac030991f"
+        },
+        {
+            "name": "Sirajudin Lasena",
+            "description": "Dr. Sirajudin Lasena, S.E., M.Ec.Dev. (lahir 8 Januari 1975) adalah seorang birokrat Indonesia kelahiran Boroko. Ia lahir sebagai anak kedelapan dari sembilan bersaudara dari pasangan imam besar masjid Ismet Lasena dan Dariman Lauma. Ia menempuh pendidikan di Sekolah Dasar SD Negeri IV Boroko dan Pendidikan Menengah Pertamanya SMP Negeri 1 Kaidipang. Pada masa remaja, ia merantau ke Kota Palu, Sulawesi Tengah untuk melanjutkan pendidikan di SMEA Negeri Palu pada tahun 1995. Ia kemudian meraih gelar Sarjana dalam Jurusan Akuntansi di Sekolah Ilmu Ekonomi Panca Bhakti Palu pada tahun 2002. Ia kemudian meraih gelar Magister S2 Ekonomi Pembangunan di Universitas Gajah Mada pada tahun 2013. Pada tahun 2020, ia mengambil program Doktor S3 Administrasi Publik di Universitas Negeri Gorontalo (UNG).\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/93/Sirajudin_Lasena.jpg",
+            "title": "Kepala Dinas Perpustakaan dan Kearsipan Daerah Provinsi Sulawesi Utara / Penjabat Bupati Bolaang Mongondow Utara",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sirajudin_Lasena"
+            },
+            "communityID": "de433d20-47ad-482e-8435-874ac030991f"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Pemilihan umum Bupati Karangasem 2024",
+    "region": "Karangasem",
+    "level": "KABUPATEN",
+    "path": "kabupaten-karangasem",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Karangasem_2024",
+    "communityID": "14403f0e-c45a-454a-8a45-317593402c8b",
+    "candidates": [
+        {
+            "name": "I Gede Dana",
+            "description": "I Gede Dana, S.Pd., M.Si. (lahir 1 Januari 1968) adalah politisi PDI Perjuangan yang menjabat sebagai Bupati Karangasem periode 2021-2024. Ia sempat menjabat sebagai Ketua DPRD Kabupaten Karangasem sejak 11 September 2019[1] sampai akhirnya mengundurkan diri dikarenakan maju dalam Pilkada Karangasem 2020. Ia maju didampingi Wakil Bupati Karangasem I Wayan Artha Dipa yang diusung PDI Perjuangan dan Partai Hanura.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bupati_Karangasem_I_Gede_Dana.png",
+            "title": "Bupati Karangasem periode 2021\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/I_Gede_Dana"
+            },
+            "communityID": "14403f0e-c45a-454a-8a45-317593402c8b"
+        },
+        {
+            "name": "I Nyoman Suyasa",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC Partai Gerindra Kabupaten Karangasem",
+            "sites": {},
+            "communityID": "14403f0e-c45a-454a-8a45-317593402c8b"
+        },
+        {
+            "name": "I Komang Wirawan",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC Partai Demokrat Kabupaten Karangasem",
+            "sites": {},
+            "communityID": "14403f0e-c45a-454a-8a45-317593402c8b"
+        },
+        {
+            "name": "I Gusti Putu Parwata",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "14403f0e-c45a-454a-8a45-317593402c8b"
+        }
+    ]
+}

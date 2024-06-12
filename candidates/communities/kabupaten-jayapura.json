@@ -1,0 +1,29 @@
+{
+    "title": "Pemilihan umum Bupati Jayapura 2024",
+    "region": "Jayapura",
+    "level": "KABUPATEN",
+    "path": "kabupaten-jayapura",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Jayapura_2024",
+    "communityID": "ed7ed100-1d54-4cec-864f-1288340e03f3",
+    "candidates": [
+        {
+            "name": "Zadrak Wamebu",
+            "description": "Zadrak Wamebu, S.H., M.M. (lahir 25 Mei 1959) adalah seorang politikus Indonesia yang pernah menjabat sebagai Wakil Bupati Jayapura periode 2006-2011 mendampingi Habel Melkias Suwae. Ia berasal dari komunitas masyarakat adat Kemtuk di Kabupaten Jayapura. Ayahnya bernama Ismael Wamebu, seorang Duguena (Ondoafi) Kampung Mamda Yawan, dan ibunya bernama Agusthina Dwaa.[1]\n",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Jayapura",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Zadrak_Wamebu"
+            },
+            "communityID": "ed7ed100-1d54-4cec-864f-1288340e03f3"
+        },
+        {
+            "name": "Orgenes Kaway",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua Dewan Adat Suku (DAS) Sentani",
+            "sites": {},
+            "communityID": "ed7ed100-1d54-4cec-864f-1288340e03f3"
+        }
+    ]
+}

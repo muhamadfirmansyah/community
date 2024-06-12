@@ -1,0 +1,29 @@
+{
+    "title": "Pemilihan umum Bupati Landak 2024",
+    "region": "Landak",
+    "level": "KABUPATEN",
+    "path": "kabupaten-landak",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Landak_2024",
+    "communityID": "1346cfdd-0f51-467d-adee-d8d117752bff",
+    "candidates": [
+        {
+            "name": "Karolin Margret Natasa",
+            "description": "dr. Karolin Margret Natasa (lahir 12 Maret 1982) adalah politikus Partai Demokrasi Indonesia Perjuangan, mantan anggota DPR RI periode 2009\u20132014 dan 2014\u20132019 dari daerah pemilihan Kalimantan Barat, mantan Bupati kabupaten Landak periode 2017\u20132022.[2][3] Dia menjadi perempuan pertama yang menjabat sebagai Ketua Umum dalam organisasi Orang Muda Katolik.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Karolin_Margret_Natasa_bupati_landak.jpg",
+            "title": "Bupati Landak periode 2017-2022",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Karolin_Margret_Natasa"
+            },
+            "communityID": "1346cfdd-0f51-467d-adee-d8d117752bff"
+        },
+        {
+            "name": "Heri Saman",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Kabupaten Landak",
+            "sites": {},
+            "communityID": "1346cfdd-0f51-467d-adee-d8d117752bff"
+        }
+    ]
+}

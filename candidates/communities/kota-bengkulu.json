@@ -1,0 +1,62 @@
+{
+    "title": "Pemilihan umum Wali Kota Bengkulu 2024",
+    "region": "Bengkulu",
+    "level": "KOTA",
+    "path": "kota-bengkulu",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Bengkulu_2024",
+    "communityID": "fb6dfa2b-b08f-4891-b04a-45ae0ab411f9",
+    "candidates": [
+        {
+            "name": "Dedy Wahyudi",
+            "description": "Dr. Dedy Wahyudi, S.E., M.M.[1] (lahir 7 Desember 1975) adalah Wakil Wali Kota Bengkulu periode 2018\u20132023. Ia adalah wakil dari Wali Kota Bengkulu, Helmi Hasan.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Wakil_Wali_Kota_Bengkulu_Dedy_Wahyudi.png",
+            "title": "Wakil Wali Kota Bengkulu",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dedy_Wahyudi"
+            },
+            "communityID": "fb6dfa2b-b08f-4891-b04a-45ae0ab411f9"
+        },
+        {
+            "name": "Ahmad Kanedi",
+            "description": "H. Ahmad Kanedi, S.H., M.H. gelar Datuk Rangkayo Batuah (lahir 24 Desember 1961) adalah Anggota DPD RI dua periode yakni 2014\u20132019 dan 2019\u20132024. Sebelumnya, ia menjabat sebagai Wali Kota Bengkulu periode 2007\u20132012.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/37/Senator_Ahmad_Kanedi.jpg",
+            "title": "Anggota DPD-RI",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ahmad_Kanedi"
+            },
+            "communityID": "fb6dfa2b-b08f-4891-b04a-45ae0ab411f9"
+        },
+        {
+            "name": "Edison Simbolon",
+            "description": "H. Edison Simbolon, M.Si. (lahir 7 Maret 1958) adalah Anggota DPRD Provinsi Bengkulu Fraksi Demokrat periode 2019\u20142020.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/0d/KPU_Edison_Simbolon.jpg",
+            "title": "Mantan Anggota DPRD Bengkulu",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Edison_Simbolon"
+            },
+            "communityID": "fb6dfa2b-b08f-4891-b04a-45ae0ab411f9"
+        },
+        {
+            "name": "Dedy Ermansyah",
+            "description": "H. Dedy Ermansyah, S.E. adalah Wakil Gubernur Bengkulu periode 2019\u20132021.[1] Ia adalah wakil dari Gubernur Bengkulu, Rohidin Mersyah.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Wakil_Gubernur_Bengkulu_Dedy_Ermansyah.png",
+            "title": "Mantan Wakil Gubernur Bengkulu",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dedy_Ermansyah"
+            },
+            "communityID": "fb6dfa2b-b08f-4891-b04a-45ae0ab411f9"
+        },
+        {
+            "name": "Ustadz Dani Hamdani",
+            "description": "",
+            "profilePic": "",
+            "title": "Sekretaris MUI Provinsi Bengkulu",
+            "sites": {},
+            "communityID": "fb6dfa2b-b08f-4891-b04a-45ae0ab411f9"
+        }
+    ]
+}

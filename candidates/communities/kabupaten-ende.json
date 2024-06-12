@@ -1,0 +1,37 @@
+{
+    "title": "Pemilihan umum Bupati Ende 2024",
+    "region": "Ende",
+    "level": "KABUPATEN",
+    "path": "kabupaten-ende",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Ende_2024",
+    "communityID": "72daad6b-0649-47c9-8f58-f649103cd454",
+    "candidates": [
+        {
+            "name": "Djafar H. Achmad",
+            "description": "Drs. Djafar H. Achmad, M.M[1] (lahir 29 Januari 1953) adalah Bupati Ende Lio ke-9 menggantikan Ir. Marselinus Y. W. Petu yang meninggal pada tanggal 26 Mei 2019.[2][3][4]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/33/Djafar_H._Achmad.png",
+            "title": "Bupati Ende sisa masa jabatan periode 2019\u20132024 pada tahun 2019\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Djafar_H._Achmad"
+            },
+            "communityID": "72daad6b-0649-47c9-8f58-f649103cd454"
+        },
+        {
+            "name": "Erikos Emanuel Rede",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Bupati Ende sisa masa jabatan periode 2019\u20132024 pada tahun 2022\u20132024",
+            "sites": {},
+            "communityID": "72daad6b-0649-47c9-8f58-f649103cd454"
+        },
+        {
+            "name": "Stefanus Tani Temu",
+            "description": "",
+            "profilePic": "",
+            "title": "Dosen Universitas Nusa Cendana (Undana)",
+            "sites": {},
+            "communityID": "72daad6b-0649-47c9-8f58-f649103cd454"
+        }
+    ]
+}

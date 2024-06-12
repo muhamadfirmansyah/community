@@ -1,0 +1,115 @@
+{
+    "title": "Pemilihan umum Bupati Bojonegoro 2024",
+    "region": "Bojonegoro",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bojonegoro",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Bojonegoro_2024",
+    "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6",
+    "candidates": [
+        {
+            "name": "Anna Mu'awanah",
+            "description": "Dr. Hj. Anna Mu'awanah, M.H. (lahir 3 Februari 1968) adalah politisi PKB yang menjabat sebagai Bupati Bojonegoro periode 2018-2023.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/7e/KPU_Anna_Mu%27awanah.jpg",
+            "title": "Bupati Bojonegoro",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Anna_Mu%27awanah"
+            },
+            "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6"
+        },
+        {
+            "name": "Budi Irawanto",
+            "description": "Drs. H. Budi Irawanto, M.Pd. (lahir 9 Oktober 1967) adalah Wakil Bupati Bojonegoro periode 2018-2023. Politisi PDI Perjuangan Kabupaten Bojonegoro itu sebelumnya adalah anggota DPRD Kabupaten Bojonegoro.\n",
+            "profilePic": "",
+            "title": "Wakil Bupati Bojonegoro",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Budi_Irawanto"
+            },
+            "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6"
+        },
+        {
+            "name": "Soehadi Moeljono",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Sekda Bojonegoro",
+            "sites": {},
+            "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6"
+        },
+        {
+            "name": "M Thobahul Aftoni",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua Bidang Pemuda DPP PPP",
+            "sites": {},
+            "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6"
+        },
+        {
+            "name": "Didik Mukrianto",
+            "description": "Dr. Didik Mukrianto SH, MH (lahir 21 Juni 1974) adalah anggota Dewan Perwakilan Rakyat Republik Indonesia periode 2014-2019 setelah memperoleh 51.218 suara untuk daerah pemilihan Jawa Timur IX. dan bertugas di Komisi III yang membidangi Hukum, HAM dan Keamanan. Pada Pemilu 2019, doktor ilmu hukum ini kembali terpilih sebagai Anggota DPR RI dari Daerah Pemilihan Jawa Timur IX (Bojonegoro-Tuban) dengan perolehan suara terbanyak dengan mengantongi 114.532 suara....\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Anggota_DPR_Didik_Mukrianto.jpg/1200px-Anggota_DPR_Didik_Mukrianto.jpg",
+            "title": "Anggota DPR RI",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Didik_Mukrianto"
+            },
+            "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6"
+        },
+        {
+            "name": "Fauzan Fu\u2019adi",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Jatim",
+            "sites": {},
+            "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6"
+        },
+        {
+            "name": "Akmal Budianto",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua KONI Jawa Timur",
+            "sites": {},
+            "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6"
+        },
+        {
+            "name": "Subekhan",
+            "description": "",
+            "profilePic": "",
+            "title": "Kades desa Mulyorejo",
+            "sites": {},
+            "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6"
+        },
+        {
+            "name": "Nurul Azizah",
+            "description": "",
+            "profilePic": "",
+            "title": "Sekda Bojonegoro",
+            "sites": {},
+            "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6"
+        },
+        {
+            "name": "Sukur Priyanto",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua I DPRD Bojonegoro",
+            "sites": {},
+            "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6"
+        },
+        {
+            "name": "KRT Sudawam",
+            "description": "",
+            "profilePic": "",
+            "title": "Kades Pelem",
+            "sites": {},
+            "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6"
+        },
+        {
+            "name": "Mitroatin",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua III DPRD Bojonegoro",
+            "sites": {},
+            "communityID": "9f80122b-ae57-45ca-9e35-f981b79dfff6"
+        }
+    ]
+}

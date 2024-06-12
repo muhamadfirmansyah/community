@@ -1,0 +1,43 @@
+{
+    "title": "Pemilihan umum Bupati Melawi 2024",
+    "region": "Melawi",
+    "level": "KABUPATEN",
+    "path": "kabupaten-melawi",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Melawi_2024",
+    "communityID": "c3fa55c3-5eb3-475d-b962-6c01a100b513",
+    "candidates": [
+        {
+            "name": "Dadi Sunarya Usfa Yusra",
+            "description": "H. Dadi Sunarya Usfa Yursa, A.Md. (lahir 24 Februari 1984) adalah Bupati Melawi periode 2021\u20132024. Ia dilantik pada 26 Februari 2021 oleh Gubernur Kalimantan Barat, Sutarmidji di Balai Petitih Kantor Gubernur Kalimantan Barat, Kota Pontianak.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/DADI_SUNARYA_USFA_YURSA_2020.jpg/1200px-DADI_SUNARYA_USFA_YURSA_2020.jpg",
+            "title": "Bupati Melawi petahana",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dadi_Sunarya_Usfa_Yursa"
+            },
+            "communityID": "c3fa55c3-5eb3-475d-b962-6c01a100b513"
+        },
+        {
+            "name": "Panji",
+            "description": "Panji, S.Sos (lahir 23 Juni 1964) adalah bupati Melawi yang menjabat pada periode 2016 hingga 2021. Ia menggantikan bupati sebelumnya, Firman Muntaco, dan penjabat bupati Hatta, setelah terpilih dalam Pilkada Melawi 2015, dan berpasangan dengan wakil bupati Dadi Sunarya Usfa Yursa.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b9/PANJI_2020.jpg",
+            "title": "Bupati Melawi periode 2016\u20132021",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Panji_(bupati)"
+            },
+            "communityID": "c3fa55c3-5eb3-475d-b962-6c01a100b513"
+        },
+        {
+            "name": "Kluisen",
+            "description": "Drs. Kluisen (lahir 23 Maret 1976) adalah Wakil Bupati Melawi periode 2021\u20132024. Ia dilantik pada 26 Februari 2021 oleh Gubernur Kalimantan Barat, Sutarmidji di Balai Petitih Kantor Gubernur Kalimantan Barat, Kota Pontianak.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/KLUISEN_2020.jpg/1200px-KLUISEN_2020.jpg",
+            "title": "Wakil Bupati Melawi petahana",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Kluisen"
+            },
+            "communityID": "c3fa55c3-5eb3-475d-b962-6c01a100b513"
+        }
+    ]
+}

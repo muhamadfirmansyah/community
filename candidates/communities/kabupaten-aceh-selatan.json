@@ -1,0 +1,80 @@
+{
+    "title": "Pemilihan umum Bupati Aceh Selatan 2024",
+    "region": "Aceh Selatan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-aceh-selatan",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Aceh_Selatan_2024",
+    "communityID": "7810284e-b3ce-4b32-944e-4c8af3ade663",
+    "candidates": [
+        {
+            "name": "Amran",
+            "description": "Teungku Amran (lahir 12 Desember 1975) adalah tokoh pejuang GAM. Dia pernah menjabat sebagai Panglima Daerah GAM III Wilayah Lhok Tapaktuan. Dia sekarang menjabat sebagai Bupati Aceh Selatan.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/14/Bupati_Aceh_Selatan_Amran.jpg",
+            "title": "Bupati Aceh Selatan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Amran"
+            },
+            "communityID": "7810284e-b3ce-4b32-944e-4c8af3ade663"
+        },
+        {
+            "name": "Hendri Yono",
+            "description": "Hendri Yono, S.Sos., M.Si merupakan salah satu tokoh politik Provinsi Aceh. Hendri Yono Lahir di Lhok Pawoh, Sawang, Kabupaten Aceh Selatan pada 20 Desember 1975. Ia menjabat sebagai Ketua Dewan Pimpinan Provinsi (DPP) Partai Keadilan dan Persatuan atau PKP (dulu PKPI) Provinsi Aceh sejak tahun 2016 hingga sekarang. Ia pernah menjabat sebagai anggota Dewan Perwakilan Rakyat Daerah (Dewan Perwakilan Rakyat Daerah) Aceh Selatan dua periode dari tahun 2004-2009. Hendri Yono juga menjabat sebagai Anggota Dewan Perwakilan Rakyat Daerah (DPRD) Provinsi Aceh dua periode tahun 2014 - 2019 dan 2019 hingga sekarang.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/9/95/Hendri_Yono_foto.jpg",
+            "title": "Anggota DPR Aceh",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hendri_Yono"
+            },
+            "communityID": "7810284e-b3ce-4b32-944e-4c8af3ade663"
+        },
+        {
+            "name": "Abrar Muda",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Panglima GAM Wilayah Lhok Tapaktuan",
+            "sites": {},
+            "communityID": "7810284e-b3ce-4b32-944e-4c8af3ade663"
+        },
+        {
+            "name": "Idrus TM",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPW PA Aceh Selatan",
+            "sites": {},
+            "communityID": "7810284e-b3ce-4b32-944e-4c8af3ade663"
+        },
+        {
+            "name": "Irhafa Manaf",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Ketua KPA Wilayah Lhok Tapaktuan",
+            "sites": {},
+            "communityID": "7810284e-b3ce-4b32-944e-4c8af3ade663"
+        },
+        {
+            "name": "Zaitun MHD",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua Umum KONI Aceh Selatan",
+            "sites": {},
+            "communityID": "7810284e-b3ce-4b32-944e-4c8af3ade663"
+        },
+        {
+            "name": "Mukhlis (Nek Rayeuk)",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua KPA Wilayah Lhok Tapaktuan",
+            "sites": {},
+            "communityID": "7810284e-b3ce-4b32-944e-4c8af3ade663"
+        },
+        {
+            "name": "Husin Yusuf",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Bupati Aceh Selatan",
+            "sites": {},
+            "communityID": "7810284e-b3ce-4b32-944e-4c8af3ade663"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Pemilihan umum Bupati Pidie 2024",
+    "region": "Pidie",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pidie",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Pidie_2024",
+    "communityID": "f74d02f5-d311-4287-91dd-217d5de85f06",
+    "candidates": [
+        {
+            "name": "Iskandar Faiz",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Ketua DPW PNA Pidie",
+            "sites": {},
+            "communityID": "f74d02f5-d311-4287-91dd-217d5de85f06"
+        },
+        {
+            "name": "Tgk Mujlisal",
+            "description": "",
+            "profilePic": "",
+            "title": "Kepala Bidang Pendidikan Pondok Pesantren Darul Munawwarah",
+            "sites": {},
+            "communityID": "f74d02f5-d311-4287-91dd-217d5de85f06"
+        },
+        {
+            "name": "Reza Kausar, S.H.",
+            "description": "",
+            "profilePic": "",
+            "title": "(Mantan Ketua BEM FH USK) Independent",
+            "sites": {},
+            "communityID": "f74d02f5-d311-4287-91dd-217d5de85f06"
+        },
+        {
+            "name": "Fadhlullah",
+            "description": "Fadhlullah, S.E., lebih dikenal dengan nama Dek Fad (lahir 15 Juni 1981) adalah tokoh pejuang GAM. Dia pernah menjabat sebagai Panglima Operasi Gerakan Aceh Merdeka wilayah Pidie. Dia sekarang  menjabat sebagai Anggota DPR-RI Fraksi Gerindra 2 periode yakni 2014\u20142019 dan 2019\u20142024.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/PasFoto-Pelantikan-2.jpg/1200px-PasFoto-Pelantikan-2.jpg",
+            "title": "Ketua DPD Partai Gerindra Aceh",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Fadhlullah"
+            },
+            "communityID": "f74d02f5-d311-4287-91dd-217d5de85f06"
+        },
+        {
+            "name": "Dr. H. Asfifuddin",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi Hanura",
+            "sites": {},
+            "communityID": "f74d02f5-d311-4287-91dd-217d5de85f06"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "title": "Pemilihan umum Bupati Kapuas Hulu 2024",
+    "region": "Kapuas Hulu",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kapuas-hulu",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Kapuas_Hulu_2024",
+    "communityID": "3a44ee1f-7a10-493e-b00a-e0801b6423e5",
+    "candidates": [
+        {
+            "name": "Fransiskus Diaan",
+            "description": "Fransiskus Diaan, S.H. (lahir 14 Agustus 1981) adalah politisi Indonesia yang berkiprah di Kabupaten Kapuas Hulu sebagai bupati kabupaten Kapuas Hulu, provinsi Kalimantan Barat periode 2021 - 2024.[1] Fransiskus Diaan dilantik menjadi bupati bersama dengan wakil bupati terpilih, Wahyudi Hidayat, pada tanggal 26 Februari 2021 di Balai Petitih, oleh gubernur Kalimantan Barat, Sutarmidji.[1] Berdasarkan hasil Pilkada serentak Tahun 2020 yang ditetapkan oleh KPU Kapuas Hulu, pasangan Fransiskus Diaan-Wahyudi Hidayat merupakan Bupati dan Wakil Bupati Kapuas Hulu terpilih dengan perolehan 66.159 suara atau 45,10%.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fransiskus_Diaan_2020.jpg/1200px-Fransiskus_Diaan_2020.jpg",
+            "title": "Bupati Kapuas Hulu petahana",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Fransiskus_Diaan"
+            },
+            "communityID": "3a44ee1f-7a10-493e-b00a-e0801b6423e5"
+        },
+        {
+            "name": "Wahyudi Hidayat",
+            "description": "Wahyudi Hidayat, S.T., (lahir 15 Juni 1982) adalah Wakil Bupati Kapuas Hulu petahana yang menjabat sejak 26 Februari 2021.[1] Ia terpilih dalam Pilkada Kapuas Hulu 2020 mendampingi Fransiskus Diaan dan diusung oleh PDI Perjuangan dan PAN. Sebelum menjadi wakil bupati, Wahyu merupakan kader Partai Amanat Nasional yang terpilih menjadi anggota DPRD Kabupaten Kapuas Hulu dalam Pemilu 2019 setelah meraih 3.297 suara sah.[2] Ia kemudian mengundurkan diri dalam rangka mengikuti Pilkada 2020.[3][4]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/56/Wakil_Bupati_Kapuas_Hulu_Wahyudi_Hidayat.jpg",
+            "title": "Wakil Bupati Kapuas Hulu petahana",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Wahyudi_Hidayat_(politikus)"
+            },
+            "communityID": "3a44ee1f-7a10-493e-b00a-e0801b6423e5"
+        },
+        {
+            "name": "Lidya Natalia Sartono",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Provinsi Kalimantan Barat",
+            "sites": {},
+            "communityID": "3a44ee1f-7a10-493e-b00a-e0801b6423e5"
+        },
+        {
+            "name": "Abdul Hamid",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPD Partai NasDem Kabupaten Kapuas Hulu",
+            "sites": {},
+            "communityID": "3a44ee1f-7a10-493e-b00a-e0801b6423e5"
+        },
+        {
+            "name": "Sukardi",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Kabupaten Kapuas Hulu",
+            "sites": {},
+            "communityID": "3a44ee1f-7a10-493e-b00a-e0801b6423e5"
+        }
+    ]
+}

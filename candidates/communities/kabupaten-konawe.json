@@ -1,0 +1,72 @@
+{
+    "title": "Pemilihan umum Bupati Konawe 2024",
+    "region": "Konawe",
+    "level": "KABUPATEN",
+    "path": "kabupaten-konawe",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Konawe_2024",
+    "communityID": "fafeb428-f978-4e10-91f1-e8afe3902417",
+    "candidates": [
+        {
+            "name": "Yusran Akbar",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua KADIN Kabupaten Konawe",
+            "sites": {},
+            "communityID": "fafeb428-f978-4e10-91f1-e8afe3902417"
+        },
+        {
+            "name": "Dr. Ardin",
+            "description": "",
+            "profilePic": "",
+            "title": "Politisi Partai Amanat Nasional",
+            "sites": {},
+            "communityID": "fafeb428-f978-4e10-91f1-e8afe3902417"
+        },
+        {
+            "name": "Fachry Pahlevi Konggoasa",
+            "description": "Fachry Pahlevi Konggoasa (lahir 14 Mei 1995) adalah seorang politikus Indonesia yang menjabat sebagai Anggota DPR-RI periode 2019\u20132024. Ia mewakili Partai Amanat Nasional dan daerah pemilihan Sulawesi Tenggara. Saat ini, ia bertugas di Komisi IV.[2][3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Fachry_Pahlevi_Konggoasa.jpg",
+            "title": "Ketua DPD PAN Kabupaten Konawe",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Fachry_Pahlevi_Konggoasa"
+            },
+            "communityID": "fafeb428-f978-4e10-91f1-e8afe3902417"
+        },
+        {
+            "name": "Rusdianto",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPC Partai Demokrasi Indonesia Perjuangan Kabupaten Konawe",
+            "sites": {},
+            "communityID": "fafeb428-f978-4e10-91f1-e8afe3902417"
+        },
+        {
+            "name": "Irawan Laliasa",
+            "description": "",
+            "profilePic": "",
+            "title": "Penjabat Bupati Konawe Selatan 2015\u20132016",
+            "sites": {},
+            "communityID": "fafeb428-f978-4e10-91f1-e8afe3902417"
+        },
+        {
+            "name": "Harmin Ramba",
+            "description": "Harmin Ramba (lahir 23 September 1964) adalah seorang birokrat Indonesia kelahiran Kendari. Ia menempuh pendidikan SD Umum Negeri 07 Kendari (31 Desember 1977) SMP Negeri 1 Kendari (7 Mei 1981) dan SMA Negeri 59 Kendari (25 April 1984). Ia menyelesaikan studi S1 Ekonomi/Manajemen di Universitas Halu Oleo Kendari pada tahun 1990, S2 Master Manajemen Sumber Daya Manusia di Universitas Hasanuddin Makassar pada tahun 2001, dan S3 Administrasi Publik di Universitas Hasanuddin Makassar pada tahun 2015.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Harmin_Ramba.jpg",
+            "title": "Penjabat Bupati Konawe 2023\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Harmin_Ramba"
+            },
+            "communityID": "fafeb428-f978-4e10-91f1-e8afe3902417"
+        },
+        {
+            "name": "Ady Warsyah Toara",
+            "description": "",
+            "profilePic": "",
+            "title": "Bakal Calon Bupati",
+            "sites": {},
+            "communityID": "fafeb428-f978-4e10-91f1-e8afe3902417"
+        }
+    ]
+}

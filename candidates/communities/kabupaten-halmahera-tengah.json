@@ -1,0 +1,48 @@
+{
+    "title": "Pemilihan umum Bupati Halmahera Tengah 2024",
+    "region": "Halmahera Tengah",
+    "level": "KABUPATEN",
+    "path": "kabupaten-halmahera-tengah",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Halmahera_Tengah_2024",
+    "communityID": "6c342af3-bc50-423d-9691-fe467eeac4ad",
+    "candidates": [
+        {
+            "name": "Edi Langkara",
+            "description": "Edi Langkara  (lahir 12 September 1966) adalah seorang politisi Indonesia yang menjabat sebagai Bupati Halmahera Tengah. Ia lahir dari pasangan Langkara Hidayat dan Asia Karim. Ia tercatat sebagai mahasiswa Sekolah Tinggi Ilmu Sosial dan Ilmu Politik Merdeka Manado dan lulus 1993. Ia melanjutkan ke jenjang S2 dan mendapat gelar Magister Hukum dari Universitas Hasanuddin Makassar pada 2005.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Edi_Langkara%2C_2017.jpg/1200px-Edi_Langkara%2C_2017.jpg",
+            "title": "Mantan Bupati Halmahera Tengah",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Edi_Langkara"
+            },
+            "communityID": "6c342af3-bc50-423d-9691-fe467eeac4ad"
+        },
+        {
+            "name": "Abdul Rahim Odeyani",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Halmahera Tengah",
+            "sites": {},
+            "communityID": "6c342af3-bc50-423d-9691-fe467eeac4ad"
+        },
+        {
+            "name": "Syarif Hadler",
+            "description": "Syarif Hadler (lahir 18 September 1957) adalah Wakil Wali Kota Ambon 2 periode yakni 2001\u20132006 dan 2017\u20132022.[1] Ia menjabat mendampingi Wali Kota Marcus Jacob Papilaja dan Richard Louhenapessy.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Wakil_Wali_Kota_Ambon_Syarif_Hadler.jpg/1200px-Wakil_Wali_Kota_Ambon_Syarif_Hadler.jpg",
+            "title": "Mantan Wakil Wali Kota Ambon",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Syarif_Hadler"
+            },
+            "communityID": "6c342af3-bc50-423d-9691-fe467eeac4ad"
+        },
+        {
+            "name": "Gawi Abbas",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Halmahera Tengah",
+            "sites": {},
+            "communityID": "6c342af3-bc50-423d-9691-fe467eeac4ad"
+        }
+    ]
+}

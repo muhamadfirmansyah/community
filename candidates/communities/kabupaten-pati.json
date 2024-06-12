@@ -1,0 +1,80 @@
+{
+    "title": "Pemilihan umum Bupati Pati 2024",
+    "region": "Pati",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pati",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Pati_2024",
+    "communityID": "97afb16a-1140-418f-93de-0d2c6393ff15",
+    "candidates": [
+        {
+            "name": "Saiful Arifin",
+            "description": "Saiful Arifin, S.E (lahir 21 April 1974) adalah pengusaha muda dan politikus Indonesia. Ia memenangkan Pemilihan umum Bupati Pati 2017 bersama dengan Haryanto.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Saiful_Arifin_Afu.jpg/1200px-Saiful_Arifin_Afu.jpg",
+            "title": "Wakil Bupati Pati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Saiful_Arifin"
+            },
+            "communityID": "97afb16a-1140-418f-93de-0d2c6393ff15"
+        },
+        {
+            "name": "Sudewo",
+            "description": "Sudewo, S.T., M.T. (lahir 11 Oktober 1968) adalah politikus Indonesia yang menjabat sebagai anggota DPR-RI selama dua periode (2009\u20132013 dan 2019\u20132024). Dalam periode keduanya di DPR-RI, ia mewakili Partai Gerindra dan daerah pemilihan Jawa Tengah III, yang meliputi Kabupaten Grobogan, Kabupaten Blora, Kabupaten Rembang, dan Kabupaten Pati. Saat ini, ia bertugas di Komisi V.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Anggota_Komisi_V_DPR_RI_Sudewo.jpg",
+            "title": "Anggota DPR RI Partai Gerindra",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sudewo"
+            },
+            "communityID": "97afb16a-1140-418f-93de-0d2c6393ff15"
+        },
+        {
+            "name": "Ali Badrudin",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Pati",
+            "sites": {},
+            "communityID": "97afb16a-1140-418f-93de-0d2c6393ff15"
+        },
+        {
+            "name": "H. Suriyanto",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota Komisi B DPRD Pati",
+            "sites": {},
+            "communityID": "97afb16a-1140-418f-93de-0d2c6393ff15"
+        },
+        {
+            "name": "Agus Sunarko",
+            "description": "",
+            "profilePic": "",
+            "title": "Camat Dukuhseti",
+            "sites": {},
+            "communityID": "97afb16a-1140-418f-93de-0d2c6393ff15"
+        },
+        {
+            "name": "Slamet Warsito",
+            "description": "",
+            "profilePic": "",
+            "title": "Pengusaha",
+            "sites": {},
+            "communityID": "97afb16a-1140-418f-93de-0d2c6393ff15"
+        },
+        {
+            "name": "Wahyu Indriyanto",
+            "description": "",
+            "profilePic": "",
+            "title": "Kades Gadingrejo",
+            "sites": {},
+            "communityID": "97afb16a-1140-418f-93de-0d2c6393ff15"
+        },
+        {
+            "name": "Sulestyo Adi Utomo",
+            "description": "",
+            "profilePic": "",
+            "title": "Bakal Calon Bupati",
+            "sites": {},
+            "communityID": "97afb16a-1140-418f-93de-0d2c6393ff15"
+        }
+    ]
+}

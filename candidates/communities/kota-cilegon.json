@@ -1,0 +1,75 @@
+{
+    "title": "Pemilihan umum Wali Kota Cilegon 2024",
+    "region": "Cilegon",
+    "level": "KOTA",
+    "path": "kota-cilegon",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Cilegon_2024",
+    "communityID": "e1cfe048-029f-4628-8ba6-8c1de6d4e0d1",
+    "candidates": [
+        {
+            "name": "Helldy Agustian",
+            "description": "H. Helldy Agustian, S.E., S.H., M.H. (lahir 31 Agustus 1970) adalah seorang politisi yang menjabat sebagai Wali Kota Cilegon periode 2021-2024. Helldy juga menjabat sebagai Ketua DPW Partai Berkarya Banten kubu Muchdi Purwoprandjono.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Helldy_Agustian_Official_Portrait.jpg",
+            "title": "Wali Kota Cilegon periode 2021\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Helldy_Agustian"
+            },
+            "communityID": "e1cfe048-029f-4628-8ba6-8c1de6d4e0d1"
+        },
+        {
+            "name": "Sanuji Pentamarta",
+            "description": "Sanuji Pentamarta, S.IP.,(lahir 05 Juni 1970) adalah politikus Partai Keadilan Sejahtera yang menjabat sebagai Wakil Wali Kota Cilegon sejak 26 Februari 2021. Ia berhasil terpilih dalam Pilkada Cilegon 2020 mendampingi Helldy Agustian. Sebelum menjadi wakil wali kota, Sanuji pernah terpilih sebagai anggota Dewan Perwakilan Rakyat Daerah dalam 4 pemilihan umum.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Sanuji_Pentamarta_Official_Portrait.jpg",
+            "title": "Wakil Wali Kota Cilegon periode 2021\u20132024",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sanuji_Pentamarta"
+            },
+            "communityID": "e1cfe048-029f-4628-8ba6-8c1de6d4e0d1"
+        },
+        {
+            "name": "Ati Marliati",
+            "description": "Dra. Hj. Ratu Ati Marliati, M.M. (lahir 10 April 1968) adalah politikus Indonesia yang pernah menjabat sebagai Wakil Wali Kota Cilegon sejak 31 Juli 2019 hingga 17 Februari 2021.[1] Ia merupakan anggota Partai Golongan Karya.\n",
+            "profilePic": "",
+            "title": "Wakil Wali Kota Cilegon sisa masa jabatan periode 2016\u20132021 pada tahun 2019\u20132021",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ratu_Ati_Marliati"
+            },
+            "communityID": "e1cfe048-029f-4628-8ba6-8c1de6d4e0d1"
+        },
+        {
+            "name": "Isro Mi'raj",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Kota Cilegon",
+            "sites": {},
+            "communityID": "e1cfe048-029f-4628-8ba6-8c1de6d4e0d1"
+        },
+        {
+            "name": "Alawi Mahmud",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPD PAN Kota Cilegon",
+            "sites": {},
+            "communityID": "e1cfe048-029f-4628-8ba6-8c1de6d4e0d1"
+        },
+        {
+            "name": "Dede Rohana Putra",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Prov. Banten",
+            "sites": {},
+            "communityID": "e1cfe048-029f-4628-8ba6-8c1de6d4e0d1"
+        },
+        {
+            "name": "Nurrotul Uyun",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua DPRD Kota Cilegon",
+            "sites": {},
+            "communityID": "e1cfe048-029f-4628-8ba6-8c1de6d4e0d1"
+        }
+    ]
+}

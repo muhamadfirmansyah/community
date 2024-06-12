@@ -1,0 +1,67 @@
+{
+    "title": "Pemilihan umum Bupati Dairi 2024",
+    "region": "Dairi",
+    "level": "KABUPATEN",
+    "path": "kabupaten-dairi",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Dairi_2024",
+    "communityID": "d4477f95-bb70-4bdf-86aa-76256b9c52e3",
+    "candidates": [
+        {
+            "name": "Danjor Nababan",
+            "description": "",
+            "profilePic": "",
+            "title": "Bakal Calon Bupati",
+            "sites": {},
+            "communityID": "d4477f95-bb70-4bdf-86aa-76256b9c52e3"
+        },
+        {
+            "name": "David Partahan Najogi Sasta Maju Tambunan (",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua KADIN Kabupaten Dairi",
+            "sites": {},
+            "communityID": "d4477f95-bb70-4bdf-86aa-76256b9c52e3"
+        },
+        {
+            "name": "Domian Simanjuntak",
+            "description": "",
+            "profilePic": "",
+            "title": "Bakal Calon Bupati",
+            "sites": {},
+            "communityID": "d4477f95-bb70-4bdf-86aa-76256b9c52e3"
+        },
+        {
+            "name": "Eddy Keleng Ate Berutu",
+            "description": "Dr. Ir. Eddy Keleng Ate Berutu, M.A. (lahir 12 Januari 1960) adalah Bupati Dairi ke-20 yang menjabat sejak 23 April 2019.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/13/Eddy_Keleng_Ate_Berutu_2019.png",
+            "title": "Bakal Calon Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Eddy_Keleng_Ate_Berutu"
+            },
+            "communityID": "d4477f95-bb70-4bdf-86aa-76256b9c52e3"
+        },
+        {
+            "name": "Junimart Girsang",
+            "description": "Dr. Junimart Girsang, S.H., M.B.A., M.H. adalah pengacara dan politikus Partai Demokrasi Indonesia Perjuangan (PDI-P) yang menjabat sebagai anggota Dewan Perwakilan Rakyat Republik Indonesia (DPR RI) sejak tahun 2014. Junimart Girsang mewakili daerah pemilihan Sumatera Utara III. Pada periode 2019\u20142024, Junimart Girsang duduk dalam Komisi II yang membidangi pemerintahan daerah dan otonomi daerah, aparatur negara dan reformasi birokrasi, kepemiluan, serta pertanahan dan reforma agraria.[1] Sejak tahun 2021, Junimart ditetapkan sebagai Wakil Ketua Komisi II di DPR.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Junimart_Girsang.jpg",
+            "title": "Bakal Calon Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Junimart_Girsang"
+            },
+            "communityID": "d4477f95-bb70-4bdf-86aa-76256b9c52e3"
+        },
+        {
+            "name": "Sabam Sibarani",
+            "description": "Sabam Sibarani, S.Sos. (lahir 3 Juli 1971) adalah politikus Partai Golongan Karya. Ia menjabat Ketua DPRD Dairi 2 periode yakni 2014\u20142019 dan 2019\u20142024.[1] Sebelumnya ia menjabat sebagai Anggota DPRD Dairi periode 2009\u20142014.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/19/KPU_Sabam_Sibarani.jpg",
+            "title": "Bakal Calon Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sabam_Sibarani"
+            },
+            "communityID": "d4477f95-bb70-4bdf-86aa-76256b9c52e3"
+        }
+    ]
+}

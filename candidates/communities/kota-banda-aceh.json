@@ -1,0 +1,53 @@
+{
+    "title": "Pemilihan umum Wali Kota Banda Aceh 2024",
+    "region": "Banda Aceh",
+    "level": "KOTA",
+    "path": "kota-banda-aceh",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Wali_Kota_Banda_Aceh_2024",
+    "communityID": "d156d938-441e-4a6c-bdf7-ac39efdcf9c8",
+    "candidates": [
+        {
+            "name": "dr. Mahfudhdinsyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Instagram @mahfudozil; Aktivis Sosial Media Nasional",
+            "sites": {},
+            "communityID": "d156d938-441e-4a6c-bdf7-ac39efdcf9c8"
+        },
+        {
+            "name": "Teuku Irwan Djohan. ST",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPR Aceh 2014 - 2024",
+            "sites": {},
+            "communityID": "d156d938-441e-4a6c-bdf7-ac39efdcf9c8"
+        },
+        {
+            "name": "Aminullah Usman",
+            "description": "H. Aminullah Usman, S.E.Ak., M.M. [1] (lahir 1 Agustus 1958) adalah Wali kota Banda Aceh ke-12 yang menjabat sejak 7 Juli 2017 hingga 7 Juli 2022. Aminullah Usman pernah menjabat sebagai Direktur Utama PT Bank BPD Aceh (yang sekarang dikenal dengan Bank Aceh) pada tahun 2000 hingga 2010.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Wali_Kota_Banda_Aceh_Aminullah_Usman.jpg/1200px-Wali_Kota_Banda_Aceh_Aminullah_Usman.jpg",
+            "title": "Mantan Wali Kota Banda Aceh",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Aminullah_Usman"
+            },
+            "communityID": "d156d938-441e-4a6c-bdf7-ac39efdcf9c8"
+        },
+        {
+            "name": "Zainal Arifin",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Wali Kota Banda Aceh",
+            "sites": {},
+            "communityID": "d156d938-441e-4a6c-bdf7-ac39efdcf9c8"
+        },
+        {
+            "name": "Azwir Basyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPW PA Banda Aceh",
+            "sites": {},
+            "communityID": "d156d938-441e-4a6c-bdf7-ac39efdcf9c8"
+        }
+    ]
+}

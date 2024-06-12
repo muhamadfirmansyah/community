@@ -1,0 +1,62 @@
+{
+    "title": "Pemilihan umum Gubernur Bali 2024",
+    "region": "Bali",
+    "level": "PROVINSI",
+    "path": "provinsi-bali",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Gubernur_Bali_2024",
+    "communityID": "f2a0a350-334a-4aae-bec7-c9d87ea3fd8b",
+    "candidates": [
+        {
+            "name": "I Wayan Koster",
+            "description": "Dr. Ir. I Wayan Koster, M.M. (lahir 20 Oktober 1962) adalah politikus Indonesia yang menjabat sebagai Gubernur Bali sejak 5 September 2018. Ia pernah menjabat sebagai anggota Dewan Perwakilan Rakyat Republik Indonesia (DPR-RI) Fraksi Partai Demokrasi Indonesia Perjuangan (PDI-P) sejak 1 Oktober 2004 hingga 26 Februari 2018.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a1/I_Wayan_Kostoer%2C_Gubernur_Bali.jpg",
+            "title": "Gubernur Bali petahana dan kader PDI Perjuangan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/I_Wayan_Koster"
+            },
+            "communityID": "f2a0a350-334a-4aae-bec7-c9d87ea3fd8b"
+        },
+        {
+            "name": "I Nyoman Giri Prasta",
+            "description": "I Nyoman Giri Prasta, S.Sos. (lahir 19 Maret 1972) adalah Bupati Badung yang menjabat pada periode 2016-2021 dan 2021-Sekarang. Ia dilantik pada 17 Februari 2016 oleh Gubernur I Made Mangku Pastika di Wisma Sabha, Renon, Denpasar.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bupati_Badung_I_Nyoman_Giri_Prasta.png",
+            "title": "Bupati Badung petahana dan kader PDI Perjuangan",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/I_Nyoman_Giri_Prasta"
+            },
+            "communityID": "f2a0a350-334a-4aae-bec7-c9d87ea3fd8b"
+        },
+        {
+            "name": "Anak Agung Ngurah Manik Danendra",
+            "description": "",
+            "profilePic": "",
+            "title": "Tokoh pemuda Bali",
+            "sites": {},
+            "communityID": "f2a0a350-334a-4aae-bec7-c9d87ea3fd8b"
+        },
+        {
+            "name": "Niluh Djelantik",
+            "description": "Ni Luh Putu Ary Pertami Djelantik (lahir 15 Juni 1975) adalah perancang berkebangsaan Indonesia. Djelantik dikenal melalui karya-karyanya berupa desain sepatu yang sudah dipatenkan pada tahun 2008 dan banyak digunakan oleh pesohor dunia, antara lain Uma Thurman, Gisele Bundchen, Tara Reid, Julia Roberts, dan Paris Hilton.[1][2][3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/KPU_Niluh_Putu_Ary_Pertami_Djelantik.jpg/1200px-KPU_Niluh_Putu_Ary_Pertami_Djelantik.jpg",
+            "title": "Aktivis dan pengusaha",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Niluh_Djelantik"
+            },
+            "communityID": "f2a0a350-334a-4aae-bec7-c9d87ea3fd8b"
+        },
+        {
+            "name": "Ida Bagus Rai Dharmawijaya Mantra",
+            "description": "Dr. Ida Bagus Rai Dharmawijaya Mantra, S.E., M.Si., atau biasa disebut Rai Mantra (lahir 30 April 1967) adalah seorang politikus Indonesia. Ia pernah menjabat sebagai  Wali Kota Denpasar dari 2008 hingga 2010, menggantikan Anak Agung Gede Ngurah Puspayoga yang menjadi Wakil Gubernur Bali. Selanjutnya ia terpilih pada pilkada Denpasar dan menjabat untuk periode 2010-2015 serta periode 2016-2021.[1] Pada tahun 2018, Rai Mantra maju sebagai calon gubernur Bali pada Pilkada 2018.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/KPU_Ida_Bagus_Rai_Dharmawijaya_Mantra.jpg/1200px-KPU_Ida_Bagus_Rai_Dharmawijaya_Mantra.jpg",
+            "title": "Walikota Denpasar ke-4",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ida_Bagus_Rai_Dharmawijaya_Mantra"
+            },
+            "communityID": "f2a0a350-334a-4aae-bec7-c9d87ea3fd8b"
+        }
+    ]
+}

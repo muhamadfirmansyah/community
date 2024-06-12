@@ -1,0 +1,53 @@
+{
+    "title": "Pemilihan umum Bupati Pidie Jaya 2024",
+    "region": "Pidie Jaya",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pidie-jaya",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Pidie_Jaya_2024",
+    "communityID": "e5dff4e4-2b8f-4f54-8392-626b70a83c33",
+    "candidates": [
+        {
+            "name": "dr. Mahfudhdinsyah",
+            "description": "",
+            "profilePic": "",
+            "title": "Instagram @mahfudozil; Aktivis Sosial Media Nasional",
+            "sites": {},
+            "communityID": "e5dff4e4-2b8f-4f54-8392-626b70a83c33"
+        },
+        {
+            "name": "Sarjani Abdullah",
+            "description": "Teungku Sarjani Abdullah, lebih dikenal dengan nama Awan (lahir 20 Maret 1970) adalah mantan tokoh pejuang GAM. Dia pernah menjabat sebagai Panglima Gerakan Aceh Merdeka wilayah Pidie dan Bupati Pidie periode 2012\u20142017.\n",
+            "profilePic": "",
+            "title": "Mantan Bupati Pidie",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sarjani_Abdullah"
+            },
+            "communityID": "e5dff4e4-2b8f-4f54-8392-626b70a83c33"
+        },
+        {
+            "name": "Muhammad A.R.",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Ketua DPRK Pidie",
+            "sites": {},
+            "communityID": "e5dff4e4-2b8f-4f54-8392-626b70a83c33"
+        },
+        {
+            "name": "Muhibbuddin Husen",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPW PNA Pidie Jaya",
+            "sites": {},
+            "communityID": "e5dff4e4-2b8f-4f54-8392-626b70a83c33"
+        },
+        {
+            "name": "Abubakar Muhammad",
+            "description": "",
+            "profilePic": "",
+            "title": "Bendahara DPW PA Pidie Jaya",
+            "sites": {},
+            "communityID": "e5dff4e4-2b8f-4f54-8392-626b70a83c33"
+        }
+    ]
+}

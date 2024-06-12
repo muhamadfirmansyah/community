@@ -1,0 +1,85 @@
+{
+    "title": "Pemilihan umum Bupati Lampung Utara 2024",
+    "region": "Lampung Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-lampung-utara",
+    "source": "https://id.wikipedia.org/wiki/Pemilihan_umum_Bupati_Lampung_Utara_2024",
+    "communityID": "8a9a155a-65f6-442e-9c6a-3ee4f3b69e32",
+    "candidates": [
+        {
+            "name": "Budi Utomo",
+            "description": "",
+            "profilePic": "",
+            "title": "Bupati Lampung Utara",
+            "sites": {},
+            "communityID": "8a9a155a-65f6-442e-9c6a-3ee4f3b69e32"
+        },
+        {
+            "name": "Zainal Abidin",
+            "description": "Zainal Abidin dapat mengacu pada beberapa hal berikut:\n",
+            "profilePic": "",
+            "title": "Mantan Bupati Lampung Utara",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Zainal_Abidin"
+            },
+            "communityID": "8a9a155a-65f6-442e-9c6a-3ee4f3b69e32"
+        },
+        {
+            "name": "Endah Kartika Prajawati",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Ketua TP PKK Lampung Utara",
+            "sites": {},
+            "communityID": "8a9a155a-65f6-442e-9c6a-3ee4f3b69e32"
+        },
+        {
+            "name": "Wansori",
+            "description": "",
+            "profilePic": "",
+            "title": "Ketua DPRD Lampung Utara",
+            "sites": {},
+            "communityID": "8a9a155a-65f6-442e-9c6a-3ee4f3b69e32"
+        },
+        {
+            "name": "Madri Daud",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Ketua I DPRD Lampung Utara",
+            "sites": {},
+            "communityID": "8a9a155a-65f6-442e-9c6a-3ee4f3b69e32"
+        },
+        {
+            "name": "Imam Syuhada",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Prov. Lampung",
+            "sites": {},
+            "communityID": "8a9a155a-65f6-442e-9c6a-3ee4f3b69e32"
+        },
+        {
+            "name": "Yose Rizal",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Prov. Lampung",
+            "sites": {},
+            "communityID": "8a9a155a-65f6-442e-9c6a-3ee4f3b69e32"
+        },
+        {
+            "name": "Mardani Umar",
+            "description": "",
+            "profilePic": "",
+            "title": "Anggota DPRD Prov. Lampung",
+            "sites": {},
+            "communityID": "8a9a155a-65f6-442e-9c6a-3ee4f3b69e32"
+        },
+        {
+            "name": "Ardian Saputra",
+            "description": "",
+            "profilePic": "",
+            "title": "Mantan Wakil Bupati Lampung Utara",
+            "sites": {},
+            "communityID": "8a9a155a-65f6-442e-9c6a-3ee4f3b69e32"
+        }
+    ]
+}
