@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Ogan Komering Ulu Timur",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Selatan",
+    "region": "Kabupaten Ogan Komering Ulu Timur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-ogan-komering-ulu-timur",
+    "communityID": "ff5cbd8e-8ffd-4866-b104-965133af9ab9",
+    "candidates": [
+        {
+            "name": "Lanosin Hamzah",
+            "description": "Ir. H. Lanosin, S.T. (lahir 31 Mei 1978) adalah Bupati Ogan Komering Ulu Timur periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Selatan, Herman Deru yang juga kakak kandung Lanosin sendiri di Griya Agung, Palembang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ir._H._Lanosin%2C_S.T.jpg/1200px-Ir._H._Lanosin%2C_S.T.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Lanosin_Hamzah"
+            },
+            "communityID": "ff5cbd8e-8ffd-4866-b104-965133af9ab9"
+        },
+        {
+            "name": "Adi Nugraha Purna Yudha",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/H._M._Adi_Nugraha_Purna_Yudha%2C_S.H.jpg/109px-H._M._Adi_Nugraha_Purna_Yudha%2C_S.H.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "ff5cbd8e-8ffd-4866-b104-965133af9ab9"
+        }
+    ]
+}

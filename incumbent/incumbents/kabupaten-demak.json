@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Demak",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kabupaten Demak",
+    "level": "KABUPATEN",
+    "path": "kabupaten-demak",
+    "communityID": "20734a57-48e9-44a4-bea9-cf031cc9d2f7",
+    "candidates": [
+        {
+            "name": "Eisti'anah",
+            "description": "dr. Hj. Eisti'anah, S.E. (lahir 28 Mei 1985) adalah Bupati Demak periode 2021\u20132024. Ia menjabat sejak 24 Mei 2021 setelah dilantik Gubernur Jawa Tengah, Ganjar Pranowo di Gedung Gradhika Bhakti Praja Kantor Gubernur Jawa Tengah, Semarang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Eisti%27anah.jpg/131px-Eisti%27anah.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Eisti%27anah"
+            },
+            "communityID": "20734a57-48e9-44a4-bea9-cf031cc9d2f7"
+        },
+        {
+            "name": "Ali Makhsun",
+            "description": "K. H. Ali Makhsun, M.S.I. (lahir 6 April 1964) adalah Wakil Bupati Demak periode 2021\u20132024. Ia menjabat sejak 24 Mei 2021 setelah dilantik Gubernur Jawa Tengah, Ganjar Pranowo di Gedung Gradhika Bhakti Praja Kantor Gubernur Jawa Tengah, Semarang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ali_Makhsun.jpg/128px-Ali_Makhsun.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ali_Makhsun"
+            },
+            "communityID": "20734a57-48e9-44a4-bea9-cf031cc9d2f7"
+        }
+    ]
+}

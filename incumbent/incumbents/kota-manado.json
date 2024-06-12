@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Manado",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Utara",
+    "region": "Kota Manado",
+    "level": "KOTA",
+    "path": "kota-manado",
+    "communityID": "7d102259-d3b6-49f2-99a3-b4ebd5b6eb90",
+    "candidates": [
+        {
+            "name": "Andrei Angouw",
+            "description": "Andrei Angouw (lahir 23 Mei 1971) adalah politikus Sulawesi Utara yang berasal dari PDI Perjuangan. Ia menjabat sebagai Wali Kota Manado sejak 10 Mei 2021. Sebelumnya ia menjabat sebagai Ketua DPRD Sulawesi Utara selama empat tahun.[1] Andrei menjadi Ketua DPRD Sulawesi Utara menggantikan Steven Kandouw yang mengundurkan diri karena mengikuti Pilgub Sulawesi Utara 2015.[2] Ia sebelumnya sudah menjadi Anggota DPRD Sulawesi Utara sejak Pemilu 2009. Ia kembali terpilih dalam Pemilu 2014 dan Pemilu 2019 di Daerah Pemilihan (Dapil) Sulawesi Utara 1 yang meliputi Kota Manado.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Wali_Kota_Manado_Andrei_Angouw_%28cropped%29.jpg/1200px-Wali_Kota_Manado_Andrei_Angouw_%28cropped%29.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Andrei_Angouw"
+            },
+            "communityID": "7d102259-d3b6-49f2-99a3-b4ebd5b6eb90"
+        },
+        {
+            "name": "Richard Sualang",
+            "description": "dr. Richard Henry Marthen Sualang (lahir 20 Juni 1973) adalah politikus Partai Demokrasi Indonesia Perjuangan (PDI Perjuangan) yang menjabat sebagai Wakil Wali Kota Manado sejak 20 Mei 2021. Ia berhasil terpilih dalam Pilkada Manado 2020 mendampingi Andrei Angouw. Sebelum menjadi wakil wali kota, Richard merupakan anggota Dewan Perwakilan Rakyat Daerah selama tiga periode. Ia juga merupakan seorang dokter lulusan Universitas Sam Ratulangi, Manado.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/RICHARD_HENRY_MARTEN_SUALANG.jpg/1200px-RICHARD_HENRY_MARTEN_SUALANG.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Richard_Sualang"
+            },
+            "communityID": "7d102259-d3b6-49f2-99a3-b4ebd5b6eb90"
+        }
+    ]
+}

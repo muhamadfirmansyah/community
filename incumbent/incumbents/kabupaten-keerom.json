@@ -1,0 +1,26 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Keerom",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua",
+    "region": "Kabupaten Keerom",
+    "level": "KABUPATEN",
+    "path": "kabupaten-keerom",
+    "communityID": "cb864af6-f344-401d-bc58-ae57eb2aad4a",
+    "candidates": [
+        {
+            "name": "Piter Gusbager",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Piter_Gusbager.jpg/107px-Piter_Gusbager.jpg",
+            "title": "Bupati",
+            "sites": {},
+            "communityID": "cb864af6-f344-401d-bc58-ae57eb2aad4a"
+        },
+        {
+            "name": "Wahfir Kosasih",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Wahfir_Kosasih.jpg/105px-Wahfir_Kosasih.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "cb864af6-f344-401d-bc58-ae57eb2aad4a"
+        }
+    ]
+}

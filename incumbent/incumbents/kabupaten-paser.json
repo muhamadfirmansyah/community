@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Paser",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Timur",
+    "region": "Kabupaten Paser",
+    "level": "KABUPATEN",
+    "path": "kabupaten-paser",
+    "communityID": "5e32199f-9159-4329-99b8-2cbe3b029b8e",
+    "candidates": [
+        {
+            "name": "Fahmi Fadli",
+            "description": "dr. Fahmi Fadli (lahir 3 Maret 1976) adalah Bupati Paser periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Kalimantan Timur, Isran Noor secara daring.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bupati_Paser_Fahmi_Fadli.jpg/1200px-Bupati_Paser_Fahmi_Fadli.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Fahmi_Fadli"
+            },
+            "communityID": "5e32199f-9159-4329-99b8-2cbe3b029b8e"
+        },
+        {
+            "name": "Syarifah Masitah",
+            "description": "Syarifah Masitah Assegaf, S.H. (lahir 2 Oktober 1966) adalah Wakil Bupati Paser periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Kalimantan Timur, Isran Noor secara daring.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Wakil_Bupati_Paser_Syarifah_Masitah_Assegaf.jpg/1200px-Wakil_Bupati_Paser_Syarifah_Masitah_Assegaf.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Syarifah_Masitah"
+            },
+            "communityID": "5e32199f-9159-4329-99b8-2cbe3b029b8e"
+        }
+    ]
+}

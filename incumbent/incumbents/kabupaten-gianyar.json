@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Gianyar",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Bali",
+    "region": "Kabupaten Gianyar",
+    "level": "KABUPATEN",
+    "path": "kabupaten-gianyar",
+    "communityID": "28977124-5be3-4b13-8d43-ceefec0e0cbd",
+    "candidates": [
+        {
+            "name": "I Dewa Tagel Wirasa",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c4/I_Dewa_Tagel_Wirasa.jpg",
+            "title": "Bupati (PJ)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/I_Dewa_Tagel_Wirasa"
+            },
+            "communityID": "28977124-5be3-4b13-8d43-ceefec0e0cbd"
+        },
+        {
+            "name": "[3]",
+            "description": "",
+            "profilePic": "",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "28977124-5be3-4b13-8d43-ceefec0e0cbd"
+        }
+    ]
+}

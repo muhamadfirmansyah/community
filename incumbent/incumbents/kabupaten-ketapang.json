@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Ketapang",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Barat",
+    "region": "Kabupaten Ketapang",
+    "level": "KABUPATEN",
+    "path": "kabupaten-ketapang",
+    "communityID": "161a4319-386f-4d54-bf98-71a1d160528e",
+    "candidates": [
+        {
+            "name": "Martin Rantan",
+            "description": "Martin Rantan, S.H. (lahir 28 Maret 1968) adalah bupati Ketapang yang menjabat pada periode 2016-2021. Ia dan pasangannya Suprapto S berhasil memenangkan pilkada Ketapang 2015 dengan perolehan 62.332 suara atau 30,04 persen.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/bd/MARTIN_RANTAN_2020.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Martin_Rantan"
+            },
+            "communityID": "161a4319-386f-4d54-bf98-71a1d160528e"
+        },
+        {
+            "name": "Farhan",
+            "description": "H. Farhan, S.E., M.Si., (lahir 24 November 1962) adalah Wakil Bupati Ketapang petahana yang menjabat sejak 26 Februari 2021.[1] Ia terpilih dalam Pilkada Ketapang 2020 mendampingi bupati petahana, Martin Rantan, dan diusung oleh Partai Golkar dan Partai Hanura. Sebelum terpilih sebagai wakil bupati, Farhan merupakan birokrat dengan jabatan terakhir Sekretaris Daerah Kabupaten Ketapang.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/2f/FARHAN_2020.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Farhan"
+            },
+            "communityID": "161a4319-386f-4d54-bf98-71a1d160528e"
+        }
+    ]
+}

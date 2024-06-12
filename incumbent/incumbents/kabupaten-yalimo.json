@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Yalimo",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Pegunungan",
+    "region": "Kabupaten Yalimo",
+    "level": "KABUPATEN",
+    "path": "kabupaten-yalimo",
+    "communityID": "441e8ace-6b56-43a4-9dd0-491e0eb61cc5",
+    "candidates": [
+        {
+            "name": "Nahor Nekwek",
+            "description": "Nahor Nekwek (lahir 7 November 1968) adalah seorang politikus Indonesia. Ia tergabung dalam Partai Gerakan Indonesia Raya (Gerindra).[1] Ia menempuh pendidikan di Universitas Cendrawasih.[2] Pada 1 April 2022, ia menjabat sebagai Bupati Yalimo didampingi oleh John W. Wilil selaku Wakil Bupati Yalimo.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/DR._Nahor_Nekwek%2C_S.Pd.%2C_M.M.jpg/1200px-DR._Nahor_Nekwek%2C_S.Pd.%2C_M.M.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Nahor_Nekwek"
+            },
+            "communityID": "441e8ace-6b56-43a4-9dd0-491e0eb61cc5"
+        },
+        {
+            "name": "Jhon W. Wilil",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Jhon_W._Wilil.jpg/90px-Jhon_W._Wilil.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "441e8ace-6b56-43a4-9dd0-491e0eb61cc5"
+        }
+    ]
+}

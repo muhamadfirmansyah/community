@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Purbalingga",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kabupaten Purbalingga",
+    "level": "KABUPATEN",
+    "path": "kabupaten-purbalingga",
+    "communityID": "ab4dbcb9-85fe-4691-9d0b-7ff854b5e37d",
+    "candidates": [
+        {
+            "name": "Dyah Hayuning Pratiwi",
+            "description": "Hj.  Dyah Hayuning Pratiwi, S.E., B.Econ, M.M.[1] (lahir 11 April 1987) adalah Bupati Purbalingga. Ia naik jabatan sebagai bupati setelah pejabat sebelumnya, Tasdi ditangkap oleh Komisi Pemberantasan Korupsi dalam suatu operasi tangkap tangan (OTT).\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bupati_Purbalingga_Dyah_Hayuning_Pratiwi.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dyah_Hayuning_Pratiwi"
+            },
+            "communityID": "ab4dbcb9-85fe-4691-9d0b-7ff854b5e37d"
+        },
+        {
+            "name": "Sudono",
+            "description": "H. Sudono, S.T., M.T. (lahir 21 Desember 1957) adalah Wakil Bupati Purbalingga periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Jawa Tengah, Ganjar Pranowo secara daring.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Wakil_Bupati_Purbalingga_Sudono.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sudono_(wakil_bupati)"
+            },
+            "communityID": "ab4dbcb9-85fe-4691-9d0b-7ff854b5e37d"
+        }
+    ]
+}

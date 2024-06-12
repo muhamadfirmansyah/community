@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Humbang Hasundutan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Humbang Hasundutan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-humbang-hasundutan",
+    "communityID": "82623637-5d13-49b9-bc55-0e81fd60281e",
+    "candidates": [
+        {
+            "name": "Dosmar Banjarnahor",
+            "description": "Dosmar Banjarnahor (lahir 12 April 1976), adalah Bupati Humbang Hasundutan yang dilantik bersama wakilnya, Saut Parlindungan Simamora pada tanggal 17 Februari 2016 oleh Gubernur Sumatera Utara, Tengku Erry Nuradi, dan kembali lagi menjabat sebagai bupati Humbang Hasundutan periode 2021-2024 setelah menang pada pemilihan Bupati 2020 silam bersama wakilnya yaitu Oloan Paniaran Nababan.[1][2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bupati_Humbang_Hasundutan_Dosmar_Banjarnahor.jpg/1200px-Bupati_Humbang_Hasundutan_Dosmar_Banjarnahor.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dosmar_Banjarnahor"
+            },
+            "communityID": "82623637-5d13-49b9-bc55-0e81fd60281e"
+        },
+        {
+            "name": "Oloan Paniaran Nababan",
+            "description": "Oloan Paniaran Nababan, S.H., M.H. (lahir 14 November 1974) adalah Wakil Bupati Humbang Hasundutan periode 2021\u20142024. Ia adalah wakil dari Bupati Humbang Hasundutan, Dosmar Banjarnahor.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/58/BUPATI_WAKIL_BUPATI_6.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Oloan_Paniaran_Nababan"
+            },
+            "communityID": "82623637-5d13-49b9-bc55-0e81fd60281e"
+        }
+    ]
+}

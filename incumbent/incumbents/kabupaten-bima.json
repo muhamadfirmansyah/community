@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Bima",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Nusa_Tenggara_Barat",
+    "region": "Kabupaten Bima",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bima",
+    "communityID": "5c37fb34-7d42-4210-9411-2fb8e2e6485c",
+    "candidates": [
+        {
+            "name": "Indah Dhamayanti Putri",
+            "description": "Hj. Indah Dhamayanti Putri (lahir 19 November 1981) atau yang dikenal dengan dae Dinda adalah seorang Bupati Kabupaten Bima dua periode yang menjabat sejak tanggal 17 Februari 2016 berpasangan dengan Dahlan M. Noer. Ia menjadi Bupati perempuan pertama di Nusa Tenggara Barat sekaligus merupakan Istri dari (Alm.) H. Ferry Zulkarnain mantan Bupati Bima dua periode (2005-2010) dan (2010-2015) dan Ibu kandung Muhammad Putera Ferryandi Ketua DPRD Kabupaten Bima.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bupati_Bima_Indah_Dhamayanti_Putri.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Indah_Dhamayanti_Putri"
+            },
+            "communityID": "5c37fb34-7d42-4210-9411-2fb8e2e6485c"
+        },
+        {
+            "name": "Dahlan M. Noer",
+            "description": "Dahlan M. Noer (lahir 10 Oktober 1957) adalah politisi Partai Gerindra yang menjabat sebagai Wakil Bupati Bima periode 2016-2021 dan 2021-2024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dahlan_M._Noer.jpg/119px-Dahlan_M._Noer.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dahlan_M._Noer"
+            },
+            "communityID": "5c37fb34-7d42-4210-9411-2fb8e2e6485c"
+        }
+    ]
+}

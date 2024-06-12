@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Kebumen",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kabupaten Kebumen",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kebumen",
+    "communityID": "b3813463-0058-4c33-a8e3-484f0295a08d",
+    "candidates": [
+        {
+            "name": "Arif Sugiyanto",
+            "description": "H. Arif Sugiyanto, S.H., M.H. (lahir 10 Juni 1977) adalah Bupati Kebumen periode 2021\u20132024. Sebelum menjabat Bupati, Arif Sugiyanto juga pernah menjadi Wakil Bupati Kebumen pada 2019-2021.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Bupati_Kebumen_Arif_Sugiyanto.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Arif_Sugiyanto"
+            },
+            "communityID": "b3813463-0058-4c33-a8e3-484f0295a08d"
+        },
+        {
+            "name": "Ristawati Purwaningsih",
+            "description": "Hj. Ristawati Purwaningsih, S.ST., M.M. (lahir 13 Oktober 1975) adalah Wakil Bupati Kebumen periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Jawa Tengah, Ganjar Pranowo secara daring.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Wakil_Bupati_Kebumen_Ristawati_Purwaningsih.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ristawati_Purwaningsih"
+            },
+            "communityID": "b3813463-0058-4c33-a8e3-484f0295a08d"
+        }
+    ]
+}

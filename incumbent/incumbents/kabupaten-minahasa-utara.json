@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Minahasa Utara",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Utara",
+    "region": "Kabupaten Minahasa Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-minahasa-utara",
+    "communityID": "1a784096-576b-49cc-82a1-6abe5d9a5094",
+    "candidates": [
+        {
+            "name": "Joune Ganda",
+            "description": "Joune J.E. Ganda, S.E., M.A.P., M.M., M.Si. (lahir 27 Juli 1971) adalah Bupati Minahasa Utara periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Utara, Olly Dondokambey di Graha Gubernuran H.V. Worang Bumi Beringin, Manado.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/BUPATI_JG_BENDERA_2024.jpg/1200px-BUPATI_JG_BENDERA_2024.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Joune_Ganda"
+            },
+            "communityID": "1a784096-576b-49cc-82a1-6abe5d9a5094"
+        },
+        {
+            "name": "Kevin William Lotulung",
+            "description": "Kevin William Lotulung, S.H., M.H. (lahir 1 November 1989) adalah Wakil Bupati Minahasa Utara periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Utara, Olly Dondokambey di Graha Gubernuran H.V. Worang Bumi Beringin, Manado.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wakil_Bupati_Minahasa_Utara_Kevin_William_Lotulung.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Kevin_William_Lotulung"
+            },
+            "communityID": "1a784096-576b-49cc-82a1-6abe5d9a5094"
+        }
+    ]
+}

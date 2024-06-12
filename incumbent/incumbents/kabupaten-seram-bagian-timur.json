@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Seram Bagian Timur",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Maluku",
+    "region": "Kabupaten Seram Bagian Timur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-seram-bagian-timur",
+    "communityID": "df0dc366-5403-4c31-b02f-e6110a533e11",
+    "candidates": [
+        {
+            "name": "Abdul Mukti Keliobas",
+            "description": "Abdul Mukti Keliobas (lahir 26 Agustus 1968) adalah seorang birokrat Indonesia. Ia menjabat sebagai Bupati Seram Bagian Timur. Ia sempat menikahi Nyai Hindun Panity dan memiliki anak bernama Ghildan Harits Keliobas.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bupati_Seram_Bagian_Timur_Abdul_Mukti_Keliobas.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Abdul_Mukti_Keliobas"
+            },
+            "communityID": "df0dc366-5403-4c31-b02f-e6110a533e11"
+        },
+        {
+            "name": "Idris Rumalutur",
+            "description": "Idris Rumalutur (lahir 11 Februari 1946) adalah seorang birokrat dan politikus Indonesia kelahiran Geser. \n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/94/Idris_Rumalutur.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Idris_Rumalutur"
+            },
+            "communityID": "df0dc366-5403-4c31-b02f-e6110a533e11"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Pulau Taliabu",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Maluku_Utara",
+    "region": "Kabupaten Pulau Taliabu",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pulau-taliabu",
+    "communityID": "7eab9580-afec-492f-bc8b-0f53ab3cd8ee",
+    "candidates": [
+        {
+            "name": "Aliong Mus",
+            "description": "H. Aliong Mus, S.T. (lahir 3 Oktober 1977) adalah politikus Indonesia yang menjabat sebagai Bupati Pulau Taliabu pada masa jabatan 2016\u20132021 dan 2021\u20132024.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bupati_Pulau_Taliabu_Aliong_Mus.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Aliong_Mus"
+            },
+            "communityID": "7eab9580-afec-492f-bc8b-0f53ab3cd8ee"
+        },
+        {
+            "name": "Ramli",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wabup_Pultab_Ramli.jpg/109px-Wabup_Pultab_Ramli.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "7eab9580-afec-492f-bc8b-0f53ab3cd8ee"
+        }
+    ]
+}

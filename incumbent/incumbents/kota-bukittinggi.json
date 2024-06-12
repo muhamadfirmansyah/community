@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Bukittinggi",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Barat",
+    "region": "Kota Bukittinggi",
+    "level": "KOTA",
+    "path": "kota-bukittinggi",
+    "communityID": "fd8ff30c-33aa-472c-a77d-b9778445cb83",
+    "candidates": [
+        {
+            "name": "Erman Safar",
+            "description": "H. Erman Safar, S.H. gelar Tuangku Nan Kuniang[2] (lahir 13 Mei 1986) adalah pengusaha dan politikus Partai Gerindra yang menjabat sebagai Wali Kota Bukittinggi periode 2021-2024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Wali_Kota_Bukittinggi_Erman_Safar.jpg/1200px-Wali_Kota_Bukittinggi_Erman_Safar.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Erman_Safar"
+            },
+            "communityID": "fd8ff30c-33aa-472c-a77d-b9778445cb83"
+        },
+        {
+            "name": "Marfendi",
+            "description": "H. Marfendi gelar Datuak Basa Balimo (lahir 16 November 1963) adalah mubalig dan politikus dari Partai Keadilan Sejahtera yang menjabat Wakil Wali Kota Bukittinggi periode 2021\u20142024. Ia adalah wakil dari Wali Kota Bukittinggi, Erman Safar.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Wakil_Wali_Kota_Bukittinggi_Marfendi.jpg/1200px-Wakil_Wali_Kota_Bukittinggi_Marfendi.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Marfendi"
+            },
+            "communityID": "fd8ff30c-33aa-472c-a77d-b9778445cb83"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Bintan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kepulauan_Riau",
+    "region": "Kabupaten Bintan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bintan",
+    "communityID": "c87839b9-1cb2-4fc4-bbb5-f5515aa3d376",
+    "candidates": [
+        {
+            "name": "Roby Kurniawan",
+            "description": "Roby Kurniawan (lahir 3 Juni 1993) adalah Bupati Bintan sisa masa jabatan 2021\u20132024. Sebelumnya, ia menjabat sebagai Wakil Bupati Bintan sejak 26 Februari hingga 22 Agustus 2021.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/08/Roby_Kurniawan.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Roby_Kurniawan"
+            },
+            "communityID": "c87839b9-1cb2-4fc4-bbb5-f5515aa3d376"
+        },
+        {
+            "name": "Ahdi Muqsith",
+            "description": "Ahdi Muqsith (lahir 23 Desember 1986) yang akrab disapa Osit adalah Wakil Bupati Bintan sisa masa jabatan 2021-2024. Osit resmi dilantik sebagai Wakil Bupati Bintan pada tanggal 15 September 2023 oleh Gubernur Kepulauan Riau, Ansar Ahmad bertempat di Gedung Daerah Tanjungpinang, Kepulauan Riau.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Wakil_a-min_%281%29.jpg/1200px-Wakil_a-min_%281%29.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ahdi_Muqsith"
+            },
+            "communityID": "c87839b9-1cb2-4fc4-bbb5-f5515aa3d376"
+        }
+    ]
+}

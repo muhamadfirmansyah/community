@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Hulu Sungai Tengah",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Selatan",
+    "region": "Kabupaten Hulu Sungai Tengah",
+    "level": "KABUPATEN",
+    "path": "kabupaten-hulu-sungai-tengah",
+    "communityID": "7d31a7ec-8314-48fc-96f5-1f5a9e18805a",
+    "candidates": [
+        {
+            "name": "Aulia Oktafiandi",
+            "description": "H. Aulia Oktafiandi, S.T., MAppCom. (lahir di Banjarmasin, 24 Oktober 1984) adalah bupati Hulu Sungai Tengah yang menjabat saat ini untuk masa periode 2021\u20132026. Ia menjabat sebagai bupati Hulu Sungai Tengah berpasangan dengan wakil bupati Drs. H. Mansyah Sabri.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/90/Bupati_Hulu_Sungai_Tengah_Aulia_Oktafiandi.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Aulia_Oktafiandi"
+            },
+            "communityID": "7d31a7ec-8314-48fc-96f5-1f5a9e18805a"
+        },
+        {
+            "name": "Mansyah Sabri",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Wakil_Bupati_Hulu_Sungai_Tengah_Mansyah_Sabri.jpg/131px-Wakil_Bupati_Hulu_Sungai_Tengah_Mansyah_Sabri.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "7d31a7ec-8314-48fc-96f5-1f5a9e18805a"
+        }
+    ]
+}

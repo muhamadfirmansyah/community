@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Nias",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Nias",
+    "level": "KABUPATEN",
+    "path": "kabupaten-nias",
+    "communityID": "7ceaa692-ae96-4e88-bbc1-84cd0be59e21",
+    "candidates": [
+        {
+            "name": "Ya'atulo Gulo",
+            "description": "Ya'atul\u00f6 Gul\u00f6, S.E., S.H., M.Si. (lahir 16 Juni 1972) adalah Bupati Nias periode 2021\u20132024. Ia menjabat sejak 10 Juni 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Tengku Rizal Nurdin Rumah Dinas Gubernur Sumatera Utara, Medan.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Ya%27atulo_Gulo.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ya%27atulo_Gulo"
+            },
+            "communityID": "7ceaa692-ae96-4e88-bbc1-84cd0be59e21"
+        },
+        {
+            "name": "Arota Lase",
+            "description": "Arota Lase, A.Md. (lahir 15 Agustus 1958) adalah Wakil Bupati Nias, periode 2021\u20132024. Ia menjabat sejak 10 Juni 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Tengku Rizal Nurdin Rumah Dinas Gubernur Sumatera Utara, Medan.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Wakil-bupati.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Arota_Lase"
+            },
+            "communityID": "7ceaa692-ae96-4e88-bbc1-84cd0be59e21"
+        }
+    ]
+}

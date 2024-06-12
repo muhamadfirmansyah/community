@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Belu",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Nusa_Tenggara_Timur",
+    "region": "Kabupaten Belu",
+    "level": "KABUPATEN",
+    "path": "kabupaten-belu",
+    "communityID": "7bce45bb-84ef-4ee5-bcd9-9a9f26da8300",
+    "candidates": [
+        {
+            "name": "Agustinus Taolin",
+            "description": "dr. Agustinus Taolin, SpPD-KGEH, FINASIM, yang memiliki nama asli Taolin Agustinus dan lebih populer dengan panggilan Agus Taolin (lahir 11 Agustus 1960) adalah seorang dokter spesialis penyakit dalam yang telah resmi ditetapkan sebagai Bupati Belu terpilih periode 2021 - 2024.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bupati_Belu_Agustinus_Taolin.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Agustinus_Taolin"
+            },
+            "communityID": "7bce45bb-84ef-4ee5-bcd9-9a9f26da8300"
+        },
+        {
+            "name": "Aloysius Haleserens",
+            "description": "Drs. Aloysius Haleserens, M.M. (lahir 13 Agustus 1965) adalah Wakil Bupati Belu, periode 2021 hingga sekarang, mendampingi Agustinus Taolin sebagai Bupati Belu.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/f/f6/Wabup_Belu_2021_AHS.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Aloysius_Haleserens"
+            },
+            "communityID": "7bce45bb-84ef-4ee5-bcd9-9a9f26da8300"
+        }
+    ]
+}

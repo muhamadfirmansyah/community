@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Ogan Komering Ulu Selatan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Selatan",
+    "region": "Kabupaten Ogan Komering Ulu Selatan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-ogan-komering-ulu-selatan",
+    "communityID": "3d123a0e-ae47-4aa0-a873-0e0d5848258c",
+    "candidates": [
+        {
+            "name": "Popo Ali Martopo",
+            "description": "Popo Ali Martopo, B.Commerce. (lahir 10 Mei 1982)[1] adalah Bupati OKU Selatan yang menjabat sejak 17 Februari 2016 hingga sekarang.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/35/Popo_Ali_Martopo_%28cropped%29.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Popo_Ali_Martopo"
+            },
+            "communityID": "3d123a0e-ae47-4aa0-a873-0e0d5848258c"
+        },
+        {
+            "name": "Sholehien Abuasir",
+            "description": "Sholehien Abuasir, S.P., M.Si. (lahir 19 September 1967) adalah Wakil Bupati Ogan Komering Ulu Selatan periode 2016\u20132021 dan 2021\u20132024. Ia menjabat untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Selatan, Herman Deru di Griya Agung, Palembang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sholehien_Abuasir.jpg/118px-Sholehien_Abuasir.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sholehien_Abuasir"
+            },
+            "communityID": "3d123a0e-ae47-4aa0-a873-0e0d5848258c"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Gunungkidul",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Daerah_Istimewa_Yogyakarta",
+    "region": "Kabupaten Gunungkidul",
+    "level": "KABUPATEN",
+    "path": "kabupaten-gunungkidul",
+    "communityID": "638eb3ed-3ab6-446a-ab03-84b85d560746",
+    "candidates": [
+        {
+            "name": "Sunaryanta",
+            "description": "Mayor Chb. (Purn.) H. Sunaryanta (aksara Jawa: \ua9af\ua9b8\ua9a4\ua982\ua9aa\ua9a4\ua9c0\ua9a0; lahir 09 November 1970) adalah bupati Gunungkidul periode 2021-2024. Pria asal Kwarasan Wetan, Kedungkeris, Nglipar ini memenangkan pemilihan bupati Gunungkidul 2020 berpasangan dengan Heri Susanto, S.Kom., M.Si. Dalam pesta demokrasi tersebut, pasangan Sunaryanta-Heri berhasil mengumpulkan 155.878 suara,[1] mengungguli 3 calon lainnya. Ia resmi dilantik menjadi bupati Gunungkidul ke-28 pada 26 Februari 2021.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Sunaryanta.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sunaryanta"
+            },
+            "communityID": "638eb3ed-3ab6-446a-ab03-84b85d560746"
+        },
+        {
+            "name": "Heri Susanto",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wakil_Bupati_HERI_SUSANTO.jpg/150px-Wakil_Bupati_HERI_SUSANTO.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "638eb3ed-3ab6-446a-ab03-84b85d560746"
+        }
+    ]
+}

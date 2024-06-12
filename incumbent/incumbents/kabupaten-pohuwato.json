@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Pohuwato",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Gorontalo",
+    "region": "Kabupaten Pohuwato",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pohuwato",
+    "communityID": "4ccef1cc-487f-4be2-a04a-23efb70a71be",
+    "candidates": [
+        {
+            "name": "Saipul A. Mbuinga",
+            "description": "H. Saipul A. Mbuinga (lahir 5 Agustus 1963) adalah Bupati Pohuwato periode 2021\u20142024.[1][2][3] Sebelumnya ia menjabat sebagai Wakil Ketua DPRD Kabupaten Pohuwato 2 periode yakni 2014\u20142019 dan 2019\u20142020.[4]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Saipul_A._Mbuinga.jpg/93px-Saipul_A._Mbuinga.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Saipul_A._Mbuinga"
+            },
+            "communityID": "4ccef1cc-487f-4be2-a04a-23efb70a71be"
+        },
+        {
+            "name": "Suharsi Igirisa",
+            "description": "Hj. Suharsi Igirisa, S.I.P., M.Si. (lahir 27 Agustus 1964) adalah Wakil Bupati Pohuwato periode 2021\u20142024.[1] Ia adalah wakil dari Bupati Pohuwato, Saipul A. Mbuinga.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Suharsi_Igirisa.jpg/115px-Suharsi_Igirisa.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Suharsi_Igirisa"
+            },
+            "communityID": "4ccef1cc-487f-4be2-a04a-23efb70a71be"
+        }
+    ]
+}

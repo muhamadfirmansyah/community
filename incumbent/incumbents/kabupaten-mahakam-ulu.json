@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Mahakam Ulu",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Timur",
+    "region": "Kabupaten Mahakam Ulu",
+    "level": "KABUPATEN",
+    "path": "kabupaten-mahakam-ulu",
+    "communityID": "b7c85f7e-23d7-49ea-ba24-3552a6d07e63",
+    "candidates": [
+        {
+            "name": "Bonifasius Belawan Geh",
+            "description": "Bonifasius Belawan Geh, S.H. (lahir 17 September 1966) adalah bupati Mahakam Ulu yang menjabat pada periode 2016 hingga 2021. Ia menggantikan bupati sebelumnya, Frederik Bid, setelah terpilih dalam Pilkada Mahakam Ulu 2015, dan berpasangan dengan wakil bupati Drs.Yohanes Juan Jenau\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Official_portrait%2C_Bonifasius_Belawan_Geh%2C_2021.jpg/1200px-Official_portrait%2C_Bonifasius_Belawan_Geh%2C_2021.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Bonifasius_Belawan_Geh"
+            },
+            "communityID": "b7c85f7e-23d7-49ea-ba24-3552a6d07e63"
+        },
+        {
+            "name": "Yohanes Avun",
+            "description": "Drs. Yohanes Avun, M.Si. (lahir 31 Desember 1964) adalah Wakil Bupati Mahakam Ulu periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Kalimantan Timur, Isran Noor di Pendopo Odah Etam Kompleks Kantor Gubernur Kalimantan Timur, Samarinda.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Wakil_Bupati_Mahakam_Ulu_Yohanes_Avun.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yohanes_Avun"
+            },
+            "communityID": "b7c85f7e-23d7-49ea-ba24-3552a6d07e63"
+        }
+    ]
+}

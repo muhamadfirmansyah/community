@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Bulungan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Utara",
+    "region": "Kabupaten Bulungan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bulungan",
+    "communityID": "d6f5b1ea-eba2-4448-876c-c5b67a08b353",
+    "candidates": [
+        {
+            "name": "Syarwani",
+            "description": "Syarwani, S.Pd., M.Si (lahir 5 Februari 1974) adalah politikus Indonesia. Ia adalah Bupati Bulungan periode 2021\u20142024. Bersama wakilnya, Ingkong Ala, mereka berhasil memenangkan pemilihan umum Bupati Bulungan 2020.[1] Ia pernah menjabat sebagai Ketua DPRD Kabupaten Bulungan periode 2014\u20142019.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/29/Bupati_Bulungan_Syarwani.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Syarwani"
+            },
+            "communityID": "d6f5b1ea-eba2-4448-876c-c5b67a08b353"
+        },
+        {
+            "name": "Ingkong Ala",
+            "description": "Ingkong Ala, S.E., M.Si. (lahir 17 November 1966) adalah Wakil Bupati Bulungan 2 periode yakni 2016\u20142020 dan 2021\u20142024.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Foto_Wakil_Bupati_Ingkong_Ala2.jpg/1200px-Foto_Wakil_Bupati_Ingkong_Ala2.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ingkong_Ala"
+            },
+            "communityID": "d6f5b1ea-eba2-4448-876c-c5b67a08b353"
+        }
+    ]
+}

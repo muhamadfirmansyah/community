@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Ngawi",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Timur",
+    "region": "Kabupaten Ngawi",
+    "level": "KABUPATEN",
+    "path": "kabupaten-ngawi",
+    "communityID": "ebddee17-8135-4392-89ec-2d992e63ff6e",
+    "candidates": [
+        {
+            "name": "Ony Anwar Harsono",
+            "description": "H. Ony Anwar Harsono, S.T., M.H. (lahir 15 Desember 1979) adalah Bupati Ngawi yang menjabat sejak 26 Februari 2021. Sebelumnya ia pernah menjabat sebagai Wakil Bupati pada periode 2010\u20132015 dan 2016\u20132021.[1] Ia memiliki latar belakang sebagai pengusaha muda sekaligus anak dari Harsono, Bupati Ngawi yang menjabat pada tahun 2000\u20132010.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bupati_Ngawi_Ony_Anwar_Harsono.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ony_Anwar_Harsono"
+            },
+            "communityID": "ebddee17-8135-4392-89ec-2d992e63ff6e"
+        },
+        {
+            "name": "Dwi Rianto Jatmiko",
+            "description": "Dr. Dwi Rianto Jatmiko, M.H., M.Si. (lahir 16 November 1971) adalah politisi PDI Perjuangan yang menjabat sebagai Wakil Bupati Ngawi periode 2021-2024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Anggota_DPRD_Kabupaten_Ngawi_Dwi_Rianto_Jatmiko.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dwi_Rianto_Jatmiko"
+            },
+            "communityID": "ebddee17-8135-4392-89ec-2d992e63ff6e"
+        }
+    ]
+}

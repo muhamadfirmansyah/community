@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Sragen",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kabupaten Sragen",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sragen",
+    "communityID": "8bb6797a-eecf-4405-8dbd-04668b4ee109",
+    "candidates": [
+        {
+            "name": "Kusdinar Untung Yuni Sukowati",
+            "description": "dr. Kusdinar Untung Yuni Sukowati atau Mbak Yuni (lahir 23 Juni 1974) adalah politikus Indonesia yang kini menjabat sebagai Bupati Sragen yang menjabat pada periode 2016\u20132021, kemudian dilanjutkan pada periode 2021\u20132024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Bupati_Sragen_Kusdinar_Untung_Yuni_Sukowati.jpg/1200px-Bupati_Sragen_Kusdinar_Untung_Yuni_Sukowati.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Kusdinar_Untung_Yuni_Sukowati"
+            },
+            "communityID": "8bb6797a-eecf-4405-8dbd-04668b4ee109"
+        },
+        {
+            "name": "Suroto",
+            "description": "H. Suroto (lahir 25 Agustus 1956) adalah Wakil Bupati Sragen periode 2021\u20132024. Ia menjabat sejak 24 Mei 2021 setelah dilantik Gubernur Jawa Tengah, Ganjar Pranowo di Gedung Gardhika Bhakti Praja Kompleks Kantor Gubernur Jawa Tengah, Kota Semarang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Suroto_Wakil_Bupati_Sragen.jpg/1200px-Suroto_Wakil_Bupati_Sragen.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Suroto_(wakil_bupati)"
+            },
+            "communityID": "8bb6797a-eecf-4405-8dbd-04668b4ee109"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Karimun",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kepulauan_Riau",
+    "region": "Kabupaten Karimun",
+    "level": "KABUPATEN",
+    "path": "kabupaten-karimun",
+    "communityID": "da74605a-e88a-4e2b-899b-889a95793c61",
+    "candidates": [
+        {
+            "name": "Aunur Rafiq",
+            "description": "Dr. H. Aunur Rafiq, S.Sos, M.Si. (lahir 16 Agustus 1964) adalah Bupati Karimun 2 periode yakni 2016\u20132021 dan 2021\u20132024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/2/27/Aunur_Rafiq.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Aunur_Rafiq"
+            },
+            "communityID": "da74605a-e88a-4e2b-899b-889a95793c61"
+        },
+        {
+            "name": "Anwar Hasyim",
+            "description": "\nH. Anwar Hasyim, S.Ag., M.Si. (lahir 14 Mei 1954) adalah Wakil Bupati Karimun 2 periode yakni 2016\u20132021 dan 2021\u20132024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/27/Anwar_Hasyim_2016.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Anwar_Hasyim"
+            },
+            "communityID": "da74605a-e88a-4e2b-899b-889a95793c61"
+        }
+    ]
+}

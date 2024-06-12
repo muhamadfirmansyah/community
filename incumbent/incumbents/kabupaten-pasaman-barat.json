@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Pasaman Barat",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Barat",
+    "region": "Kabupaten Pasaman Barat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pasaman-barat",
+    "communityID": "e399e165-e52a-4b36-9c88-83a3239b7578",
+    "candidates": [
+        {
+            "name": "Hamsuardi",
+            "description": "H. Hamsuardi, S.Ag. (lahir 25 Februari 1961) adalah politikus Partai Amanat Nasional dan  birokrat Indonesia yang menjabat Bupati Pasaman Barat periode 2021\u20132024.[1] Bersama wakilnya, Risnawanto, mereka berhasil memenangkan pemilihan umum Bupati Pasaman Barat 2020. Hamsuardi pernah menjabat sebagai Kepala Dinas Pemuda dan Olahraga Kabupaten Pasaman Barat hingga tahun 2010. Ia pernah maju menggandeng Kartuni dalam pemilihan umum Bupati Pasaman Barat 2015, tetapi tidak berhasil dan memperoleh perolehan suara terendah.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Bupati_Pasaman_Barat_Hamsuardi.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hamsuardi"
+            },
+            "communityID": "e399e165-e52a-4b36-9c88-83a3239b7578"
+        },
+        {
+            "name": "Risnawanto",
+            "description": "H. Risnawanto, S.E. (lahir 30 Desember 1966) adalah politikus Indonesia yang menjabat Wakil Bupati Pasaman Barat, Sumatera Barat 2 periode yakni 2005\u20142010 dan 2021\u20142024. Ia adalah wakil dari Bupati Pasaman Barat, Syahiran[1] dan Hamsuardi.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Wakil_Bupati_Pasaman_Barat_Risnawanto.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Risnawanto"
+            },
+            "communityID": "e399e165-e52a-4b36-9c88-83a3239b7578"
+        }
+    ]
+}

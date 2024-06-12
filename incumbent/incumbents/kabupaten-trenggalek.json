@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Trenggalek",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Timur",
+    "region": "Kabupaten Trenggalek",
+    "level": "KABUPATEN",
+    "path": "kabupaten-trenggalek",
+    "communityID": "d0a43e6d-52ab-4067-974f-709a88e34231",
+    "candidates": [
+        {
+            "name": "Mochamad Nur Arifin",
+            "description": "H. Mochamad Nur Arifin, S.M., M.M. (lahir 7 April 1990) adalah Bupati Trenggalek yang menjabat sejak 28 Mei 2019. Sebelumnya, ia menjabat sebagai Wakil Bupati Trenggalek mendampingi Emil Dardak.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/18/Bupati_Trenggalek_Nur_Arifin_Rakor_Pemilu_Serentak_2024_di_Pendhapa_Manggala_Praja_Nugraha.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mochamad_Nur_Arifin"
+            },
+            "communityID": "d0a43e6d-52ab-4067-974f-709a88e34231"
+        },
+        {
+            "name": "Syah Muhamad Natanegara",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Syah_Muhamad_Natanegara.jpg/120px-Syah_Muhamad_Natanegara.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "d0a43e6d-52ab-4067-974f-709a88e34231"
+        }
+    ]
+}

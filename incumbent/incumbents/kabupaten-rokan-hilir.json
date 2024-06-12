@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Rokan Hilir",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Riau",
+    "region": "Kabupaten Rokan Hilir",
+    "level": "KABUPATEN",
+    "path": "kabupaten-rokan-hilir",
+    "communityID": "b85a97cc-ee4d-491f-b140-4ef1471bd857",
+    "candidates": [
+        {
+            "name": "Afrizal Sintong",
+            "description": "Afrizal Sintong, S.I.P, M.Si (lahir 15 Juni 1976) adalah seorang politisi Indonesia. Ia menjabat sebagai Bupati Rokan Hilir 2021-2024 bersama Sulaiman sebagai wakilnya.[1][2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/53/Regent_of_Rokan_Hilir_Afrizal_Sintong.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Afrizal_Sintong"
+            },
+            "communityID": "b85a97cc-ee4d-491f-b140-4ef1471bd857"
+        },
+        {
+            "name": "Sulaiman",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2021-06-08-gubernur-riau-lantik-afrizal-sintong-dan-h-sulaiman-jadi-bupati-dan-wabup-rohil.jpg/101px-2021-06-08-gubernur-riau-lantik-afrizal-sintong-dan-h-sulaiman-jadi-bupati-dan-wabup-rohil.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "b85a97cc-ee4d-491f-b140-4ef1471bd857"
+        }
+    ]
+}

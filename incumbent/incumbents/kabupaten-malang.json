@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Malang",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Timur",
+    "region": "Kabupaten Malang",
+    "level": "KABUPATEN",
+    "path": "kabupaten-malang",
+    "communityID": "698e5ffe-2b19-42b5-bacc-b73d39b954de",
+    "candidates": [
+        {
+            "name": "Sanusi",
+            "description": "Drs. H. M. Sanusi, M.M.[1] (lahir 20 Mei 1960) adalah Adipati Malang yang menjabat sejak 17 September 2019 menggantikan Rendra Kresna yang ditahan KPK karena diduga menerima suap.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/2f/H._M._Sanusi%2C_MM.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sanusi_(bupati)"
+            },
+            "communityID": "698e5ffe-2b19-42b5-bacc-b73d39b954de"
+        },
+        {
+            "name": "Didik Gatot Subroto",
+            "description": "Drs. H. Didik Gatot Subroto, S.H., M.H. [1] (lahir 25 November 1969) adalah politisi PDI Perjuangan yang menjabat sebagai Wakil Bupati Malang periode 2021-2024. Sebelumnya ia sempat menjabat sebagai Ketua DPRD Kabupaten Malang sejak 26 September 2019[2] sampai akhirnya mengundurkan diri dikarenakan maju dalam Pilkada Malang 2020. Ia maju mendampingi Bupati Malang Sanusi yang diusung PDI Perjuangan, Partai Golkar, Partai NasDem, Partai Gerindra, PPP, dan Partai Demokrat.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Didik_Wakil_Bupati_Malang.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Didik_Gatot_Subroto"
+            },
+            "communityID": "698e5ffe-2b19-42b5-bacc-b73d39b954de"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Kutai Barat",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Timur",
+    "region": "Kabupaten Kutai Barat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kutai-barat",
+    "communityID": "98b374a0-1758-41e7-ab59-b45b1458b7c7",
+    "candidates": [
+        {
+            "name": "Fransiskus Xaverius Yapan",
+            "description": "Fransiskus Xaverius Yapan[1] atau lebih di kenal dengan nama F.X Yapan(lahir 18 Juli 1958) adalah Bupati yang memimpin kabupaten Kutai Barat di provinsi Kalimantan Timur, Indonesia. Dilantik sebagai bupati periode pertama pada tanggal 20 April 2016 berpasangan dengan bapak H. Edyanto Arkan, S.E., untuk Periode 2016-2021 setelah memperoleh suara terbanyak dan terpilih menjadi bupati dalam Pilkada Kabupaten Kutai Barat pada tahun 2015.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/85/Fransiskus_Xaverius_Yapan%2C_Bupati_Kutai_Barat.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Fransiskus_Xaverius_Yapan"
+            },
+            "communityID": "98b374a0-1758-41e7-ab59-b45b1458b7c7"
+        },
+        {
+            "name": "Edyanto Arkan",
+            "description": "Edyanto Arkan, S.E. (lahir 2 Maret 1959) adalah Wakil Bupati Kutai Barat periode 2016\u20132021 dan 2021\u20132024. Ia menjabat untuk periode kedua sejak 26 April 2021 setelah dilantik Gubernur Kalimantan Timur, Isran Noor di Pendopo Odah Etam, Samarinda.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Edyanto_Arkan.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Edyanto_Arkan"
+            },
+            "communityID": "98b374a0-1758-41e7-ab59-b45b1458b7c7"
+        }
+    ]
+}

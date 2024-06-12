@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Tanjung Jabung Barat",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jambi",
+    "region": "Kabupaten Tanjung Jabung Barat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-tanjung-jabung-barat",
+    "communityID": "e59dadfd-4131-414f-8689-7f2bd3764684",
+    "candidates": [
+        {
+            "name": "Anwar Sadat",
+            "description": "Drs. H. Anwar Sadat, M.Ag. (lahir 21 Januari 1966) adalah Bupati Tanjung Jabung Barat periode 2021\u20132024.[1] Bersama wakilnya, Hairan, mereka berhasil memenangkan pemilihan umum Bupati Tanjung Jabung Barat 2020.[2][3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bupati_Tanjabbar_Anwar_Sadat.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Anwar_Sadat_(bupati)"
+            },
+            "communityID": "e59dadfd-4131-414f-8689-7f2bd3764684"
+        },
+        {
+            "name": "Hairan",
+            "description": "H. Hairan, S.H. (lahir 22 Maret 1978) adalah Wakil Bupati Tanjung Jabung Barat periode 2021\u20142024. Ia merupakan wakil dari Bupati, Anwar Sadat.[1][2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Wabup_Tanjabbar_Hairan.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hairan"
+            },
+            "communityID": "e59dadfd-4131-414f-8689-7f2bd3764684"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Mukomuko",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Bengkulu",
+    "region": "Kabupaten Mukomuko",
+    "level": "KABUPATEN",
+    "path": "kabupaten-mukomuko",
+    "communityID": "94d88a17-83d5-4747-8183-fce74b84d7aa",
+    "candidates": [
+        {
+            "name": "Sapuan",
+            "description": "H. Sapuan, S.E., MM, Ak, CA, CPA, CPI.(lahir 27 Mei 1974) adalah pengusaha dan politikus Indonesia yang menjabat sebagai Bupati Mukomuko sejak 26 Februari 2021.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sapuan%2C_SE.%2C_MM.%2C_Ak.%2C_CA.%2C_CPA.jpg/120px-Sapuan%2C_SE.%2C_MM.%2C_Ak.%2C_CA.%2C_CPA.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sapuan_(politikus)"
+            },
+            "communityID": "94d88a17-83d5-4747-8183-fce74b84d7aa"
+        },
+        {
+            "name": "Wasri",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wasri.jpg/103px-Wasri.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "94d88a17-83d5-4747-8183-fce74b84d7aa"
+        }
+    ]
+}

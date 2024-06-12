@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Simalungun",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Simalungun",
+    "level": "KABUPATEN",
+    "path": "kabupaten-simalungun",
+    "communityID": "833d84cd-1e8f-4b0f-aa8d-bc36e78ad7c1",
+    "candidates": [
+        {
+            "name": "Radiapoh Hasiholan Sinaga",
+            "description": "Radiapoh Hasiholan Sinaga, S.H., M.H. (lahir 18 Juni 1968) adalah seorang pengusaha yang saat ini menjabat sebagai Bupati Simalungun bersama wakilnya Zonny Waldi. Ia maju sebagai Cabup didukung 5 partai pendukung yaitu Partai Golongan Karya,Partai Berkarya, Partai Hati Nurani Rakyat, Partai Keadilan Sejahtera, dan Partai Perindo dalam kontestan Pemilihan umum Bupati Simalungun 2020. Pada tanggal 27 April 2021, ia resmi dilantik bersama pasangannya Zonny Waldi sebagai Bupati dan Wakil Bupati Simalungun periode 2021-2024 oleh Gubernur Sumatera Utara Edy Rahmayadi di Medan.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bupati_Simalungun_periode_2021-2024_Radiapoh_Sinaga.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Radiapoh_Hasiholan_Sinaga"
+            },
+            "communityID": "833d84cd-1e8f-4b0f-aa8d-bc36e78ad7c1"
+        },
+        {
+            "name": "Zonny Waldi",
+            "description": "H. Zonny Waldi, S.Sos., M.M. (lahir 2 April 1961) adalah Wakil Bupati Simalungun periode 2021\u20132024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Raja Inal Siregar Lantai II Kantor Gubernur Sumatera Utara, Medan.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Wakil_Bupati_Simalungun_periode_2021-2024_Zonny_Waldi.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Zonny_Waldi"
+            },
+            "communityID": "833d84cd-1e8f-4b0f-aa8d-bc36e78ad7c1"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Lebong",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Bengkulu",
+    "region": "Kabupaten Lebong",
+    "level": "KABUPATEN",
+    "path": "kabupaten-lebong",
+    "communityID": "91027acd-448e-4fb9-8dff-8dbbb7a619ee",
+    "candidates": [
+        {
+            "name": "Kopli Ansori",
+            "description": "Kopli Ansori (lahir 30 November 1981) adalah Bupati Lebong periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Bengkulu, Rohidin Mersyah di Gedung Balai Raya Semarak, Kota Bengkulu.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bupati_Kabupaten_Lebong_Kopli_Ansori.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Kopli_Ansori"
+            },
+            "communityID": "91027acd-448e-4fb9-8dff-8dbbb7a619ee"
+        },
+        {
+            "name": "Fahrurrozi",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Drs._Fahrurrozi%2C_M.Pd.jpg/100px-Drs._Fahrurrozi%2C_M.Pd.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "91027acd-448e-4fb9-8dff-8dbbb7a619ee"
+        }
+    ]
+}

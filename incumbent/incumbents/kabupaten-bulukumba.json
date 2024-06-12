@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Bulukumba",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Selatan",
+    "region": "Kabupaten Bulukumba",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bulukumba",
+    "communityID": "fde9b2f3-7975-41e8-8a44-fa67eb2fea95",
+    "candidates": [
+        {
+            "name": "Andi Muchtar Ali Yusuf",
+            "description": "Andi Muchtar Ali Yusuf (lahir 12 Februari 1967) adalah Bupati Bulukumba periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Selatan, Nurdin Abdullah di Rumah Jabatan Gubernur Sulawesi Selatan, Makassar.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/86/Bupati_Bulukumba_Andi_Muchtar_Ali_Yusuf.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Andi_Muchtar_Ali_Yusuf"
+            },
+            "communityID": "fde9b2f3-7975-41e8-8a44-fa67eb2fea95"
+        },
+        {
+            "name": "Andi Edy Manaf",
+            "description": "H. Andi Edy Manaf, S.Sos. (lahir 11 Mei 1968) adalah Wakil Bupati Bulukumba periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Selatan, Nurdin Abdullah di Rumah Jabatan Gubernur Sulawesi Selatan, Makassar.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/85/Wakil_Bupati_Bulukumba_Andi_Edy_Manaf.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Andi_Edy_Manaf"
+            },
+            "communityID": "fde9b2f3-7975-41e8-8a44-fa67eb2fea95"
+        }
+    ]
+}

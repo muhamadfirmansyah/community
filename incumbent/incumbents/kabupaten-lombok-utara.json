@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Lombok Utara",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Nusa_Tenggara_Barat",
+    "region": "Kabupaten Lombok Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-lombok-utara",
+    "communityID": "bfda41de-bcf3-4019-9e1a-fedd424d19e4",
+    "candidates": [
+        {
+            "name": "Djohan Sjamsu",
+            "description": "H. Djohan Sjamsu, S.H. (lahir 31 Desember 1950) adalah Bupati Lombok Utara periode 2010\u20132015 dan 2021\u20132024. Ia menjabat untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Barat, Zulkieflimansyah di Gedung Graha Bhakti Praja Kompleks Kantor Gubernur Nusa Tenggara Barat, Mataram.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Djohan_Sjamsu.jpg/121px-Djohan_Sjamsu.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Djohan_Sjamsu"
+            },
+            "communityID": "bfda41de-bcf3-4019-9e1a-fedd424d19e4"
+        },
+        {
+            "name": "Danny Karter Febrianto",
+            "description": "Danny Karter Febrianto Ridawan, S.T., M.Eng. (lahir 16 Februari 1985) adalah Wakil Bupati Lombok Utara periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Barat, Zulkieflimansyah di Gedung Graha Bhakti Praja Kompleks Kantor Gubernur Nusa Tenggara Barat, Mataram.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Danny_Karter_Febrianto.jpg/125px-Danny_Karter_Febrianto.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Danny_Karter_Febrianto"
+            },
+            "communityID": "bfda41de-bcf3-4019-9e1a-fedd424d19e4"
+        }
+    ]
+}

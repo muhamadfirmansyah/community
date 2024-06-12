@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Supiori",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua",
+    "region": "Kabupaten Supiori",
+    "level": "KABUPATEN",
+    "path": "kabupaten-supiori",
+    "communityID": "a476f232-018f-4c83-8c30-40e649a2e384",
+    "candidates": [
+        {
+            "name": "Yan Imbab",
+            "description": "Drs. Yan Imbab (lahir 20 Juni 1953) adalah Bupati Supiori periode 2021-2024, bersama dengan wakil bupati terpilih Nichodemus Ronsumbre. Sebelumnya, Yan Imbab sudah menjabat sebagai bupati, sisa jabatan periode 2011\u20132016, dimana ia menggantikan Fredrik Menufandu yang meninggal pada masa jabatannya. Dia menjadi bupati definitif pada 1 April 2015.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Yan_Imbab.jpg/126px-Yan_Imbab.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yan_Imbab"
+            },
+            "communityID": "a476f232-018f-4c83-8c30-40e649a2e384"
+        },
+        {
+            "name": "Nichodemus Ronsumbre",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Nichodemus_Ronsumbre.jpg/122px-Nichodemus_Ronsumbre.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "a476f232-018f-4c83-8c30-40e649a2e384"
+        }
+    ]
+}

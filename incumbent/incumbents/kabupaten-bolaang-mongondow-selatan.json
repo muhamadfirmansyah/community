@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Bolaang Mongondow Selatan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Utara",
+    "region": "Kabupaten Bolaang Mongondow Selatan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bolaang-mongondow-selatan",
+    "communityID": "ae9ce71c-9334-492f-a778-0405615209d1",
+    "candidates": [
+        {
+            "name": "Iskandar Kamaru",
+            "description": "Hi. Iskandar Kamaru, S.Pt., M.Si. (lahir 16 Desember 1974) adalah seorang Bupati Bolaang Mongondow Selatan periode 2018\u20132021 dan 2021\u20132024. Dia putra Momalia berdarah Gorontalo. Dia menjabat sebagai bupati untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Utara, Olly Dondokambey di Graha Gubernuran H.V. Worang Bumi Beringin, Manado.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Iskandar_Kamaru.jpg/131px-Iskandar_Kamaru.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Iskandar_Kamaru"
+            },
+            "communityID": "ae9ce71c-9334-492f-a778-0405615209d1"
+        },
+        {
+            "name": "Deddy Abdul Hamid",
+            "description": "Hi. Deddy Abdul Hamid (lahir 5 November 1969) adalah Wakil Bupati Bolaang Mongondow Selatan periode 2019\u20132021 dan 2021\u20132024. Ia menjabat untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Utara, Olly Dondokambey di Graha Gubernuran H.V. Worang Bumi Beringin, Manado.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Deddy_Abdul_Hamid.jpg/132px-Deddy_Abdul_Hamid.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Deddy_Abdul_Hamid"
+            },
+            "communityID": "ae9ce71c-9334-492f-a778-0405615209d1"
+        }
+    ]
+}

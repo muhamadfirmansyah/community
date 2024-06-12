@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Solok",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Barat",
+    "region": "Kabupaten Solok",
+    "level": "KABUPATEN",
+    "path": "kabupaten-solok",
+    "communityID": "e6e27ae6-261e-4723-afb8-eb7b696e3e67",
+    "candidates": [
+        {
+            "name": "Epyardi Asda",
+            "description": "Capt. H. Epyardi Asda, M.Mar. gelar Datuak Sutan Majo Lelo (lahir 11 Maret 1962) adalah pengusaha dan politikus PAN yang menjabat sebagai Bupati Solok periode 2021\u20132024 dan Anggota DPR-RI Fraksi PPP tiga periode sejak 2004 hingga 2018. Ia merupakan pemilik PT Kaluku Indah Permai yang melakukan reklamasi di Danau Singkarak.[3][4] Pada 2014, ia mencalonkan diri menjadi Ketua Umum Partai Persatuan Pembangunan (PPP), tetapi di tengah pencalonannya, ia mengundurkan diri karena melihat kondisi partai yang terus menerus dirundung konflik.[5]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/82/Bupati_Solok_Epyardi_Asda.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Epyardi_Asda"
+            },
+            "communityID": "e6e27ae6-261e-4723-afb8-eb7b696e3e67"
+        },
+        {
+            "name": "Jon Firman Pandu",
+            "description": "Jon Firman Pandu, S.H. (lahir 1 Maret 1979) adalah politikus Partai Gerindra yang menjabat Wakil Bupati Kabupaten Solok periode 2021\u20142024.[1] Ia adalah wakil dari Bupati Solok, Epyardi Asda.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/08/Wakil_Bupati_Solok_Jon_Firman_Pandu.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Jon_Firman_Pandu"
+            },
+            "communityID": "e6e27ae6-261e-4723-afb8-eb7b696e3e67"
+        }
+    ]
+}

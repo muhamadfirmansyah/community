@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Karo",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Karo",
+    "level": "KABUPATEN",
+    "path": "kabupaten-karo",
+    "communityID": "daa07be5-f157-453b-bb4e-b165e4b28d02",
+    "candidates": [
+        {
+            "name": "Cory Sriwaty Sebayang",
+            "description": "Cory Sriwaty Sebayang[1] (lahir 21 Maret 1952) adalah politikus yang menjabat Bupati Karo periode 2021\u20142026. Bersama wakilnya, Theopilus Ginting, mereka berhasil memenangkan pemilihan umum Bupati Karo 2020. Sebelumnya ia menjabat Wakil Bupati Karo periode 2016\u20142021.[2] Ia adalah wakil dari Bupati Karo, Terkelin Brahmana.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/33/Cory_Sriwaty_Sebayang_2021.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Cory_Sriwaty_Sebayang"
+            },
+            "communityID": "daa07be5-f157-453b-bb4e-b165e4b28d02"
+        },
+        {
+            "name": "Theopilus Ginting",
+            "description": "Theopilus Ginting (lahir 26 Juni 1978) adalah Wakil Bupati Karo periode 2021\u20142024. Ia adalah wakil dari Bupati Karo, Cory Sriwaty Sebayang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/29/Theopilus_Ginting_2021.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Theopilus_Ginting"
+            },
+            "communityID": "daa07be5-f157-453b-bb4e-b165e4b28d02"
+        }
+    ]
+}

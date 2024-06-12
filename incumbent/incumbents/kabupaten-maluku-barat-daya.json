@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Maluku Barat Daya",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Maluku",
+    "region": "Kabupaten Maluku Barat Daya",
+    "level": "KABUPATEN",
+    "path": "kabupaten-maluku-barat-daya",
+    "communityID": "9210cc29-4991-4b97-9365-e4155c71ae34",
+    "candidates": [
+        {
+            "name": "Benyamin Thomas Noach",
+            "description": "Benyamin Thomas Noach, ST (lahir 20 Desember 1968) adalah Bupati terpilih masa bakti 2019-2020 untuk Kabupaten Maluku Barat Daya, Provinsi Maluku, Indonesia.[1][2] Benyamin memiliki alamat di Kecamatan Tiakur (tidak ada kecamatan Tiakur, ada kecamatan Moa Lakor), Kabupaten Maluku Barat Daya. Ia telah menikah dengan Rely Aryani Herlina Loblobly.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Benyamin_Thomas_Noach.jpg/128px-Benyamin_Thomas_Noach.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Benyamin_Thomas_Noach"
+            },
+            "communityID": "9210cc29-4991-4b97-9365-e4155c71ae34"
+        },
+        {
+            "name": "Agustinus Lekwardai Kilikily",
+            "description": "Agustinus Lekwardai Kilikily (lahir 24 Juni 1966) adalah seorang politikus Indonesia kelahiran Lawawang. Pada pemilihan umum Bupati Maluku Barat Daya 2020, ia terpilih menjadi Wakil Bupati Maluku Barat Daya periode 2021-2026 mendampingi Benyamin Thomas Noach selaku Bupati Maluku Barat Daya. Ia memiliki istri bernama Johana Helena Bebena.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Agustinus_Lekwardai_Kilikily.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Agustinus_Lekwardai_Kilikily"
+            },
+            "communityID": "9210cc29-4991-4b97-9365-e4155c71ae34"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Rejang Lebong",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Bengkulu",
+    "region": "Kabupaten Rejang Lebong",
+    "level": "KABUPATEN",
+    "path": "kabupaten-rejang-lebong",
+    "communityID": "12d5ed42-1e10-4950-a304-aea5c45a0b54",
+    "candidates": [
+        {
+            "name": "Syamsul Effendi",
+            "description": "Syamsul Effendi (lahir 10 Agustus 1965) adalah seorang birokrat Indonesia yang lahir di Turan Baru, Curup Selatan, Rejang Lebong. Ia pernah menduduki sejumlah jabatan strategis di tiga pemerintah daerah yang berbeda, seperti Pemkab Kepahiang, Pemkab Lebong dan Pemkab Rejang Lebong. Bahkan, ia pernah menjadi Sekretaris Lurah Kota Bengkulu.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Drs._Syamsul_Effendi%2C_MM.jpg/100px-Drs._Syamsul_Effendi%2C_MM.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Syamsul_Effendi"
+            },
+            "communityID": "12d5ed42-1e10-4950-a304-aea5c45a0b54"
+        },
+        {
+            "name": "Hendra Wahyudiansyah",
+            "description": "Hendra Wahyudiansyah (lahir 31 Desember 1982) adalah seorang politikus Indonesia kelahiran Bengkulu. Ia merupakan putra bungsu dari Bupati Rejang Lebong Ahmad Hijazi. Ia menjabat sebagai ketua umum Palang Merah Indonesia (PMI) Kabupaten Rejang Lebong. Dari 2021 sampai 2024, ia menjabat sebagai Wakil Bupati Rejang Lebong.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Hendra_Wahyudiansyah%2C_SH.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hendra_Wahyudiansyah"
+            },
+            "communityID": "12d5ed42-1e10-4950-a304-aea5c45a0b54"
+        }
+    ]
+}

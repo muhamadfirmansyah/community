@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Sigi",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Tengah",
+    "region": "Kabupaten Sigi",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sigi",
+    "communityID": "14d9b09f-32ef-419e-b096-3dd8361361d8",
+    "candidates": [
+        {
+            "name": "Mohamad Irwan Lapatta",
+            "description": "Mohamad Irwan Lapatta, M.Si. (lahir 19 September 1968) adalah bupati kabupaten Sigi, provinsi Sulawesi Tengah, Indonesia.[1] Mohamad Irwan menjabat untuk kedua kalinya, dimana pada periode I 2016-2021, ia didampingi oleh wakilnya Paulina Lallo, S.E., M.Si. Sementara pada periode II 2021-2024, ia didampingi oleh wakilnya Samuel Yansen Pongi, menang dengan persentasi 55,60% (77.376 suara).[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mohamad_Irwan_Lapatta.jpg/129px-Mohamad_Irwan_Lapatta.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mohamad_Irwan_Lapatta"
+            },
+            "communityID": "14d9b09f-32ef-419e-b096-3dd8361361d8"
+        },
+        {
+            "name": "Samuel Yansen Pongi",
+            "description": "Samuel Yansen Pongi, SE. M,Si. (lahir 15 Juni 1975) adalah wakil bupati ke-3 kabupaten Sigi, provinsi Sulawesi Tengah, Indonesia.[2] Pada Pemilihan umum Bupati Sigi 2020, periode 2021-2024, Samuel mendampingi bupati Mohamad Irwan Lapatta, menang dengan persentasi 55,60% (77.376 suara),[3] sementara Mohamad Irwan menjabat sebagai bupati kabupaten Sigi untuk periode ke II.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Samuel_Yansen_Pongi.jpg/124px-Samuel_Yansen_Pongi.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Samuel_Yansen_Pongi"
+            },
+            "communityID": "14d9b09f-32ef-419e-b096-3dd8361361d8"
+        }
+    ]
+}

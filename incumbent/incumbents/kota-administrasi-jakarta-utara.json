@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Administrasi Jakarta Utara",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Daerah_Khusus_Ibukota_Jakarta",
+    "region": "Kota Administrasi Jakarta Utara",
+    "level": "KOTA",
+    "path": "kota-administrasi-jakarta-utara",
+    "communityID": "5afa8963-1136-467c-9648-f9763897f604",
+    "candidates": [
+        {
+            "name": "Ali Maulana Hakim",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Wali_Kota_Ali_Maulana_Hakim_%28cropped%29.jpg/1200px-Wali_Kota_Ali_Maulana_Hakim_%28cropped%29.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ali_Maulana_Hakim"
+            },
+            "communityID": "5afa8963-1136-467c-9648-f9763897f604"
+        },
+        {
+            "name": "Juaini Yusuf",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Wakil_Wali_Kota_Juaini_%28cropped%29.jpg/1200px-Wakil_Wali_Kota_Juaini_%28cropped%29.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Juaini"
+            },
+            "communityID": "5afa8963-1136-467c-9648-f9763897f604"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Depok",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Barat",
+    "region": "Kota Depok",
+    "level": "KOTA",
+    "path": "kota-depok",
+    "communityID": "f61b1c58-e621-472d-8e68-ab9015412ba4",
+    "candidates": [
+        {
+            "name": "Mohammad Idris",
+            "description": "Dr. K.H. Mohammad Idris, Lc., MA. (lahir 25 Juli 1961), dikenal dengan nama lain Idris Abdul Shomad adalah seorang ulama dan politikus Indonesia. Saat ini, ia memegang jabatan Wali Kota Depok yang telah diembannya sejak 2016. Selama menjabat, kebijakan yang diambilnya selalu kontroversial, salah satunya pengalihfungsian lahan sekolah dasar di Beji, Depok, pada akhir 2022.[2] Sebelumnya, ia mendampingi Nur Mahmudi Ismail sebagai Wakil Wali Kota Depok.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/33/Mayor_of_Depok_Mohammad_Idris_%28no_background%29%2C_2021.png",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mohammad_Idris"
+            },
+            "communityID": "f61b1c58-e621-472d-8e68-ab9015412ba4"
+        },
+        {
+            "name": "Imam Budi Hartono",
+            "description": "Ir. H. Imam Budi Hartono, M.Si, populer dengan nama akronim IBH (lahir 8 Agustus 1968) adalah politikus asal Indonesia yang menjabat sebagai Wakil Wali Kota Depok sejak 26 Februari 2021. Dia berkiprah di dunia politik ketika dirinya menganggotai Partai Keadilan bersama para aktivis lainnya di awal masa Reformasi. Selain itu, Imam juga terlibat dalam pembentukan Depok sebagai sebuah kota madya dan termasuk salah satu legislator pertama di Dewan Perwakilan Rakyat Daerah Kota Depok.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Vice_Mayor_of_Depok_Imam_Budi_Hartono%2C_2021.png",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Imam_Budi_Hartono"
+            },
+            "communityID": "f61b1c58-e621-472d-8e68-ab9015412ba4"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Tabanan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Bali",
+    "region": "Kabupaten Tabanan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-tabanan",
+    "communityID": "574be2cf-43ff-420f-8837-d99b90524f22",
+    "candidates": [
+        {
+            "name": "I Komang Gede Sanjaya",
+            "description": "Dr. I Komang Gede Sanjaya, S.E., M.M. (lahir 4 Oktober 1966) adalah Bupati Tabanan periode 2021-2024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Bali, Wayan Koster di Gedung Wiswa Sabha Kantor Gubernur Bali, Denpasar.[1] Ia juga merupakan politisi PDI Perjuangan dan dipercaya sebagai Ketua DPC PDI Perjuangan Kabupaten Tabanan.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b0/I_Koomang_Gede_Sanjaya_PDIP.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/I_Komang_Gede_Sanjaya"
+            },
+            "communityID": "574be2cf-43ff-420f-8837-d99b90524f22"
+        },
+        {
+            "name": "I Made Edi Wirawan",
+            "description": "I Made Edi Wirawan, S.E. (lahir 28 Desember 1971) adalah Wakil Bupati Tabanan periode 2021-2024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Bali, Wayan Koster di Gedung Wiswa Sabha Kantor Gubernur Bali, Denpasar.[1] Ia juga merupakan politisi PDI Perjuangan dan dipercaya sebagai Wakil Ketua DPC PDI Perjuangan Kabupaten Tabanan.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/I_Made_Edi_Wirawan.jpg/95px-I_Made_Edi_Wirawan.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/I_Made_Edi_Wirawan"
+            },
+            "communityID": "574be2cf-43ff-420f-8837-d99b90524f22"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Ogan Ilir",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Selatan",
+    "region": "Kabupaten Ogan Ilir",
+    "level": "KABUPATEN",
+    "path": "kabupaten-ogan-ilir",
+    "communityID": "86a3956f-01f8-4e46-969c-c8cf4f157d7e",
+    "candidates": [
+        {
+            "name": "Panca Wijaya Akbar",
+            "description": "Panca Wijaya Akbar, S.H. (lahir 19 Desember 1991) adalah pengusaha asal Sumatera Selatan yang terpilih sebagai Bupati Ogan Ilir pada periode 2021-2026.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Panca_Wijaya_Akbar.jpg/1200px-Panca_Wijaya_Akbar.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Panca_Wijaya_Akbar"
+            },
+            "communityID": "86a3956f-01f8-4e46-969c-c8cf4f157d7e"
+        },
+        {
+            "name": "Ardani",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/H._ARDANI%2C_SH.%2C_MH.png/112px-H._ARDANI%2C_SH.%2C_MH.png",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "86a3956f-01f8-4e46-969c-c8cf4f157d7e"
+        }
+    ]
+}

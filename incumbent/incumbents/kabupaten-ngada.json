@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Ngada",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Nusa_Tenggara_Timur",
+    "region": "Kabupaten Ngada",
+    "level": "KABUPATEN",
+    "path": "kabupaten-ngada",
+    "communityID": "bf9da5f1-56c3-4adf-8ddf-871a629d898a",
+    "candidates": [
+        {
+            "name": "Andreas Paru",
+            "description": "Andreas Paru, S.H., M.H. (lahir 10 November 1959) adalah pensiunan polisi dan politikus Partai Golkar yang menjabat sebagai Bupati Ngada periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Timur, Viktor Laiskodat di Aula Rumah Jabatan Gubernur Nusa Tenggara Timur, Kupang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bupati_Ngada_Andreas_Paru.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Andreas_Paru"
+            },
+            "communityID": "bf9da5f1-56c3-4adf-8ddf-871a629d898a"
+        },
+        {
+            "name": "Raymundus Bena",
+            "description": "Raymundus Bena, S.S., M.Hum. (lahir 07 Januari 1973) adalah politikus PKB yang sempat menjabat sebagai anggota DPRD Kabupaten Ngada sejak 2009 sampai akhirnya mengundurkan diri karena maju dalam Pilkada Ngada 2020. Ia maju mendampingi Ketua DPD II Partai Golkar Kabupaten Ngada Andreas Paru yang diusung Partai Golkar dan PKB.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/75/Wakil_Bupati_Ngada_Raymundus_Bena.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Raymundus_Bena"
+            },
+            "communityID": "bf9da5f1-56c3-4adf-8ddf-871a629d898a"
+        }
+    ]
+}

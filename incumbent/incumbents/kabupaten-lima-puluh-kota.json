@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Lima Puluh Kota",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Barat",
+    "region": "Kabupaten Lima Puluh Kota",
+    "level": "KABUPATEN",
+    "path": "kabupaten-lima-puluh-kota",
+    "communityID": "0ec863ce-b776-40ca-aa69-1337145539f0",
+    "candidates": [
+        {
+            "name": "Safaruddin Datuak Bandaro Rajo",
+            "description": "H. Safaruddin, S.H. gelar Datuak Bandaro Rajo (lahir 28 Agustus 1957) adalah politikus Indonesia. Ia adalah Bupati Lima Puluh Kota periode 2021\u20142024.[2] Bersama wakilnya, Rizki Kurniawan Nakasri, mereka berhasil memenangkan pemilihan umum Bupati Lima Puluh Kota 2020. Ia pernah menjabat sebagai Anggota DPRD Sumatera Barat Fraksi Golkar periode 2019\u20142024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Bupati_Lima_Puluh_Kota_periode_2021_2024_Safaruddin.jpeg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Safaruddin_Datuak_Bandaro_Rajo"
+            },
+            "communityID": "0ec863ce-b776-40ca-aa69-1337145539f0"
+        },
+        {
+            "name": "Rizki Kurniawan Nakasri",
+            "description": "Rizki Kurniawan Nakasri, S.S. (lahir 16 Januari 1987) adalah pengusaha dan politikus Indonesia dari Partai NasDem. Ia menjabat Wakil Bupati Lima Puluh Kota periode 2021\u20142024.[2] Ia adalah wakil dari Bupati Lima Puluh Kota, Safaruddin Datuak Bandaro Rajo.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Wakil_Bupati_Lima_Puluh_Kota_periode_2021-2024.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Rizki_Kurniawan_Nakasri"
+            },
+            "communityID": "0ec863ce-b776-40ca-aa69-1337145539f0"
+        }
+    ]
+}

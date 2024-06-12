@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Jembrana",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Bali",
+    "region": "Kabupaten Jembrana",
+    "level": "KABUPATEN",
+    "path": "kabupaten-jembrana",
+    "communityID": "fc69f7c6-efdc-46e3-b7d6-5ecc9940930d",
+    "candidates": [
+        {
+            "name": "I Nengah Tamba",
+            "description": "I Nengah Tamba, S.H. (lahir 22 Maret 1964) adalah politikus Partai Demokrat yang menjabat sebagai Bupati Jembrana periode 2021-2024. Ia menjabat sejak 26 Februari 2021.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/BUPATI_Jembrana_2021-2024.jpg/1200px-BUPATI_Jembrana_2021-2024.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/I_Nengah_Tamba"
+            },
+            "communityID": "fc69f7c6-efdc-46e3-b7d6-5ecc9940930d"
+        },
+        {
+            "name": "I Gede Ngurah Patriana Krisna",
+            "description": "I Gede Ngurah Patriana Krisna, S.T., M.T. (lahir 23 Juli 1978) adalah Wakil Bupati Jembrana periode 2021-2024. Ia menjabat sejak 26 Februari 2021.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/I_Gede_Ngurah_Patriana_Krisna.jpg/122px-I_Gede_Ngurah_Patriana_Krisna.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/I_Gede_Ngurah_Patriana_Krisna"
+            },
+            "communityID": "fc69f7c6-efdc-46e3-b7d6-5ecc9940930d"
+        }
+    ]
+}

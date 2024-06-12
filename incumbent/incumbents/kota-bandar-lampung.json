@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Bandar Lampung",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Lampung",
+    "region": "Kota Bandar Lampung",
+    "level": "KOTA",
+    "path": "kota-bandar-lampung",
+    "communityID": "cb71b7bc-5b59-4529-a847-d4832ac00929",
+    "candidates": [
+        {
+            "name": "Eva Dwiana",
+            "description": "Hj. Eva Dwiana, S.E atau yang lebih dikenal sebagai Bunda Eva (lahir 25 April 1970) adalah politikus Partai Demokrasi Indonesia Perjuangan yang menjabat Wali Kota Bandar Lampung periode 2021\u20132024. Ia merupakan istri dari Wali Kota Bandar Lampung periode 2010\u20132015 dan 2016\u20132021 Herman HN. Sebelumnya, ia berkursi sebagai anggota DPRD Provinsi Lampung periode 2014\u20132019 dan 2019\u20132024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/82/Eva_dwiyana_mayor.png",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Eva_Dwiana"
+            },
+            "communityID": "cb71b7bc-5b59-4529-a847-d4832ac00929"
+        },
+        {
+            "name": "Deddy Amrullah",
+            "description": "Drs. Deddy Amarullah (lahir 27 Agustus 1961) adalah politikus Partai NasDem[2][3] yang menjabat Wakil Walikota Bandar Lampung periode 2021\u20142024. Ia adalah wakil dari Walikota Bandar Lampung, Eva Dwiana.[4]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/00/Wakil_Wali_Kota_Bandar_Lampung_Deddy_Amrullah.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Deddy_Amrullah"
+            },
+            "communityID": "cb71b7bc-5b59-4529-a847-d4832ac00929"
+        }
+    ]
+}

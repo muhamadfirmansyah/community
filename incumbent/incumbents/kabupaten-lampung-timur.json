@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Lampung Timur",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Lampung",
+    "region": "Kabupaten Lampung Timur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-lampung-timur",
+    "communityID": "5415b86a-cc86-4d6d-b52b-0af2f5fe23c0",
+    "candidates": [
+        {
+            "name": "Dawam Rahardjo",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/17/M._Dawam_Rahardjo.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/M._Dawam_Rahardjo"
+            },
+            "communityID": "5415b86a-cc86-4d6d-b52b-0af2f5fe23c0"
+        },
+        {
+            "name": "Azwar Hadi",
+            "description": "Hi. Azwar Hadi, S.E., M.Si. (lahir 11 Oktober 1966) adalah politikus Partai Golongan Karya yang saat ini menjabat sebagai Wakil Bupati Lampung Timur periode 2021\u20132024.  Azwar Hadi merupakan salah satu tokoh pemuda yang dulu turut andil dalam menggerakan upaya pemekaran wilayah Kabupaten Lampung Timur yang dulu nya masih Kabupaten Lampung Tengah pada tahun 1999.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Azwar_Hadi.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Azwar_Hadi"
+            },
+            "communityID": "5415b86a-cc86-4d6d-b52b-0af2f5fe23c0"
+        }
+    ]
+}

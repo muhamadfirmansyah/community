@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Melawi",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Barat",
+    "region": "Kabupaten Melawi",
+    "level": "KABUPATEN",
+    "path": "kabupaten-melawi",
+    "communityID": "c3fa55c3-5eb3-475d-b962-6c01a100b513",
+    "candidates": [
+        {
+            "name": "Dadi Sunarya Usfa Yusra",
+            "description": "H. Dadi Sunarya Usfa Yursa, A.Md. (lahir 24 Februari 1984) adalah Bupati Melawi periode 2021\u20132024. Ia dilantik pada 26 Februari 2021 oleh Gubernur Kalimantan Barat, Sutarmidji di Balai Petitih Kantor Gubernur Kalimantan Barat, Kota Pontianak.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/DADI_SUNARYA_USFA_YURSA_2020.jpg/1200px-DADI_SUNARYA_USFA_YURSA_2020.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dadi_Sunarya_Usfa_Yursa"
+            },
+            "communityID": "c3fa55c3-5eb3-475d-b962-6c01a100b513"
+        },
+        {
+            "name": "Kluisen",
+            "description": "Drs. Kluisen (lahir 23 Maret 1976) adalah Wakil Bupati Melawi periode 2021\u20132024. Ia dilantik pada 26 Februari 2021 oleh Gubernur Kalimantan Barat, Sutarmidji di Balai Petitih Kantor Gubernur Kalimantan Barat, Kota Pontianak.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/KLUISEN_2020.jpg/1200px-KLUISEN_2020.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Kluisen"
+            },
+            "communityID": "c3fa55c3-5eb3-475d-b962-6c01a100b513"
+        }
+    ]
+}

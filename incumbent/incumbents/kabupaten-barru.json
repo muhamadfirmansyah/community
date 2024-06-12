@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Barru",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Selatan",
+    "region": "Kabupaten Barru",
+    "level": "KABUPATEN",
+    "path": "kabupaten-barru",
+    "communityID": "297941ce-4c61-47d6-ac73-97ba946620db",
+    "candidates": [
+        {
+            "name": "Suardi Saleh",
+            "description": "Ir. H. Suardi Saleh, M.Si. (lahir 2 Desember 1956) adalah politikus Partai NasDem yang menjabat sebagai Bupati Barru periode 2017-2021 dan 2021-2024. Ia menjabat untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Selatan, Nurdin Abdullah di Rumah Jabatan Gubernur Sulawesi Selatan, Makassar.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Suardi_Saleh_Bupati_Barru.jpg/1200px-Suardi_Saleh_Bupati_Barru.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Suardi_Saleh"
+            },
+            "communityID": "297941ce-4c61-47d6-ac73-97ba946620db"
+        },
+        {
+            "name": "Aska Mappe",
+            "description": "Komisaris Polisi (Purn.) Aska Mappe (lahir 15 Januari 1965) adalah Wakil Bupati Barru periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Selatan, Nurdin Abdullah di Rumah Jabatan Gubernur Sulawesi Selatan, Makassar.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Wakil_Bupati_Barru%2C_Aska_Mappe.jpg/102px-Wakil_Bupati_Barru%2C_Aska_Mappe.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Aska_Mappe"
+            },
+            "communityID": "297941ce-4c61-47d6-ac73-97ba946620db"
+        }
+    ]
+}

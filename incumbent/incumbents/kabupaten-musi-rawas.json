@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Musi Rawas",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Selatan",
+    "region": "Kabupaten Musi Rawas",
+    "level": "KABUPATEN",
+    "path": "kabupaten-musi-rawas",
+    "communityID": "ed2d3a40-9122-4148-b995-573039bc375f",
+    "candidates": [
+        {
+            "name": "Ratna Machmud",
+            "description": "Ir. Hj. Ratna Machmud.,M.M (lahir 8 Agustus 1964) adalah Bupati Musi Rawas periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Selatan, Herman Deru di Griya Agung, Palembang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bupati_Musi_Rawas_Ratna_Machmud.png/1200px-Bupati_Musi_Rawas_Ratna_Machmud.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ratna_Machmud"
+            },
+            "communityID": "ed2d3a40-9122-4148-b995-573039bc375f"
+        },
+        {
+            "name": "Suwarti Burlian",
+            "description": "Suwarti dapat mengacu pada beberapa hal berikut:\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Suwarti_Burlian.jpg/125px-Suwarti_Burlian.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Suwarti"
+            },
+            "communityID": "ed2d3a40-9122-4148-b995-573039bc375f"
+        }
+    ]
+}

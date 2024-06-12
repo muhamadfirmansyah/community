@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Tasikmalaya",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Barat",
+    "region": "Kabupaten Tasikmalaya",
+    "level": "KABUPATEN",
+    "path": "kabupaten-tasikmalaya",
+    "communityID": "50bba698-220d-4f4a-b93e-65f33067d404",
+    "candidates": [
+        {
+            "name": "Ade Sugianto",
+            "description": "H. Ade Sugianto, S.I.P.[1] (lahir 26 Februari 1966) adalah politikus yang menjabat Bupati Tasikmalaya 2 periode yakni 2018\u20132021 dan 2021\u20132024.[2] Bersama wakilnya, Cecep Nurul Yakin, mereka berhasil memenangkan pemilihan umum Bupati Tasikmalaya 2020. Sebelumnya ia menjabat Wakil Bupati Tasikmalaya 2 periode yakni 2011\u20132016 dan 2016\u20132018. Ia adalah wakil dari Bupati Tasikmalaya, Uu Ruzhanul Ulum.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bupati_Tasikmalaya_Ade_Sugianto.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ade_Sugianto"
+            },
+            "communityID": "50bba698-220d-4f4a-b93e-65f33067d404"
+        },
+        {
+            "name": "Cecep Nurul Yakin",
+            "description": "H. Cecep Nurul Yakin, S.Pd., M.A.P. (lahir 08 November 1977) adalah politikus Partai Persatuan Pembangunan yang menjabat Wakil Bupati Tasikmalaya periode 2021\u20132024. Ia adalah wakil dari Bupati Tasikmalaya, Ade Sugianto.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cecep_Nurul_Yakin_Wakil_Bupati_Tasikmalaya.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Cecep_Nurul_Yakin"
+            },
+            "communityID": "50bba698-220d-4f4a-b93e-65f33067d404"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Bantul",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Daerah_Istimewa_Yogyakarta",
+    "region": "Kabupaten Bantul",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bantul",
+    "communityID": "cf0e33ae-89ec-4df9-a44a-0278f592a5c6",
+    "candidates": [
+        {
+            "name": "Abdul Halim Muslih",
+            "description": "H. Abdul Halim Muslih (lahir 29 April 1970) adalah Bupati Bantul periode 2021\u20132024 dan Wakil Bupati Bantul periode 2016\u20132021. Abdul Halim terpilih sebagai Bupati Bantul bersama dengan Joko B. Purnomo setelah memenangkan Pemilihan Bupati Bantul pada 9 Desember 2020. Sebelumnya, Ia menjadi wakil bupati mendampingi Suharsono setelah menang pada Pilkada Kabupaten Bantul tanggal 9 Desember 2015. Keduanya menungguli pasangan petahana Hj. Sri Surya Widati\u2013Misbakhul Munir dengan perolehan suara sebesar 53%.[1][2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bupati_Bantul_H._Abdul_Halim_Muslih.jpg/1200px-Bupati_Bantul_H._Abdul_Halim_Muslih.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Abdul_Halim_Muslih"
+            },
+            "communityID": "cf0e33ae-89ec-4df9-a44a-0278f592a5c6"
+        },
+        {
+            "name": "Joko B Purnomo",
+            "description": "Joko B. Purnomo atau Joko Purnomo[1] (lahir 20 Desember 1966) adalah Wakil Bupati terpilih Bantul periode 2021-2024. Joko Purnomo terpilih sebagai Wakil Bupati Bantul dan mendampingi Bupati terpilih Abdul Halim Muslih setelah memenangkan Pemilihan Bupati Bantul pada 9 Desember 2020. Sebelumnya ia adalah anggota DPRD Daerah Istimewa Yogyakarta.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Wakil_Bupati_Bantul_Joko_Purnomo.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Joko_B_Purnomo"
+            },
+            "communityID": "cf0e33ae-89ec-4df9-a44a-0278f592a5c6"
+        }
+    ]
+}

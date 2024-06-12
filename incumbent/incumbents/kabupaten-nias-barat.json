@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Nias Barat",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Nias Barat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-nias-barat",
+    "communityID": "0647321b-c70e-4981-932c-59e294d85b81",
+    "candidates": [
+        {
+            "name": "Khenoki Waruwu",
+            "description": "Khenoki Waruwu (lahir 5 Juni 1965) adalah Bupati Nias Barat periode 2021-2024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Raja Inal Siregar Lantai II Kantor Gubernur Sumatera Utara, Medan.[1] Ia juga merupakan politisi Partai Hanura dan dipercaya sebagai Ketua DPC Partai Hanura Kabupaten Nias Barat.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Khenoki_Waruwu_2021.jpg/109px-Khenoki_Waruwu_2021.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Khenoki_Waruwu"
+            },
+            "communityID": "0647321b-c70e-4981-932c-59e294d85b81"
+        },
+        {
+            "name": "Era Era Hia",
+            "description": "Dr. Era Era Hia, M.M., M.Si. (lahir 19 Februari 1974) adalah Wakil Bupati Nias Barat periode 2021\u20132024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Raja Inal Siregar Lantai II Kantor Gubernur Sumatera Utara, Medan.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/67/Era_Era_Hia_2021.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Era_Era_Hia"
+            },
+            "communityID": "0647321b-c70e-4981-932c-59e294d85b81"
+        }
+    ]
+}

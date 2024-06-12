@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Tanjung Jabung Timur",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jambi",
+    "region": "Kabupaten Tanjung Jabung Timur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-tanjung-jabung-timur",
+    "communityID": "9f64c516-d97d-4b44-be4f-a5150da67d08",
+    "candidates": [
+        {
+            "name": "Romi Hariyanto",
+            "description": "H. Romi Hariyanto, S.E. (lahir 3 November 1974) adalah Bupati Tanjung Jabung Timur dua periode 2016\u20132021 dan 2021\u20132024.[1] Sebelumnya, Ia pernah menjabat sebagai ketua DPRD Tanjung Jabung Timur selama tiga periode.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bupati_Tanjabtim_Romi_Hariyanto.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Romi_Hariyanto"
+            },
+            "communityID": "9f64c516-d97d-4b44-be4f-a5150da67d08"
+        },
+        {
+            "name": "Robby Nahliyansyah",
+            "description": "H. Robby Nahliyansyah, S.H. (lahir 21 Juli 1983) adalah Wakil Bupati Tanjung Jabung Timur dua periode yakni 2016\u20132021 dan 2021\u20132024.[1] Ia merupakan wakil dari Bupati, Romi Hariyanto.[2][3][4]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Wabup_Tanjabtim_Robby_Nahliyansyah.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Robby_Nahliyansyah"
+            },
+            "communityID": "9f64c516-d97d-4b44-be4f-a5150da67d08"
+        }
+    ]
+}

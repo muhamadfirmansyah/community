@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Sibolga",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kota Sibolga",
+    "level": "KOTA",
+    "path": "kota-sibolga",
+    "communityID": "33b04192-5e34-4b61-a33d-1d3ffee83280",
+    "candidates": [
+        {
+            "name": "Jamaluddin Pohan",
+            "description": "H. Jamaluddin Pohan (lahir 4 Februari 1966) adalah Wali Kota Sibolga periode 2021-2024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Tengku Rizal Nurdin Rumah Dinas Gubernur Sumatera Utara, Medan.[1] Ia juga merupakan politisi Partai NasDem dan dipercaya sebagai Ketua DPD Partai NasDem Kota Sibolga.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Walikota_Sibolga_periode_2021-2024_Jamaluddin_Pohan.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Jamaluddin_Pohan"
+            },
+            "communityID": "33b04192-5e34-4b61-a33d-1d3ffee83280"
+        },
+        {
+            "name": "Pantas Maruba Lumbantobing",
+            "description": "Pantas Maruba Lumbantobing (lahir 29 Maret 1977) adalah seorang politikus yang menjabat sebagai Wakil Wali Kota Sibolga ke-16.[1] Ia adalah anggota Partai Demokrat dan sebelumnya pernah menjabat sebagai anggota Dewan Perwakilan Rakyat Daerah Kota Sibolga dari 2009 hingga 2019.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/65/Pantas_Maruba_Lumban_Tobing%2C_Wakil_Wali_Kota_Sibolga_%282021%29.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Pantas_Maruba_Lumbantobing"
+            },
+            "communityID": "33b04192-5e34-4b61-a33d-1d3ffee83280"
+        }
+    ]
+}

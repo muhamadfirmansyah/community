@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Banjar",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Selatan",
+    "region": "Kabupaten Banjar",
+    "level": "KABUPATEN",
+    "path": "kabupaten-banjar",
+    "communityID": "2dfb5a91-c9d4-4c2c-81c6-9804a5e2bb50",
+    "candidates": [
+        {
+            "name": "Saidi Mansyur",
+            "description": "H. Saidi Mansyur, S.I.Kom. (lahir 5 Mei 1987) adalah Bupati Banjar petahana yang menjabat mulai 26 Februari 2021, berpasangan dengan Wakil Bupati Banjar Said Idrus al-Habsyi.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Bupati_Banjar_Saidi_Mansyur.jpg/1200px-Bupati_Banjar_Saidi_Mansyur.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Saidi_Mansyur"
+            },
+            "communityID": "2dfb5a91-c9d4-4c2c-81c6-9804a5e2bb50"
+        },
+        {
+            "name": "Said Idrus",
+            "description": "Habib Said Idrus Al-Habsyi atau Said Idrus (lahir 14 April 1960) adalah seorang politikus Indonesia kelahiran Martapura. Ia sempat diangkat menjadi Ketua Rabithah Alawiyah Martapura-Kota Banjabaru. Ia menjabat selaku Wakil Bupati Banjar dari 2021 sampai 2024 mendampingi Saidi Mansyur selaku Bupati Banjar. Ia menikahi Fatmawati serta memiliki dua anak yakni Syarifah Nafilah dan Sayid Hasan.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wakil_Bupati_Banjar_Said_Idrus_al-Habsyi.jpg/1200px-Wakil_Bupati_Banjar_Said_Idrus_al-Habsyi.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Said_Idrus"
+            },
+            "communityID": "2dfb5a91-c9d4-4c2c-81c6-9804a5e2bb50"
+        }
+    ]
+}

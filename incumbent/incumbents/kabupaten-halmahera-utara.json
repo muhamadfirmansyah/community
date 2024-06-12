@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Halmahera Utara",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Maluku_Utara",
+    "region": "Kabupaten Halmahera Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-halmahera-utara",
+    "communityID": "946e9e16-fe1b-4e18-8a5e-5c6685097d13",
+    "candidates": [
+        {
+            "name": "Frans Manery",
+            "description": "Ir. Frans Manery (lahir 17 Februari 1956) adalah Bupati Halmahera Utara 2 periode yakni 2016\u20142021 dan 2021\u20142024.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ir._Frans_Manery.jpg/1200px-Ir._Frans_Manery.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Frans_Manery"
+            },
+            "communityID": "946e9e16-fe1b-4e18-8a5e-5c6685097d13"
+        },
+        {
+            "name": "Muchlis Tapi Tapi",
+            "description": "Muchlis Tapi Tapi adalah seorang politikus Indonesia. Ia menjabat sebagai Wakil Bupati Halmahera Utara selama dua periode. Ia didorong oleh Partai Nasdem untuk maju dalam pemilihan umum Bupati Halmahera Utara 2024.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Muchlis_Tapi_Tapi.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muchlis_Tapi_Tapi"
+            },
+            "communityID": "946e9e16-fe1b-4e18-8a5e-5c6685097d13"
+        }
+    ]
+}

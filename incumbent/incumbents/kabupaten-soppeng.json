@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Soppeng",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Selatan",
+    "region": "Kabupaten Soppeng",
+    "level": "KABUPATEN",
+    "path": "kabupaten-soppeng",
+    "communityID": "76fcc9f6-f5db-4ef4-9c52-07c92970f098",
+    "candidates": [
+        {
+            "name": "Andi Kaswadi Razak",
+            "description": "H. Andi Kaswadi Razak, S.E.  (lahir 1 Februari 1967) adalah Bupati Soppeng periode 2016\u20132021 dan 2021\u20132024. Ia menjabat untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Selatan, Nurdin Abdullah di Rumah Jabatan Gubernur Sulawesi Selatan, Makassar.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Andi_Kaswadi_Razak%2C_Bupati_Soppeng_%28Periode_II%29.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Andi_Kaswadi_Razak"
+            },
+            "communityID": "76fcc9f6-f5db-4ef4-9c52-07c92970f098"
+        },
+        {
+            "name": "Lutfi Halide",
+            "description": "Ir. H. Lutfi Halide, M.P. (lahir 19 September 1959) adalah seorang birokrat dan poliitkus Indonesia. Ia saat ini menjabat sebagai Wakil Bupati Soppeng sejak 2021. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Selatan Nurdin Abdullah di Rumah Jabatan Gubernur Sulawesi Selatan, Makassar.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/66/Wakil_Bupati_Soppeng%2C_Lutfi_Halide.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Lutfi_Halide"
+            },
+            "communityID": "76fcc9f6-f5db-4ef4-9c52-07c92970f098"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Banyuwangi",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Timur",
+    "region": "Kabupaten Banyuwangi",
+    "level": "KABUPATEN",
+    "path": "kabupaten-banyuwangi",
+    "communityID": "21c758da-8b71-46de-a5f1-7c246261afd6",
+    "candidates": [
+        {
+            "name": "Ipuk Fiestiandani",
+            "description": "Hj. Ipuk Fiestiandani, S.Pd. atau beberapa menyebut Ipuk Fiestiandani Azwar Anas (lahir 10 September 1974) adalah Bupati Banyuwangi yang menjabat sejak dilantik pada 26 Februari 2021 menggantikan bupati sebelumnya Abdullah Azwar Anas yang merupakan suaminya.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/22/Official_Portrait_of_Ipuk_Fiestiandani%2C_Regent_of_Banyuwangi.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ipuk_Fiestiandani"
+            },
+            "communityID": "21c758da-8b71-46de-a5f1-7c246261afd6"
+        },
+        {
+            "name": "Sugirah",
+            "description": "H. Sugirah, S.Pd., M.Si. (lahir 1 Februari 1964) adalah politikus PDI Perjuangan yang menjabat sebagai Wakil Bupati Banyuwangi periode 2021-2024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/62/Official_Portrait_of_Sugirah%2C_Vice_Regent_of_Banyuwangi.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sugirah"
+            },
+            "communityID": "21c758da-8b71-46de-a5f1-7c246261afd6"
+        }
+    ]
+}

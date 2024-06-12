@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Yahukimo",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Pegunungan",
+    "region": "Kabupaten Yahukimo",
+    "level": "KABUPATEN",
+    "path": "kabupaten-yahukimo",
+    "communityID": "20e7c0e3-08b6-4e25-a8b9-a5c3150bc5ee",
+    "candidates": [
+        {
+            "name": "Didimus Yahuli",
+            "description": "Didimus Yahuli, S.H, (lahir 20 Juli 1973), adalah Bupati Yahukimo sejak 4 Mei 2021. Ia terpilih sebagai Bupati Yahukimo dalam Pilkada Yahukimo 2020 didampingi oleh Wakil Bupati  Esau Miram massa Jabatan berakhir pada 4 Mei 2026. Sebelum menjadi Bupati, Didimus Yahuli merupakan Anggota Dewan Perwakilan Rakyat Daerah Kabupaten Yahukimo sebagai wakil ketua DPRD Kabupaten Yahukimo pada Periode 2014-2019.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/92/Didimus_Yahuli.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Didimus_Yahuli"
+            },
+            "communityID": "20e7c0e3-08b6-4e25-a8b9-a5c3150bc5ee"
+        },
+        {
+            "name": "Esau Miram",
+            "description": "Esau Miram, S.IP. (lahir 30 Januari 1988) adalah Wakil Bupati Kabupaten Yahukimo, Papua periode 2021\u20142024. Ia adalah wakil dari Bupati Kabupaten Yahukimo saat ini, Didimus Yahuli, SH.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/f/f3/Esau_Miram_%28Wabup_Yhk%29.jpeg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Esau_Miram"
+            },
+            "communityID": "20e7c0e3-08b6-4e25-a8b9-a5c3150bc5ee"
+        }
+    ]
+}

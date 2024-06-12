@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Labuhanbatu Selatan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Labuhanbatu Selatan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-labuhanbatu-selatan",
+    "communityID": "cde3b16d-1e26-4849-bfd5-cea151d6e7a0",
+    "candidates": [
+        {
+            "name": "Edimin",
+            "description": "H. Edimin atau yang akrab disapa Asiong ini (lahir 21 April 1972) adalah seorang Pengusaha sekaligus Politisi yang sekarang menjabat sebagai Bupati Labuhanbatu Selatan periode 2021-2026. Ia maju sebagai calon bupati bersama pasangannya yaitu Ahmad Padli Tanjung dalam pemilu 2020 yang diusung 2 partai yaitu PDIP dan PKPI. Ia juga sebelumnya pernah menjadi Anggota DPRD Kabupaten Labuhan Batu Selatan periode 2014-2016 &  2019-2020 dari fraksi partai Hanura. \n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Bupati_Labuhanbatu_Selatan_H._Edimin.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Edimin"
+            },
+            "communityID": "cde3b16d-1e26-4849-bfd5-cea151d6e7a0"
+        },
+        {
+            "name": "Ahmad Padli Tanjung",
+            "description": "H. Ahmad Padli Tanjung,S.Ag (lahir di Marsonja, Sungai Kanan, Labuhanbatu Selatan,Sumatera Utara, 20 April 1970; umur 51 tahun) adalah seorang Muballigh dan Politisi yang sekarang menjabat sebagai Wakil Bupati Labuhanbatu Selatan periode 2021-2024. Ia adalah wakil dari Bupati Labuhanbatu Selatan yaitu Edimin.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/75/Wakil_Bupati_Labuhanbatu_Selatan_Ahmad_Fadli_Tanjung.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ahmad_Padli_Tanjung"
+            },
+            "communityID": "cde3b16d-1e26-4849-bfd5-cea151d6e7a0"
+        }
+    ]
+}

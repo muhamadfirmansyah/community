@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Solok Selatan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Barat",
+    "region": "Kabupaten Solok Selatan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-solok-selatan",
+    "communityID": "4a371541-3e6c-4027-825a-61edf546bdd6",
+    "candidates": [
+        {
+            "name": "Khairunas",
+            "description": "H. Khairunas, S.I.P., M.Si. (lahir 2 Maret 1967) adalah politikus Indonesia dari Partai Golongan Karya yang menjabat sebagai Bupati Solok Selatan periode 2021\u20142024.[3] Ia pernah menjabat sebagai Anggota DPRD Sumatera Barat Fraksi Golkar periode 2019\u20142020, Ketua DPRD Kabupaten Solok Selatan tiga periode sejak 2004 hingga 2015, dan Anggota DPRD Kabupaten Solok periode 1999\u20132004.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bupati_Solok_Selatan_Khairunas.jpg/1200px-Bupati_Solok_Selatan_Khairunas.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Khairunas"
+            },
+            "communityID": "4a371541-3e6c-4027-825a-61edf546bdd6"
+        },
+        {
+            "name": "Yulian Efi",
+            "description": "Ir. H. Yulian Efi, M.M. (lahir 18 November 1966) adalah Wakil Bupati Solok Selatan periode 2021\u20142024.[1] Ia adalah wakil dari Bupati Solok Selatan, Khairunas.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Wakil_Bupati_Solok_Selatan_Yulian_Efi.jpg/1200px-Wakil_Bupati_Solok_Selatan_Yulian_Efi.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yulian_Efi"
+            },
+            "communityID": "4a371541-3e6c-4027-825a-61edf546bdd6"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Bangka Barat",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kepulauan_Bangka_Belitung",
+    "region": "Kabupaten Bangka Barat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bangka-barat",
+    "communityID": "a791cf1e-1dd5-4b92-a077-1419d3d7eea0",
+    "candidates": [
+        {
+            "name": "Sukirman",
+            "description": "H. Sukirman, S.H. (lahir 20 Mei 1961) adalah seorang politikus Indonesia yang menjabat sebagai Bupati Bangka Barat sejak 2021. Sukirman pernah menjabat sebagai Wakil Bupati Bangka Barat pada tahun 2010 hingga 2015. Selain itu, ia juga sempat menjabat sebagai anggota DPRD Kepulauan Bangka Belitung pada 2019 hingga 2020 dan anggota DPRD Bangka Barat dari tahun 2009 sampai 2010.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bupati_Bangka_Barat_H.Sukirman_SH.jpg/1200px-Bupati_Bangka_Barat_H.Sukirman_SH.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sukirman_(bupati)"
+            },
+            "communityID": "a791cf1e-1dd5-4b92-a077-1419d3d7eea0"
+        },
+        {
+            "name": "Bong Ming Ming",
+            "description": "Bong Ming Ming (lahir 11 September 1975) adalah seorang politikus keturunan Tionghoa-Indonesia. Ia lahir dari pasangan Cia Tun Hong dan Bong Sin Bi. Ia tergabung dalam Partai Keadilan Sejahtera dan sempat menjabat sebagai anggota DPRD Provinsi Kepulauan Bangka. Pada 2021, ia diangkat menjadi Wakil Bupati Bangka Barat mendampingi Sukirman sebagai Bupati Bangka Barat.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bong_Ming_Ming.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Bong_Ming_Ming"
+            },
+            "communityID": "a791cf1e-1dd5-4b92-a077-1419d3d7eea0"
+        }
+    ]
+}

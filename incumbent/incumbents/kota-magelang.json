@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Magelang",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kota Magelang",
+    "level": "KOTA",
+    "path": "kota-magelang",
+    "communityID": "fc76ad5b-9737-494e-9e5f-64692915bd6e",
+    "candidates": [
+        {
+            "name": "Muchamad Nur Aziz",
+            "description": "dr. H. Muchamad Nur Aziz, Sp.PD. (lahir 24 November 1971) adalah dokter asal Jawa Tengah yang menjabat sebagai Wali Kota Magelang periode 2021-2024. Pada Pilkada Kota Magelang 2020 Ia Bersama M.Mansyur Mencalonkan diri Sebagai Calon Walikota dan Wakil Walikota Magelang tahun 2020 yang di usung oleh Partai Demokrat Golkar PKS dan PKB. Kemudian ia Menang dengan total suara 41.170 suara atau 60,02%\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Wali_Kota_Magelang_Muchamad_Nur_Aziz.png",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muchamad_Nur_Aziz"
+            },
+            "communityID": "fc76ad5b-9737-494e-9e5f-64692915bd6e"
+        },
+        {
+            "name": "M. Mansyur",
+            "description": "Drs. K. H. M. Mansyur, M.Ag. (lahir 10 Juni 1949) adalah Wakil Wali Kota Magelang periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Jawa Tengah, Ganjar Pranowo secara daring.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Wakil_Wali_Kota_Magelang_M._Mansyur.png",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/M._Mansyur"
+            },
+            "communityID": "fc76ad5b-9737-494e-9e5f-64692915bd6e"
+        }
+    ]
+}

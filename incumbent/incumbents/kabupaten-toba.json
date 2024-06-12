@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Toba",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Toba",
+    "level": "KABUPATEN",
+    "path": "kabupaten-toba",
+    "communityID": "f10aa124-aae3-4dbb-ad45-0e6f72e37c2a",
+    "candidates": [
+        {
+            "name": "Poltak Sitorus",
+            "description": "Ir. Poltak Sitorus, M.Sc. (lahir 6 Juli 1965) adalah seorang pengusaha yang saat ini menjabat sebagai Bupati Toba periode 2021-2024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Bupati_Toba_periode_2021-2024_Poltak_Sitorus.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Poltak_Sitorus"
+            },
+            "communityID": "f10aa124-aae3-4dbb-ad45-0e6f72e37c2a"
+        },
+        {
+            "name": "Tonny M. Simanjuntak",
+            "description": "Tonny M. Simanjuntak, S.E. (lahir 22 Agustus 1979) adalah Wakil Bupati Toba periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Tengku Rizal Nurdin Rumah Dinas Gubernur Sumatera Utara, Medan.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Wakil_Bupati_Toba_periode_2021-2024_Tonny_M_Simanjuntak.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Tonny_Simanjuntak"
+            },
+            "communityID": "f10aa124-aae3-4dbb-ad45-0e6f72e37c2a"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Metro",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Lampung",
+    "region": "Kota Metro",
+    "level": "KOTA",
+    "path": "kota-metro",
+    "communityID": "4b93c869-36e1-42c0-97ae-acf8adfc067b",
+    "candidates": [
+        {
+            "name": "Wahdi",
+            "description": "dr. H. Wahdi Siradjuddin, Sp.OG.(K), M.H. ( lahir 29 Juni 1967)[1] adalah seorang dokter spesialis,pengajar (dosen), pengusaha, dan tokoh politik.[2] Beliau merupakan walikota dan pengusaha independen (non-partai) pertama di Kota Metro pada pilkada 2020 bersama Qomaru Zaman[3] dengan nomor urut pertama.[4]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Wali_Kota_Metro_Wahdi_Siradjuddin.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Wahdi"
+            },
+            "communityID": "4b93c869-36e1-42c0-97ae-acf8adfc067b"
+        },
+        {
+            "name": "Qomaru Zaman",
+            "description": "Drs. H. Qomaru Zaman, MA ( lahir 02 Desember 1962) adalah seorang pensiunan pegawai negeri dan politisi. Ia mencalonkan diri sebagai Wakil Walikota berpasangan dengan Wahdi pada Pilwalkot 2020 dengan nomor urut  satu.[1] Beliau sempat terpilih menjadi wakil walikota metro melalui jalur independen (non-partai) pertama di Kota Metro pada pilkada 2020. Namun tak semulus harapan. Pasalnya, kini Wakil Walikota Qomaru Zaman dikabarkan berlabuh ke Partai Politik (Parpol) Partai Keadilan Sejahtera sebelum menyelesaikan masa jabatannya hingga habis.[2][3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Wakil_Wali_Kota_Metro_Qomaru_Zaman.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Qomaru_Zaman"
+            },
+            "communityID": "4b93c869-36e1-42c0-97ae-acf8adfc067b"
+        }
+    ]
+}

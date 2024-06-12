@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Belitung Timur",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kepulauan_Bangka_Belitung",
+    "region": "Kabupaten Belitung Timur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-belitung-timur",
+    "communityID": "7d240884-6158-4c8e-94f4-f46cabdc3c00",
+    "candidates": [
+        {
+            "name": "Burhanudin",
+            "description": "Adelia Dwi Rizki\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/07/Burhanuddin%2C_Bupati_Belitung_Timur.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Burhanudin"
+            },
+            "communityID": "7d240884-6158-4c8e-94f4-f46cabdc3c00"
+        },
+        {
+            "name": "Khairil Anwar",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Khairil_Anwar%2C_Wakil_Bupati_Belitung_Timur.png/148px-Khairil_Anwar%2C_Wakil_Bupati_Belitung_Timur.png",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "7d240884-6158-4c8e-94f4-f46cabdc3c00"
+        }
+    ]
+}

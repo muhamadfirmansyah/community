@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Grobogan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kabupaten Grobogan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-grobogan",
+    "communityID": "4ad61a54-7843-4421-9907-6ec9dc833491",
+    "candidates": [
+        {
+            "name": "Sri Sumarni",
+            "description": "Sri Sumarni, S.H., M.M. (lahir 5 September 1960) adalah Bupati Grobogan yang menjabat selama dua periode, yaitu periode 2016 - 2021 dan periode 2021 - 2024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/10/Sri_Sumarni_Bupati_Grobogan.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sri_Sumarni_(politikus)"
+            },
+            "communityID": "4ad61a54-7843-4421-9907-6ec9dc833491"
+        },
+        {
+            "name": "Bambang Pujiyanto",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bambang_Pujiyanto.jpg/94px-Bambang_Pujiyanto.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "4ad61a54-7843-4421-9907-6ec9dc833491"
+        }
+    ]
+}

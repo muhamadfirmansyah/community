@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Batanghari",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jambi",
+    "region": "Kabupaten Batanghari",
+    "level": "KABUPATEN",
+    "path": "kabupaten-batanghari",
+    "communityID": "35153b2b-3dfc-4fa1-8579-31ba2b90626f",
+    "candidates": [
+        {
+            "name": "Muhammad Fadhil Arief",
+            "description": "Muhammad Fadhil Arief, S.E. (lahir 1 Juni 1975) adalah Bupati Batanghari periode 2021-2024.[1][2] Bersama wakilnya, Bakhtiar, mereka berhasil memenangkan pemilihan umum Bupati Batanghari 2020. Fadhil sebelumnya merupakan Sekretaris Daerah Kabupaten Muaro Jambi.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Bupati_Batanghari_M_Fadhil_Arief.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muhammad_Fadhil_Arief"
+            },
+            "communityID": "35153b2b-3dfc-4fa1-8579-31ba2b90626f"
+        },
+        {
+            "name": "Bakhtiar",
+            "description": "H. Bakhtiar, S.P. (lahir 13 Oktober 1961) adalah Wakil Bupati Batanghari periode 2021\u20132024. Ia merupakan wakil dari Bupati, Muhammad Fadhil Arief.[2][3][4] Bakhtiar sebelumnya adalah Sekretaris Daerah Kabupaten Batanghari.[5][6]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Wabup_Batanghari_Bakhtiar.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Bakhtiar"
+            },
+            "communityID": "35153b2b-3dfc-4fa1-8579-31ba2b90626f"
+        }
+    ]
+}

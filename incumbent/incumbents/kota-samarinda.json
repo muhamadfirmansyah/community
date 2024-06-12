@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Samarinda",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Timur",
+    "region": "Kota Samarinda",
+    "level": "KOTA",
+    "path": "kota-samarinda",
+    "communityID": "bb3a1057-cb37-484e-a2fc-fb07fcf6ddbf",
+    "candidates": [
+        {
+            "name": "Andi Harun",
+            "description": "Dr. H. Andi Harun, S.T., S.H., M.Si. (lahir 12 Desember 1972) adalah politikus Indonesia. Ia adalah Wali Kota Samarinda periode 2021\u20132024. Bersama wakilnya, Rusmadi Wongso, mereka berhasil memenangkan pemilihan umum Wali Kota Samarinda 2020.[1] Ia pernah menjabat sebagai Anggota DPRD Provinsi Kalimantan Timur 3 periode yakni 1999\u20132004, 2004\u20132009 dan 2009\u20132014.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Wali_Kota_Samarinda_Andi_Harun.png/1200px-Wali_Kota_Samarinda_Andi_Harun.png",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Andi_Harun"
+            },
+            "communityID": "bb3a1057-cb37-484e-a2fc-fb07fcf6ddbf"
+        },
+        {
+            "name": "Rusmadi Wongso",
+            "description": "Ir. H. Rusmadi Wongso, M.S., Ph.D. (lahir 30 Oktober 1962[1]) adalah Wakil Wali Kota Samarinda periode 2021\u20142024. Ia adalah wakil dari Wali Kota Samarinda, Andi Harun.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Wakil_Wali_Kota_Samarinda_Rusmadi_Wongso.png/1200px-Wakil_Wali_Kota_Samarinda_Rusmadi_Wongso.png",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Rusmadi_Wongso"
+            },
+            "communityID": "bb3a1057-cb37-484e-a2fc-fb07fcf6ddbf"
+        }
+    ]
+}

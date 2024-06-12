@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Sorong Selatan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Barat_Daya",
+    "region": "Kabupaten Sorong Selatan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sorong-selatan",
+    "communityID": "0cb69252-fb51-4306-8cf3-17c01ec00b18",
+    "candidates": [
+        {
+            "name": "Samsudin Anggiluli",
+            "description": "Samsudin Anggiluli, S.E. (lahir 2 Maret 1969) adalah birokrat dan politikus Indonesia yang menjabat Bupati Sorong Selatan 2 periode, yakni periode 2016\u20132021 dan 2021\u20132024.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/9/90/Bupati_Sorsel_2016-2021_Samsudin_Anggiluli.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Samsudin_Anggiluli"
+            },
+            "communityID": "0cb69252-fb51-4306-8cf3-17c01ec00b18"
+        },
+        {
+            "name": "Alfons Sesa",
+            "description": "Drs. Alfons Sesa, M.M. (lahir 5 Februari 1967) adalah Wakil Bupati Sorong Selatan periode 2021\u20132024. Ia adalah wakil dari Bupati Sorong Selatan, Samsudin Anggiluli.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Alfons_Sesa.jpg/115px-Alfons_Sesa.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Alfons_Sesa"
+            },
+            "communityID": "0cb69252-fb51-4306-8cf3-17c01ec00b18"
+        }
+    ]
+}

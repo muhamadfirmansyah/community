@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Pacitan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Timur",
+    "region": "Kabupaten Pacitan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pacitan",
+    "communityID": "f58da4ef-c634-4131-be65-79f70be8a687",
+    "candidates": [
+        {
+            "name": "Indrata Nur Bayuaji",
+            "description": "Indrata Nur Bayuaji, S.S. (lahir 16 Desember 1978) adalah seorang politikus asal Jawa Timur yang terpilih sebagai Bupati Pacitan pada periode 2021-2024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Official_Portrait_of_Indrata_Nur_Bayuaji%2C_Regent_of_Pacitan.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Indrata_Nur_Bayuaji"
+            },
+            "communityID": "f58da4ef-c634-4131-be65-79f70be8a687"
+        },
+        {
+            "name": "Gagarin",
+            "description": "Gagarin, S.Sos. (lahir 10 Mei 1970) atau yang sering dipanggil Gagarin Sumrambah adalah seorang politikus asal Jawa Timur yang terpilih sebagai Wakil Bupati Pacitan pada periode 2021-2024 mendampingi Indrata Nur Bayuaji.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Wakil_Bupati_Pacitan_Gagarin.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Gagarin"
+            },
+            "communityID": "f58da4ef-c634-4131-be65-79f70be8a687"
+        }
+    ]
+}

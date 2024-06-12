@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Sumba Timur",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Nusa_Tenggara_Timur",
+    "region": "Kabupaten Sumba Timur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sumba-timur",
+    "communityID": "2d460a95-9c5b-4e1f-9ecf-f6a94b9f57a5",
+    "candidates": [
+        {
+            "name": "Khristofel Praing",
+            "description": "Drs. Khristofel Praing, M.Si. (lahir 16 November 1965) adalah Bupati Sumba Timur periode 2021\u20132026. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Timur, Viktor Laiskodat di Aula Rumah Jabatan Gubernur Nusa Tenggara Timur, Kupang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/30/Khristofel_A._Praing.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Khristofel_Praing"
+            },
+            "communityID": "2d460a95-9c5b-4e1f-9ecf-f6a94b9f57a5"
+        },
+        {
+            "name": "David Melo Wadu",
+            "description": "David Melo Wadu, S.T. (lahir 15 Juli 1969) adalah Wakil Bupati Sumba Timur periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Timur, Viktor Laiskodat di Aula Rumah Jabatan Gubernur Nusa Tenggara Timur, Kupang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/9c/David_Melo_Wadu.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/David_Melo_Wadu"
+            },
+            "communityID": "2d460a95-9c5b-4e1f-9ecf-f6a94b9f57a5"
+        }
+    ]
+}

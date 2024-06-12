@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Rokan Hulu",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Riau",
+    "region": "Kabupaten Rokan Hulu",
+    "level": "KABUPATEN",
+    "path": "kabupaten-rokan-hulu",
+    "communityID": "05abb0f1-7c5c-4336-8026-8368042c673c",
+    "candidates": [
+        {
+            "name": "Sukiman",
+            "description": "Letnan Kolonel Arh (Purn.) H. Sukiman (lahir 10 Agustus 1953) adalah tokoh militer dan politikus Indonesia. Ia menjabat Bupati Rokan Hulu 2 periode yakni 2018\u20142021[1] dan 2021\u20142024.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bupati_Rokan_Hulu_periode_2021-2024_Sukiman.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sukiman"
+            },
+            "communityID": "05abb0f1-7c5c-4336-8026-8368042c673c"
+        },
+        {
+            "name": "Indra Gunawan",
+            "description": "H. Indra Gunawan atau yang akrab disapa ''Ujang Lurah'' ini (lahir 21 Desember 1969) adalah Politisi asal Riau yang saat ini menjabat sebagai Wakil Bupati Rokan Hulu periode 2021\u20142024.[1] Ia adalah wakil dari Bupati Rokan Hulu, Sukiman. Sebelumnya ia berprofesi sebagai Wiraswasta sebelum memutuskan untuk terjun ke dunia politik.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wakil_Bupati_Rokan_Hulu_periode_2021-2024%2C_Indra_Gunawan.jpg/1200px-Wakil_Bupati_Rokan_Hulu_periode_2021-2024%2C_Indra_Gunawan.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Indra_Gunawan_(politisi)"
+            },
+            "communityID": "05abb0f1-7c5c-4336-8026-8368042c673c"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Nias Utara",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Nias Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-nias-utara",
+    "communityID": "b89251b4-4c34-4d3f-8d28-275aff4b6aae",
+    "candidates": [
+        {
+            "name": "Amizaro Waruwu",
+            "description": "Amizaro Waruwu, S.Pd. (lahir 23 Maret 1976) adalah Bupati Nias Utara periode 2021\u20132024. Ia menjabat  sejak 26 April 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Raja Inal Siregar Lantai II Kantor Gubernur Sumatera Utara, Medan.[1] Ia juga merupakan politisi Partai Amanat Nasional dan dipercaya sebagai Ketua DPD PAN Kabupaten Nias Utara.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Amizaro_Waruwu_2021.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Amizaro_Waruwu"
+            },
+            "communityID": "b89251b4-4c34-4d3f-8d28-275aff4b6aae"
+        },
+        {
+            "name": "Yusman Zega",
+            "description": "Yusman Zega, A.Pi., M.Si. (lahir 2 Juli 1962) adalah Wakil Bupati Nias Utara periode 2021\u20132024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Raja Inal Siregar Lantai II Kantor Gubernur Sumatera Utara, Medan.[1] Ia juga merupakan politisi Partai NasDem dan dipercaya sebagai Ketua DPD Partai NasDem Kabupaten Nias Utara.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Yusman_Zega_2021.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yusman_Zega"
+            },
+            "communityID": "b89251b4-4c34-4d3f-8d28-275aff4b6aae"
+        }
+    ]
+}

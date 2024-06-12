@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Sumba Barat Daya",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Nusa_Tenggara_Timur",
+    "region": "Kabupaten Sumba Barat Daya",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sumba-barat-daya",
+    "communityID": "30df71d6-511a-4904-a3c2-23429681babb",
+    "candidates": [
+        {
+            "name": "Kornelius Kodi Mete",
+            "description": "Kornelius Kodi Mete (lahir 3 Mei 1963) adalah seorang politisi Indonesia kelahiran Karoho. Ia merupakan Bupati\u00a0Sumba Barat Daya\u00a0(SBD) periode 2008-2013 dan 2019-2024. Ia memulai karir politiknya dengan menjabat sebagai Wakil Bupati Sumba Barat periode 2005-2010 dan kemudian mengundurkan diri dari jabatannya pada tahun 2008. Ia memiliki istri bernama Margaretha Tatik W Mete dan mempunyai tiga anak.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Kornelius_Kodi_Mete.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Kornelius_Kodi_Mete"
+            },
+            "communityID": "30df71d6-511a-4904-a3c2-23429681babb"
+        },
+        {
+            "name": "Marthen Christian Taka",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Marthen_Christian_Taka.png/120px-Marthen_Christian_Taka.png",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "30df71d6-511a-4904-a3c2-23429681babb"
+        }
+    ]
+}

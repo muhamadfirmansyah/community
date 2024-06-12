@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Bengkulu Utara",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Bengkulu",
+    "region": "Kabupaten Bengkulu Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bengkulu-utara",
+    "communityID": "94d84c19-1e22-43ce-84ed-d8b956335195",
+    "candidates": [
+        {
+            "name": "Mian",
+            "description": "Ir. H. Mian (lahir 8 April 1964) adalah Bupati Bengkulu Utara 2 periode yakni 2016\u20142021 dan 2021\u20142024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/d/d1/Mian-RegentofNorthBengkulu.JPG",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mian"
+            },
+            "communityID": "94d84c19-1e22-43ce-84ed-d8b956335195"
+        },
+        {
+            "name": "Arie Septia Adinata",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Arie_Septia_Adinata.jpg/126px-Arie_Septia_Adinata.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "94d84c19-1e22-43ce-84ed-d8b956335195"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Sumenep",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Timur",
+    "region": "Kabupaten Sumenep",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sumenep",
+    "communityID": "05fc87bd-49af-45b3-9a66-d5d237fd58fe",
+    "candidates": [
+        {
+            "name": "Achmad Fauzi",
+            "description": "Achmad Fauzi, S.H., M.H. (lahir 21 Mei 1979) adalah Bupati Sumenep periode 2021-2024 dan merupakan politisi PDI Perjuangan. Fauzi juga menjabat sebagai Ketua DPC PDI Perjuangan Kabupaten Sumenep periode 2019-2024.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bupati_Sumenep_Achmad_Fauzi.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Achmad_Fauzi_(politisi)"
+            },
+            "communityID": "05fc87bd-49af-45b3-9a66-d5d237fd58fe"
+        },
+        {
+            "name": "Dewi Khalifah",
+            "description": "Dewi Khalifah atau Nyi Eva (lahir 30 Maret 1971)[1] adalah seorang politikus Indonesia. Ia menjabat selaku Wakil Bupati Sumenep periode 2021-2024. Ia juga menjabat sebagai Ketua Muslimat Nahdlatul Ulama (NU) Kabupaten Sumenep dan pengasuh Pondok Pesantren Aqidah Usmuni.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Wakil_Bupati_Sumenep_Dewi_Khalifah.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dewi_Khalifah"
+            },
+            "communityID": "05fc87bd-49af-45b3-9a66-d5d237fd58fe"
+        }
+    ]
+}

@@ -13,7 +13,8 @@ KOTA = json.loads(requests.get(KOTA_URL).text)
 PROVINSI = json.loads(requests.get(PROVINSI_URL).text)
 
 def get_community(level, keyword, key = ""):
-    keyword = (level + " " + keyword).lower().replace(" ", "")
+    keyword = keyword.lower()
+    keyword = ((level + " " + keyword).lower() if level.lower() not in keyword else keyword).replace(" ", "")
 
     keyword = keyword.replace("sumatera", "sumatra")
     keyword = keyword.replace("kotapadangsidempuan", "kotapadangsidimpuan")
@@ -101,7 +102,10 @@ def get_url(url):
 
 def get_person_detail(url):
     if not url:
-        return ""
+        return {
+            "description": "",
+            "profilePic": ""
+        }
 
     page = requests.get(url)
     soup = BeautifulSoup(page.content, "html5lib")

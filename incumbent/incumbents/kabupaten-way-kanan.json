@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Way Kanan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Lampung",
+    "region": "Kabupaten Way Kanan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-way-kanan",
+    "communityID": "1ff10599-11f0-4b74-a3ef-31766b87998f",
+    "candidates": [
+        {
+            "name": "Raden Adipati Surya",
+            "description": "Raden Adipati Surya (lahir 15 September 1978) adalah Bupati Kabupaten Way Kanan periode 2021\u20132024 yang berhasil memenangkan Pemilihan Kepala Daerah (PILKADA) Kabupaten Way Kanan pada 9 Desember 2020, menjabat sejak 26 Februari 2021 bersama Wakil Bupati Ali Rahman.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/cc/RADEN_ADIPATI_SURYA.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Raden_Adipati_Surya"
+            },
+            "communityID": "1ff10599-11f0-4b74-a3ef-31766b87998f"
+        },
+        {
+            "name": "Ali Rahman",
+            "description": "Ali Rahman (lahir 10 Agustus 1970) adalah seorang politikus Indonesia kelahiran Blambangan Umpu. Ia sempat menjabat sebagai Kepala Badan Kepegawaian dan Pengembangan Sumber Daya Manusia Kabupaten Way Kanan. Pada pemilihan umum Bupati Way Kanan 2020, ia terpilih menjadi Wakil Bupati Way Kanan mendampingi Raden Adipati Surya selaku Bupati Way Kanan.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/ALI_RAHMAN.jpg/1200px-ALI_RAHMAN.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ali_Rahman"
+            },
+            "communityID": "1ff10599-11f0-4b74-a3ef-31766b87998f"
+        }
+    ]
+}

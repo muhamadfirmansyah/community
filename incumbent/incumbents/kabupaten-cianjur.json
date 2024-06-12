@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Cianjur",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Barat",
+    "region": "Kabupaten Cianjur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-cianjur",
+    "communityID": "91825ccb-c1ec-46f1-8760-89c53b11519c",
+    "candidates": [
+        {
+            "name": "Herman Suherman",
+            "description": "H. Herman Suherman, S.T., M.A.P. (lahir 23 Oktober 1962) adalah politikus yang menjabat Bupati Cianjur periode 2021\u20142024.[1] Bersama wakilnya, Tubagus Mulyana Syahrudin, mereka berhasil memenangkan pemilihan umum Bupati Cianjur 2020. Sebelumnya ia menjabat Wakil Bupati Cianjur periode 2016\u20142018. Ia adalah wakil dari Bupati Cianjur, Irvan Rivano Muchtar.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/15/Herman_Suherman.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Herman_Suherman"
+            },
+            "communityID": "91825ccb-c1ec-46f1-8760-89c53b11519c"
+        },
+        {
+            "name": "Tubagus Mulyana Syahrudin",
+            "description": "Tubagus Mulyana Syahrudin, S.Pd., M.Si. (lahir 23 November 1970) adalah Wakil Bupati Cianjur periode 2021\u20132024. Ia menjabat sejak 18 Mei 2021 setelah dilantik Gubernur Jawa Barat, Ridwan Kamil di Gedung Sate, Kota Bandung.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tubagus_Mulyana_Syahrudin.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Tubagus_Mulyana_Syahrudin"
+            },
+            "communityID": "91825ccb-c1ec-46f1-8760-89c53b11519c"
+        }
+    ]
+}

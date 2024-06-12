@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Kendal",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kabupaten Kendal",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kendal",
+    "communityID": "51ddc862-7e35-4ac4-a0d9-f93c280a91ab",
+    "candidates": [
+        {
+            "name": "Dico Ganinduto",
+            "description": "Dico M. Ganinduto, B.Sc. (lahir 19 Februari 1990) adalah seorang politikus Indonesia dari Partai Golkar yang menjabat sebagai Bupati Kendal sejak 26 Februari 2021. Sebelumnya, ia adalah seorang pengusaha yang mencalonkan diri dalam pemilihan calon legislatif DPR RI Dapil 1 Jawa Tengah pada tahun 2018. Dico juga menjabat sebagai Presiden PERMIAS (Persatuan Mahasiswa Indonesia - AS) University of Tulsa pada tahun 2011-2012.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Dico_M_Ganinduto.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dico_Ganinduto"
+            },
+            "communityID": "51ddc862-7e35-4ac4-a0d9-f93c280a91ab"
+        },
+        {
+            "name": "Windu Suko Basuki",
+            "description": "H. Windu Suko Basuki, S.H. atau  H. Basuki (lahir 3 Juni 1961) merupakan politikus Partai Demokrat yang terpilih sebagai Wakil Bupati Kendal mendampingi Dico Ganinduto untuk periode 2021 - 2024. Ia pernah berkiprah di Akademi Militer akan tetapi memutuskan untuk pensiun dini.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Windu_Suko_Basuki.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Windu_Suko_Basuki"
+            },
+            "communityID": "51ddc862-7e35-4ac4-a0d9-f93c280a91ab"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Pelalawan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Riau",
+    "region": "Kabupaten Pelalawan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pelalawan",
+    "communityID": "f5f11f68-85bf-47f0-afc9-df4a07edfea8",
+    "candidates": [
+        {
+            "name": "Zukri",
+            "description": "H. Zukri (lahir 3 April 1979)[1] adalah seorang politikus dan mantan Wakil Ketua Dewan Perwakilan Rakyat Daerah Provinsi Riau periode 2019-2020 yang sekarang menjabat sebagai Bupati Pelalawan periode 2021-2024. Ia maju sebagai calon bupati Kabupaten Pelalawan diusung oleh partai PDIP,PKB dan Partai Persatuan Pembangunan. Sebelum menjadi Wakil Ketua DPRD, ia terpilih sebagai anggota DPRD Provinsi Riau selama 3 periode yaitu 2009-2014-2019 melalui Partai Demokrasi Indonesia Perjuangan. Ia juga dipercaya oleh Megawati Soekarnoputri untuk  memimpin DPD Partai Demokrasi Indonesia Perjuangan (PDIP) Provinsi Riau.[2] Pada tanggal 26 April 2021 Gubernur Riau Syamsuar melantik Zukri-Nasar sebagai Bupati & Wakil Bupati Kabupaten Pelalawan periode 2021-2024 di Balai Pelangi Kediaman Gubernur Riau.[3] ia menikahi Sella Pitaloka yang Merupakan Dara Pelalawan Tahun 2012.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/H._Zukri%2C_Bupati_Pelalawan.jpg/1200px-H._Zukri%2C_Bupati_Pelalawan.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Zukri_Misran"
+            },
+            "communityID": "f5f11f68-85bf-47f0-afc9-df4a07edfea8"
+        },
+        {
+            "name": "Nasarudin",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Wakil_Bupati_Pelalawan_Nasarudin.jpg/123px-Wakil_Bupati_Pelalawan_Nasarudin.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "f5f11f68-85bf-47f0-afc9-df4a07edfea8"
+        }
+    ]
+}

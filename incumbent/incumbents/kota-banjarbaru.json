@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Banjarbaru",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Selatan",
+    "region": "Kota Banjarbaru",
+    "level": "KOTA",
+    "path": "kota-banjarbaru",
+    "communityID": "1aee2fb1-640d-4761-ae4e-dc5b3ddf0403",
+    "candidates": [
+        {
+            "name": "Aditya Mufti Ariffin",
+            "description": "Darmawan Jaya Setiawan (Plt.)\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Aditya_Mufti_Ariffin.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Aditya_Mufti_Ariffin"
+            },
+            "communityID": "1aee2fb1-640d-4761-ae4e-dc5b3ddf0403"
+        },
+        {
+            "name": "Wartono",
+            "description": "Wartono, S.E. (lahir 26 Februari 1966) adalah Wakil Wali Kota Banjarbaru periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Penjabat Gubernur Kalimantan Selatan, Safrizal ZA di Gedung Mahligai Pancasila, Banjarmasin.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wartono.jpg/127px-Wartono.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Wartono_(politikus)"
+            },
+            "communityID": "1aee2fb1-640d-4761-ae4e-dc5b3ddf0403"
+        }
+    ]
+}

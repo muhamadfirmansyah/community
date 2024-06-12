@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Gorontalo",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Gorontalo",
+    "region": "Kabupaten Gorontalo",
+    "level": "KABUPATEN",
+    "path": "kabupaten-gorontalo",
+    "communityID": "858623b9-d0bb-4c8b-b814-4014c0c9d87c",
+    "candidates": [
+        {
+            "name": "Nelson Pomalingo",
+            "description": "Prof. Dr. Ir. H. Nelson Pomalingo, M.Pd. [1] (lahir 24 Desember 1962) adalah Bupati Gorontalo 2 periode yakni 2016\u20142021 dan 2021\u20142025[2].[3][4] Sebelumnya ia menjabat sebagai Rektor Universitas Muhammadiyah Gorontalo periode 2012\u20142016 dan Rektor Universitas Negeri Gorontalo 2002-2010 (merupakan Rektor perdana/pertama).\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Bupati_Gorontalo_Nelson_Pomalingo.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Nelson_Pomalingo"
+            },
+            "communityID": "858623b9-d0bb-4c8b-b814-4014c0c9d87c"
+        },
+        {
+            "name": "Hendra Hemeto",
+            "description": "H. Hendra S. Hemeto, S.T., M.Si. (lahir 5 Januari 1973) adalah Wakil Bupati Gorontalo periode 2021\u20142024.[1] Ia adalah wakil dari Bupati Gorontalo, Nelson Pomalingo.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hendra_Hemeto.jpg/125px-Hendra_Hemeto.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hendra_Hemeto"
+            },
+            "communityID": "858623b9-d0bb-4c8b-b814-4014c0c9d87c"
+        }
+    ]
+}

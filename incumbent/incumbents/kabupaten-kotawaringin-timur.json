@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Kotawaringin Timur",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Tengah",
+    "region": "Kabupaten Kotawaringin Timur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kotawaringin-timur",
+    "communityID": "ee2b1133-c290-40ac-9649-65fb466e7312",
+    "candidates": [
+        {
+            "name": "Halikinnor",
+            "description": "H. Halikinnor, S.H., M.M. (lahir 15 November 1962) adalah Bupati Kotawaringin Timur periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Kalimantan Tengah, Sugianto Sabran secara virtual di Gedung Dewan Perwakilan Rakyat Daerah Kabupaten Kotawaringin Timur.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bupati_Kotawaringin_Timur_Halikinnor.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Halikinnor"
+            },
+            "communityID": "ee2b1133-c290-40ac-9649-65fb466e7312"
+        },
+        {
+            "name": "Irawati",
+            "description": "Irawati, S.Pd. (lahir 25 Februari 1977) adalah Wakil Bupati Kotawaringin Timur periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Kalimantan Tengah, Sugianto Sabran secara virtual di Gedung Dewan Perwakilan Rakyat Daerah Kabupaten Kotawaringin Timur.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/31/Wakil_Bupati_Kotawaringin_Timur_Irawati.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Irawati"
+            },
+            "communityID": "ee2b1133-c290-40ac-9649-65fb466e7312"
+        }
+    ]
+}

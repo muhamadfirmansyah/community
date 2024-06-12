@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Pesisir Barat",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Lampung",
+    "region": "Kabupaten Pesisir Barat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pesisir-barat",
+    "communityID": "eba663fd-f9a0-47d1-b87b-6c16f2618736",
+    "candidates": [
+        {
+            "name": "Agus Istiqlal",
+            "description": "Agus Istiqlal (Aksara Lampung: ;lahir 28 Agustus 1961) adalah Bupati Kabupaten Pesisir Barat definitif pertama melalui hasil pemilihan umum serentak yang diadakan oleh Komisi Pemilihan Umum pada 9 Desember 2015. Ia menggantikan Pjs. Bupati Qudratul Ikhwan. Ia berhasil menjadi bupati bersama wakilnya Erlina.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/7/79/Foto_Resmi_Agus_Istiqlal_Pesisir_Barat.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Agus_Istiqlal"
+            },
+            "communityID": "eba663fd-f9a0-47d1-b87b-6c16f2618736"
+        },
+        {
+            "name": "A Zulqioni Syarif",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Zulqioni_Syarif.jpg/108px-Zulqioni_Syarif.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "eba663fd-f9a0-47d1-b87b-6c16f2618736"
+        }
+    ]
+}

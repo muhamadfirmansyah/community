@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Nabire",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Tengah",
+    "region": "Kabupaten Nabire",
+    "level": "KABUPATEN",
+    "path": "kabupaten-nabire",
+    "communityID": "64b2e8da-68fb-4be1-8f99-3dde8a0ad5b7",
+    "candidates": [
+        {
+            "name": "Mesak Magai",
+            "description": "Mesak Magai, S.Sos., M.Si. adalah bupati Kabupaten Nabire untuk periode 2021\u20132026 dengan wakil bupati Ismail Jamaluddin. Ia dilantik oleh Gubernur Provinsi Papua, Lukas Enembe atas nama Menteri Dalam Negeri Republik Indonesia di Gedung Negara Dok V, Jayapura pada Senin, 8 November 2021.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MESAK_MAGAI_S.Sos_M.Si.jpg/1200px-MESAK_MAGAI_S.Sos_M.Si.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mesak_Magai"
+            },
+            "communityID": "64b2e8da-68fb-4be1-8f99-3dde8a0ad5b7"
+        },
+        {
+            "name": "Ismail Djamaluddin",
+            "description": "Ismail Djamaluddin (lahir 12 Mei 1981) adalah Wakil Bupati Nabire periode 2021\u20142024. Ia adalah wakil dari Wali Bupati Nabire, Mesak Magai.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/29/Wakil_Bupati_Nabire_Ismail_Djamaluddin.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ismail_Djamaluddin"
+            },
+            "communityID": "64b2e8da-68fb-4be1-8f99-3dde8a0ad5b7"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Samosir",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Samosir",
+    "level": "KABUPATEN",
+    "path": "kabupaten-samosir",
+    "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182",
+    "candidates": [
+        {
+            "name": "Vandiko Timotius Gultom",
+            "description": "Vandiko Timotius Gultom, S.T. (lahir 16 Februari 1992) adalah seorang politikus muda[1] yang menjabat sebagai Bupati Samosir sejak 26 April 2021. Ia terpilih sebagai Bupati Samosir Periode 2021-2024 melalui Pemilihan Umum Bupati Samosir 2020. Ia mengalahkan calon petahana Rapidin Simbolon dan calon independen Marhuale Simbolon.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/22/Vandiko_Gultom_2021.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Vandiko_Gultom"
+            },
+            "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182"
+        },
+        {
+            "name": "Martua Sitanggang",
+            "description": "Drs. Martua Sitanggang, M.M. (lahir 1 Februari 1954) adalah Wakil Bupati Samosir periode 2021\u20132024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Raja Inal Siregar Lantai II Kantor Gubernur Sumatera Utara, Medan.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/86/Wakil_Bupati_Samosir_Martua_Sitanggang.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Martua_Sitanggang"
+            },
+            "communityID": "2d414801-67b9-4fa9-a912-b6e0e2b27182"
+        }
+    ]
+}

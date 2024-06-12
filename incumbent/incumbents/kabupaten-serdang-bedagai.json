@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Serdang Bedagai",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Serdang Bedagai",
+    "level": "KABUPATEN",
+    "path": "kabupaten-serdang-bedagai",
+    "communityID": "17a29bb2-e47d-4364-b888-84e4e4a2544b",
+    "candidates": [
+        {
+            "name": "Darma Wijaya",
+            "description": "H. Darma Wijaya Harahap gelar Tongku Pinayungan Nagori Harahap atau yang lebih akrab dengan nama panggilan \"Wiwik\" (lahir 1 Agustus 1972)[1] adalah politikus Indonesia yang menjabat Bupati Serdang Bedagai periode 2021\u20142024. Wiwik pernah menjabat sebagai Wakil Bupati Serdang Bedagai periode 2016\u20142021.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Darma_Wijaya_2021.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Darma_Wijaya"
+            },
+            "communityID": "17a29bb2-e47d-4364-b888-84e4e4a2544b"
+        },
+        {
+            "name": "Adlin Umar Yusri Tambunan",
+            "description": "H. Adlin Umar Yusri Tambunan, S.T., M.S.P. (lahir 5 Agustus 1987) adalah Wakil Bupati Serdang Bedagai periode 2021\u20132024.[1] Ia adalah wakil dari Bupati Serdang Bedagai, Darma Wijaya.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/64/Wakil_Bupati_Serdang_Bedagai_Adlin_Tambunan.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Adlin_Umar_Yusri_Tambunan"
+            },
+            "communityID": "17a29bb2-e47d-4364-b888-84e4e4a2544b"
+        }
+    ]
+}

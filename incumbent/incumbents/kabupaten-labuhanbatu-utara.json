@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Labuhanbatu Utara",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Labuhanbatu Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-labuhanbatu-utara",
+    "communityID": "3e93dbb5-9b53-4401-9ded-93c1d8bb6ac9",
+    "candidates": [
+        {
+            "name": "Hendri Yanto Sitorus",
+            "description": "Hendri Yanto Sitorus, S.E., M.M. (lahir 13 Desember 1988) adalah politikus Indonesia yang menjabat Bupati Labuhanbatu Utara periode 2021\u20142024. HYS pernah menjabat sebagai Anggota DPRD Kabupaten Labuhanbatu Utara 2 periode yakni 2014\u20142019 dan 2019\u20142020.Ia adalah anak kandung dari mantan Bupati Labuhanbatu Utara, Khairuddin Syah Sitorus.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hendri_Yanto_2021.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hendri_Yanto_Sitorus"
+            },
+            "communityID": "3e93dbb5-9b53-4401-9ded-93c1d8bb6ac9"
+        },
+        {
+            "name": "Samsul Tanjung",
+            "description": "H. Samsul Tanjung, S.T., M.H. (lahir 20 Juni 1977) adalah Wakil Bupati Labuhanbatu Utara periode 2021\u20142024. Ia adalah wakil dari Bupati Labuhanbatu Utara, Hendri Yanto Sitorus.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/33/Samsul_Tanjung_2021.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Samsul_Tanjung"
+            },
+            "communityID": "3e93dbb5-9b53-4401-9ded-93c1d8bb6ac9"
+        }
+    ]
+}

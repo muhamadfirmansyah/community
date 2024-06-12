@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Kepulauan Anambas",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kepulauan_Riau",
+    "region": "Kabupaten Kepulauan Anambas",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kepulauan-anambas",
+    "communityID": "310a283d-3776-478f-bd88-5956581dc6fe",
+    "candidates": [
+        {
+            "name": "Abdul Haris",
+            "description": "Abdul Haris dapat mengacu pada beberapa hal berikut:\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Abdul_Haris_Anambas.jpg/117px-Abdul_Haris_Anambas.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Abdul_Haris"
+            },
+            "communityID": "310a283d-3776-478f-bd88-5956581dc6fe"
+        },
+        {
+            "name": "Wan Zuhendra",
+            "description": "Wan Zuhendra, S.A.P (lahir 13 Juni 1973) adalah Wakil Bupati Kepulauan Anambas periode 2016\u20132021 dan 2021\u20132024. Ia menjabat untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Kepulauan Riau, Ansar Ahmad di Aula Kantor Gubernur Kepulauan Riau, Dompak.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/08/Wakil_Bupati_Kepulauan_Anambas_Wan_Zuhendra.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Wan_Zuhendra"
+            },
+            "communityID": "310a283d-3776-478f-bd88-5956581dc6fe"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Batam",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kepulauan_Riau",
+    "region": "Kota Batam",
+    "level": "KOTA",
+    "path": "kota-batam",
+    "communityID": "59502d90-8bcc-4f9f-9b62-24ee7b66a49a",
+    "candidates": [
+        {
+            "name": "Muhammad Rudi",
+            "description": "H. Muhammad Rudi Harahap[2], S.E., M.M. (lahir 20 Oktober 1963) adalah politikus Indonesia dari Partai NasDem yang menjabat sebagai Wali Kota Batam dua periode sejak 2016 hingga 2024. Ia merupakan suami dari Wakil Gubernur Kepulauan Riau Marlin Agustina Nasution. Rudi pernah menjabat sebagai Wakil Wali Kota Batam periode 2011\u20132016. Sebelum terjun ke politik, ia merupakan anggota Kepolisian Republik Indonesia (Polri) yang mengundurkan diri pada 2004.[3] Harta kekayaan yang ia laporkan pada tahun 2020 mencapai Rp51 miliar.[4]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Muhammad_Rudi.jpg/1200px-Muhammad_Rudi.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muhammad_Rudi"
+            },
+            "communityID": "59502d90-8bcc-4f9f-9b62-24ee7b66a49a"
+        },
+        {
+            "name": "Amsakar Achmad",
+            "description": "Amsakar Achmad, S.Sos., M.Si. (lahir 1 Agustus 1968) adalah Wakil Wali Kota Batam masa jabatan 2016-2021 dan 2021-2024 mendampingi Muhammad Rudi. Sebelumnya, Amsakar Achmad menjabat sebagai Kepala Dinas Perindustrian dan Perdagangan Kota Batam.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Amsakar_Achmad.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Amsakar_Achmad"
+            },
+            "communityID": "59502d90-8bcc-4f9f-9b62-24ee7b66a49a"
+        }
+    ]
+}

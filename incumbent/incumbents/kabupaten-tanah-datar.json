@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Tanah Datar",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Barat",
+    "region": "Kabupaten Tanah Datar",
+    "level": "KABUPATEN",
+    "path": "kabupaten-tanah-datar",
+    "communityID": "18a2ab30-8882-48ae-bd48-11bd0df681cd",
+    "candidates": [
+        {
+            "name": "Eka Putra",
+            "description": "Eka Putra, S.E., M.M. (lahir 11 Juli 1975) adalah pengusaha dan politikus Partai Demokrat yang menjabat Bupati Tanah Datar periode 2021-2024 sejak 26 Februari 2021 dan berasal dari Jorong Tanjuang Tangah, Nagari Tanjuang Bonai.[1] Didampingi oleh Richi Aprian sebagai wakil, mereka berhasil memenangkan Pemilihan umum Bupati Tanah Datar 2020. Sebelumnya, pada Pemilu 2019 Eka mencalonkan diri sebagai calon Anggota DPR RI untuk daerah pemilihan Sumatera Barat I, tetapi tidak berhasil terpilih. Ia adalah komisaris perusahaan di Makassar, Sulawesi Selatan.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Eka_Putra_Bupati_Tanah_Datar.png/1200px-Eka_Putra_Bupati_Tanah_Datar.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Eka_Putra"
+            },
+            "communityID": "18a2ab30-8882-48ae-bd48-11bd0df681cd"
+        },
+        {
+            "name": "Richi Aprian",
+            "description": "Richi Aprian, S.H., M.H. (lahir 7 April 1984) adalah pengusaha, pengacara, dan politikus Partai NasDem yang menjabat sebagai Wakil Bupati Tanah Datar periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Barat, Mahyeldi di Auditorium Gubernuran Sumatera Barat, Padang.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Wakil_Bupati_Tanah_Datar_Richi_Aprian.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Richi_Aprian"
+            },
+            "communityID": "18a2ab30-8882-48ae-bd48-11bd0df681cd"
+        }
+    ]
+}

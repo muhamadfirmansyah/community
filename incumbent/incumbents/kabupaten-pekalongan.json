@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Pekalongan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kabupaten Pekalongan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pekalongan",
+    "communityID": "5edf4c7e-0fb5-485e-8123-5e072c94b9ec",
+    "candidates": [
+        {
+            "name": "Fadia Arafiq",
+            "description": "Fadia Arafiq, S.E., M.M. (lahir 23 Mei 1978 dengan nama Laila Fathiah) adalah politikus, Bupati Pekalongan periode 2021\u20132024 dan juga merupakan penyanyi dangdut dan anak dari pedangdut senior Indonesia, A. Rafiq.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bupati_Pekalongan_Fadia_Arafiq.jpg/1200px-Bupati_Pekalongan_Fadia_Arafiq.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Fadia_Arafiq"
+            },
+            "communityID": "5edf4c7e-0fb5-485e-8123-5e072c94b9ec"
+        },
+        {
+            "name": "Riswadi",
+            "description": "H. Riswadi, S.H. (lahir 23 Maret 1973) adalah seorang politikus asal Jawa Tengah yang terpilih sebagai Wakil Bupati Pekalongan pada periode 2021\u20132025 mendampingi Fadia Arafiq.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Wakil_Bupati_Pekalongan_Riswadi.jpg/1200px-Wakil_Bupati_Pekalongan_Riswadi.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Riswadi"
+            },
+            "communityID": "5edf4c7e-0fb5-485e-8123-5e072c94b9ec"
+        }
+    ]
+}

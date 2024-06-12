@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Banjarmasin",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Selatan",
+    "region": "Kota Banjarmasin",
+    "level": "KOTA",
+    "path": "kota-banjarmasin",
+    "communityID": "0ef33aa8-a756-4c62-8d0d-fccd99da3553",
+    "candidates": [
+        {
+            "name": "Ibnu Sina",
+            "description": "H. Ibnu Sina, S.Pi., M.Si. (lahir 4 Januari 1975) adalah wali kota Banjarmasin yang menjabat sejak 2016.[1] Ia menggantikan wali kota sebelumnya, Muhidin, dan penjabat wali kota H.M. Thamrin, setelah terpilih dalam Pilkada Banjarmasin 2015, dan berpasangan dengan wakil wali kota Hermansyah.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ibnu_Sina_Wali_Kota_Banjarmasin.jpg/1200px-Ibnu_Sina_Wali_Kota_Banjarmasin.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ibnu_Sina_(politikus)"
+            },
+            "communityID": "0ef33aa8-a756-4c62-8d0d-fccd99da3553"
+        },
+        {
+            "name": "Arifin Noor",
+            "description": "Dr. Ir. H. Arifin Noor, M.T. (lahir 22 Agustus 1960) adalah Wakil Wali Kota Banjarmasin periode 2021\u20132024. Ia menjabat sejak 23 Juni 2021 setelah dilantik Penjabat Gubernur Kalimantan Selatan, Safrizal ZA di Gedung Mahligai Pancasila, Banjarmasin.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wakil_Wali_Kota_Banjarmasin_Arifin_Noor.jpg/1200px-Wakil_Wali_Kota_Banjarmasin_Arifin_Noor.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Arifin_Noor"
+            },
+            "communityID": "0ef33aa8-a756-4c62-8d0d-fccd99da3553"
+        }
+    ]
+}

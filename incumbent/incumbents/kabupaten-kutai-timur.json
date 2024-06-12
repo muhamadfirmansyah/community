@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Kutai Timur",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Timur",
+    "region": "Kabupaten Kutai Timur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kutai-timur",
+    "communityID": "89cfeaf7-1bd8-436d-acdc-1352016e582d",
+    "candidates": [
+        {
+            "name": "Ardiansyah Sulaiman",
+            "description": "Drs. H. Ardiansyah Sulaiman, M.Si. (lahir 5 Februari 1964) adalah seorang politikus Indonesia yang menjabat sebagai Bupati Kutai Timur periode 2021\u20132024 dari Partai Keadilan Sejahtera (PKS).[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ardiansyah_Sulaiman_Bupati_Kutai_Timur.jpg/1200px-Ardiansyah_Sulaiman_Bupati_Kutai_Timur.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ardiansyah_Sulaiman"
+            },
+            "communityID": "89cfeaf7-1bd8-436d-acdc-1352016e582d"
+        },
+        {
+            "name": "Kasmidi Bulang",
+            "description": "H. Kasmidi Bulang, S.T., M.M. (lahir 28 Agustus 1976) adalah Pelaksana Tugas Bupati Kutai Timur sisa masa jabatan 2020\u20142021 menggantikan Ismunandar yang terjaring OTT KPK pada 2 Juli 2020. Sebelumnya, beliau menjabat Wakil Bupati Kutai Timur periode 2016\u20142020. Ia adalah wakil dari Bupati Kutai Timur, Ismunandar.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Wakil_Bupati_Kutai_Timur_Kasmidi_Bulang.jpg/1200px-Wakil_Bupati_Kutai_Timur_Kasmidi_Bulang.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Kasmidi_Bulang"
+            },
+            "communityID": "89cfeaf7-1bd8-436d-acdc-1352016e582d"
+        }
+    ]
+}

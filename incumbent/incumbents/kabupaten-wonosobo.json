@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Wonosobo",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kabupaten Wonosobo",
+    "level": "KABUPATEN",
+    "path": "kabupaten-wonosobo",
+    "communityID": "cd44cf55-395c-4b7f-bebc-9c27066935f3",
+    "candidates": [
+        {
+            "name": "Afif Nurhidayat",
+            "description": "H. Afif Nurhidayat, S.Ag (lahir 25 Oktober 1970) adalah Bupati Wonosobo periode 2021-2025 dan mantan Ketua Dewan Perwakilan Rakyat Daerah Kabupaten Wonosobo Periode 2014-2019 dan 2019-2024. Ia adalah kader PDIP yang sudah menjadi ketua dari DPC PDIP Wonosobo untuk kali ketiga hingga periode 2019-2024. Sebelum menjadi ketua, Afif sempat menjadi sekretaris DPC PDIP Wonosobo dua periode yaitu pada tahun 2000-2005 dan 2005-2010. Ia mulai memimpin DPC PDIP Wonosobo pada tahun 2010. Saat itu, dia menggantikan Joko Wiyono yang merupakan pimpinan DPC PDIP Wonosobo periode sebelumnya.[1] Selain itu, Ia juga sangat berpengalaman dalam dunia pemerintahan karena sudah menjadi Anggota DPRD Wonosobo (legislatif) selama 21 tahun.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bupati_Wonosobo_Afif_Nurhidayat.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Afif_Nurhidayat"
+            },
+            "communityID": "cd44cf55-395c-4b7f-bebc-9c27066935f3"
+        },
+        {
+            "name": "Muhammad Albar",
+            "description": "Drs. H. Muhammad Albar, M.M. (lahir 20 Mei 1965) adalah politikus PKB yang menjabat sebagai Wakil Bupati Wonosobo periode 2021-2024. Albar juga menjabat sebagai Sekretaris Dewan Syuro DPC Partai Kebangkitan Bangsa Kabupaten Wonosobo periode 2021-2026.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wakil_Bupati_Wonosobo_Muhammad_Albar.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muhammad_Albar"
+            },
+            "communityID": "cd44cf55-395c-4b7f-bebc-9c27066935f3"
+        }
+    ]
+}

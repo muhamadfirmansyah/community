@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Pesawaran",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Lampung",
+    "region": "Kabupaten Pesawaran",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pesawaran",
+    "communityID": "d2661621-e446-4069-bb7e-55a29618d9a2",
+    "candidates": [
+        {
+            "name": "Dendi Ramadhona",
+            "description": "Dr. H. Umpu Bukuk Jadi Dendi Ramadhona, S.T., M.Tr.I.P. (lahir 04 Juli 1983) adalah politisi Indonesia yang berasal dari Lampung yang menjabat sebagai Bupati Kabupaten Pesawaran sejak 17 Februari 2016.[1] Pada Pemilu selanjutnya 2021 Dendi Ramadhona kembali terpilih menjadi Bupati Kabupaten Pesawaran Periode 2021\u20132024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bupati_Pesawaran_Dendi_Ramadhona.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Dendi_Ramadhona"
+            },
+            "communityID": "d2661621-e446-4069-bb7e-55a29618d9a2"
+        },
+        {
+            "name": "S. Marzuki",
+            "description": "Kolonel Inf. (Purn.) S. Marzuki, S.Sos., M.Si. (lahir 29 Agustus 1960) adalah Wakil Bupati Pesawaran periode 2021\u20142024. Ia adalah wakil dari Bupati Pesawaran, Dendi Ramadhona.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/27/Wakil_Bupati_Pesawaran_Marzuki.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/S._Marzuki"
+            },
+            "communityID": "d2661621-e446-4069-bb7e-55a29618d9a2"
+        }
+    ]
+}

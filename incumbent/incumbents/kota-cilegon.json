@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Cilegon",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Banten",
+    "region": "Kota Cilegon",
+    "level": "KOTA",
+    "path": "kota-cilegon",
+    "communityID": "e1cfe048-029f-4628-8ba6-8c1de6d4e0d1",
+    "candidates": [
+        {
+            "name": "Helldy Agustian",
+            "description": "H. Helldy Agustian, S.E., S.H., M.H. (lahir 31 Agustus 1970) adalah seorang politisi yang menjabat sebagai Wali Kota Cilegon periode 2021-2024. Helldy juga menjabat sebagai Ketua DPW Partai Berkarya Banten kubu Muchdi Purwoprandjono.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Helldy_Agustian_Official_Portrait.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Helldy_Agustian"
+            },
+            "communityID": "e1cfe048-029f-4628-8ba6-8c1de6d4e0d1"
+        },
+        {
+            "name": "Sanuji Pentamarta",
+            "description": "Sanuji Pentamarta, S.IP.,(lahir 05 Juni 1970) adalah politikus Partai Keadilan Sejahtera yang menjabat sebagai Wakil Wali Kota Cilegon sejak 26 Februari 2021. Ia berhasil terpilih dalam Pilkada Cilegon 2020 mendampingi Helldy Agustian. Sebelum menjadi wakil wali kota, Sanuji pernah terpilih sebagai anggota Dewan Perwakilan Rakyat Daerah dalam 4 pemilihan umum.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Sanuji_Pentamarta_Official_Portrait.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sanuji_Pentamarta"
+            },
+            "communityID": "e1cfe048-029f-4628-8ba6-8c1de6d4e0d1"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Bitung",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Utara",
+    "region": "Kota Bitung",
+    "level": "KOTA",
+    "path": "kota-bitung",
+    "communityID": "23368527-35b5-463b-b932-dcf0a9b00b93",
+    "candidates": [
+        {
+            "name": "Maurits Mantiri",
+            "description": "Geraldo M I Mantiri\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ir._Maurits_Mantiri._M.M._Walikota_Kota_Bitung_Periode_2021-2025.jpg/1200px-Ir._Maurits_Mantiri._M.M._Walikota_Kota_Bitung_Periode_2021-2025.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Maurits_Mantiri"
+            },
+            "communityID": "23368527-35b5-463b-b932-dcf0a9b00b93"
+        },
+        {
+            "name": "Hengky Honandar",
+            "description": "Hengky Honandar, (lahir 28 Mei 1964), adalah politikus Partai Demokrasi Indonesia Perjuangan (PDI Perjuangan) yang menjabat sebagai Wakil Wali Kota Bitung sejak 31 Maret 2021. Ia berhasil terpilih dalam Pilkada Bitung 2020 mendampingi wakil wali kota petahana, Maurits Mantiri. Sebelum menjadi wakil wali kota, Hengky merupakan anggota DPRD Provinsi Sulawesi Utara dari Daerah Pemilihan Sulawesi Utara 2 yang meliputi Kabupaten Minahasa Utara dan Kota Bitung.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c2/HENGKY_HONANDAR_2020.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hengky_Honandar"
+            },
+            "communityID": "23368527-35b5-463b-b932-dcf0a9b00b93"
+        }
+    ]
+}

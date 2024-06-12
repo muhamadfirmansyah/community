@@ -1,0 +1,26 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Waropen",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua",
+    "region": "Kabupaten Waropen",
+    "level": "KABUPATEN",
+    "path": "kabupaten-waropen",
+    "communityID": "72def18b-8bbb-44ec-acf9-994e0c2d6af9",
+    "candidates": [
+        {
+            "name": "Yermias Bisai",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/thumb/f/f6/Yeremias_Bisai_Bupati_Waropen.png/124px-Yeremias_Bisai_Bupati_Waropen.png",
+            "title": "Bupati",
+            "sites": {},
+            "communityID": "72def18b-8bbb-44ec-acf9-994e0c2d6af9"
+        },
+        {
+            "name": "Lamek Maniagasi",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lamek_Maniagasi.jpg/113px-Lamek_Maniagasi.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "72def18b-8bbb-44ec-acf9-994e0c2d6af9"
+        }
+    ]
+}

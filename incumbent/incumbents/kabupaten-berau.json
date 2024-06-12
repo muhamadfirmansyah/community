@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Berau",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Timur",
+    "region": "Kabupaten Berau",
+    "level": "KABUPATEN",
+    "path": "kabupaten-berau",
+    "communityID": "e2498759-982e-4bed-b2ec-ac37b3f664e4",
+    "candidates": [
+        {
+            "name": "Sri Juniarsih Mas",
+            "description": "Hj. Sri Juniarsih Mas, M.Pd. (lahir 25 Juni 1976) adalah politikus Indonesia yang menjabat sebagai bupati Berau petahana sejak 26 Februari 2021 dan merupakan bupati perempuan pertama yang memimpin Kabupaten Berau.[2] Sri Juniarsih bersama Gamalis memenangi Pilkada Kabupaten Berau 2020 berdasarkan rapat pleno terbuka penetapan pasangan calon bupati-wabup Berau terpilih yang digelar oleh Komisi Pemilihan Umum Kabupaten Berau.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/11/Sri_Juniarsih_Mas.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sri_Juniarsih_Mas"
+            },
+            "communityID": "e2498759-982e-4bed-b2ec-ac37b3f664e4"
+        },
+        {
+            "name": "Gamalis",
+            "description": "H. Gamalis, S.E. (lahir 11 November 1966) adalah Wakil Bupati Berau periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Kalimantan Timur, Isran Noor secara daring.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Gamalis.jpg/107px-Gamalis.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Gamalis"
+            },
+            "communityID": "e2498759-982e-4bed-b2ec-ac37b3f664e4"
+        }
+    ]
+}

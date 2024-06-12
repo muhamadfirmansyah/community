@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Malaka",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Nusa_Tenggara_Timur",
+    "region": "Kabupaten Malaka",
+    "level": "KABUPATEN",
+    "path": "kabupaten-malaka",
+    "communityID": "382ebc9c-af6b-4fa9-a155-b14fdfeb390b",
+    "candidates": [
+        {
+            "name": "Simon Nahak",
+            "description": "Dr. Simon Nahak, S.H., M.H. (lahir 13 Juni 1964) adalah Bupati Malaka periode 2021\u20132024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Nusa Tenggara Timur, Viktor Laiskodat di Aula El Tari, Kupang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bupati_Malaka_Simon_Nahak.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Simon_Nahak"
+            },
+            "communityID": "382ebc9c-af6b-4fa9-a155-b14fdfeb390b"
+        },
+        {
+            "name": "Louise Lucky Taolin",
+            "description": "Louise Lucky Taolin, S.Sos. (lahir 16 September 1983) adalah Wakil Bupati Malaka periode 2021\u20132024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Nusa Tenggara Timur, Viktor Laiskodat di Aula El Tari, Kupang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wakil_Bupati_Malaka_Louise_Lucky_Taolin.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Louise_Lucky_Taolin"
+            },
+            "communityID": "382ebc9c-af6b-4fa9-a155-b14fdfeb390b"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Bangka Tengah",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kepulauan_Bangka_Belitung",
+    "region": "Kabupaten Bangka Tengah",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bangka-tengah",
+    "communityID": "91942153-478c-481d-b187-7801e9da164d",
+    "candidates": [
+        {
+            "name": "Algafry Rahman",
+            "description": "Algafry Rahman, S.T. (lahir 26 Juni 1975) adalah Bupati Bangka Tengah periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Kepulauan Bangka Belitung, Erzaldi Rosman Djohan di Ruang Pasir Padi\nKantor Gubernur Kepulauan Bangka Belitung, Pangkalpinang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bupati_Kabupaten_Bangka_Tengah_Algafry_Rahman.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Algafry_Rahman"
+            },
+            "communityID": "91942153-478c-481d-b187-7801e9da164d"
+        },
+        {
+            "name": "Era Susanto",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/88/Era_Susanto.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "91942153-478c-481d-b187-7801e9da164d"
+        }
+    ]
+}

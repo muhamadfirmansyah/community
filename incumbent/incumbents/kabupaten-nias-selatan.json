@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Nias Selatan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Nias Selatan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-nias-selatan",
+    "communityID": "9ba396d2-1e56-4b1b-9f42-b3d500457efc",
+    "candidates": [
+        {
+            "name": "Hilarius Duha",
+            "description": "Dr. Hilarius Duha, S.H., M.H. (lahir 21 Oktober 1962) adalah Bupati Nias Selatan periode 2016-2021 dan 2021-2024. Ia menjabat sebagai Bupati Nias Selatan untuk periode kedua sejak 26 April 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Raja Inal Siregar Lantai II Kantor Gubernur Sumatera Utara, Medan.[1] Ia juga merupakan politisi PDI Perjuangan dan dipercaya sebagai Ketua DPC PDI Perjuangan Kabupaten Nias Selatan.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/73/Hilarius_Duha.JPG",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hilarius_Duha"
+            },
+            "communityID": "9ba396d2-1e56-4b1b-9f42-b3d500457efc"
+        },
+        {
+            "name": "Firman Giawa",
+            "description": "Firman Giawa, S.H., M.H. (lahir 22 Februari 1972) adalah Wakil Bupati Nias Selatan periode 2021\u20132024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Raja Inal Siregar Lantai II Kantor Gubernur Sumatera Utara, Medan.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/16/Firman_Giawa_2021.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Firman_Giawa"
+            },
+            "communityID": "9ba396d2-1e56-4b1b-9f42-b3d500457efc"
+        }
+    ]
+}

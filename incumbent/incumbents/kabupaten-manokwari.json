@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Manokwari",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Barat",
+    "region": "Kabupaten Manokwari",
+    "level": "KABUPATEN",
+    "path": "kabupaten-manokwari",
+    "communityID": "a4b4a2ae-2bed-4bcf-890f-84f2007d3fa6",
+    "candidates": [
+        {
+            "name": "Hermus Indou",
+            "description": "Hermus Indou (lahir di Manokwari, 15 Agustus 1976) adalah Wali Kota Manokwari periode 2021-2026 menggantikan Drs.Edi Budoyo(Penjabat), Hermus Indou adalah lulusan Pendidikan S-2 Strata 2 (S2), Dan bekerja sebagai Pegawai Negri Sipil.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HERMUS_INDOU.jpg/1200px-HERMUS_INDOU.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hermus_Indou"
+            },
+            "communityID": "a4b4a2ae-2bed-4bcf-890f-84f2007d3fa6"
+        },
+        {
+            "name": "Edi Budoyo",
+            "description": "Drs. Edi Budoyo[1] (lahir 23 Maret 1957) adalah Wakil Bupati Manokwari periode 2016\u20142020 dan 2021\u20132024.[2][3] Sebelumnya, dia adalah Pelaksana Harian Bupati Manokwari periode 2020\u20142021 menggantikan Demas Paulus Mandacan yang meninggal dunia pada 20 April 2020.[4]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Wakil_Bupati_Manokwari_Edi_Budoyo.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Edi_Budoyo"
+            },
+            "communityID": "a4b4a2ae-2bed-4bcf-890f-84f2007d3fa6"
+        }
+    ]
+}

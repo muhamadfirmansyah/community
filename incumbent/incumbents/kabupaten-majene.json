@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Majene",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Barat",
+    "region": "Kabupaten Majene",
+    "level": "KABUPATEN",
+    "path": "kabupaten-majene",
+    "communityID": "0ff077b1-7fb3-4cf9-bcc3-04fc54b67e68",
+    "candidates": [
+        {
+            "name": "Andi Achmad Syukri Tammalele",
+            "description": "H. Andi Achmad Syukri Tammalele, S.E., M.M. (lahir 2 November 1962) adalah seorang birokrat yang menjabat sebagai Bupati Majene periode 2021\u20132024. Ia menjabat sejak 27 Juni 2021 setelah dilantik Gubernur Sulawesi Barat, Ali Baal Masdar di Rumah Jabatan Gubernur Sulawesi Barat, Mamuju.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Bupati_Majene_Andi_Achmad_Syukri_Tammalele.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Andi_Achmad_Syukri_Tammalele"
+            },
+            "communityID": "0ff077b1-7fb3-4cf9-bcc3-04fc54b67e68"
+        },
+        {
+            "name": "Arismunandar Kalma",
+            "description": "Arismunandar Kalma, S.STP.,  M.M. (lahir 5 Mei 1983) merupakan birokrat lulusan IPDN angkatan tahun 2007, dan berdinas di Kabupaten Majene, Sulawesi Barat. Ia pernah mengemban sejumlah jabatan penting, mulai dari lurah hingga kepala bagian. Dan jabatan terakhir sebagai Sekretaris Dinas Parawisata dan Kebudayaan Kabupaten Majene.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/91/Wakil-bupati_arismunandar_kalma.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Arismunandar_Kalma"
+            },
+            "communityID": "0ff077b1-7fb3-4cf9-bcc3-04fc54b67e68"
+        }
+    ]
+}

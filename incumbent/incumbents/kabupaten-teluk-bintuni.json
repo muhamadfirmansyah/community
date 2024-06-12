@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Teluk Bintuni",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Barat",
+    "region": "Kabupaten Teluk Bintuni",
+    "level": "KABUPATEN",
+    "path": "kabupaten-teluk-bintuni",
+    "communityID": "85c80668-4204-4c46-bd48-15b6cd77b902",
+    "candidates": [
+        {
+            "name": "Petrus Kasihiw",
+            "description": "Ir. Petrus Kasihiw, M.T. (lahir 8 November 1964) adalah politikus Partai Nasional Demokrat dan mantan birokrat Indonesia yang menjabat Bupati Teluk Bintuni 2 periode yakni 2016\u20142021 dan 2021\u20142024.[1] Bersama wakilnya, Matret Kokop, mereka berhasil memenangkan pemilihan umum Bupati Teluk Bintuni 2020. Petrus Kasihiw pernah menjabat sebagai Kepala Bappeda Kabupaten Tambrauw dan Penjabat Sekretaris Daerah Kabupaten Tambrauw.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Petrus_Kasihiw.jpg/115px-Petrus_Kasihiw.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Petrus_Kasihiw"
+            },
+            "communityID": "85c80668-4204-4c46-bd48-15b6cd77b902"
+        },
+        {
+            "name": "Matret Kokop",
+            "description": "Matret Kokop, S.H.(lahir 29 September 1961) adalah Wakil Bupati Teluk Bintuni 2 periode yakni 2016\u20142021 dan 2021\u20142024.[1] Ia adalah wakil dari Bupati Teluk Bintuni, Petrus Kasihiw.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Matret_Kokop.jpg/115px-Matret_Kokop.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Matret_Kokop"
+            },
+            "communityID": "85c80668-4204-4c46-bd48-15b6cd77b902"
+        }
+    ]
+}

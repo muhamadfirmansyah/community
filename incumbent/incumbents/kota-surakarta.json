@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Surakarta",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kota Surakarta",
+    "level": "KOTA",
+    "path": "kota-surakarta",
+    "communityID": "12f772b6-70b2-49a5-8d8c-8d35843fb8d1",
+    "candidates": [
+        {
+            "name": "Gibran Rakabuming",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Gibran_Rakabuming_Raka%2C_Candidate_for_Vice_President_of_Indonesia_2024.jpg/1200px-Gibran_Rakabuming_Raka%2C_Candidate_for_Vice_President_of_Indonesia_2024.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Gibran_Rakabuming"
+            },
+            "communityID": "12f772b6-70b2-49a5-8d8c-8d35843fb8d1"
+        },
+        {
+            "name": "Teguh Prakosa",
+            "description": "Drs. Teguh Prakosa (lahir 10 November 1958) adalah politikus Partai Demokrasi Indonesia Perjuangan (PDIP). Ia menjabat Wakil Wali Kota Surakarta periode 2021\u20132024.[2] Sebelumnya ia menjabat sebagai Anggota DPRD Surakarta tiga periode yakni 2009\u20132014, 2014\u20132019, dan 2019\u20132024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/73/Wakil_Wali_kota_Surakarta_Teguh_Prakosa.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Teguh_Prakosa"
+            },
+            "communityID": "12f772b6-70b2-49a5-8d8c-8d35843fb8d1"
+        }
+    ]
+}

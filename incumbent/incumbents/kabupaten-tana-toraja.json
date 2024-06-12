@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Tana Toraja",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Selatan",
+    "region": "Kabupaten Tana Toraja",
+    "level": "KABUPATEN",
+    "path": "kabupaten-tana-toraja",
+    "communityID": "7d09a079-5808-4241-a5b1-01c5c4ce9b0b",
+    "candidates": [
+        {
+            "name": "Theofilus Allorerung",
+            "description": "Theofilus Allorerung, S.E. (lahir 17 Oktober 1957) adalah Bupati Tana Toraja 2 periode yakni 2010\u20142015 dan 2021\u20142024.[1] Ia pernah menjabat sebagai Sekretaris Daerah Kabupaten Tana Toraja.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Bupati_Tana_Toraja.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Theofilus_Allorerung"
+            },
+            "communityID": "7d09a079-5808-4241-a5b1-01c5c4ce9b0b"
+        },
+        {
+            "name": "Zadrak Tombeg",
+            "description": "dr. Zadrak Tombeg, Sp.A. (lahir 30 Agustus 1962) adalah Wakil Bupati Tana Toraja, Sulawesi Selatan periode 2021\u20142024.[1] Ia adalah wakil dari Bupati Tana Toraja, Theofilus Allorerung.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/54/Wakil_Bupati_Tana_Toraja.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Zadrak_Tombeg"
+            },
+            "communityID": "7d09a079-5808-4241-a5b1-01c5c4ce9b0b"
+        }
+    ]
+}

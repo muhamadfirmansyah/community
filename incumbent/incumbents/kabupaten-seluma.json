@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Seluma",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Bengkulu",
+    "region": "Kabupaten Seluma",
+    "level": "KABUPATEN",
+    "path": "kabupaten-seluma",
+    "communityID": "f087eca2-427e-4f46-80b7-0336abe60848",
+    "candidates": [
+        {
+            "name": "Erwin Octavian",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/ERWIN_OCTAVIAN%2C_SE.jpg/124px-ERWIN_OCTAVIAN%2C_SE.jpg",
+            "title": "Bupati",
+            "sites": {},
+            "communityID": "f087eca2-427e-4f46-80b7-0336abe60848"
+        },
+        {
+            "name": "Gustianto",
+            "description": "Drs. Gustianto (lahir 15 Agustus 1965) adalah Wakil Bupati Seluma periode 2021-2024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/59/Gustianto_Wabup_Seluma_2021.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Gustianto"
+            },
+            "communityID": "f087eca2-427e-4f46-80b7-0336abe60848"
+        }
+    ]
+}

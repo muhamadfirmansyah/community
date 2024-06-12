@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Sumba Barat",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Nusa_Tenggara_Timur",
+    "region": "Kabupaten Sumba Barat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sumba-barat",
+    "communityID": "38e6020b-8518-4c0b-bc43-77a516c64834",
+    "candidates": [
+        {
+            "name": "Yohanis Dade",
+            "description": "Yohanis Dade, S.H. (lahir 25 Desember 1960) adalah Bupati Sumba Barat periode 2021\u20132024. Ia menjabat sejak 26 April 2021 setelah dilantik Gubernur Nusa Tenggara Timur, Viktor Laiskodat di Aula El Tari, Kupang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Yohanis_Dade.jpg/1200px-Yohanis_Dade.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yohanis_Dade"
+            },
+            "communityID": "38e6020b-8518-4c0b-bc43-77a516c64834"
+        },
+        {
+            "name": "John Lado Bora Kabba",
+            "description": "John Lado Bora Kabba (lahir 10 November 1970) adalah seorang politikus Indonesia kelahiran Praibakul.[1] Ia mula-mula menjadi anggota DPRD Sumba Barat dari 2019 sampai 2020 dari fraksi Partai Demokrat. Pada 2020, ia mengundurkan diri dari jabatannya sebagai anggota DPRD Sumba Barat dan terpilih menjadi Wakil Bupati Sumba Barat pada pemilihan umum Bupati Sumba Barat 2020 mendampingi Yohanis Dade selaku Bupati Sumba Barat. Ia menikahi Adeleida Lidda Dapawole dan juga menjabat sebagai Ketua Dewan Pimpinan Cabang (DPC) Partai Demokrat Kabupaten Sumba Barat.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/John_Lado_Bora_Kabba.jpg/1200px-John_Lado_Bora_Kabba.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/John_Lado_Bora_Kabba"
+            },
+            "communityID": "38e6020b-8518-4c0b-bc43-77a516c64834"
+        }
+    ]
+}

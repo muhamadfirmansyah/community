@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Mamuju",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Barat",
+    "region": "Kabupaten Mamuju",
+    "level": "KABUPATEN",
+    "path": "kabupaten-mamuju",
+    "communityID": "acb15dfd-87f1-4dee-9ca6-debd7a4d08a8",
+    "candidates": [
+        {
+            "name": "Sitti Sutinah Suhardi",
+            "description": "Hj. Sitti Sutinah Suhardi, S.H., M.Si. (lahir 7 Maret 1984) adalah Bupati Mamuju periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Barat, Ali Baal Masdar di Rumah Jabatan Gubernur Sulawesi Barat, Mamuju.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bupati_Mamuju_Sitti_Sutinah_Suhardi.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sitti_Sutinah_Suhardi"
+            },
+            "communityID": "acb15dfd-87f1-4dee-9ca6-debd7a4d08a8"
+        },
+        {
+            "name": "Ado Mas'ud",
+            "description": "Ado Mas'ud, S.Sos. (lahir 18 Februari 1980) adalah Wakil Bupati Mamuju periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Barat, Ali Baal Masdar di Rumah Jabatan Gubernur Sulawesi Barat, Mamuju.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ado_Mas%27ud.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ado_Mas%27ud"
+            },
+            "communityID": "acb15dfd-87f1-4dee-9ca6-debd7a4d08a8"
+        }
+    ]
+}

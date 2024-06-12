@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Medan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kota Medan",
+    "level": "KOTA",
+    "path": "kota-medan",
+    "communityID": "49e23620-56f6-45eb-9460-1de93449bd71",
+    "candidates": [
+        {
+            "name": "Bobby Nasution",
+            "description": "Muhammad Bobby Afif Nasution,[2] S.E., M.M.[3] gelar Sutan Porang Gunung Baringin Naposo[4] (lahir 5 Juli 1991)[5] adalah Wali Kota Medan yang menjabat sejak 26 Februari 2021.[6] Bobby adalah menantu kedua Joko Widodo dan suami dari anak kedua Jokowi, Kahiyang Ayu. Ia merupakan alumnus dari Institut Pertanian Bogor dalam jurusan Agrobisnis di Fakultas Ekonomi dan Manajemen dan keturunan dari Raja Gunung Baringin Nasution di Panyabungan Timur, Mandailing Natal.[5]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/13/Bobby_Nasution%2C_Wali_Kota_Medan.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Bobby_Nasution"
+            },
+            "communityID": "49e23620-56f6-45eb-9460-1de93449bd71"
+        },
+        {
+            "name": "Aulia Rachman",
+            "description": "H. Aulia Rachman, S.E. (lahir 19 Januari 1978) adalah pengusaha dan politisi Partai Gerindra yang sempat menjabat sebagai anggota DPRD Kota Medan sejak 2019 sampai akhirnya mengundurkan diri karena maju dalam Pilkada Kota Medan 2020.[1] Ia maju mendampingi menantu Presiden Joko Widodo, Bobby Nasution yang diusung PDI Perjuangan, Partai Gerindra, PAN, Partai Golkar, Partai NasDem, PSI, Partai Hanura, dan PPP.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Aulia_Rachman%2C_Wakil_Wali_Kota_Medan.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Aulia_Rachman"
+            },
+            "communityID": "49e23620-56f6-45eb-9460-1de93449bd71"
+        }
+    ]
+}

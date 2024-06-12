@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Blora",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kabupaten Blora",
+    "level": "KABUPATEN",
+    "path": "kabupaten-blora",
+    "communityID": "1e999b6d-24d9-4191-beb6-d769cdba06e3",
+    "candidates": [
+        {
+            "name": "H. Arief Rohman, M.Si.",
+            "description": "H. Arief Rohman, S.IP., M.Si. (lahir 8 Maret 1980) adalah seorang politikus yang saat ini menjabat sebagai Bupati Blora pada periode 2021-2026, dan mengusung visi \"Sesarengan mBangun Blora Berkelanjutan\". Sebelumnya, ia adalah Wakil Bupati Blora periode 2016-2021.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Bupati_Blora_Arief_Rohman.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Arief_Rohman"
+            },
+            "communityID": "1e999b6d-24d9-4191-beb6-d769cdba06e3"
+        },
+        {
+            "name": "Tri Yuli Setyowati, S.T, M.M.",
+            "description": "Tri Yuli Setyowati, S.T., M.M. (lahir 19 Juli 1976) adalah Wakil Bupati Blora. Ia terpilih sebagai Wakil Bupati Blora mendampingi  Bupati Arief Rohman pada Pilkada Blora tahun 2020 dimana pasangan ini memperoleh 318.380 suara atau 59,71 persen suara.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Wakil_Bupati_Blora_Tri_Yuli_Setyowati.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Tri_Yuli_Setyowati"
+            },
+            "communityID": "1e999b6d-24d9-4191-beb6-d769cdba06e3"
+        }
+    ]
+}

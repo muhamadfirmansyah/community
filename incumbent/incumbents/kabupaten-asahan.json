@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Asahan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Asahan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-asahan",
+    "communityID": "fc44b90f-5310-46dc-8a01-149a24b15ba6",
+    "candidates": [
+        {
+            "name": "Surya",
+            "description": "H. Surya, B.Sc.[1] (lahir 22 Mei 1955) adalah Bupati Asahan 2 periode yakni 2019\u20142021[2] dan 2021\u20142024.[3] Ia adalah Wakil Bupati Asahan 2 periode yakni 2010\u20142015[4] dan 2016\u20142019.[5]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Bupati-Asahan_periode_2021-2024_Surya.webp/683px-Bupati-Asahan_periode_2021-2024_Surya.webp.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Surya_(politikus)"
+            },
+            "communityID": "fc44b90f-5310-46dc-8a01-149a24b15ba6"
+        },
+        {
+            "name": "Taufik Zainal Abidin",
+            "description": "Taufik Zainal Abidin Siregar, S.Sos., M.Si. (lahir 4 September 1968) adalah seorang Birokrat dan Aparatur Sipil Negara yang saat ini menjabat sebagai Wakil Bupati Asahan periode 2021\u20142024.[1] Ia adalah wakil dari Bupati Asahan, Surya.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Taufik_Zainal_Abidin.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Taufik_Zainal_Abidin"
+            },
+            "communityID": "fc44b90f-5310-46dc-8a01-149a24b15ba6"
+        }
+    ]
+}

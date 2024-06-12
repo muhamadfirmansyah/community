@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Buton Utara",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Tenggara",
+    "region": "Kabupaten Buton Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-buton-utara",
+    "communityID": "454452f2-cfc2-46c2-9ca7-7529b3c2dfb3",
+    "candidates": [
+        {
+            "name": "Ridwan Zakariah",
+            "description": "Muhammad Ridwan Zakariah (lahir 29 Desember 1950)[1] adalah seorang birokrat Indonesia. Ia lahir pada tahun 1950 di desa terpencil bernama Desa Lengo, Buton Utara (Butur). Kemudian Butur diduduki pemberontak DI-TII pada Februari 1956, kondisi tersebut membuat dia dan keluarganya pindah dari kampung halamannya ke Kota Raha. Di kota ini, ia menyelesaikan pendidikan SD, SMP, sampai SMA.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ridwan_Zakariah_menyerahkan_bantuan_%28cropped%29.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ridwan_Zakariah"
+            },
+            "communityID": "454452f2-cfc2-46c2-9ca7-7529b3c2dfb3"
+        },
+        {
+            "name": "Ahali",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Ahali.jpg/130px-Ahali.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "454452f2-cfc2-46c2-9ca7-7529b3c2dfb3"
+        }
+    ]
+}

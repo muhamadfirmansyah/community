@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Jember",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Timur",
+    "region": "Kabupaten Jember",
+    "level": "KABUPATEN",
+    "path": "kabupaten-jember",
+    "communityID": "e9e5358d-5028-4b1b-9f24-693f7cfeb81f",
+    "candidates": [
+        {
+            "name": "Hendy Siswanto",
+            "description": "Ir. H. Hendy Siswanto., ST., IPU., ASEAN Eng., (lahir 6 Mei 1962) adalah Bupati Jember yang menjabat sejak 26 Februari 2021.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Official_Portrait_of_Hendy_Siswanto%2C_Regent_of_Jember.jpg/1200px-Official_Portrait_of_Hendy_Siswanto%2C_Regent_of_Jember.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hendy_Siswanto"
+            },
+            "communityID": "e9e5358d-5028-4b1b-9f24-693f7cfeb81f"
+        },
+        {
+            "name": "Balya Firjaun Barlaman",
+            "description": "K. H. Balya Firjaun Barlaman atau yang dikenal dengan panggilan Gus Firjaun (lahir 12 Februari 1968) adalah Wakil Bupati Jember yang menjabat sejak 26 Februari 2021[1]. Ia maju mendampingi Bupati Jember Hendy Siswanto yang diusung Partai NasDem, Partai Gerindra, Partai Demokrat, PKS, PPP, dan Partai Berkarya versi Tommy Soeharto[2].\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Balya_Firjaun_Barlaman.jpg/1200px-Balya_Firjaun_Barlaman.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Balya_Firjaun_Barlaman"
+            },
+            "communityID": "e9e5358d-5028-4b1b-9f24-693f7cfeb81f"
+        }
+    ]
+}

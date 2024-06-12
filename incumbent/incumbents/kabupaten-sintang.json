@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Sintang",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Barat",
+    "region": "Kabupaten Sintang",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sintang",
+    "communityID": "52e791ce-c325-457d-aa5c-5b3e7f02287e",
+    "candidates": [
+        {
+            "name": "Jarot Winarno",
+            "description": "dr. H. Jarot Winarno, M.Med.Ph (lahir 22 Januari 1960) adalah politikus Indonesia yang saat ini menjabat sebagai Bupati Sintang periode kedua sejak 26 Februari 2021 dan sebelumnya pada periode pertama (2016\u20132021). Ia pernah menjabat wakil Bupati Sintang periode 2005-2010 mendampingi Milton Crosby. Kemudian, Ia mencalonkan diri sebagai calon Bupati 2010-2015 berpasangan dengan Kartius, tetapi gagal tampil sebagai pemenang. Pada 2015, ia berpasangan dengan Askiman dan berhasil memenangkan Pilkada Sintang 2015 dengan 93.778 suara (41,70%).[1][2][3][4] Ia kembali terpilih sebagai bupati Sintang, bersama wakilnya Yoseph Sudiyanto pada pemilihan bupati yang dilaksanakan 9 Desember 2020.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/JAROT_WINARNO_2020.jpg/1200px-JAROT_WINARNO_2020.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Jarot_Winarno"
+            },
+            "communityID": "52e791ce-c325-457d-aa5c-5b3e7f02287e"
+        },
+        {
+            "name": "Melkianus",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Melkianus_Sintang.jpg/127px-Melkianus_Sintang.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "52e791ce-c325-457d-aa5c-5b3e7f02287e"
+        }
+    ]
+}

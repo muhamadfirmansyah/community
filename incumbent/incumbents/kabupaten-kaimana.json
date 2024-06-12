@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Kaimana",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Barat",
+    "region": "Kabupaten Kaimana",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kaimana",
+    "communityID": "abbe53e4-109e-4c99-987c-79998c0ad39d",
+    "candidates": [
+        {
+            "name": "Freddy Thie",
+            "description": "Freddy Thie (lahir 21 Januari 1970)[1] adalah seorang politikus Tionghoa Indonesia yang menjabat sebagai bupati Kaimana, Papua Barat periode 2021-2024 yang berpasangan dengan Wakil Bupati Hasbulla Furuada.[2][3] Ia mengawali karir politiknya dengan menjadi Ketua DPC Partai Demokrat Kabupaten Kaimana, pada 2007. Sejak 2010, ia menjadi anggota Gapensi, anggota Kadin (2011), Direktur PT Senja Grup dan CEO PT Senja Grup sejak 2000. Di bidang keagamaan, Freddy menjadi anggota Dewan Paroki Kaimana pada 2009.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bupati_Kaimana_Freddy_Thie.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Freddy_Thie"
+            },
+            "communityID": "abbe53e4-109e-4c99-987c-79998c0ad39d"
+        },
+        {
+            "name": "Hasbulla Furuada",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Hasbulla_Furuada.jpg/128px-Hasbulla_Furuada.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "abbe53e4-109e-4c99-987c-79998c0ad39d"
+        }
+    ]
+}

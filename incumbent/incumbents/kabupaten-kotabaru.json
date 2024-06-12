@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Kotabaru",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Selatan",
+    "region": "Kabupaten Kotabaru",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kotabaru",
+    "communityID": "77ec3577-ac66-43e4-b07c-ec0519ab7dcc",
+    "candidates": [
+        {
+            "name": "Sayed Jafar Al-Idrus",
+            "description": "H. Sayed Jafar Al-Idrus, S.H. (lahir 17 Maret 1962) adalah bupati Kotabaru yang menjabat pada periode 2016 hingga tahun 2021. Ia menggantikan bupati sebelumnya, Irhami Ridjani, dan penjabat bupati H. Isra setelah terpilih dalam Pilkada Kotabaru 2015, dan berpasangan dengan wakil bupati Ir. Burhanuddin. Ia kembali menang pada Pilkada Kotabaru 2020 namun kali ini dirinya berpasangan dengan Andi Latif.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Bupati_Kotabaru_Sayed_Jafar_Al-Idrus.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sayed_Jafar_Al-Idrus"
+            },
+            "communityID": "77ec3577-ac66-43e4-b07c-ec0519ab7dcc"
+        },
+        {
+            "name": "Andi Rudi Latif",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Andi_Rudi_Latif.jpg/106px-Andi_Rudi_Latif.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "77ec3577-ac66-43e4-b07c-ec0519ab7dcc"
+        }
+    ]
+}

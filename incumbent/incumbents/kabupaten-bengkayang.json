@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Bengkayang",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Barat",
+    "region": "Kabupaten Bengkayang",
+    "level": "KABUPATEN",
+    "path": "kabupaten-bengkayang",
+    "communityID": "292a17b8-3718-469e-a041-ededaeb48b5e",
+    "candidates": [
+        {
+            "name": "Sebastianus Darwis",
+            "description": "Sebastianus Darwis, S.E., M.M. (lahir 28 Juli 1973) adalah Bupati Bengkayang yang mulai menjabat sejak 26 Februari 2021.[1] Ia terpilih sebagai bupati Bengkayang setelah memenangkan Pilkada Bengkayang 2020 berpasangan dengan politikus Partai Golkar, Syamsul Rizal. Sebelum menjadi bupati Bengkayang, Darwis merupakan politikus PDI Perjuangan yang berhasil terpilih sebagai anggota DPRD tingkat provinsi dan kabupaten. Darwis bahkan dipercaya oleh PDI Perjuangan sebagai Ketua DPRD Kabupaten Bengkayang pada 2009. Darwis kemudian menjadi Ketua DPC PDI Perjuangan Kabupaten Bengkayang peripde 2014-2019 namun akhirnya dipecat dari PDI Perjuangan akibat pencalonannya sebagai bupati Bengkayang dalam Pilkada 2020 melalui Partai Gerindra dan Partai Golkar sehingga ia memutuskan untuk bergabung dengan Partai Gerindra.[2] Darwis merupakan putra tertua dari Bupati Bengkayang pertama, Jacobus Luna.[3][4]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bengkayang-Bupati-Sebastianus_Darwis.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sebastianus_Darwis"
+            },
+            "communityID": "292a17b8-3718-469e-a041-ededaeb48b5e"
+        },
+        {
+            "name": "Syamsul Rizal",
+            "description": "Syamsul Rizal dapat merujuk pada:\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bengkayang-Wakil_Bupati-Syamsul_Rizal.png/100px-Bengkayang-Wakil_Bupati-Syamsul_Rizal.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Syamsul_Rizal"
+            },
+            "communityID": "292a17b8-3718-469e-a041-ededaeb48b5e"
+        }
+    ]
+}

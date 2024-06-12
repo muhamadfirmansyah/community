@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Musi Rawas Utara",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Selatan",
+    "region": "Kabupaten Musi Rawas Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-musi-rawas-utara",
+    "communityID": "bb8d5220-2e39-407a-aa97-f7bae2c2454b",
+    "candidates": [
+        {
+            "name": "Devi Suhartoni",
+            "description": "H. Devi Suhartoni (lahir 1 Juni 1969) adalah Bupati Musi Rawas Utara periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Selatan, Herman Deru di Griya Agung, Palembang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/thumb/4/4c/Wakil_Bupati_Muratara_-_Devi_Surahtoni.png/128px-Wakil_Bupati_Muratara_-_Devi_Surahtoni.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Devi_Suhartoni"
+            },
+            "communityID": "bb8d5220-2e39-407a-aa97-f7bae2c2454b"
+        },
+        {
+            "name": "Innayatullah",
+            "description": "H. Innayatullah (lahir 31 Januari 1976) adalah Wakil Bupati Musi Rawas Utara periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Selatan, Herman Deru di Griya Agung, Palembang.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Innayatullah.jpg/111px-Innayatullah.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Innayatullah"
+            },
+            "communityID": "bb8d5220-2e39-407a-aa97-f7bae2c2454b"
+        }
+    ]
+}

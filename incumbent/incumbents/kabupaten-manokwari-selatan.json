@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Manokwari Selatan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Barat",
+    "region": "Kabupaten Manokwari Selatan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-manokwari-selatan",
+    "communityID": "458c4d6e-bc18-4fa0-8c17-57d445d58445",
+    "candidates": [
+        {
+            "name": "Markus Waran",
+            "description": "Markus Waran (lahir 31 Mei 1976) adalah seorang politisi Indonesia kelahiran Oransbari. Ia menempuh pendidikan di SMA YPK Oikumene Manokwari dan kemudian melanjutkan kuliah sarjana di Universitas Sunan Giri Surabaya. Ia menempuh kuliah pasca sarjana (S2) di Universitas Papua (Unipa).\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/2/2d/MarkusWaran-RegentofSouthManokwari.JPG",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Markus_Waran"
+            },
+            "communityID": "458c4d6e-bc18-4fa0-8c17-57d445d58445"
+        },
+        {
+            "name": "Wempi Welly Rengkung",
+            "description": "Wempi Welly Rengkung, S.E. (lahir 30 April 1950) adalah Wakil Bupati Manokwari Selatan 2 periode yakni 2016\u20142021 dan 2021\u20142024.[1] Ia adalah wakil dari Bupati Manokwari Selatan, Markus Waran.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/0/05/Wempy_Welly_Rengkung.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Wempi_Welly_Rengkung"
+            },
+            "communityID": "458c4d6e-bc18-4fa0-8c17-57d445d58445"
+        }
+    ]
+}

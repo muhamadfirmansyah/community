@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Halmahera Barat",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Maluku_Utara",
+    "region": "Kabupaten Halmahera Barat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-halmahera-barat",
+    "communityID": "90d8a7bb-2e39-47db-a73a-6a3ab7e0d54e",
+    "candidates": [
+        {
+            "name": "James Uang",
+            "description": "James Uang, S.Pd., M.M. (lahir 06 Juli 1964) adalah politisi Indonesia yang berkiprah di Kabupaten Halmahera Barat sebagai bupati kabupaten Halmahera Barat periode 2021 - 2024.[1] James Uang dilantik menjadi bupati bersama dengan wakil bupati terpilih, Djufri Muhamad, pada tanggal 26 Februari 2021 di Sofifi, ibukota provinsi Maluku Utara.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bupati_Halmahera_Barat_James_Uang.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/James_Uang"
+            },
+            "communityID": "90d8a7bb-2e39-47db-a73a-6a3ab7e0d54e"
+        },
+        {
+            "name": "Djufri Muhammad",
+            "description": "Djufri Muhammad (lahir 12 Januari 1973) adalah seorang politikus Indonesia kelahiran Marimbati. Ia memulai karirnya selaku Ketua Pemuda Desa Marimbati. Ia diangkat sebagai jabatan pjs Kades Lako Akediri, Sahu. Pada tahun 2005, ia diangkat menjadi Kades definitif Desa Lako Akediri. Ia menjabat selaku anggota Badan Anggaran dari 2009 sampai 2020.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/18/Wakil_Bupati_Halmahera_Barat_Djufri_Muhammad.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Djufri_Muhammad"
+            },
+            "communityID": "90d8a7bb-2e39-47db-a73a-6a3ab7e0d54e"
+        }
+    ]
+}

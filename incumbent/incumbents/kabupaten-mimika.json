@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Mimika",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Tengah",
+    "region": "Kabupaten Mimika",
+    "level": "KABUPATEN",
+    "path": "kabupaten-mimika",
+    "communityID": "439fea56-3a51-4e0b-91a4-b69b7eeff816",
+    "candidates": [
+        {
+            "name": "Eltinus Omaleng",
+            "description": "Eltinus Omaleng, S.E., M.H. (lahir 15 Oktober 1972) adalah Bupati Mimika sejak tahun 2014. Ia menjadi Bupati Mimika ke-3 menggantikan Abdul Muis. Sebelum menjadi bupati, Omaleng adalah seorang pengusaha yang memiliki perusahaan penyalur tenaga kerja ke PT. Freeport Indonesia.[1] Pada Pilbup Mimika 2018, ia mencalonkan diri berpasangan dengan Johannes Rettob melalui jalur partai politik dan dinyatakan terpilih sebagai Bupati Mimika periode 2019-2024.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/de/Bupati_Mimika_Eltinus_Omaleng.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Eltinus_Omaleng"
+            },
+            "communityID": "439fea56-3a51-4e0b-91a4-b69b7eeff816"
+        },
+        {
+            "name": "Johannes Rettob",
+            "description": "Johannes Rettob, S.Sos., M.M.  (lahir 19 Oktober 1962) adalah Pelaksana Tugas Bupati Mimika (Plt.). Sebelum menjabat sebagai Plt. Bupati Mimika, ia adalah wakil dari Bupati Mimika, Eltinus Omaleng.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/94/Wakil_Bupati_Mimika_Johanis_Rettob.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Johannes_Rettob"
+            },
+            "communityID": "439fea56-3a51-4e0b-91a4-b69b7eeff816"
+        }
+    ]
+}

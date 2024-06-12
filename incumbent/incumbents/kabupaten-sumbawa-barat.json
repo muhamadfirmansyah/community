@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Sumbawa Barat",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Nusa_Tenggara_Barat",
+    "region": "Kabupaten Sumbawa Barat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-sumbawa-barat",
+    "communityID": "d28db968-4dfa-4c77-bd00-02b507cbc22a",
+    "candidates": [
+        {
+            "name": "W. Musyafirin",
+            "description": "Dr. Ir. H. W. Musyafirin, M.M. (lahir 22 Juni 1963)[1] adalah Bupati Sumbawa Barat periode 2016\u20132021 dan 2021\u20132024. Ia menjabat untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Barat, Zulkieflimansyah di Gedung Graha Bhakti Praja Kompleks Kantor Gubernur Nusa Tenggara Barat, Kota Mataram.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/22/W._Musyafirin.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/W._Musyafirin"
+            },
+            "communityID": "d28db968-4dfa-4c77-bd00-02b507cbc22a"
+        },
+        {
+            "name": "Fud Syaifuddin",
+            "description": "Fud Syaifuddin, S.T. (lahir 11 Maret 1975) adalah Wakil Bupati Sumbawa Barat periode 2016\u20132021 dan 2021\u20132024. Ia menjabat untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Barat, Zulkieflimansyah di Gedung Graha Bhakti Praja Kompleks Kantor Gubernur Nusa Tenggara Barat, Kota Mataram.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/61/Fud_Syaifuddin.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Fud_Syaifuddin"
+            },
+            "communityID": "d28db968-4dfa-4c77-bd00-02b507cbc22a"
+        }
+    ]
+}

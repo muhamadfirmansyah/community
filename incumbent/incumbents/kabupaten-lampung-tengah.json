@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Lampung Tengah",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Lampung",
+    "region": "Kabupaten Lampung Tengah",
+    "level": "KABUPATEN",
+    "path": "kabupaten-lampung-tengah",
+    "communityID": "e2ad3015-5d62-444d-9845-5c8313057adc",
+    "candidates": [
+        {
+            "name": "Musa Ahmad",
+            "description": "Musa Ahmad (Aksara Lampung\u00a0: ; lahir 30 Maret 1973) adalah politikus yang menjabat Bupati Lampung Tengah periode 2021\u20142024.[1] Bersama wakilnya, Ardito Wijaya, mereka berhasil memenangkan Pemilihan umum Bupati Lampung Tengah 2020. Sebelumnya ia menjabat Wakil Bupati Lampung Tengah periode 2008\u20142010. Ia adalah wakil dari Bupati Lampung Tengah, Mudiyanto Thoyib.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bupati_Lampung_Tengah_Musa_Ahmad.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Musa_Ahmad"
+            },
+            "communityID": "e2ad3015-5d62-444d-9845-5c8313057adc"
+        },
+        {
+            "name": "Ardito Wijaya",
+            "description": "dr. H. Ardito Wijaya  (lahir 23 Januari 1980) adalah Wakil Bupati Kabupaten Lampung Tengah periode 2021\u20132026. Ia adalah wakil dari Bupati Lampung Tengah, Musa Ahmad.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ardito_Wijaya.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ardito_Wijaya"
+            },
+            "communityID": "e2ad3015-5d62-444d-9845-5c8313057adc"
+        }
+    ]
+}

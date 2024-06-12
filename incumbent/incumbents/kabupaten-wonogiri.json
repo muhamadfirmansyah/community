@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Wonogiri",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kabupaten Wonogiri",
+    "level": "KABUPATEN",
+    "path": "kabupaten-wonogiri",
+    "communityID": "ce9a15f2-6a9c-44ed-b491-364f0848e64c",
+    "candidates": [
+        {
+            "name": "Joko Sutopo",
+            "description": "Menjabat kembali\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/3/3f/JokoSutopo-RegentofWonogiri2.JPG",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Joko_Sutopo"
+            },
+            "communityID": "ce9a15f2-6a9c-44ed-b491-364f0848e64c"
+        },
+        {
+            "name": "Setyo Sukarno",
+            "description": "Setyo Sukarno (lahir 6 Agustus 1966) adalah politisi PDI Perjuangan yang sempat menjabat sebagai Ketua DPRD Kabupaten Wonogiri sejak 2014[1] sampai akhirnya mengundurkan diri dikarenakan maju dalam Pilkada Wonogiri 2020. Ia maju mendampingi Bupati Wonogiri Joko Sutopo yang diusung PDI Perjuangan, Partai Golkar, dan Partai Amanat Nasional.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/SETYO_SUKARNO.jpg/107px-SETYO_SUKARNO.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Setyo_Sukarno"
+            },
+            "communityID": "ce9a15f2-6a9c-44ed-b491-364f0848e64c"
+        }
+    ]
+}

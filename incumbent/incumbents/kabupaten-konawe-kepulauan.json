@@ -1,0 +1,26 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Konawe Kepulauan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Tenggara",
+    "region": "Kabupaten Konawe Kepulauan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-konawe-kepulauan",
+    "communityID": "cccd879e-9266-4f84-b074-0839b6cfbcf1",
+    "candidates": [
+        {
+            "name": "Amrullah",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/thumb/8/84/Bupati_Konkep_2016-2021_Amrullah.png/102px-Bupati_Konkep_2016-2021_Amrullah.png",
+            "title": "Bupati",
+            "sites": {},
+            "communityID": "cccd879e-9266-4f84-b074-0839b6cfbcf1"
+        },
+        {
+            "name": "Andi Muhammad Lutfi",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/thumb/7/7f/Wakil_Bupati_Konkep_2016-2021_Andi_M._Lutfi.png/114px-Wakil_Bupati_Konkep_2016-2021_Andi_M._Lutfi.png",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "cccd879e-9266-4f84-b074-0839b6cfbcf1"
+        }
+    ]
+}

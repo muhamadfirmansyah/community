@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Pakpak Bharat",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sumatera_Utara",
+    "region": "Kabupaten Pakpak Bharat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pakpak-bharat",
+    "communityID": "b64654c4-5c80-435c-a78f-5f9eebf766e5",
+    "candidates": [
+        {
+            "name": "Franc Bernhard Tumanggor",
+            "description": "Franc Bernhard Tumanggor (lahir 6 Januari 1985) adalah Bupati Pakpak Bharat periode 2021-2024. Ia menjabat  sejak 26 Februari 2021 setelah dilantik Gubernur Sumatera Utara, Edy Rahmayadi di Aula Tengku Rizal Nurdin Rumah Dinas Gubernur Sumatera Utara, Medan.[1] Ia juga merupakan politisi Partai Golkar dan dipercaya sebagai Wakil Ketua  Bidang Pemenangan Pemilu Wilayah XI (Kabupaten Karo, Kabupaten Dairi, Kabupaten Pakpak Bharat) DPD Partai Golkar Sumatera Utara periode 2020-2025.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Franc_Bernhard_Tumanggor.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Franc_Bernhard_Tumanggor"
+            },
+            "communityID": "b64654c4-5c80-435c-a78f-5f9eebf766e5"
+        },
+        {
+            "name": "Mutsyuhito Solin",
+            "description": "2. Nida Wafiqah M. Solin, M.Si \n3. Thareq Muhammad M. Solin, ST \n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Mutsyuhito_Solin.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mutsyuhito_Solin"
+            },
+            "communityID": "b64654c4-5c80-435c-a78f-5f9eebf766e5"
+        }
+    ]
+}

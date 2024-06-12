@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Banggai",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Tengah",
+    "region": "Kabupaten Banggai",
+    "level": "KABUPATEN",
+    "path": "kabupaten-banggai",
+    "communityID": "39bef3c7-4d40-44c9-8af6-daf6b9d979e2",
+    "candidates": [
+        {
+            "name": "Amirudin Tamoreka",
+            "description": "Ir. H. Amirudin Tamoreka (lahir 13 Desember 1971) adalah politisi dan pengusaha asal Banggai. Dia menjabat sebagai \nBupati Banggai periode 2021-2024. Berdasarkan garis keturunan, Ia adalah keluarga besar FAM Tamoreka yang berasal dari Konawe. \n[1]\n",
+            "profilePic": "",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Amirudin_Tamoreka"
+            },
+            "communityID": "39bef3c7-4d40-44c9-8af6-daf6b9d979e2"
+        },
+        {
+            "name": "Furqanuddin Masulili",
+            "description": "Drs. Furqanuddin Masulili (lahir 12 Desember 1958) adalah politisi asal Banggai. Dia menjabat sebagai \nWakil Bupati Banggai periode 2021-2024.[1]\n",
+            "profilePic": "",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Furqanuddin_Masulili"
+            },
+            "communityID": "39bef3c7-4d40-44c9-8af6-daf6b9d979e2"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Pegunungan Arfak",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Barat",
+    "region": "Kabupaten Pegunungan Arfak",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pegunungan-arfak",
+    "communityID": "7ee754f3-2b3d-4b31-8246-e03d72b46fd4",
+    "candidates": [
+        {
+            "name": "Yosias Saroy",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/2/25/Yosias_Saroy.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yosias_Saroy"
+            },
+            "communityID": "7ee754f3-2b3d-4b31-8246-e03d72b46fd4"
+        },
+        {
+            "name": "Marinus Mandacan",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/thumb/7/77/Marinus_Mandacan.png/117px-Marinus_Mandacan.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Marinus_Mandacan"
+            },
+            "communityID": "7ee754f3-2b3d-4b31-8246-e03d72b46fd4"
+        }
+    ]
+}

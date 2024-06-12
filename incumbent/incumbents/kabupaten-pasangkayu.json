@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Pasangkayu",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Barat",
+    "region": "Kabupaten Pasangkayu",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pasangkayu",
+    "communityID": "d93d56cc-17c2-49ab-bc9e-f8983adb50a9",
+    "candidates": [
+        {
+            "name": "Yaumil Ambo Djiwa",
+            "description": "H. Yaumil Ambo Djiwa, S.H. (lahir 6 Maret 1958) adalah Bupati Pasangkayu periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Barat, Ali Baal Masdar di Rumah Jabatan Gubernur Sulawesi Barat, Mamuju.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/8/85/Bupati_Pasangkayu_Yaumil_Ambo_Djiwa.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yaumil_Ambo_Djiwa"
+            },
+            "communityID": "d93d56cc-17c2-49ab-bc9e-f8983adb50a9"
+        },
+        {
+            "name": "Herny Agus",
+            "description": "Dr. Hj. Herny Agus, S.Sos., M.Si. (lahir 5 September 1974) adalah Wakil Bupati Pasangkayu periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Barat, Ali Baal Masdar di Rumah Jabatan Gubernur Sulawesi Barat, Mamuju.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/3/33/Wakil_Bupati_Pasangkayu_Herny_Agus.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Herny_Agus"
+            },
+            "communityID": "d93d56cc-17c2-49ab-bc9e-f8983adb50a9"
+        }
+    ]
+}

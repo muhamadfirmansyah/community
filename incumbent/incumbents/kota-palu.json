@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Palu",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Tengah",
+    "region": "Kota Palu",
+    "level": "KOTA",
+    "path": "kota-palu",
+    "communityID": "f944cc43-b124-4d6a-9505-43069d301e12",
+    "candidates": [
+        {
+            "name": "Hadianto Rasyid",
+            "description": "H. Hadianto Rasyid, S.E. (lahir 10 Juli 1975) adalah seorang pengusaha dan politikus yang menjabat Wali Kota Palu, Sulawesi Tengah. Hadi mencalonkan diri sebagai calon walikota Palu untuk ketiga kalinya pada pemilihan umum wali kota Palu tahun 2020. Pasangan Hadianto Rasyid dan dr. Reny Lamadjido mendapatkan perolehan suara terbanyak dan dinyatakan sebagai Wali kota dan Wakil Wali kota terpilih. Sebelumnya ia menjabat sebagai anggota DPRD di tingkat kota dan provinsi serta menjabat sebagai ketua DPD Partai Hanura Sulawesi Tengah.[2][3][4][5][6][7]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Wali_Kota_Palu_Hadianto_Rasyid.png",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hadianto_Rasyid"
+            },
+            "communityID": "f944cc43-b124-4d6a-9505-43069d301e12"
+        },
+        {
+            "name": "Reny Lamadjido",
+            "description": "dr. Reny Arniwaty Lamadjido, Sp.PK., M.Kes.[1] (lahir 17 Desember 1962) adalah dokter, politikus, dan birokrat yang terpilih sebagai Wakil Wali Kota Palu pada periode 2021\u20132024 mendampingi Hadianto Rasyid. Ia adalah putri dari mantan Gubernur Sulawesi Tengah, Abdul Azis Lamadjido.[2][3][4]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Wakil_Wali_Kota_Palu_Reny_A._Lamadjido.png",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Reny_Lamadjido"
+            },
+            "communityID": "f944cc43-b124-4d6a-9505-43069d301e12"
+        }
+    ]
+}

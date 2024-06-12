@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Gresik",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Timur",
+    "region": "Kabupaten Gresik",
+    "level": "KABUPATEN",
+    "path": "kabupaten-gresik",
+    "communityID": "3a968bfe-8acc-47de-a24e-640a51cddbea",
+    "candidates": [
+        {
+            "name": "Fandi Akhmad Yani",
+            "description": "H. Fandi Akhmad Yani, S.E. (lahir 28 Juni 1985) adalah Bupati Gresik yang menjabat sejak 26 Februari 2021. Ia sebelumnya menjabat sebagai Ketua DPRD Kabupaten Gresik sejak tanggal 23 September 2019 hingga 3 September 2020.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/27/Fandi_Akhmad_Yani.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Fandi_Akhmad_Yani"
+            },
+            "communityID": "3a968bfe-8acc-47de-a24e-640a51cddbea"
+        },
+        {
+            "name": "Aminatun Habibah",
+            "description": "Dra. Hj. Aminatun Habibah, M.Pd. (lahir 19 April 1966) adalah politikus PDI Perjuangan yang menjabat sebagai Wakil Bupati Gresik periode 2021-2024. Aminatun juga menjabat sebagai Ketua Bamusi DPC PDI Perjuangan Kabupaten Gresik sejak 14 Februari 2021.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Wakil_Bupati_Gresik_Aminatun_Habibah.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Aminatun_Habibah"
+            },
+            "communityID": "3a968bfe-8acc-47de-a24e-640a51cddbea"
+        }
+    ]
+}

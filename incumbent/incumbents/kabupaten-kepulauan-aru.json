@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Kepulauan Aru",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Maluku",
+    "region": "Kabupaten Kepulauan Aru",
+    "level": "KABUPATEN",
+    "path": "kabupaten-kepulauan-aru",
+    "communityID": "e0008f9a-bc57-4bbe-8bae-f0eb72766acc",
+    "candidates": [
+        {
+            "name": "Johan Gonga",
+            "description": "Johan Gonga (lahir 11 April 1963) adalah birokrat dan politikus Indonesia yang menjabat sebagai Bupati Kepulauan Aru 2 periode yakni 2016\u20142021 dan 2021\u20142024. Ia pernah menjabat sebagai Direktur RSUD Cendrawasih Dobo.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/id/7/7e/JohanGonga-RegentofAruIslands.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Johan_Gonga"
+            },
+            "communityID": "e0008f9a-bc57-4bbe-8bae-f0eb72766acc"
+        },
+        {
+            "name": "Muin Sogalrey",
+            "description": "Muin Sogalrey (lahir 2 April 1969)[1] adalah seorang politikus Indonesia. Ia menjabat selaku Wakil Bupati Kepulauan Aru mendampingi Johan Gonga selaku Bupati Kepulauan Aru sepanjang dua periode. Pada 2020, ia berpindah dari Partai Keadilan Sejahtera (PKS) ke Partai Demokrasi Indonesia Perjuangan (PDIP).[2] Ia berencana maju menjadi calon bupati Kepulauan Aru dalam pemilihan umum Bupati Kepulauan Aru 2024.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Muin_Sogalrey.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muin_Sogalrey"
+            },
+            "communityID": "e0008f9a-bc57-4bbe-8bae-f0eb72766acc"
+        }
+    ]
+}

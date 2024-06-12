@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Badung",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Bali",
+    "region": "Kabupaten Badung",
+    "level": "KABUPATEN",
+    "path": "kabupaten-badung",
+    "communityID": "ba930cd3-0d90-486e-84e8-783f8152c3db",
+    "candidates": [
+        {
+            "name": "I Nyoman Giri Prasta",
+            "description": "I Nyoman Giri Prasta, S.Sos. (lahir 19 Maret 1972) adalah Bupati Badung yang menjabat pada periode 2016-2021 dan 2021-Sekarang. Ia dilantik pada 17 Februari 2016 oleh Gubernur I Made Mangku Pastika di Wisma Sabha, Renon, Denpasar.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bupati_Badung_I_Nyoman_Giri_Prasta.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/I_Nyoman_Giri_Prasta"
+            },
+            "communityID": "ba930cd3-0d90-486e-84e8-783f8152c3db"
+        },
+        {
+            "name": "I Ketut Suiasa",
+            "description": "Drs. I Ketut Suiasa, S.H. (lahir 31 Desember 1964) adalah Wakil Bupati Badung periode 2016\u20132021 dan 2021\u20132024. Ia menjabat untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Bali, Wayan Koster di Gedung Wiswa Sabha Kantor Gubernur Bali, Denpasar.[1] Ia juga merupakan politisi PDI Perjuangan dan dipercaya sebagai Ketua BSPN PDI Perjuangan Provinsi Bali.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Wakil_Bupati_Badung_I_Ketut_Suiasa.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/I_Ketut_Suiasa"
+            },
+            "communityID": "ba930cd3-0d90-486e-84e8-783f8152c3db"
+        }
+    ]
+}

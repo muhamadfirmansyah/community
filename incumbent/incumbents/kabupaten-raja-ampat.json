@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Raja Ampat",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Barat_Daya",
+    "region": "Kabupaten Raja Ampat",
+    "level": "KABUPATEN",
+    "path": "kabupaten-raja-ampat",
+    "communityID": "a9951d78-23f1-4947-9220-867f0e9be10e",
+    "candidates": [
+        {
+            "name": "Abdul Faris Umlati",
+            "description": "H. Abdul Faris Umlati, S.E. (lahir 12 Februari 1973) adalah Bupati Raja Ampat 2 periode yakni 2016\u20132021[1] dan 2021\u20132024.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Abdul_Faris_Umlati.jpg/112px-Abdul_Faris_Umlati.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Abdul_Faris_Umlati"
+            },
+            "communityID": "a9951d78-23f1-4947-9220-867f0e9be10e"
+        },
+        {
+            "name": "Orideko Iriano Burdam",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Orideko_Iriano_Burdam.jpg/110px-Orideko_Iriano_Burdam.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Orideko_Iriano_Burdam"
+            },
+            "communityID": "a9951d78-23f1-4947-9220-867f0e9be10e"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Bontang",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Kalimantan_Timur",
+    "region": "Kota Bontang",
+    "level": "KOTA",
+    "path": "kota-bontang",
+    "communityID": "6e473f53-73aa-4ea1-b288-83486b483015",
+    "candidates": [
+        {
+            "name": "Basri Rase",
+            "description": "H. Basri Rase, S.I.P. (lahir 11 Februari 1972) adalah politisi PKB yang menjabat sebagai Wali Kota Bontang periode 2021\u20132024. Ia pernah menjabat sebagai Wakil Wali Kota Bontang periode 2016\u20132021.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Basri_Rase.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Basri_Rase"
+            },
+            "communityID": "6e473f53-73aa-4ea1-b288-83486b483015"
+        },
+        {
+            "name": "Najirah",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Najirah.jpg/122px-Najirah.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {},
+            "communityID": "6e473f53-73aa-4ea1-b288-83486b483015"
+        }
+    ]
+}

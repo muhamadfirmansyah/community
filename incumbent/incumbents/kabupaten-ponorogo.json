@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Ponorogo",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Timur",
+    "region": "Kabupaten Ponorogo",
+    "level": "KABUPATEN",
+    "path": "kabupaten-ponorogo",
+    "communityID": "a70c6a11-b9da-4461-bb00-c313ceedca35",
+    "candidates": [
+        {
+            "name": "Sugiri Sancoko",
+            "description": "\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/d/db/Sugiri_Sancoko_Bupati_Ponorogo.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sugiri_Sancoko"
+            },
+            "communityID": "a70c6a11-b9da-4461-bb00-c313ceedca35"
+        },
+        {
+            "name": "Lisdyarita",
+            "description": "Hj. Lisdyarita, S.H. (lahir 18 Maret 1978) adalah politikus PDI Perjuangan yang menjabat sebagai Wakil Bupati Ponorogo periode 2021-2024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lisdyarita.jpg/104px-Lisdyarita.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Lisdyarita"
+            },
+            "communityID": "a70c6a11-b9da-4461-bb00-c313ceedca35"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Lombok Tengah",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Nusa_Tenggara_Barat",
+    "region": "Kabupaten Lombok Tengah",
+    "level": "KABUPATEN",
+    "path": "kabupaten-lombok-tengah",
+    "communityID": "2f87fc08-07d4-4c50-af9d-a3fe47ae6144",
+    "candidates": [
+        {
+            "name": "Lalu Pathul Bahri",
+            "description": "H. Lalu Pathul Bahri, S.I.P. (lahir 31 Desember 1969) adalah Bupati Lombok Tengah periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Barat, Zulkieflimansyah di Gedung Graha Bhakti Praja Kompleks Kantor Gubernur Nusa Tenggara Barat, Kota Mataram. Lalu Pathul Bahri sempat dilaporkan ke Polda NTB terkait penggunaan ijazah palsu Strata-1 perpindahan dari Universitas Nahdlatul Wathan ke Universitas 45 Matatam   [1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bupati_Lombok_Tengah_Lalu_Pathul_Bari.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Lalu_Pathul_Bahri"
+            },
+            "communityID": "2f87fc08-07d4-4c50-af9d-a3fe47ae6144"
+        },
+        {
+            "name": "Nursiah",
+            "description": "Dr. H. Nursiah, S.Sos., M.Si. (lahir 31 Desember 1963) adalah Wakil Bupati Lombok Tengah periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Nusa Tenggara Barat, Zulkieflimansyah di Gedung Graha Bhakti Praja Kompleks Kantor Gubernur Nusa Tenggara Barat, Kota Mataram.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/1/13/Wakil_Bupati_Lombok_Tengah_M._Nursiah.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Nursiah"
+            },
+            "communityID": "2f87fc08-07d4-4c50-af9d-a3fe47ae6144"
+        }
+    ]
+}

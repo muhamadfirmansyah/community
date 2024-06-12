@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Klaten",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Tengah",
+    "region": "Kabupaten Klaten",
+    "level": "KABUPATEN",
+    "path": "kabupaten-klaten",
+    "communityID": "fd055b6e-9bac-43ea-ab97-8456231a229c",
+    "candidates": [
+        {
+            "name": "Sri Mulyani",
+            "description": "Hj. Sri Mulyani (lahir 4 Mei 1977) adalah Bupati Klaten 2017\u20132021 dan 2021\u20132024. Sri Mulyani dilantik sebagai Bupati Klaten setelah Sri Hartini diberhentikan sebagai Bupati karena kasus korupsi. Sebelumnya, ia menjabat Wakil Bupati sejak tahun 2016.[1][2] Sri Mulyani adalah Istri Sunarna yang merupakan mantan Bupati Klaten dua periode tahun 2005-2015.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/22/Bupati_Klaten_Sri_Mulyani.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sri_Mulyani_(bupati)"
+            },
+            "communityID": "fd055b6e-9bac-43ea-ab97-8456231a229c"
+        },
+        {
+            "name": "Yoga Hardaya",
+            "description": "H. Yoga Hardaya, S.H., M.H. (lahir 20 Juni 1967) adalah Wakil Bupati Klaten periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Jawa Tengah, Ganjar Pranowo secara daring.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Wakil_Bupati_Klaten_Yoga_Hardaya.png",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yoga_Hardaya"
+            },
+            "communityID": "fd055b6e-9bac-43ea-ab97-8456231a229c"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "title": "Wali Kota dan Wakil Wali Kota Kota Sungai Penuh",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jambi",
+    "region": "Kota Sungai Penuh",
+    "level": "KOTA",
+    "path": "kota-sungai-penuh",
+    "communityID": "9654e854-f962-435b-80e2-409ccf8acc8b",
+    "candidates": [
+        {
+            "name": "Ahmadi Zubir",
+            "description": "Drs. Ahmadi Zubir, M.M. (lahir 10 Oktober 1964) adalah Wali Kota Sungai Penuh periode 2021\u20132024.[1][2] Bersama wakilnya, Alvia Santoni, mereka berhasil memenangkan Pemilihan umum Wali Kota Sungai Penuh 2020.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Wali_Kota_Sungai_Penuh_Ahmadi_Zubir.jpg",
+            "title": "Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ahmadi_Zubir"
+            },
+            "communityID": "9654e854-f962-435b-80e2-409ccf8acc8b"
+        },
+        {
+            "name": "Alvia Santoni",
+            "description": "Dr. Alvia Santoni, S.E., M.M. (lahir 30 Mei 1972) adalah Wakil Wali Kota Sungai Penuh periode 2021\u20132024.[1] Ia merupakan wakil dari Wali Kota, Ahmadi Zubir.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Wawako_Sungai_Penuh_Alvia_Santoni.jpg",
+            "title": "Wakil Wali Kota",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Alvia_Santoni"
+            },
+            "communityID": "9654e854-f962-435b-80e2-409ccf8acc8b"
+        }
+    ]
+}

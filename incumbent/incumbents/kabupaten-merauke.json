@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Merauke",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Selatan",
+    "region": "Kabupaten Merauke",
+    "level": "KABUPATEN",
+    "path": "kabupaten-merauke",
+    "communityID": "0e90fb33-901f-43f0-b048-d5cc910e1778",
+    "candidates": [
+        {
+            "name": "Romanus Mbaraka",
+            "description": "Drs. Romanus Mbaraka, M.T. (lahir 8 April 1969) adalah politikus Indonesia. Ia adalah Bupati Merauke 2 periode yakni 2011\u20142016[1] dan 2021\u20142024. Bersama wakilnya, Ridwan, mereka berhasil memenangkan pemilihan umum Bupati Merauke 2020.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Romanus_Mbaraka.jpg/112px-Romanus_Mbaraka.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Romanus_Mbaraka"
+            },
+            "communityID": "0e90fb33-901f-43f0-b048-d5cc910e1778"
+        },
+        {
+            "name": "Riduwan",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Riduwan.jpg/104px-Riduwan.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "0e90fb33-901f-43f0-b048-d5cc910e1778"
+        }
+    ]
+}

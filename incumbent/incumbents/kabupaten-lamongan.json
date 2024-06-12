@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Lamongan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Jawa_Timur",
+    "region": "Kabupaten Lamongan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-lamongan",
+    "communityID": "d19d6bba-614d-45bb-9dee-3787271e60f7",
+    "candidates": [
+        {
+            "name": "Yuhronur Efendi",
+            "description": "Dr. H. Yuhronur Efendi, MBA (lahir 12 Januari 1968) adalah adalah birokrat dan politikus Indonesia yang menjabat Bupati Lamongan periode 2021\u20132024.[1] Bersama wakilnya, Abdul Rouf, mereka berhasil memenangkan pemilihan umum Bupati Lamongan 2020.[2] Yuhronur Efendi pernah menjabat sebagai Sekretaris Daerah Lamongan.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Bupati_Lamongan_Yuhronur_Efendi.png",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yuhronur_Efendi"
+            },
+            "communityID": "d19d6bba-614d-45bb-9dee-3787271e60f7"
+        },
+        {
+            "name": "Abdul Rouf",
+            "description": "Abdul Rouf (lahir 28 Agustus 1961) adalah seorang politikus dan ulama Indonesia kelahiran Bluluk, Lamongan. Ayahnya M Asyikin Gozali merupakan pimpinan Pondok Pesantren Miftahul Qulub. Ia menjadi Wakil Bupati Lamongan mendampingi Yuhronur Efendi dari 2021 sampai 2024. \n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/07/Wakil_Bupati_Abdul_Rouf.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Abdul_Rouf"
+            },
+            "communityID": "d19d6bba-614d-45bb-9dee-3787271e60f7"
+        }
+    ]
+}

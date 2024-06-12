@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Halmahera Timur",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Maluku_Utara",
+    "region": "Kabupaten Halmahera Timur",
+    "level": "KABUPATEN",
+    "path": "kabupaten-halmahera-timur",
+    "communityID": "3fd99295-d88c-4338-b7af-49bea5f53af5",
+    "candidates": [
+        {
+            "name": "Ubaid Yakub",
+            "description": "Ubaid Yakub (lahir 27 Agustus 1969) adalah seorang politisi Indonesia. Ia menjabat sebagai Bupati Halmahera Timur periode 2020\u20132025.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Ubaid_Yakub.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ubaid_Yakub"
+            },
+            "communityID": "3fd99295-d88c-4338-b7af-49bea5f53af5"
+        },
+        {
+            "name": "Anjas Taher",
+            "description": "Anjar Taher (lahir 2 Mei 1973) adalah seorang politikus Indonesia kelahiran Desa Ekor, Kecamatan Wasile Selatan, Halmahera Timur. Ia menempuh pendidikan di SD Negeri Ekor, SMP GMIH Ternate, SMA PGRI Palu serta Strata 1 Ekonomi di Universitas Khairun Ternate. Pada tahun 1993, ia terpilih menjadi ketua umum Himpunan Mahasiswa Islam (HMI) Komisariat Fakultas Ekonomi Unkhair Ternate. Pada tahun 1995, ia diangkat menjadi Wakil Ketua HMI Cabang Ternate selama satu tahun. Pada tahun 2009, ia meneruskan pendidikan di Institut Pertanian Bogor (IPB), dengan gelar Magister Perencanaan Pembangunan Wilayah dan Pedesaan.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Anjas_Taher.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Anjas_Taher"
+            },
+            "communityID": "3fd99295-d88c-4338-b7af-49bea5f53af5"
+        }
+    ]
+}

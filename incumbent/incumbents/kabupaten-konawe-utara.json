@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Konawe Utara",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Tenggara",
+    "region": "Kabupaten Konawe Utara",
+    "level": "KABUPATEN",
+    "path": "kabupaten-konawe-utara",
+    "communityID": "82afc1d2-f156-4cf9-885a-a21a1bd5326f",
+    "candidates": [
+        {
+            "name": "Ruksamin",
+            "description": "Ruksamin (lahir 14 Maret 1973) adalah seorang politisi Indonesia. Ia menjabat sebagai bupati Konawe Utara periode 2016-2021 dan 2021-2026.[1] Ia lahir dari keluarga sederhana di perkampungan ujung utara Desa Basule, Kecamatan Lasolo, Kabupaten Konawe Utara. Orangtuanya bekerja sebagai guru dan petani. Ia menempuh pendidikan di SD Negeri Tinobu angkatan tahun 1985, SMP Negeri Tinobu angkatan tahun 1988, kemudian lanjut di SMA Negeri Wawotobi angkatan tahun 1991. Ia kemudian masuk Universitas Muslim Indonesia (UMI) Makassar dan mengambil fakultas Teknik Kimia (Strata Satu/S1) dan lulus tahun 1997.[2] Kala kuliah, ia berkeliling menjual koran dari rumah ke rumah untuk membantu keperluan makan dan perkuliahan.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ruksamin-.-005.jpg/1200px-Ruksamin-.-005.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ruksamin"
+            },
+            "communityID": "82afc1d2-f156-4cf9-885a-a21a1bd5326f"
+        },
+        {
+            "name": "Abu Haera",
+            "description": "Abu Haera adalah seorang politikus Indonesia. Ia menjabat sebagai Sekretaris Daerah Kabupaten Konawe Utara dari 2013 sampai 2015. Pada Pemilihan umum Bupati Konawe Utara 2020, ia terpilih menjadi Wakil Bupati Konawe Utara mendampingi Ruksamin selaku Bupati Konawe Utara.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/53/Abu_Haera.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Abu_Haera"
+            },
+            "communityID": "82afc1d2-f156-4cf9-885a-a21a1bd5326f"
+        }
+    ]
+}

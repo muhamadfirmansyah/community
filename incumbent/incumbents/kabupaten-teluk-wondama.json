@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Teluk Wondama",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Papua_Barat",
+    "region": "Kabupaten Teluk Wondama",
+    "level": "KABUPATEN",
+    "path": "kabupaten-teluk-wondama",
+    "communityID": "fa56d2c9-7dfb-4173-9cf9-526b6ba71cd9",
+    "candidates": [
+        {
+            "name": "Hendrik Syake Mambor",
+            "description": "Hendrik Syake Mambor (lahir 30 November 1963)[1] adalah seorang politikus Indonesia. Ia menjabat sebagai Kepala Badan Pemberdayaan Masyarakat dan Pemerintahan Kampung Kabupaten Teluk Wondama dari 2013 sampai 2015. Pada Pemilihan umum Bupati Teluk Wondama 2020, ia terpilih menjadi Bupati Teluk Wondama didampingi oleh Andarias Kayukatui selaku Wakil Bupati Teluk Wondama.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/HENDRIK_S._MAMBOR.jpg/129px-HENDRIK_S._MAMBOR.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Hendrik_Syake_Mambor"
+            },
+            "communityID": "fa56d2c9-7dfb-4173-9cf9-526b6ba71cd9"
+        },
+        {
+            "name": "Andarias Kayukatui",
+            "description": "Andarias Kayukatui adalah seorang politikus Indonesia. Ia menjabat sebagai Kepala Pelaksana BPBD Kabupaten Teluk Wondama dari 2014 sampai 2015. Pada Pemilihan umum Bupati Teluk Wondama 2020, ia terpilih menjadi Wakil Bupati Teluk Wondama mendampingi Hendrik Syake Mambor selaku Bupati Teluk Wondama.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/ANDARIAS_KAYUKATUI.jpg/124px-ANDARIAS_KAYUKATUI.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Andarias_Kayukatui"
+            },
+            "communityID": "fa56d2c9-7dfb-4173-9cf9-526b6ba71cd9"
+        }
+    ]
+}

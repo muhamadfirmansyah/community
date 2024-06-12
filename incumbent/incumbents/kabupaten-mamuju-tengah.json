@@ -1,0 +1,29 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Mamuju Tengah",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Barat",
+    "region": "Kabupaten Mamuju Tengah",
+    "level": "KABUPATEN",
+    "path": "kabupaten-mamuju-tengah",
+    "communityID": "ac17b9dd-f40c-4faa-9323-3ade9e9a69c4",
+    "candidates": [
+        {
+            "name": "Aras Tammauni",
+            "description": "H. M. Aras Tammauni (lahir 31 Desember 1956) adalah Bupati Mamuju Tengah periode 2016\u20132021 dan 2021\u20132024. Ia menjabat untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Barat, Ali Baal Masdar di Rumah Jabatan Gubernur Sulawesi Barat, Mamuju.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bupati_Mamuju_Tengah_Aras_Tammauni.jpg/1200px-Bupati_Mamuju_Tengah_Aras_Tammauni.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Aras_Tammauni"
+            },
+            "communityID": "ac17b9dd-f40c-4faa-9323-3ade9e9a69c4"
+        },
+        {
+            "name": "Muhammad Amin Jasa",
+            "description": "",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Muhammad_Amin_Jasa.jpg/114px-Muhammad_Amin_Jasa.jpg",
+            "title": "Wakil Bupati",
+            "sites": {},
+            "communityID": "ac17b9dd-f40c-4faa-9323-3ade9e9a69c4"
+        }
+    ]
+}

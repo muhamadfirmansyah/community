@@ -1,0 +1,32 @@
+{
+    "title": "Bupati dan Wakil Bupati Kabupaten Pangkajene dan Kepulauan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_kepala_daerah_dan_wakil_kepala_daerah_petahana_di_Sulawesi_Selatan",
+    "region": "Kabupaten Pangkajene dan Kepulauan",
+    "level": "KABUPATEN",
+    "path": "kabupaten-pangkajene-dan-kepulauan",
+    "communityID": "9f11c712-5df6-4604-8caa-ce494738b6bc",
+    "candidates": [
+        {
+            "name": "Muhammad Yusran Lalogau",
+            "description": "H. Muhammad Yusran Lalogau, S.Pi., M.Si. (lahir 1 April 1992) adalah Bupati Pangkajene dan Kepulauan periode 2021\u20132024. Ia menjabat sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Selatan, Nurdin Abdullah di Rumah Jabatan Gubernur Sulawesi Selatan, Makassar.[1] Sebelumnya, ia menjabat sebagai Ketua DPRD Kabupaten Pangkep sejak 21 Oktober 2019 sampai akhirnya mengundurkan diri dikarenakan maju dalam Pilkada Pangkajene dan Kepulauan 2020. Ia maju didampingi Wakil Bupati Pangkajene dan Kepulauan Syahban Sammana yang diusung Partai NasDem.[2][3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/07/Muhammad_Yusran_Lalogau%2C_Bupati_Pangkajene_dan_Kepulauan.jpg",
+            "title": "Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muhammad_Yusran_Lalogau"
+            },
+            "communityID": "9f11c712-5df6-4604-8caa-ce494738b6bc"
+        },
+        {
+            "name": "Syahban Sammana",
+            "description": "H. Syahban Sammana, S.H. (lahir 10 Juni 1962) adalah Wakil Bupati Pangkajene dan Kepulauan periode 2016\u20132021 dan 2021\u20132024. Ia menjabat untuk periode kedua sejak 26 Februari 2021 setelah dilantik Gubernur Sulawesi Selatan, Nurdin Abdullah di Rumah Jabatan Gubernur Sulawesi Selatan, Makassar.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Syahban_Sammana%2C_Wakil_Bupati_Pangkajene_dan_Kepulauan.jpg",
+            "title": "Wakil Bupati",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Syahban_Sammana"
+            },
+            "communityID": "9f11c712-5df6-4604-8caa-ce494738b6bc"
+        }
+    ]
+}
