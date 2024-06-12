@@ -1,0 +1,32 @@
+{
+    "title": "Gubernur dan Wakil Gubernur Provinsi Kalimantan Utara",
+    "source": "https://id.wikipedia.org/wiki/Daftar_gubernur_dan_wakil_gubernur_di_Indonesia",
+    "region": "Kalimantan Utara",
+    "level": "PROVINSI",
+    "path": "provinsi-kalimantan-utara",
+    "communityID": "d24b6447-ccb5-4b75-bdc5-d94bbbde4ff8",
+    "candidates": [
+        {
+            "name": "Zainal Arifin Paliwang",
+            "description": "Brigjen. Pol. (Purn.) Drs. Zainal Arifin Paliwang, S.H., M.Hum. (lahir 6 Desember 1962) adalah seorang Gubernur Kalimantan Utara. Ia merupakan purnawirawan Polri yang memiliki jabatan terakhir sebagai Analis Kebijakan Utama bidang Pidum Bareskrim Polri.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gubernur_Kaltara_Zainal_Arifin_Paliwang.png",
+            "title": "Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Zainal_Arifin_Paliwang"
+            },
+            "communityID": "d24b6447-ccb5-4b75-bdc5-d94bbbde4ff8"
+        },
+        {
+            "name": "Yansen Tipa Padan",
+            "description": "Dr. Yansen Tipa Padan, M.Si. (lahir 14 Januari 1960) adalah seorang politisi Indonesia yang menjabat sebagai Wakil Gubernur Kalimantan Utara periode 2021\u20132024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/28/Wakil_Gubernur_Kaltara_Yansen_TP.png",
+            "title": "Wakil Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Yansen_Tipa_Padan"
+            },
+            "communityID": "d24b6447-ccb5-4b75-bdc5-d94bbbde4ff8"
+        }
+    ]
+}

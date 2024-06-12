@@ -1,0 +1,32 @@
+{
+    "title": "Gubernur dan Wakil Gubernur Provinsi Sulawesi Tengah",
+    "source": "https://id.wikipedia.org/wiki/Daftar_gubernur_dan_wakil_gubernur_di_Indonesia",
+    "region": "Sulawesi Tengah",
+    "level": "PROVINSI",
+    "path": "provinsi-sulawesi-tengah",
+    "communityID": "f1ebd790-0335-4172-907a-ccaac5c9101d",
+    "candidates": [
+        {
+            "name": "Rusdy Mastura",
+            "description": "H. Rusdy Mastura (lahir 8 Februari 1950) adalah Gubernur Sulawesi Tengah periode 2021\u20142024. Ia pernah menjabat sebagai Wali Kota Palu selama dua periode yakni pada tahun 2005\u20142010 dan 2010\u20142015 serta Ketua DPRD Kota Palu selama dua periode yakni 1999\u20142004 dan 2004\u20142005.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/23/Governor_of_Central_Sulawesi_Rusdi_Mastura.jpg",
+            "title": "Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Rusdy_Mastura"
+            },
+            "communityID": "f1ebd790-0335-4172-907a-ccaac5c9101d"
+        },
+        {
+            "name": "Ma'mun Amir",
+            "description": "Drs. H. Ma'mun Amir (lahir 1 November 1952) adalah Wakil Gubernur Sulawesi Tengah periode 2021\u20142024. Ia pernah menjabat sebagai Bupati Banggai periode 2006\u20142011.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ma%27mun_Amir%2C_Vice_Governor_of_Central_Sulawesi.jpg",
+            "title": "Wakil Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ma%27mun_Amir"
+            },
+            "communityID": "f1ebd790-0335-4172-907a-ccaac5c9101d"
+        }
+    ]
+}

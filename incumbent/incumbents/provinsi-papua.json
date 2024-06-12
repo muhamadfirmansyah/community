@@ -1,0 +1,21 @@
+{
+    "title": "Gubernur dan Wakil Gubernur Provinsi Papua",
+    "source": "https://id.wikipedia.org/wiki/Daftar_gubernur_dan_wakil_gubernur_di_Indonesia",
+    "region": "Papua",
+    "level": "PROVINSI",
+    "path": "provinsi-papua",
+    "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293",
+    "candidates": [
+        {
+            "name": "Ridwan Rumasukun",
+            "description": "Dr. Muhammad Ridwan Rumasukun, S.E., M.M. (lahir 14 Oktober 1964) adalah birokrat Indonesia yang sedang menjabat Penjabat Gubernur Papua. Ia juga menjabat Sekretaris Daerah Papua sejak 14 Juli 2021.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/29/Penjabat_Gubernur_Papua_Ridwan_Rumasukun_%28cropped%29.jpg",
+            "title": "Gubernur (PJ)",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ridwan_Rumasukun"
+            },
+            "communityID": "00aea57b-9204-4d48-8ed2-5a0ff5e4c293"
+        }
+    ]
+}

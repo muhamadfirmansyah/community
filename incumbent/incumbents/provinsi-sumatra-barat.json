@@ -1,0 +1,32 @@
+{
+    "title": "Gubernur dan Wakil Gubernur Provinsi Sumatra Barat",
+    "source": "https://id.wikipedia.org/wiki/Daftar_gubernur_dan_wakil_gubernur_di_Indonesia",
+    "region": "Sumatera Barat",
+    "level": "PROVINSI",
+    "path": "provinsi-sumatra-barat",
+    "communityID": "0ab290ff-2819-496d-b32f-534837cfbf47",
+    "candidates": [
+        {
+            "name": "Mahyeldi Ansharullah",
+            "description": "H. Mahyeldi Ansharullah, S.P. gelar Datuak Marajo atau juga dikenal dengan Buya Mahyeldi (lahir 25 Desember 1966) adalah mubalig dan politikus dari Partai Keadilan Sejahtera (PKS) yang saat ini menjabat sebagai Gubernur Sumatera Barat. Sebelumnya, ia merupakan Wali Kota Padang dua periode hasil pemilihan umum 2013 dan 2018. Selama kepemimpinannya, Padang meraih kemajuan di bidang infrastruktur, pariwisata, dan kebersihan.[2][3] Lewat pendekatan partisipatif, ia memimpin penataan objek wisata dan pasar tradisional yang semrawut pasca-gempa bumi 2009 tanpa menimbulkan gejolak.[4][5][6][7]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/73/Gubernur_Sumatera_Barat_Mahyeldi.jpg",
+            "title": "Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Mahyeldi"
+            },
+            "communityID": "0ab290ff-2819-496d-b32f-534837cfbf47"
+        },
+        {
+            "name": "Audy Joinaldy",
+            "description": "Dr. Ir. Audy Joinaldy, S.Pt., M.Sc., M.M., IPM, ASEAN.Eng. gelar Datuak Rajo Pasisia Alam (lahir 16 Mei 1983) adalah  pengusaha dan politikus Indonesia yang menjabat Wakil Gubernur Sumatera Barat periode 2021\u20132024 bersama Gubernur Mahyeldi Ansharullah. Semasa pemilihan umum 2020, ia dicalonkan oleh Partai Persatuan Pembangunan.[1] Selain itu, ia merupakan pimpinan dua perusahaan di Sulawesi yakni Perkasa Group yang bergerak di bidang peternakan dan Lintas Agro Group yang bergerak di bidang pertanian.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Wakil_Gubernur_Sumatera_Barat_Audy_Joinaldy.jpg/1200px-Wakil_Gubernur_Sumatera_Barat_Audy_Joinaldy.jpg",
+            "title": "Wakil Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Audy_Joinaldy"
+            },
+            "communityID": "0ab290ff-2819-496d-b32f-534837cfbf47"
+        }
+    ]
+}

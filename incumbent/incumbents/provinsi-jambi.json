@@ -1,0 +1,32 @@
+{
+    "title": "Gubernur dan Wakil Gubernur Provinsi Jambi",
+    "source": "https://id.wikipedia.org/wiki/Daftar_gubernur_dan_wakil_gubernur_di_Indonesia",
+    "region": "Jambi",
+    "level": "PROVINSI",
+    "path": "provinsi-jambi",
+    "communityID": "c4a17fbd-cb72-4921-88a1-0fff373ab127",
+    "candidates": [
+        {
+            "name": "Al Haris",
+            "description": "Dr. H. Al Haris, S.Sos., M.H. gelar Datuk Mangkubumi Setio Alam[1] (lahir 23 November 1973) adalah seorang birokrat dan politikus Indonesia. Ia merupakan Gubernur Jambi yang menjabat sejak 7 Juli 2021.[2][3] Sebelumnya, Ia pernah menjabat sebagai Bupati Merangin dua periode sejak 2013 hingga 2021.[4][5] Saat ini, Haris resmi dilantik sebagai Ketua Umum APPSI (Asosiasi Pemerintah Provinsi Seluruh Indonesia) 2023\u20132024, pada 2 Oktober 2023. Serah terima jabatan Ketua APPSI juga dihadiri langsung oleh, Menteri Dalam Negeri, Tito Karnavian selaku pembina APPSI.[6][7]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gubernur_Jambi_Al_Haris.jpg",
+            "title": "Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Al_Haris"
+            },
+            "communityID": "c4a17fbd-cb72-4921-88a1-0fff373ab127"
+        },
+        {
+            "name": "Abdullah Sani",
+            "description": "Drs. H. Abdullah Sani, M.Pd.I. gelar Paduko Agungmulyo Agamo[1] (lahir 8 September 1956) adalah mubalig dan politikus yang menjabat sebagai Wakil Gubernur Jambi periode 2021\u20132024. Ia merupakan wakil dari Gubernur Jambi, Al Haris.[2] Sebelumnya, Sani pernah menjabat sebagai Wakil Wali Kota Jambi periode 2013\u20132018.[3]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Wagub_Jambi_Abdullah_Sani.jpg",
+            "title": "Wakil Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Abdullah_Sani"
+            },
+            "communityID": "c4a17fbd-cb72-4921-88a1-0fff373ab127"
+        }
+    ]
+}

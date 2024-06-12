@@ -1,0 +1,32 @@
+{
+    "title": "Gubernur dan Wakil Gubernur Provinsi Kepulauan Riau",
+    "source": "https://id.wikipedia.org/wiki/Daftar_gubernur_dan_wakil_gubernur_di_Indonesia",
+    "region": "Kepulauan Riau",
+    "level": "PROVINSI",
+    "path": "provinsi-kepulauan-riau",
+    "communityID": "61aff090-ed3f-4d73-8d8c-e00e8869a6a9",
+    "candidates": [
+        {
+            "name": "Ansar Ahmad",
+            "description": "H. Ansar Ahmad S.E., M.M. gelar Datok Setiabijaya Mahkotanegeri[1] (lahir 10 April 1964) adalah politikus Indonesia yang saat ini menjabat sebagai Gubernur Kepulauan Riau sejak 25 Februari 2021. Sebelumnya, Ia pernah menjabat sebagai anggota DPR RI periode 2019\u20132024 sebelum mundur pada tahun 2020 dan Bupati Bintan selama dua periode sejak 2005 hingga 2015.[2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gub_Kepulauan_Riau_Ansar_Ahmad.jpg/1200px-Gub_Kepulauan_Riau_Ansar_Ahmad.jpg",
+            "title": "Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Ansar_Ahmad_(politikus_Indonesia)"
+            },
+            "communityID": "61aff090-ed3f-4d73-8d8c-e00e8869a6a9"
+        },
+        {
+            "name": "Marlin Agustina",
+            "description": "Marlin Agustina Nasution,[1] S.E., S.H. (lahir 15 Agustus 1971) adalah seorang politikus Indonesia dari Partai Gerindra[2] yang menjabat sebagai Wakil Gubernur Kepulauan Riau sejak 25 Februari 2021. Ia merupakan istri Muhammad Rudi yang kini menjabat Wali Kota Batam.[3] \n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Marlin_Agustina%2C_Wakil_Gubernur_Kepulauan_Riau_%282021%29.jpg/1200px-Marlin_Agustina%2C_Wakil_Gubernur_Kepulauan_Riau_%282021%29.jpg",
+            "title": "Wakil Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Marlin_Agustina"
+            },
+            "communityID": "61aff090-ed3f-4d73-8d8c-e00e8869a6a9"
+        }
+    ]
+}

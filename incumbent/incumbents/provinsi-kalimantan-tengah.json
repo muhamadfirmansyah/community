@@ -1,0 +1,32 @@
+{
+    "title": "Gubernur dan Wakil Gubernur Provinsi Kalimantan Tengah",
+    "source": "https://id.wikipedia.org/wiki/Daftar_gubernur_dan_wakil_gubernur_di_Indonesia",
+    "region": "Kalimantan Tengah",
+    "level": "PROVINSI",
+    "path": "provinsi-kalimantan-tengah",
+    "communityID": "7c622d77-5aa4-4089-91aa-30b82afe49db",
+    "candidates": [
+        {
+            "name": "Sugianto Sabran",
+            "description": "H. Sugianto Sabran, S.IP. atau dikenal juga dengan nama Yusuf Sugianto (lahir 5 Juli 1973) adalah Gubernur Kalimantan Tengah sejak 25 Mei 2016. Ia menggantikan penjabat gubernur Hadi Prabowo dan gubernur sebelumnya, Agustin Teras Narang setelah terpilih dalam pemilihan umum tahun 2016, dan berpasangan dengan Wakil Gubernur Habib Said Ismail.[1]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/7/70/Sugianto_Sabran%2C_Gubernur_Kalimantan_Tengah_%28Periode_II%29.png",
+            "title": "Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sugianto_Sabran"
+            },
+            "communityID": "7c622d77-5aa4-4089-91aa-30b82afe49db"
+        },
+        {
+            "name": "Edy Pratowo",
+            "description": "H. Edy Pratowo, S.Sos., M.M. (lahir 9 Desember 1969)[1] adalah Wakil Gubernur Kalimantan Tengah periode 2021\u20142024. Sebelumnya ia menjabat sebagai Bupati Pulang Pisau 2 periode yakni 2013\u20142018 dan 2018\u20142021.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Edy_Prawoto%2C_Wakil_Gubernur_Kalimantan_Tengah.png",
+            "title": "Wakil Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Edy_Pratowo"
+            },
+            "communityID": "7c622d77-5aa4-4089-91aa-30b82afe49db"
+        }
+    ]
+}

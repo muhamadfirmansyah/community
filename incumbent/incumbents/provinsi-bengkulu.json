@@ -1,0 +1,32 @@
+{
+    "title": "Gubernur dan Wakil Gubernur Provinsi Bengkulu",
+    "source": "https://id.wikipedia.org/wiki/Daftar_gubernur_dan_wakil_gubernur_di_Indonesia",
+    "region": "Bengkulu",
+    "level": "PROVINSI",
+    "path": "provinsi-bengkulu",
+    "communityID": "d9779c62-5f21-4899-880a-fd5e77203ceb",
+    "candidates": [
+        {
+            "name": "Rohidin Mersyah",
+            "description": "Prof. Dr. drh. H. Rohidin Mersyah, MMA. gelar Rajo Agung II[1] (lahir 9 Januari 1970) adalah Gubernur Bengkulu dua periode 2018\u20132021 dan 2021\u20132024. Sebelumnya, Ia pernah menjabat sebagai Wakil Gubernur Bengkulu periode 2016\u20132017 dan Wakil Bupati Bengkulu Selatan periode 2010\u20132015.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/6/68/Gubernur_Bengkulu_Rohidin_Mersyah_%28Periode_II%29.jpg",
+            "title": "Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Rohidin_Mersyah"
+            },
+            "communityID": "d9779c62-5f21-4899-880a-fd5e77203ceb"
+        },
+        {
+            "name": "Rosjonsyah Syahili",
+            "description": "Dr. H. Rosjonsyah Syahili Sibarani, S.I.P., M.Si.[1] (lahir 18 Februari 1964) adalah Wakil Gubernur Bengkulu periode 2021\u20132024\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Wakil_Gubernur_Bengkulu_Rosjonsyah.jpg",
+            "title": "Wakil Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Rosjonsyah_Syahili"
+            },
+            "communityID": "d9779c62-5f21-4899-880a-fd5e77203ceb"
+        }
+    ]
+}

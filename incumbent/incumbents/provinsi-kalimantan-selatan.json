@@ -1,0 +1,32 @@
+{
+    "title": "Gubernur dan Wakil Gubernur Provinsi Kalimantan Selatan",
+    "source": "https://id.wikipedia.org/wiki/Daftar_gubernur_dan_wakil_gubernur_di_Indonesia",
+    "region": "Kalimantan Selatan",
+    "level": "PROVINSI",
+    "path": "provinsi-kalimantan-selatan",
+    "communityID": "6778e767-61db-4aac-86e4-799a22197dcb",
+    "candidates": [
+        {
+            "name": "Sahbirin Noor",
+            "description": "Dr. (H.C.) H. Sahbirin Noor, S.Sos., M.H. (lahir 12 November 1967) adalah seorang birokrat dan politikus Indonesia. Saat ini ia menjabat sebagai Gubernur Kalimantan Selatan sejak 2016.[1][2]\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Gubernur_Kalimantan_Selatan_Sahbirin_Noor.jpg",
+            "title": "Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Sahbirin_Noor"
+            },
+            "communityID": "6778e767-61db-4aac-86e4-799a22197dcb"
+        },
+        {
+            "name": "Muhidin",
+            "description": "H. Muhidin, S.E., S.H., M.M. (lahir 6 Mei 1958) adalah Wakil Gubernur Kalimantan Selatan periode 2021\u20142024.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Muhidin%2CH-vice-goverment-of-south-kalimantan.idn.jpg/1200px-Muhidin%2CH-vice-goverment-of-south-kalimantan.idn.jpg",
+            "title": "Wakil Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Muhidin"
+            },
+            "communityID": "6778e767-61db-4aac-86e4-799a22197dcb"
+        }
+    ]
+}

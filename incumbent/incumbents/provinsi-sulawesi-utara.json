@@ -1,0 +1,32 @@
+{
+    "title": "Gubernur dan Wakil Gubernur Provinsi Sulawesi Utara",
+    "source": "https://id.wikipedia.org/wiki/Daftar_gubernur_dan_wakil_gubernur_di_Indonesia",
+    "region": "Sulawesi Utara",
+    "level": "PROVINSI",
+    "path": "provinsi-sulawesi-utara",
+    "communityID": "e0336c43-d09a-4fb0-a801-9bbfb1eaec92",
+    "candidates": [
+        {
+            "name": "Olly Dondokambey",
+            "description": "Dr. (H.C.) Olly Dondokambey, S.E. (lahir 18 November 1961) adalah Gubernur Sulawesi Utara yang menjabat sejak 12 Februari 2016. Pada tahun 2004 ia memutuskan untuk menjadi calon legislatif dari PDI Perjuangan dari Sulawesi Utara. Sosok Olly rupanya dipercaya oleh para pemilih di Bumi Nyiur Melambai dan ia pun lolos ke DPR periode 2004-2009. Saat itu dia dipercaya menjadi anggota Komisi XI. Satu tahun menjadi anggota dewan, ia dipercaya menjabat Wakil Ketua Komisi XI.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/4/45/Gubernur_Sulawesi_Utara_Olly_Dondokambey_%28Periode_II%29.png",
+            "title": "Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Olly_Dondokambey"
+            },
+            "communityID": "e0336c43-d09a-4fb0-a801-9bbfb1eaec92"
+        },
+        {
+            "name": "Steven Kandouw",
+            "description": "Drs. Steven Octavianus Estefanus Kandouw (lahir 5 September 1969) adalah Wakil Gubernur Sulawesi Utara sejak 12 Februari 2016. Sebelumnya ia menjabat sebagai Anggota DPRD Sulawesi Utara sejak 2004 sampai 2015.\n",
+            "profilePic": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Wagub_Sulawesi_Utara_Steven_Kandouw_%28Periode_II%29.png",
+            "title": "Wakil Gubernur",
+            "sites": {
+                "name": "Wikipedia",
+                "url": "https://id.wikipedia.org/wiki/Steven_Kandouw"
+            },
+            "communityID": "e0336c43-d09a-4fb0-a801-9bbfb1eaec92"
+        }
+    ]
+}
